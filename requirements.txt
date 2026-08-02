@@ -1,0 +1,5 @@
+python-dotenv
+uv
+pylint
+crawl4ai
+pytest

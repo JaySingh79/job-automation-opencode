@@ -1,0 +1,73 @@
+{
+  "credentials": {
+    "workday": {
+      "email": "you@example.com",
+      "password": "YOUR_WORKDAY_PASSWORD"
+    }
+  },
+  "personal_information": {
+    "first_name": "FIRST",
+    "last_name": "LAST",
+    "email": "you@example.com",
+    "phone": "+00-0000000000",
+    "address_line_1": "STREET ADDRESS",
+    "city": "CITY",
+    "state": "STATE",
+    "postal_code": "000000",
+    "country": "COUNTRY",
+    "linkedin": "https://linkedin.com/in/your-handle/",
+    "github": "https://github.com/your-handle"
+  },
+  "screening_answers": {
+    "work_authorization_sponsorship": "No",
+    "notice_period": "Immediate",
+    "earliest_start_date": "YYYY-MM-DD",
+    "source": "LinkedIn",
+    "_work_authorization_sponsorship_NOTE": "AMBIGUOUS — 'Yes' reads either as 'I am authorized' or 'I need sponsorship'. Opposite meanings, opposite outcomes. preflight.py (G8) blocks any run until this is confirmed against the job's country."
+  },
+  "education": [
+    {
+      "institution": "UNIVERSITY NAME",
+      "degree": "DEGREE",
+      "field_of_study": "FIELD OF STUDY",
+      "graduation_date": "Month YYYY",
+      "coursework": "Comma-separated list of relevant coursework."
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "COMPANY NAME",
+      "title": "JOB TITLE",
+      "dates": "Mon YYYY - Mon YYYY",
+      "location": "CITY, COUNTRY",
+      "bullets": [
+        "One achievement bullet per entry, as it should appear on the application.",
+        "Add as many bullets as the role warrants."
+      ]
+    }
+  ],
+  "resume_file_path": "C:\\path\\to\\your\\resume.pdf",
+  "unseen_fields_encountered": [
+    {
+      "aid": "formField-exampleFieldId",
+      "label": "The question text exactly as the ATS rendered it",
+      "value": "The answer that was filled in",
+      "confidence": "high",
+      "reasoning": "Why this answer was chosen, for later human audit.",
+      "needs_human": false,
+      "escalated": false
+    }
+  ],
+  "application_log": [
+    {
+      "company": "COMPANY NAME",
+      "requisition": "000000",
+      "role": "ROLE TITLE",
+      "ats": "Workday example.wd5.myworkdayjobs.com/EXT",
+      "submitted": false,
+      "submitted_date": "YYYY-MM-DD",
+      "status": "Draft",
+      "note": "Free-text notes about how this particular run went."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+.firecrawl/
+.venv/
+node_modules/
+.env
+*.b64
+resume_url.txt
+__pycache__/
+*.pyc
+firecrawl_usage_log.json
+guards.json
+runs/*.local.json
+# personal data / PII - never commit
+user_profile.json
+*.pdf
+.pytest_cache/
