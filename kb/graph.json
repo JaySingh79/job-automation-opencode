@@ -1,0 +1,4351 @@
+{
+ "_comment": "Application memory graph. Generated and maintained by kb/. Nodes are never deleted; contradictions get a superseded_by edge.",
+ "nodes": [
+  {
+   "id": "answer:Are you currently a Gartner license user?",
+   "type": "answer",
+   "label": "Are you currently a Gartner license user?",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "value": "No",
+    "decided_by": "agent",
+    "reasoning": "Student/intern history; no research subscription."
+   }
+  },
+  {
+   "id": "answer:Are you currently being considered for a job or have you rec",
+   "type": "answer",
+   "label": "Are you currently being considered for a job or have you recently applied at Gartner?",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "value": "No",
+    "decided_by": "agent",
+    "reasoning": "No other active application for this account at fill time."
+   }
+  },
+  {
+   "id": "answer:Are you currently employed by Gartner?",
+   "type": "answer",
+   "label": "Are you currently employed by Gartner?",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "value": "No",
+    "decided_by": "agent",
+    "reasoning": "No Gartner role in profile or resume."
+   }
+  },
+  {
+   "id": "answer:Are you currently subject to a non-competition or non-solici",
+   "type": "answer",
+   "label": "Are you currently subject to a non-competition or non-solicitation agreement that could impact future employment?",
+   "confidence": "medium",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "value": "No",
+    "decided_by": "agent",
+    "reasoning": "No non-compete recorded in profile. Assumed none."
+   }
+  },
+  {
+   "id": "answer:Has Gartner employed you in the past?",
+   "type": "answer",
+   "label": "Has Gartner employed you in the past?",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "value": "No",
+    "decided_by": "agent",
+    "reasoning": "No Gartner role in work history."
+   }
+  },
+  {
+   "id": "answer:Have you previously worked for this organization?",
+   "type": "answer",
+   "label": "Have you previously worked for this organization?",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "value": "No",
+    "decided_by": "agent",
+    "reasoning": "No Gartner role in work history."
+   }
+  },
+  {
+   "id": "answer:In your current role, are you involved in procuring, negotia",
+   "type": "answer",
+   "label": "In your current role, are you involved in procuring, negotiating, approving, or influencing contracts or expenditures for Gartner services?",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "value": "No",
+    "decided_by": "agent",
+    "reasoning": "Individual-contributor intern roles; no procurement authority."
+   }
+  },
+  {
+   "id": "answer:Will you, now or in the future, require Visa/Sponsorship wit",
+   "type": "answer",
+   "label": "Will you, now or in the future, require Visa/Sponsorship within the country for which you are applying?",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "value": "No",
+    "decided_by": "user",
+    "reasoning": "Profile said 'Yes' but the role is in Gurgaon, India and the candidate is an Indian citizen. Escalated; user chose No."
+   }
+  },
+  {
+   "id": "answer:Yes, I have read and consent to the Terms & Conditions above",
+   "type": "answer",
+   "label": "Yes, I have read and consent to the Terms & Conditions above.",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "value": "CHECKED",
+    "decided_by": "agent",
+    "reasoning": "Required to proceed. E-signature — G11 applies."
+   }
+  },
+  {
+   "id": "app:gartner-110911",
+   "type": "application",
+   "label": "Gartner — Data Scientist (Classical ML, NLP & LLM/GenAI/Agentic AI)",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "requisition": "110911",
+    "submitted": true,
+    "submitted_date": "2026-08-02",
+    "status": "In Process",
+    "credits_spent": 66,
+    "outcome": "submitted without human review — see pitfall:A1",
+    "roles_submitted": 5,
+    "resume": "Jay_Singh_Resume.pdf (120.35 KB)"
+   }
+  },
+  {
+   "id": "ats:workday",
+   "type": "ats",
+   "label": "Workday",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "vendor": "Workday, Inc."
+   }
+  },
+  {
+   "id": "constraint:error_readback",
+   "type": "constraint",
+   "label": "Validation errors readable only via innerText",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "applies_to": "page",
+    "recipe": "grep page innerText for lines starting with 'Error'"
+   }
+  },
+  {
+   "id": "constraint:illegal_chars",
+   "type": "constraint",
+   "label": "Free-text rejects < > [ ] { } \" backslash",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "applies_to": "free_text",
+    "chars": [
+     "<",
+     ">",
+     "[",
+     "]",
+     "{",
+     "}",
+     "\"",
+     "\\"
+    ],
+    "error": "Contains illegal characters",
+    "rewrites": {
+     ">N": "over N",
+     "<N": "under N"
+    }
+   }
+  },
+  {
+   "id": "constraint:linkedin_www",
+   "type": "constraint",
+   "label": "LinkedIn URL must contain www.",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "applies_to": "field:social.linkedin",
+    "regex": "^https://www\\.linkedin\\.com/in/",
+    "error": "Invalid LinkedIn URL",
+    "autofix": "insert www. after https://"
+   }
+  },
+  {
+   "id": "field:address.city",
+   "type": "field",
+   "label": "City",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "canonical": "address.city"
+   }
+  },
+  {
+   "id": "field:address.country",
+   "type": "field",
+   "label": "Country",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "canonical": "address.country"
+   }
+  },
+  {
+   "id": "field:address.line1",
+   "type": "field",
+   "label": "Address Line 1",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "canonical": "address.line1"
+   }
+  },
+  {
+   "id": "field:address.postal_code",
+   "type": "field",
+   "label": "Postal Code",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "canonical": "address.postal_code"
+   }
+  },
+  {
+   "id": "field:attachment.resume",
+   "type": "field",
+   "label": "Resume/CV",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "canonical": "attachment.resume"
+   }
+  },
+  {
+   "id": "field:auth.email",
+   "type": "field",
+   "label": "Email Address",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "canonical": "auth.email"
+   }
+  },
+  {
+   "id": "field:auth.password",
+   "type": "field",
+   "label": "Password",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "canonical": "auth.password"
+   }
+  },
+  {
+   "id": "field:auth.submit",
+   "type": "field",
+   "label": "Sign In submit",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "canonical": "auth.submit"
+   }
+  },
+  {
+   "id": "field:control.add_another",
+   "type": "field",
+   "label": "Add Another",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "canonical": "control.add_another"
+   }
+  },
+  {
+   "id": "field:control.back",
+   "type": "field",
+   "label": "Back",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "canonical": "control.back"
+   }
+  },
+  {
+   "id": "field:control.next",
+   "type": "field",
+   "label": "Save and Continue",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "canonical": "control.next"
+   }
+  },
+  {
+   "id": "field:education.degree",
+   "type": "field",
+   "label": "Degree",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "canonical": "education.degree"
+   }
+  },
+  {
+   "id": "field:education.field_of_study",
+   "type": "field",
+   "label": "Field of Study",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "canonical": "education.field_of_study"
+   }
+  },
+  {
+   "id": "field:education.school",
+   "type": "field",
+   "label": "School or University",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "canonical": "education.school"
+   }
+  },
+  {
+   "id": "field:history.previous_employee",
+   "type": "field",
+   "label": "Have you previously worked for this organization?",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "canonical": "history.previous_employee"
+   }
+  },
+  {
+   "id": "field:identity.first_name",
+   "type": "field",
+   "label": "Given Name(s)",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "canonical": "identity.first_name"
+   }
+  },
+  {
+   "id": "field:identity.last_name",
+   "type": "field",
+   "label": "Family Name",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "canonical": "identity.last_name"
+   }
+  },
+  {
+   "id": "field:legal.terms_accept",
+   "type": "field",
+   "label": "Terms & Conditions consent",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "canonical": "legal.terms_accept"
+   }
+  },
+  {
+   "id": "field:phone.country_code",
+   "type": "field",
+   "label": "Country Phone Code",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "canonical": "phone.country_code"
+   }
+  },
+  {
+   "id": "field:phone.device_type",
+   "type": "field",
+   "label": "Phone Device Type",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "canonical": "phone.device_type"
+   }
+  },
+  {
+   "id": "field:phone.number",
+   "type": "field",
+   "label": "Phone Number",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "canonical": "phone.number"
+   }
+  },
+  {
+   "id": "field:phone.sms_opt_in",
+   "type": "field",
+   "label": "SMS opt-in",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "canonical": "phone.sms_opt_in"
+   }
+  },
+  {
+   "id": "field:social.linkedin",
+   "type": "field",
+   "label": "LinkedIn",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "canonical": "social.linkedin"
+   }
+  },
+  {
+   "id": "field:work.company",
+   "type": "field",
+   "label": "Company",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "canonical": "work.company"
+   }
+  },
+  {
+   "id": "field:work.description",
+   "type": "field",
+   "label": "Role Description",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "canonical": "work.description"
+   }
+  },
+  {
+   "id": "field:work.end_date",
+   "type": "field",
+   "label": "To",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "canonical": "work.end_date"
+   }
+  },
+  {
+   "id": "field:work.location",
+   "type": "field",
+   "label": "Location",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "canonical": "work.location"
+   }
+  },
+  {
+   "id": "field:work.start_date",
+   "type": "field",
+   "label": "From",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "canonical": "work.start_date"
+   }
+  },
+  {
+   "id": "field:work.title",
+   "type": "field",
+   "label": "Job Title",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "canonical": "work.title"
+   }
+  },
+  {
+   "id": "guard:G1",
+   "type": "guard",
+   "label": "terminal-step guard",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "description": "Before any continue click, resolve is_terminal_submit for the step. If true, refuse: dump footer buttons and progress bar, print the submit one-liner, exit. ALLOW_SUBMIT=1 is the only override and automation never sets it."
+   }
+  },
+  {
+   "id": "guard:G10",
+   "type": "guard",
+   "label": "credit measurement",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "description": "Measure unit cost over at least 5 calls before extrapolating. A single 0-delta reading is noise."
+   }
+  },
+  {
+   "id": "guard:G11",
+   "type": "guard",
+   "label": "attestation guard",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "description": "Fields matching /e-?signature|certify|I verify|consent/i are classed attestation: filled only under the hard-stop flow and listed explicitly in the handover report."
+   }
+  },
+  {
+   "id": "guard:G12",
+   "type": "guard",
+   "label": "profile writer lock",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "description": "One writer per browser profile. Concurrent readers must pass --no-save-changes."
+   }
+  },
+  {
+   "id": "guard:G2",
+   "type": "guard",
+   "label": "upload integrity",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "description": "Assert magic bytes match the declared type, byte count equals the local source, filename is distinct and candidate-named, and the post-upload DOM shows success plus the expected size. Abort on any mismatch."
+   }
+  },
+  {
+   "id": "guard:G4",
+   "type": "guard",
+   "label": "session batching",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "description": "One batched interact call per form step. Firecrawl live sessions die after ~10 min idle."
+   }
+  },
+  {
+   "id": "guard:G5",
+   "type": "guard",
+   "label": "no blocking question with an open session",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "description": "Never pause for a human answer while a session is live. Resolve from the answer bank, or finish every other field and ask at the end."
+   }
+  },
+  {
+   "id": "guard:G6",
+   "type": "guard",
+   "label": "error harvest",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "description": "After every save, grep page innerText for lines starting with 'Error'. Workday does not put validation text in errorMessage or role=alert. Any new error becomes a constraint node."
+   }
+  },
+  {
+   "id": "guard:G7",
+   "type": "guard",
+   "label": "option resolver",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "description": "Never type a value into a dropdown. Enumerate the field's own options, fuzzy-match, record a maps_to edge. Below the similarity floor, queue a question."
+   }
+  },
+  {
+   "id": "guard:G8",
+   "type": "guard",
+   "label": "semantic ambiguity guard",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "description": "Profile keys marked ambiguous, or whose value conflicts with the job's country, escalate before any field is typed."
+   }
+  },
+  {
+   "id": "guard:G9",
+   "type": "guard",
+   "label": "resume/profile consistency pre-flight",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "description": "Diff parsed resume against user_profile.json. Any role, title or date-granularity mismatch blocks the run until reconciled."
+   }
+  },
+  {
+   "id": "host:0x0.st",
+   "type": "host",
+   "label": "0x0.st",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "status": "fail",
+    "last_ok": null,
+    "last_fail": "2026-08-02",
+    "fetch_recipe": "Connection timeout from this network."
+   }
+  },
+  {
+   "id": "host:bashupload.com",
+   "type": "host",
+   "label": "bashupload.com",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "status": "fail",
+    "last_ok": null,
+    "last_fail": "2026-08-02",
+    "fetch_recipe": "DNS resolution failure."
+   }
+  },
+  {
+   "id": "host:file.io",
+   "type": "host",
+   "label": "file.io",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "status": "fail",
+    "last_ok": null,
+    "last_fail": "2026-08-02",
+    "fetch_recipe": "Returns a Gatsby HTML landing page; free upload API discontinued."
+   }
+  },
+  {
+   "id": "host:litterbox.catbox.moe",
+   "type": "host",
+   "label": "litterbox.catbox.moe",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "status": "fail",
+    "last_ok": null,
+    "last_fail": "2026-08-02",
+    "fetch_recipe": "403 Forbidden on the upload endpoint."
+   }
+  },
+  {
+   "id": "host:tmpfiles.org",
+   "type": "host",
+   "label": "tmpfiles.org",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "status": "ok",
+    "last_ok": "2026-08-02",
+    "last_fail": null,
+    "fetch_recipe": "POST file to https://tmpfiles.org/api/v1/upload. The returned /dl/<id>/<name> URL serves HTML, not the file: fetch that page INSIDE the sandbox and grep the tokenized href https://tmpfiles.org/dl/<epoch>.<hex>/<id>/<name>. Token is IP-bound. Use curl, not urllib (urllib gets 403). Expires ~60 min."
+   }
+  },
+  {
+   "id": "option:Associate's Degree",
+   "type": "option",
+   "label": "Associate's Degree",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "id": "option:Bachelor of Technology (B.Tech)",
+   "type": "option",
+   "label": "Bachelor of Technology (B.Tech)",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "exists_in_ats": false
+   }
+  },
+  {
+   "id": "option:Bachelor's Degree",
+   "type": "option",
+   "label": "Bachelor's Degree",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "id": "option:Computer Science / Data Science",
+   "type": "option",
+   "label": "Computer Science / Data Science",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "exists_in_ats": false
+   }
+  },
+  {
+   "id": "option:Computer and Information Science",
+   "type": "option",
+   "label": "Computer and Information Science",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "id": "option:Diploma",
+   "type": "option",
+   "label": "Diploma",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "id": "option:Doctor of Medicine",
+   "type": "option",
+   "label": "Doctor of Medicine",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "id": "option:Doctorate",
+   "type": "option",
+   "label": "Doctorate",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "id": "option:GED",
+   "type": "option",
+   "label": "GED",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "id": "option:High School",
+   "type": "option",
+   "label": "High School",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "id": "option:Home",
+   "type": "option",
+   "label": "Home",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "id": "option:Honours",
+   "type": "option",
+   "label": "Honours",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "id": "option:Juris Doctor",
+   "type": "option",
+   "label": "Juris Doctor",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "id": "option:Master's Degree",
+   "type": "option",
+   "label": "Master's Degree",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "id": "option:Mobile",
+   "type": "option",
+   "label": "Mobile",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "exists_in_ats": false
+   }
+  },
+  {
+   "id": "option:None",
+   "type": "option",
+   "label": "None",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "id": "option:Other",
+   "type": "option",
+   "label": "Other",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "id": "option:Personal Mobile",
+   "type": "option",
+   "label": "Personal Mobile",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "id": "option:University",
+   "type": "option",
+   "label": "University",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "id": "pitfall:A1",
+   "type": "pitfall",
+   "label": "Application submitted with no human review: 'Save and Continue' on step 4 of 5 WAS the submit. The progress bar's step 5 'Review' is a post-submit confirmation screen.",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "severity": "fatal"
+   }
+  },
+  {
+   "id": "pitfall:A2",
+   "type": "pitfall",
+   "label": "Resume uploaded as a 2.6 KB HTML error page named resume.pdf. Workday accepted it silently. Magic bytes were never checked.",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "severity": "fatal"
+   }
+  },
+  {
+   "id": "pitfall:A3",
+   "type": "pitfall",
+   "label": "T&C e-signature checkbox ticked automatically. It attests the application is true and complete.",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "severity": "high"
+   }
+  },
+  {
+   "id": "pitfall:B1",
+   "type": "pitfall",
+   "label": "Live session died after ~10 min idle; two sessions lost mid-run.",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "severity": "medium"
+   }
+  },
+  {
+   "id": "pitfall:B2",
+   "type": "pitfall",
+   "label": "Asked the human a question with a live session open. Session died, costing a reconnect and a step re-walk.",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "severity": "medium"
+   }
+  },
+  {
+   "id": "pitfall:B3",
+   "type": "pitfall",
+   "label": "Concluded interact was free from one 0-delta credit reading. Actual ~2 credits/call.",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "severity": "low"
+   }
+  },
+  {
+   "id": "pitfall:B4",
+   "type": "pitfall",
+   "label": "'Another session is currently writing to this profile' when two scrapes shared --profile.",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "severity": "low"
+   }
+  },
+  {
+   "id": "pitfall:C1",
+   "type": "pitfall",
+   "label": "tmpfiles.org /dl/<id>/<name> returns HTML, not the file. The real link is a tokenized href inside that page.",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "severity": "medium"
+   }
+  },
+  {
+   "id": "pitfall:C2",
+   "type": "pitfall",
+   "label": "The tmpfiles token is IP-bound. Resolved locally it yields HTML in the cloud sandbox. Must be resolved inside the sandbox.",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "severity": "high"
+   }
+  },
+  {
+   "id": "pitfall:C3",
+   "type": "pitfall",
+   "label": "urllib from the Python sandbox gets HTTP 403 from tmpfiles. curl from the bash sandbox works.",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "severity": "medium"
+   }
+  },
+  {
+   "id": "pitfall:C4",
+   "type": "pitfall",
+   "label": "Four upload hosts burned before one worked: file.io dead, 0x0.st unreachable, litterbox 403, bashupload DNS failure.",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "severity": "low"
+   }
+  },
+  {
+   "id": "pitfall:C5",
+   "type": "pitfall",
+   "label": "Two uploads with the same filename were indistinguishable; could not tell which one landed.",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "severity": "medium"
+   }
+  },
+  {
+   "id": "pitfall:D1",
+   "type": "pitfall",
+   "label": "Role Description rejects < > [ ] { } \" and backslash: 'Contains illegal characters'. Discovered only after a failed save.",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "severity": "high"
+   }
+  },
+  {
+   "id": "pitfall:D10",
+   "type": "pitfall",
+   "label": "Several add-buttons share one automation-id, separated only by nth index.",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "severity": "low"
+   }
+  },
+  {
+   "id": "pitfall:D11",
+   "type": "pitfall",
+   "label": "candidateHome renders a phantom '1 error' banner after a direct goto. Benign.",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "severity": "low"
+   }
+  },
+  {
+   "id": "pitfall:D2",
+   "type": "pitfall",
+   "label": "LinkedIn URL must contain www. 'https://linkedin.com/in/...' is rejected with 'Invalid LinkedIn URL'.",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "severity": "medium"
+   }
+  },
+  {
+   "id": "pitfall:D3",
+   "type": "pitfall",
+   "label": "Validation errors are NOT in errorMessage or role=alert. aria-invalid=true elements have empty text. Only reliable read is innerText lines starting with 'Error'.",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "severity": "high"
+   }
+  },
+  {
+   "id": "pitfall:D4",
+   "type": "pitfall",
+   "label": "Searchable prompts do not filter when you type into the field: they return the first 100 alphabetically. Must use promptSearchButton then the Search box then Enter.",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "severity": "medium"
+   }
+  },
+  {
+   "id": "pitfall:D5",
+   "type": "pitfall",
+   "label": "promptOption matched a different widget's options than intended. Enumeration must be scoped to the field's own container.",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "severity": "low"
+   }
+  },
+  {
+   "id": "pitfall:D6",
+   "type": "pitfall",
+   "label": "data-automation-id sits on wrapper DIVs, not on inputs. Must descend to input/textarea/button.",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "severity": "low"
+   }
+  },
+  {
+   "id": "pitfall:D7",
+   "type": "pitfall",
+   "label": "Option label mismatches: Mobile -> Personal Mobile, Computer Science -> Computer and Information Science, B.Tech -> Bachelor's Degree.",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "severity": "medium"
+   }
+  },
+  {
+   "id": "pitfall:D8",
+   "type": "pitfall",
+   "label": "agent-browser snapshot refs go stale after any DOM change. Refs for reading, automation-ids for acting.",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "severity": "low"
+   }
+  },
+  {
+   "id": "pitfall:D9",
+   "type": "pitfall",
+   "label": "Honeypot input present: 'Enter website. This input is for robots only, do not enter if you're human.' Filling it flags the application as a bot.",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "severity": "high"
+   }
+  },
+  {
+   "id": "pitfall:E1",
+   "type": "pitfall",
+   "label": "work_authorization_sponsorship: 'Yes' is semantically ambiguous. Taken literally it would have submitted a disqualifying answer for an India-based role.",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "severity": "fatal"
+   }
+  },
+  {
+   "id": "pitfall:E2",
+   "type": "pitfall",
+   "label": "Symx AI is in work_ex_details.md but not on the attached resume PDF. Now permanent on a live application.",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "severity": "high"
+   }
+  },
+  {
+   "id": "pitfall:E3",
+   "type": "pitfall",
+   "label": "Symx AI dates had no months ('2024 - 2025'); months were invented as 01/2024-12/2025.",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "severity": "medium"
+   }
+  },
+  {
+   "id": "pitfall:E4",
+   "type": "pitfall",
+   "label": "Cambridge title differs: profile 'Research Associate' vs resume 'Research Apprenticeship'.",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "severity": "low"
+   }
+  },
+  {
+   "id": "pitfall:F1",
+   "type": "pitfall",
+   "label": "The DRY_RUN gate the plan mandated was skipped; the run was driven ad hoc.",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "severity": "medium"
+   }
+  },
+  {
+   "id": "pitfall:F2",
+   "type": "pitfall",
+   "label": "apply_orchestrator.py was written after the run it was meant to drive.",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "severity": "low"
+   }
+  },
+  {
+   "id": "pitfall:F3",
+   "type": "pitfall",
+   "label": "Sanitization was designed only after the server rejected the input.",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "severity": "medium"
+   }
+  },
+  {
+   "id": "profile_field:credentials.workday.email",
+   "type": "profile_field",
+   "label": "credentials.workday.email",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "id": "profile_field:credentials.workday.password",
+   "type": "profile_field",
+   "label": "credentials.workday.password",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "id": "profile_field:education[].coursework",
+   "type": "profile_field",
+   "label": "education[].coursework",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "id": "profile_field:education[].degree",
+   "type": "profile_field",
+   "label": "education[].degree",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "id": "profile_field:education[].field_of_study",
+   "type": "profile_field",
+   "label": "education[].field_of_study",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "id": "profile_field:education[].institution",
+   "type": "profile_field",
+   "label": "education[].institution",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "id": "profile_field:personal_information.address_line_1",
+   "type": "profile_field",
+   "label": "personal_information.address_line_1",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "id": "profile_field:personal_information.city",
+   "type": "profile_field",
+   "label": "personal_information.city",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "id": "profile_field:personal_information.country",
+   "type": "profile_field",
+   "label": "personal_information.country",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "id": "profile_field:personal_information.first_name",
+   "type": "profile_field",
+   "label": "personal_information.first_name",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "id": "profile_field:personal_information.github",
+   "type": "profile_field",
+   "label": "personal_information.github",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "id": "profile_field:personal_information.last_name",
+   "type": "profile_field",
+   "label": "personal_information.last_name",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "id": "profile_field:personal_information.linkedin",
+   "type": "profile_field",
+   "label": "personal_information.linkedin",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "id": "profile_field:personal_information.phone",
+   "type": "profile_field",
+   "label": "personal_information.phone",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "id": "profile_field:personal_information.postal_code",
+   "type": "profile_field",
+   "label": "personal_information.postal_code",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "id": "profile_field:personal_information.state",
+   "type": "profile_field",
+   "label": "personal_information.state",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "id": "profile_field:resume_file_path",
+   "type": "profile_field",
+   "label": "resume_file_path",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "id": "profile_field:screening_answers.earliest_start_date",
+   "type": "profile_field",
+   "label": "screening_answers.earliest_start_date",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "id": "profile_field:screening_answers.notice_period",
+   "type": "profile_field",
+   "label": "screening_answers.notice_period",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "id": "profile_field:screening_answers.source",
+   "type": "profile_field",
+   "label": "screening_answers.source",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "id": "profile_field:screening_answers.work_authorization_sponsorship",
+   "type": "profile_field",
+   "label": "work_authorization_sponsorship",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "ambiguous": true,
+    "ambiguity": "'Yes' could mean 'I am authorized' or 'I need sponsorship'. Opposite meanings, opposite outcomes. Never fill without confirming against the job's country."
+   }
+  },
+  {
+   "id": "profile_field:skills",
+   "type": "profile_field",
+   "label": "skills",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "id": "profile_field:work_experience[].bullets",
+   "type": "profile_field",
+   "label": "work_experience[].bullets",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "id": "profile_field:work_experience[].company",
+   "type": "profile_field",
+   "label": "work_experience[].company",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "id": "profile_field:work_experience[].dates",
+   "type": "profile_field",
+   "label": "work_experience[].dates",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "id": "profile_field:work_experience[].location",
+   "type": "profile_field",
+   "label": "work_experience[].location",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "id": "profile_field:work_experience[].title",
+   "type": "profile_field",
+   "label": "work_experience[].title",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "id": "selector:tenant:gartner.wd5/EXT#add-button",
+   "type": "selector",
+   "label": "add-button",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "automation_id": "add-button",
+    "interaction": "button_indexed",
+    "recipe": "several buttons share this automation-id: nth(0)=Work Experience, nth(1)=Education, nth(2)=Languages",
+    "value_used": null
+   }
+  },
+  {
+   "id": "selector:tenant:gartner.wd5/EXT#email",
+   "type": "selector",
+   "label": "email",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "automation_id": "email",
+    "interaction": "text_bare",
+    "recipe": "automation-id is on the input itself, not a wrapper",
+    "value_used": null
+   }
+  },
+  {
+   "id": "selector:tenant:gartner.wd5/EXT#file-upload-input-ref",
+   "type": "selector",
+   "label": "file-upload-input-ref",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "automation_id": "file-upload-input-ref",
+    "interaction": "file",
+    "recipe": "wrapper DIV holds the automation-id; descend to the control",
+    "value_used": "Jay_Singh_Resume.pdf (120.35 KB)"
+   }
+  },
+  {
+   "id": "selector:tenant:gartner.wd5/EXT#formField-acceptTermsAndAgreements",
+   "type": "selector",
+   "label": "formField-acceptTermsAndAgreements",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "automation_id": "formField-acceptTermsAndAgreements",
+    "interaction": "attestation_checkbox",
+    "recipe": "e-signature — G11 applies",
+    "value_used": "CHECKED"
+   }
+  },
+  {
+   "id": "selector:tenant:gartner.wd5/EXT#formField-addressLine1",
+   "type": "selector",
+   "label": "formField-addressLine1",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "automation_id": "formField-addressLine1",
+    "interaction": "text",
+    "recipe": "wrapper DIV holds the automation-id; descend to the control",
+    "value_used": "Gaya"
+   }
+  },
+  {
+   "id": "selector:tenant:gartner.wd5/EXT#formField-candidateIsPreviousWorker",
+   "type": "selector",
+   "label": "formField-candidateIsPreviousWorker",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "automation_id": "formField-candidateIsPreviousWorker",
+    "interaction": "radio",
+    "recipe": "wrapper DIV holds the automation-id; descend to the control",
+    "value_used": "No (index 1)"
+   }
+  },
+  {
+   "id": "selector:tenant:gartner.wd5/EXT#formField-city",
+   "type": "selector",
+   "label": "formField-city",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "automation_id": "formField-city",
+    "interaction": "text",
+    "recipe": "wrapper DIV holds the automation-id; descend to the control",
+    "value_used": "Gaya"
+   }
+  },
+  {
+   "id": "selector:tenant:gartner.wd5/EXT#formField-companyName",
+   "type": "selector",
+   "label": "formField-companyName",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "automation_id": "formField-companyName",
+    "interaction": "text_indexed",
+    "recipe": "locator(wrapper).nth(i).locator('input')",
+    "value_used": null
+   }
+  },
+  {
+   "id": "selector:tenant:gartner.wd5/EXT#formField-country",
+   "type": "selector",
+   "label": "formField-country",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "automation_id": "formField-country",
+    "interaction": "prompt_dropdown",
+    "recipe": "click the wrapper's button, wait, click get_by_role('option', name=X, exact=True)",
+    "value_used": "India"
+   }
+  },
+  {
+   "id": "selector:tenant:gartner.wd5/EXT#formField-countryPhoneCode",
+   "type": "selector",
+   "label": "formField-countryPhoneCode",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "automation_id": "formField-countryPhoneCode",
+    "interaction": "multiselect",
+    "recipe": "pre-populated from country; verify rather than set",
+    "value_used": "India (+91)"
+   }
+  },
+  {
+   "id": "selector:tenant:gartner.wd5/EXT#formField-degree",
+   "type": "selector",
+   "label": "formField-degree",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "automation_id": "formField-degree",
+    "interaction": "prompt_dropdown",
+    "recipe": "click the wrapper's button, wait, click get_by_role('option', name=X, exact=True)",
+    "value_used": "Bachelor's Degree"
+   }
+  },
+  {
+   "id": "selector:tenant:gartner.wd5/EXT#formField-endDate",
+   "type": "selector",
+   "label": "formField-endDate",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "automation_id": "formField-endDate",
+    "interaction": "date_mm_yyyy",
+    "recipe": "fill dateSectionMonth-input (zero-padded) then dateSectionYear-input",
+    "value_used": null
+   }
+  },
+  {
+   "id": "selector:tenant:gartner.wd5/EXT#formField-fieldOfStudy",
+   "type": "selector",
+   "label": "formField-fieldOfStudy",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "automation_id": "formField-fieldOfStudy",
+    "interaction": "searchable_prompt",
+    "recipe": "click promptSearchButton, click placeholder='Search', type, press Enter, click the returned option. Typing in the field itself does NOT filter.",
+    "value_used": "Computer and Information Science"
+   }
+  },
+  {
+   "id": "selector:tenant:gartner.wd5/EXT#formField-jobTitle",
+   "type": "selector",
+   "label": "formField-jobTitle",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "automation_id": "formField-jobTitle",
+    "interaction": "text_indexed",
+    "recipe": "locator(wrapper).nth(i).locator('input')",
+    "value_used": null
+   }
+  },
+  {
+   "id": "selector:tenant:gartner.wd5/EXT#formField-legalName--firstName",
+   "type": "selector",
+   "label": "formField-legalName--firstName",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "automation_id": "formField-legalName--firstName",
+    "interaction": "text",
+    "recipe": "wrapper DIV holds the automation-id; descend to the control",
+    "value_used": "Jay"
+   }
+  },
+  {
+   "id": "selector:tenant:gartner.wd5/EXT#formField-legalName--lastName",
+   "type": "selector",
+   "label": "formField-legalName--lastName",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "automation_id": "formField-legalName--lastName",
+    "interaction": "text",
+    "recipe": "wrapper DIV holds the automation-id; descend to the control",
+    "value_used": "Singh"
+   }
+  },
+  {
+   "id": "selector:tenant:gartner.wd5/EXT#formField-linkedInAccount",
+   "type": "selector",
+   "label": "formField-linkedInAccount",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "automation_id": "formField-linkedInAccount",
+    "interaction": "text",
+    "recipe": "wrapper DIV holds the automation-id; descend to the control",
+    "value_used": "https://www.linkedin.com/in/jay-singh-ds/"
+   }
+  },
+  {
+   "id": "selector:tenant:gartner.wd5/EXT#formField-location",
+   "type": "selector",
+   "label": "formField-location",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "automation_id": "formField-location",
+    "interaction": "text_indexed",
+    "recipe": "locator(wrapper).nth(i).locator('input')",
+    "value_used": null
+   }
+  },
+  {
+   "id": "selector:tenant:gartner.wd5/EXT#formField-phoneNumber",
+   "type": "selector",
+   "label": "formField-phoneNumber",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "automation_id": "formField-phoneNumber",
+    "interaction": "text",
+    "recipe": "wrapper DIV holds the automation-id; descend to the control",
+    "value_used": "8651274328"
+   }
+  },
+  {
+   "id": "selector:tenant:gartner.wd5/EXT#formField-phoneType",
+   "type": "selector",
+   "label": "formField-phoneType",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "automation_id": "formField-phoneType",
+    "interaction": "prompt_dropdown",
+    "recipe": "click the wrapper's button, wait, click get_by_role('option', name=X, exact=True)",
+    "value_used": "Personal Mobile"
+   }
+  },
+  {
+   "id": "selector:tenant:gartner.wd5/EXT#formField-postalCode",
+   "type": "selector",
+   "label": "formField-postalCode",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "automation_id": "formField-postalCode",
+    "interaction": "text",
+    "recipe": "wrapper DIV holds the automation-id; descend to the control",
+    "value_used": "823001"
+   }
+  },
+  {
+   "id": "selector:tenant:gartner.wd5/EXT#formField-roleDescription",
+   "type": "selector",
+   "label": "formField-roleDescription",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "automation_id": "formField-roleDescription",
+    "interaction": "textarea_indexed",
+    "recipe": "locator(wrapper).nth(i).locator('textarea')",
+    "value_used": null
+   }
+  },
+  {
+   "id": "selector:tenant:gartner.wd5/EXT#formField-schoolName",
+   "type": "selector",
+   "label": "formField-schoolName",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "automation_id": "formField-schoolName",
+    "interaction": "text",
+    "recipe": "wrapper DIV holds the automation-id; descend to the control",
+    "value_used": "Indian Institute of Technology Kharagpur"
+   }
+  },
+  {
+   "id": "selector:tenant:gartner.wd5/EXT#formField-startDate",
+   "type": "selector",
+   "label": "formField-startDate",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "automation_id": "formField-startDate",
+    "interaction": "date_mm_yyyy",
+    "recipe": "fill dateSectionMonth-input (zero-padded) then dateSectionYear-input",
+    "value_used": null
+   }
+  },
+  {
+   "id": "selector:tenant:gartner.wd5/EXT#pageFooterBackButton",
+   "type": "selector",
+   "label": "pageFooterBackButton",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "automation_id": "pageFooterBackButton",
+    "interaction": "button_bare",
+    "recipe": "automation-id is on the button itself",
+    "value_used": null
+   }
+  },
+  {
+   "id": "selector:tenant:gartner.wd5/EXT#pageFooterNextButton",
+   "type": "selector",
+   "label": "pageFooterNextButton",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "automation_id": "pageFooterNextButton",
+    "interaction": "button_bare",
+    "recipe": "automation-id is on the button itself",
+    "value_used": null
+   }
+  },
+  {
+   "id": "selector:tenant:gartner.wd5/EXT#password",
+   "type": "selector",
+   "label": "password",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "automation_id": "password",
+    "interaction": "password_bare",
+    "recipe": "automation-id is on the input itself; never log the value",
+    "value_used": null
+   }
+  },
+  {
+   "id": "selector:tenant:gartner.wd5/EXT#phone-sms-opt-in",
+   "type": "selector",
+   "label": "phone-sms-opt-in",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "automation_id": "phone-sms-opt-in",
+    "interaction": "checkbox",
+    "recipe": "wrapper DIV holds the automation-id; descend to the control",
+    "value_used": "UNCHECKED"
+   }
+  },
+  {
+   "id": "selector:tenant:gartner.wd5/EXT#signInSubmitButton",
+   "type": "selector",
+   "label": "signInSubmitButton",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "automation_id": "signInSubmitButton",
+    "interaction": "button_bare",
+    "recipe": "automation-id is on the button itself",
+    "value_used": null
+   }
+  },
+  {
+   "id": "step:tenant:gartner.wd5/EXT#0",
+   "type": "step",
+   "label": "Sign In",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "index": 0,
+    "is_terminal_submit": false,
+    "note": ""
+   }
+  },
+  {
+   "id": "step:tenant:gartner.wd5/EXT#1",
+   "type": "step",
+   "label": "My Information",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "index": 1,
+    "is_terminal_submit": false,
+    "note": ""
+   }
+  },
+  {
+   "id": "step:tenant:gartner.wd5/EXT#2",
+   "type": "step",
+   "label": "My Experience",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "index": 2,
+    "is_terminal_submit": false,
+    "note": ""
+   }
+  },
+  {
+   "id": "step:tenant:gartner.wd5/EXT#3",
+   "type": "step",
+   "label": "Application Questions",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "index": 3,
+    "is_terminal_submit": false,
+    "note": ""
+   }
+  },
+  {
+   "id": "step:tenant:gartner.wd5/EXT#4",
+   "type": "step",
+   "label": "Voluntary Disclosures",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "index": 4,
+    "is_terminal_submit": true,
+    "note": "continue on this step SUBMITS the application"
+   }
+  },
+  {
+   "id": "step:tenant:gartner.wd5/EXT#5",
+   "type": "step",
+   "label": "Review",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "index": 5,
+    "is_terminal_submit": false,
+    "note": "post-submit confirmation screen, not a review page"
+   }
+  },
+  {
+   "id": "tenant:gartner.wd5/EXT",
+   "type": "tenant",
+   "label": "Gartner EXT",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "host": "gartner.wd5.myworkdayjobs.com",
+    "site": "EXT",
+    "auth": "email/password, no verification interstitial",
+    "entry_choices": [
+     "Autofill with Resume",
+     "Apply Manually",
+     "Use My Last Application"
+    ],
+    "chosen_entry": "Apply Manually"
+   }
+  },
+  {
+   "id": "tool_fact:firecrawl.interact_cost",
+   "type": "tool_fact",
+   "label": "interact costs ~2 credits per call. Measured over the whole run: 66 credits for 4 scrapes + 1 parse + ~30 interacts.",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "id": "tool_fact:firecrawl.profile_lock",
+   "type": "tool_fact",
+   "label": "One writer per --profile at a time. Readers need --no-save-changes.",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "id": "tool_fact:firecrawl.sandbox_net",
+   "type": "tool_fact",
+   "label": "The bash sandbox has outbound internet and a writable /tmp. curl works; urllib from the python sandbox is blocked by some hosts (403).",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "id": "tool_fact:firecrawl.sandbox_upload",
+   "type": "tool_fact",
+   "label": "agent-browser upload <selector> <path> puts a sandbox file into a page file input. Playwright set_input_files works identically.",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "id": "tool_fact:firecrawl.scrape_cost",
+   "type": "tool_fact",
+   "label": "scrape = 1 credit. parse = ~1 credit per PDF page. --query = +5.",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "id": "tool_fact:firecrawl.session_ttl",
+   "type": "tool_fact",
+   "label": "Firecrawl live sessions expire after roughly 10 minutes idle.",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "id": "tool_fact:workday.phantom_error",
+   "type": "tool_fact",
+   "label": "candidateHome shows a '1 error' banner after a direct goto. Benign.",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "id": "tool_fact:workday.step_persistence",
+   "type": "tool_fact",
+   "label": "Workday persists each step on Save and Continue, so a reconnect can walk forward through completed steps and resume cleanly.",
+   "confidence": "high",
+   "first_seen": "2026-08-02",
+   "last_confirmed": "2026-08-02",
+   "applications": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  }
+ ],
+ "edges": [
+  {
+   "from": "field:education.degree",
+   "to": "option:Associate's Degree",
+   "rel": "accepts_option",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "field:education.degree",
+   "to": "option:Bachelor's Degree",
+   "rel": "accepts_option",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "field:education.degree",
+   "to": "option:Diploma",
+   "rel": "accepts_option",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "field:education.degree",
+   "to": "option:Doctor of Medicine",
+   "rel": "accepts_option",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "field:education.degree",
+   "to": "option:Doctorate",
+   "rel": "accepts_option",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "field:education.degree",
+   "to": "option:GED",
+   "rel": "accepts_option",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "field:education.degree",
+   "to": "option:High School",
+   "rel": "accepts_option",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "field:education.degree",
+   "to": "option:Honours",
+   "rel": "accepts_option",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "field:education.degree",
+   "to": "option:Juris Doctor",
+   "rel": "accepts_option",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "field:education.degree",
+   "to": "option:Master's Degree",
+   "rel": "accepts_option",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "field:education.degree",
+   "to": "option:None",
+   "rel": "accepts_option",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "field:education.degree",
+   "to": "option:Other",
+   "rel": "accepts_option",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "field:education.degree",
+   "to": "option:University",
+   "rel": "accepts_option",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "field:education.field_of_study",
+   "to": "option:Computer and Information Science",
+   "rel": "accepts_option",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "field:phone.device_type",
+   "to": "option:Home",
+   "rel": "accepts_option",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "field:phone.device_type",
+   "to": "option:Personal Mobile",
+   "rel": "accepts_option",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "ats:workday",
+   "to": "constraint:error_readback",
+   "rel": "constrained_by",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "ats:workday",
+   "to": "constraint:illegal_chars",
+   "rel": "constrained_by",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "ats:workday",
+   "to": "constraint:linkedin_www",
+   "rel": "constrained_by",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "step:tenant:gartner.wd5/EXT#0",
+   "to": "field:auth.email",
+   "rel": "has_field",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "step:tenant:gartner.wd5/EXT#0",
+   "to": "field:auth.password",
+   "rel": "has_field",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "step:tenant:gartner.wd5/EXT#0",
+   "to": "field:auth.submit",
+   "rel": "has_field",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "step:tenant:gartner.wd5/EXT#0",
+   "to": "field:control.back",
+   "rel": "has_field",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "step:tenant:gartner.wd5/EXT#0",
+   "to": "field:control.next",
+   "rel": "has_field",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "step:tenant:gartner.wd5/EXT#1",
+   "to": "field:address.city",
+   "rel": "has_field",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "step:tenant:gartner.wd5/EXT#1",
+   "to": "field:address.country",
+   "rel": "has_field",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "step:tenant:gartner.wd5/EXT#1",
+   "to": "field:address.line1",
+   "rel": "has_field",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "step:tenant:gartner.wd5/EXT#1",
+   "to": "field:address.postal_code",
+   "rel": "has_field",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "step:tenant:gartner.wd5/EXT#1",
+   "to": "field:history.previous_employee",
+   "rel": "has_field",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "step:tenant:gartner.wd5/EXT#1",
+   "to": "field:identity.first_name",
+   "rel": "has_field",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "step:tenant:gartner.wd5/EXT#1",
+   "to": "field:identity.last_name",
+   "rel": "has_field",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "step:tenant:gartner.wd5/EXT#1",
+   "to": "field:phone.country_code",
+   "rel": "has_field",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "step:tenant:gartner.wd5/EXT#1",
+   "to": "field:phone.device_type",
+   "rel": "has_field",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "step:tenant:gartner.wd5/EXT#1",
+   "to": "field:phone.number",
+   "rel": "has_field",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "step:tenant:gartner.wd5/EXT#1",
+   "to": "field:phone.sms_opt_in",
+   "rel": "has_field",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "step:tenant:gartner.wd5/EXT#2",
+   "to": "field:attachment.resume",
+   "rel": "has_field",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "step:tenant:gartner.wd5/EXT#2",
+   "to": "field:control.add_another",
+   "rel": "has_field",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "step:tenant:gartner.wd5/EXT#2",
+   "to": "field:education.degree",
+   "rel": "has_field",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "step:tenant:gartner.wd5/EXT#2",
+   "to": "field:education.field_of_study",
+   "rel": "has_field",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "step:tenant:gartner.wd5/EXT#2",
+   "to": "field:education.school",
+   "rel": "has_field",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "step:tenant:gartner.wd5/EXT#2",
+   "to": "field:social.linkedin",
+   "rel": "has_field",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "step:tenant:gartner.wd5/EXT#2",
+   "to": "field:work.company",
+   "rel": "has_field",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "step:tenant:gartner.wd5/EXT#2",
+   "to": "field:work.description",
+   "rel": "has_field",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "step:tenant:gartner.wd5/EXT#2",
+   "to": "field:work.end_date",
+   "rel": "has_field",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "step:tenant:gartner.wd5/EXT#2",
+   "to": "field:work.location",
+   "rel": "has_field",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "step:tenant:gartner.wd5/EXT#2",
+   "to": "field:work.start_date",
+   "rel": "has_field",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "step:tenant:gartner.wd5/EXT#2",
+   "to": "field:work.title",
+   "rel": "has_field",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "step:tenant:gartner.wd5/EXT#4",
+   "to": "field:legal.terms_accept",
+   "rel": "has_field",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "tenant:gartner.wd5/EXT",
+   "to": "step:tenant:gartner.wd5/EXT#0",
+   "rel": "has_step",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "tenant:gartner.wd5/EXT",
+   "to": "step:tenant:gartner.wd5/EXT#1",
+   "rel": "has_step",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "tenant:gartner.wd5/EXT",
+   "to": "step:tenant:gartner.wd5/EXT#2",
+   "rel": "has_step",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "tenant:gartner.wd5/EXT",
+   "to": "step:tenant:gartner.wd5/EXT#3",
+   "rel": "has_step",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "tenant:gartner.wd5/EXT",
+   "to": "step:tenant:gartner.wd5/EXT#4",
+   "rel": "has_step",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "tenant:gartner.wd5/EXT",
+   "to": "step:tenant:gartner.wd5/EXT#5",
+   "rel": "has_step",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "ats:workday",
+   "to": "tenant:gartner.wd5/EXT",
+   "rel": "has_tenant",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "step:tenant:gartner.wd5/EXT#4",
+   "to": "guard:G1",
+   "rel": "is_terminal_submit",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "field:address.city",
+   "to": "selector:tenant:gartner.wd5/EXT#formField-city",
+   "rel": "located_by",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "field:address.country",
+   "to": "selector:tenant:gartner.wd5/EXT#formField-country",
+   "rel": "located_by",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "field:address.line1",
+   "to": "selector:tenant:gartner.wd5/EXT#formField-addressLine1",
+   "rel": "located_by",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "field:address.postal_code",
+   "to": "selector:tenant:gartner.wd5/EXT#formField-postalCode",
+   "rel": "located_by",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "field:attachment.resume",
+   "to": "selector:tenant:gartner.wd5/EXT#file-upload-input-ref",
+   "rel": "located_by",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "field:auth.email",
+   "to": "selector:tenant:gartner.wd5/EXT#email",
+   "rel": "located_by",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "field:auth.password",
+   "to": "selector:tenant:gartner.wd5/EXT#password",
+   "rel": "located_by",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "field:auth.submit",
+   "to": "selector:tenant:gartner.wd5/EXT#signInSubmitButton",
+   "rel": "located_by",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "field:control.add_another",
+   "to": "selector:tenant:gartner.wd5/EXT#add-button",
+   "rel": "located_by",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "field:control.back",
+   "to": "selector:tenant:gartner.wd5/EXT#pageFooterBackButton",
+   "rel": "located_by",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "field:control.next",
+   "to": "selector:tenant:gartner.wd5/EXT#pageFooterNextButton",
+   "rel": "located_by",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "field:education.degree",
+   "to": "selector:tenant:gartner.wd5/EXT#formField-degree",
+   "rel": "located_by",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "field:education.field_of_study",
+   "to": "selector:tenant:gartner.wd5/EXT#formField-fieldOfStudy",
+   "rel": "located_by",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "field:education.school",
+   "to": "selector:tenant:gartner.wd5/EXT#formField-schoolName",
+   "rel": "located_by",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "field:history.previous_employee",
+   "to": "selector:tenant:gartner.wd5/EXT#formField-candidateIsPreviousWorker",
+   "rel": "located_by",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "field:identity.first_name",
+   "to": "selector:tenant:gartner.wd5/EXT#formField-legalName--firstName",
+   "rel": "located_by",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "field:identity.last_name",
+   "to": "selector:tenant:gartner.wd5/EXT#formField-legalName--lastName",
+   "rel": "located_by",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "field:legal.terms_accept",
+   "to": "selector:tenant:gartner.wd5/EXT#formField-acceptTermsAndAgreements",
+   "rel": "located_by",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "field:phone.country_code",
+   "to": "selector:tenant:gartner.wd5/EXT#formField-countryPhoneCode",
+   "rel": "located_by",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "field:phone.device_type",
+   "to": "selector:tenant:gartner.wd5/EXT#formField-phoneType",
+   "rel": "located_by",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "field:phone.number",
+   "to": "selector:tenant:gartner.wd5/EXT#formField-phoneNumber",
+   "rel": "located_by",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "field:phone.sms_opt_in",
+   "to": "selector:tenant:gartner.wd5/EXT#phone-sms-opt-in",
+   "rel": "located_by",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "field:social.linkedin",
+   "to": "selector:tenant:gartner.wd5/EXT#formField-linkedInAccount",
+   "rel": "located_by",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "field:work.company",
+   "to": "selector:tenant:gartner.wd5/EXT#formField-companyName",
+   "rel": "located_by",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "field:work.description",
+   "to": "selector:tenant:gartner.wd5/EXT#formField-roleDescription",
+   "rel": "located_by",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "field:work.end_date",
+   "to": "selector:tenant:gartner.wd5/EXT#formField-endDate",
+   "rel": "located_by",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "field:work.location",
+   "to": "selector:tenant:gartner.wd5/EXT#formField-location",
+   "rel": "located_by",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "field:work.start_date",
+   "to": "selector:tenant:gartner.wd5/EXT#formField-startDate",
+   "rel": "located_by",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "field:work.title",
+   "to": "selector:tenant:gartner.wd5/EXT#formField-jobTitle",
+   "rel": "located_by",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "field:address.city",
+   "to": "profile_field:personal_information.city",
+   "rel": "maps_to",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "field:address.country",
+   "to": "profile_field:personal_information.country",
+   "rel": "maps_to",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "field:address.line1",
+   "to": "profile_field:personal_information.address_line_1",
+   "rel": "maps_to",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "field:address.postal_code",
+   "to": "profile_field:personal_information.postal_code",
+   "rel": "maps_to",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "field:attachment.resume",
+   "to": "profile_field:resume_file_path",
+   "rel": "maps_to",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "field:auth.email",
+   "to": "profile_field:credentials.workday.email",
+   "rel": "maps_to",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "field:auth.password",
+   "to": "profile_field:credentials.workday.password",
+   "rel": "maps_to",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "field:education.degree",
+   "to": "profile_field:education[].degree",
+   "rel": "maps_to",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "field:education.field_of_study",
+   "to": "profile_field:education[].field_of_study",
+   "rel": "maps_to",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "field:education.school",
+   "to": "profile_field:education[].institution",
+   "rel": "maps_to",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "field:identity.first_name",
+   "to": "profile_field:personal_information.first_name",
+   "rel": "maps_to",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "field:identity.last_name",
+   "to": "profile_field:personal_information.last_name",
+   "rel": "maps_to",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "field:phone.number",
+   "to": "profile_field:personal_information.phone",
+   "rel": "maps_to",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "field:social.linkedin",
+   "to": "profile_field:personal_information.linkedin",
+   "rel": "maps_to",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "field:work.company",
+   "to": "profile_field:work_experience[].company",
+   "rel": "maps_to",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "field:work.description",
+   "to": "profile_field:work_experience[].bullets",
+   "rel": "maps_to",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "field:work.end_date",
+   "to": "profile_field:work_experience[].dates",
+   "rel": "maps_to",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "field:work.location",
+   "to": "profile_field:work_experience[].location",
+   "rel": "maps_to",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "field:work.start_date",
+   "to": "profile_field:work_experience[].dates",
+   "rel": "maps_to",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "field:work.title",
+   "to": "profile_field:work_experience[].title",
+   "rel": "maps_to",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "option:Bachelor of Technology (B.Tech)",
+   "to": "option:Bachelor's Degree",
+   "rel": "maps_to",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "reason": "requested value absent from this ATS; nearest offered option"
+   }
+  },
+  {
+   "from": "option:Computer Science / Data Science",
+   "to": "option:Computer and Information Science",
+   "rel": "maps_to",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "reason": "requested value absent from this ATS; nearest offered option"
+   }
+  },
+  {
+   "from": "option:Mobile",
+   "to": "option:Personal Mobile",
+   "rel": "maps_to",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "reason": "requested value absent from this ATS; nearest offered option"
+   }
+  },
+  {
+   "from": "tenant:gartner.wd5/EXT",
+   "to": "profile_field:education[].coursework",
+   "rel": "not_asked",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "tenant:gartner.wd5/EXT",
+   "to": "profile_field:personal_information.github",
+   "rel": "not_asked",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "tenant:gartner.wd5/EXT",
+   "to": "profile_field:personal_information.state",
+   "rel": "not_asked",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "tenant:gartner.wd5/EXT",
+   "to": "profile_field:screening_answers.earliest_start_date",
+   "rel": "not_asked",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "tenant:gartner.wd5/EXT",
+   "to": "profile_field:screening_answers.notice_period",
+   "rel": "not_asked",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "tenant:gartner.wd5/EXT",
+   "to": "profile_field:screening_answers.source",
+   "rel": "not_asked",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "tenant:gartner.wd5/EXT",
+   "to": "profile_field:skills",
+   "rel": "not_asked",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "answer:Are you currently a Gartner license user?",
+   "to": "app:gartner-110911",
+   "rel": "observed_in",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "answer:Are you currently a Gartner license user?",
+   "to": "tenant:gartner.wd5/EXT",
+   "rel": "observed_in",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "aid": "formField-f05acb97f85d10014e5831683c390001",
+    "requisition": "110911",
+    "employer_specific": true
+   }
+  },
+  {
+   "from": "answer:Are you currently being considered for a job or have you rec",
+   "to": "app:gartner-110911",
+   "rel": "observed_in",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "answer:Are you currently being considered for a job or have you rec",
+   "to": "tenant:gartner.wd5/EXT",
+   "rel": "observed_in",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "aid": "formField-f05acb97f85d10014e58303374460000",
+    "requisition": "110911",
+    "employer_specific": true
+   }
+  },
+  {
+   "from": "answer:Are you currently employed by Gartner?",
+   "to": "app:gartner-110911",
+   "rel": "observed_in",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "answer:Are you currently employed by Gartner?",
+   "to": "tenant:gartner.wd5/EXT",
+   "rel": "observed_in",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "aid": "formField-f05acb97f85d10014e58303374460004",
+    "requisition": "110911",
+    "employer_specific": true
+   }
+  },
+  {
+   "from": "answer:Are you currently subject to a non-competition or non-solici",
+   "to": "app:gartner-110911",
+   "rel": "observed_in",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "answer:Are you currently subject to a non-competition or non-solici",
+   "to": "tenant:gartner.wd5/EXT",
+   "rel": "observed_in",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "aid": "formField-f05acb97f85d10014e58320207550001",
+    "requisition": "110911",
+    "employer_specific": false
+   }
+  },
+  {
+   "from": "answer:Has Gartner employed you in the past?",
+   "to": "app:gartner-110911",
+   "rel": "observed_in",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "answer:Has Gartner employed you in the past?",
+   "to": "tenant:gartner.wd5/EXT",
+   "rel": "observed_in",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "aid": "formField-f05acb97f85d10014e5830cd6bfc0002",
+    "requisition": "110911",
+    "employer_specific": true
+   }
+  },
+  {
+   "from": "answer:Have you previously worked for this organization?",
+   "to": "app:gartner-110911",
+   "rel": "observed_in",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "answer:In your current role, are you involved in procuring, negotia",
+   "to": "app:gartner-110911",
+   "rel": "observed_in",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "answer:In your current role, are you involved in procuring, negotia",
+   "to": "tenant:gartner.wd5/EXT",
+   "rel": "observed_in",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "aid": "formField-f05acb97f85d10014e5831683c390004",
+    "requisition": "110911",
+    "employer_specific": true
+   }
+  },
+  {
+   "from": "answer:Will you, now or in the future, require Visa/Sponsorship wit",
+   "to": "app:gartner-110911",
+   "rel": "observed_in",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "answer:Will you, now or in the future, require Visa/Sponsorship wit",
+   "to": "tenant:gartner.wd5/EXT",
+   "rel": "observed_in",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {
+    "aid": "formField-f05acb97f85d10014e5830cd6bfc0005",
+    "requisition": "110911",
+    "employer_specific": false
+   }
+  },
+  {
+   "from": "answer:Yes, I have read and consent to the Terms & Conditions above",
+   "to": "app:gartner-110911",
+   "rel": "observed_in",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "app:gartner-110911",
+   "to": "tenant:gartner.wd5/EXT",
+   "rel": "observed_in",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "pitfall:A1",
+   "to": "app:gartner-110911",
+   "rel": "observed_in",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "pitfall:A2",
+   "to": "app:gartner-110911",
+   "rel": "observed_in",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "pitfall:A3",
+   "to": "app:gartner-110911",
+   "rel": "observed_in",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "pitfall:B1",
+   "to": "app:gartner-110911",
+   "rel": "observed_in",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "pitfall:B2",
+   "to": "app:gartner-110911",
+   "rel": "observed_in",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "pitfall:B3",
+   "to": "app:gartner-110911",
+   "rel": "observed_in",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "pitfall:B4",
+   "to": "app:gartner-110911",
+   "rel": "observed_in",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "pitfall:C1",
+   "to": "app:gartner-110911",
+   "rel": "observed_in",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "pitfall:C2",
+   "to": "app:gartner-110911",
+   "rel": "observed_in",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "pitfall:C3",
+   "to": "app:gartner-110911",
+   "rel": "observed_in",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "pitfall:C4",
+   "to": "app:gartner-110911",
+   "rel": "observed_in",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "pitfall:C5",
+   "to": "app:gartner-110911",
+   "rel": "observed_in",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "pitfall:D1",
+   "to": "app:gartner-110911",
+   "rel": "observed_in",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "pitfall:D10",
+   "to": "app:gartner-110911",
+   "rel": "observed_in",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "pitfall:D11",
+   "to": "app:gartner-110911",
+   "rel": "observed_in",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "pitfall:D2",
+   "to": "app:gartner-110911",
+   "rel": "observed_in",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "pitfall:D3",
+   "to": "app:gartner-110911",
+   "rel": "observed_in",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "pitfall:D4",
+   "to": "app:gartner-110911",
+   "rel": "observed_in",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "pitfall:D5",
+   "to": "app:gartner-110911",
+   "rel": "observed_in",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "pitfall:D6",
+   "to": "app:gartner-110911",
+   "rel": "observed_in",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "pitfall:D7",
+   "to": "app:gartner-110911",
+   "rel": "observed_in",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "pitfall:D8",
+   "to": "app:gartner-110911",
+   "rel": "observed_in",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "pitfall:D9",
+   "to": "app:gartner-110911",
+   "rel": "observed_in",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "pitfall:E1",
+   "to": "app:gartner-110911",
+   "rel": "observed_in",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "pitfall:E2",
+   "to": "app:gartner-110911",
+   "rel": "observed_in",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "pitfall:E3",
+   "to": "app:gartner-110911",
+   "rel": "observed_in",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "pitfall:E4",
+   "to": "app:gartner-110911",
+   "rel": "observed_in",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "pitfall:F1",
+   "to": "app:gartner-110911",
+   "rel": "observed_in",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "pitfall:F2",
+   "to": "app:gartner-110911",
+   "rel": "observed_in",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "pitfall:F3",
+   "to": "app:gartner-110911",
+   "rel": "observed_in",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "answer:Will you, now or in the future, require Visa/Sponsorship wit",
+   "to": "guard:G8",
+   "rel": "prevented_by",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "pitfall:A1",
+   "to": "guard:G1",
+   "rel": "prevented_by",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "pitfall:A2",
+   "to": "guard:G2",
+   "rel": "prevented_by",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "pitfall:A3",
+   "to": "guard:G11",
+   "rel": "prevented_by",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "pitfall:B1",
+   "to": "guard:G4",
+   "rel": "prevented_by",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "pitfall:B2",
+   "to": "guard:G5",
+   "rel": "prevented_by",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "pitfall:B3",
+   "to": "guard:G10",
+   "rel": "prevented_by",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "pitfall:B4",
+   "to": "guard:G12",
+   "rel": "prevented_by",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "pitfall:C1",
+   "to": "guard:G2",
+   "rel": "prevented_by",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "pitfall:C2",
+   "to": "guard:G2",
+   "rel": "prevented_by",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "pitfall:C3",
+   "to": "guard:G2",
+   "rel": "prevented_by",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "pitfall:C4",
+   "to": "guard:G2",
+   "rel": "prevented_by",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "pitfall:C5",
+   "to": "guard:G2",
+   "rel": "prevented_by",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "pitfall:D1",
+   "to": "guard:G6",
+   "rel": "prevented_by",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "pitfall:D10",
+   "to": "guard:G7",
+   "rel": "prevented_by",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "pitfall:D11",
+   "to": "guard:G6",
+   "rel": "prevented_by",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "pitfall:D2",
+   "to": "guard:G6",
+   "rel": "prevented_by",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "pitfall:D3",
+   "to": "guard:G6",
+   "rel": "prevented_by",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "pitfall:D4",
+   "to": "guard:G7",
+   "rel": "prevented_by",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "pitfall:D5",
+   "to": "guard:G7",
+   "rel": "prevented_by",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "pitfall:D6",
+   "to": "guard:G7",
+   "rel": "prevented_by",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "pitfall:D7",
+   "to": "guard:G7",
+   "rel": "prevented_by",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "pitfall:D8",
+   "to": "guard:G7",
+   "rel": "prevented_by",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "pitfall:D9",
+   "to": "guard:G7",
+   "rel": "prevented_by",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "pitfall:E1",
+   "to": "guard:G8",
+   "rel": "prevented_by",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "pitfall:E2",
+   "to": "guard:G9",
+   "rel": "prevented_by",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "pitfall:E3",
+   "to": "guard:G9",
+   "rel": "prevented_by",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "pitfall:E4",
+   "to": "guard:G9",
+   "rel": "prevented_by",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "pitfall:F1",
+   "to": "guard:G1",
+   "rel": "prevented_by",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "pitfall:F2",
+   "to": "guard:G1",
+   "rel": "prevented_by",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  },
+  {
+   "from": "pitfall:F3",
+   "to": "guard:G6",
+   "rel": "prevented_by",
+   "seen_in": [
+    "app:gartner-110911"
+   ],
+   "attrs": {}
+  }
+ ]
+}

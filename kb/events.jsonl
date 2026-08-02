@@ -1,0 +1,2 @@
+{"kind": "seed", "day": "2026-08-02", "application": "app:gartner-110911", "nodes": 179, "edges": 193, "source": "live run 2026-08-02, execution_instruction.md, field_map.json v2"}
+{"kind": "harvest", "application": "app:acme-4471", "day": "2026-08-15", "source": "runs/example-greenhouse.json", "nodes_added": 12, "edges_added": 18}
