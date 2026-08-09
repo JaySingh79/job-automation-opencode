@@ -13,3 +13,11 @@ runs/*.local.json
 user_profile.json
 *.pdf
 .pytest_cache/
+# screenshots and page captures of filled applications carry name, email and phone
+*.png
+slices/
+idfc_content.html
+# tool scratch and caches - regenerated, never reviewed
+.playwright-mcp/
+.serena/
+.claude/.headroom_wrap_marker.json
