@@ -59,12 +59,18 @@ def terminal_step_guard(step_index, guards, scrape_id=None, footer=None):
 
 # ------------------------------------------------------------------ G2
 
-def upload_probe(url_page, filename, expect_bytes):
+def upload_probe(url_page, filename, expect_bytes,
+                 file_input="input[data-automation-id=file-upload-input-ref]",
+                 confirm="[data-automation-id=file-upload-item]"):
     """Bash run inside the cloud sandbox. Verifies before the file ever reaches the page.
 
     Three separate failures produced this: the /dl/ URL serves HTML, its token is
     IP-bound so it must be resolved in the sandbox, and urllib gets 403 where curl
     does not. The 2.6 KB HTML page that was uploaded as a resume passed none of these.
+
+    The file is uploaded byte-for-byte as downloaded — never re-rendered or reconstructed.
+    The size assertion is what enforces that. `file_input`/`confirm` default to Workday's
+    automation-ids; Phenom and other ATSs pass their own.
     """
     return f"""
 PAGE=$(curl -sL "{url_page}")
@@ -76,20 +82,23 @@ MAGIC=$(head -c 5 "/tmp/{filename}")
 echo "G2 size=$SIZE magic=$MAGIC expect={expect_bytes}"
 if [ "$MAGIC" != "%PDF-" ];        then echo "G2_FAIL: not a PDF (got $MAGIC)"; exit 1; fi
 if [ "$SIZE" != "{expect_bytes}" ]; then echo "G2_FAIL: size $SIZE != {expect_bytes}"; exit 1; fi
-agent-browser upload "input[data-automation-id=file-upload-input-ref]" "/tmp/{filename}"
+agent-browser upload "{file_input}" "/tmp/{filename}"
 sleep 9
-agent-browser eval "Array.from(document.querySelectorAll('[data-automation-id=file-upload-item]')).map(e=>e.innerText.replace(/\\n/g,' ')).join(' || ')"
+agent-browser eval "Array.from(document.querySelectorAll('{confirm}')).map(e=>e.innerText.replace(/\\n/g,' ')).join(' || ')"
 """
 
 
-def verify_upload(output, filename):
+def verify_upload(output, filename, success_marker="Successfully Uploaded"):
     """Read back what the DOM actually reports. 'Successfully Uploaded!' alone is not
-    enough — the HTML page uploaded last time also reported success."""
+    enough — the HTML page uploaded last time also reported success.
+
+    `success_marker` is Workday's wording; other ATSs confirm differently.
+    """
     if "G2_FAIL" in output:
         raise UploadIntegrityError(output.strip().splitlines()[-1])
     if filename not in output:
         raise UploadIntegrityError(f"{filename} not present in the upload list: {output[:300]}")
-    if "Successfully Uploaded" not in output:
+    if success_marker and success_marker not in output:
         raise UploadIntegrityError(f"no success confirmation in DOM: {output[:300]}")
     kb = re.search(r"([\d.]+)\s*KB", output)
     return {"filename": filename, "reported_kb": float(kb.group(1)) if kb else None}

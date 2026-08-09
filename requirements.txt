@@ -3,3 +3,6 @@ uv
 pylint
 crawl4ai
 pytest
+steel-sdk
+playwright
+

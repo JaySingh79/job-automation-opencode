@@ -17,7 +17,17 @@ Pibit AI (YC W21) | AI Intern (Research)
 • Detected page continuation through regex parsing of LLM-extracted page number text over sectional count.
 • Integrated Azure/Textract OCR confidence thresholding, and analytics design for detecting unreadable docs.
 
-Symx AI | Data Scientist
+B.Tech Research Project | CSE Department IIT Kharagpur
+
+Title - Enhancing Intrusion Detection System using Federated Learning
+
+- Engineered an intelligent Intrusion Attack Detection System utilizing Zero Shot Federated Learning approach, with an unknown attack prediction accuracy of 85.45%.
+- Engineered refined prompts for Llama-7B-chat model to generate unique quality attack description for each corresponding data entry, incorporating into the training dataset of 60k size.
+- Built a rich corpus of IDS attacks, along with descriptions and 768 dimentional vector embedding of each, with the help of CAPEC Mitre resource, building a massive library of attacks, helping in model response testing.
+- Created a multi hidden Densely connected Neural Network with over 70k parameters under Federated learning architecture of client - server internal weight exchange pipeline.
+- A robust architecture optimized by Bayesian Optimization method, delivered unmatched results detecting unknown test features.
+
+Symx AI | Data Scientist (sep 2024 - Feb 2025)
 
 • Predictive Maintenance: Built Weibull regression + XGBoost ensemble models achieving 87% failure prediction accuracy, reducing maintenance costs by 14% and downtime by 50% across global mining operations.​
 

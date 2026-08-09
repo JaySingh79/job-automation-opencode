@@ -27,8 +27,13 @@ BLOCK, WARN = "BLOCK", "warn"
 
 
 def check_consistency(profile, resume_text):
-    """G9. The Symx AI case: a role in the profile that the attached resume does not
-    mention becomes a permanent inconsistency the moment it is submitted."""
+    """G9. Guards against fabrication, not against staleness.
+
+    work_ex_details.md is the authoritative work history (user's standing decision,
+    2026-08-03); the resume PDF lags behind it. So a role the resume omits is expected
+    and only worth flagging — blocking on it stopped every run for a normal condition.
+    Invented months stay a blocker, because that is fabrication rather than lag (E3).
+    """
     findings = []
     resume_norm = _norm(resume_text)
 
@@ -36,9 +41,10 @@ def check_consistency(profile, resume_text):
         company = role["company"]
         on_resume = _mentions(resume_norm, company)
         if not on_resume:
-            findings.append((BLOCK, "G9", "role_not_on_resume",
+            findings.append((WARN, "G9", "role_not_on_resume",
                              f"'{company}' is in user_profile.json but not in the attached resume. "
-                             f"Submitting it creates a permanent mismatch a recruiter will see."))
+                             f"Expected when the resume lags work_ex_details.md; the recruiter sees "
+                             f"a role on the form that the PDF does not mention."))
 
         title = role.get("title", "")
         if on_resume and title and not _mentions(resume_norm, title):
@@ -53,7 +59,16 @@ def check_consistency(profile, resume_text):
 
 
 def check_ambiguity(profile, graph):
-    """G8. Keys whose value has two opposite readings must not be auto-filled."""
+    """G8. Keys whose value has two opposite readings must not be auto-filled.
+
+    An ambiguous key is cleared once the answer bank corroborates the stated value — the
+    danger in E1 was an unreviewed guess, not the key existing. Nothing corroborating it,
+    or a bank that disagrees, still blocks: the failure mode is a disqualifying answer.
+
+    What this cannot check is the job's country, which preflight never sees. A value
+    confirmed for one country is NOT revalidated for another, so the escalation on a
+    country change stays with the human.
+    """
     findings = []
     ambiguous = {p["label"]: p["attrs"].get("ambiguity", "")
                  for p in graph.query(type="profile_field") if p["attrs"].get("ambiguous")}
@@ -61,21 +76,37 @@ def check_ambiguity(profile, graph):
     for key, note in ambiguous.items():
         leaf = key.split(".")[-1]
         for section in ("screening_answers", "personal_information"):
-            if leaf in profile.get(section, {}):
+            stated = profile.get(section, {}).get(leaf)
+            if stated is None:
+                continue
+            bank = _bank_answer(graph, leaf)
+            if bank is None:
                 findings.append((BLOCK, "G8", "ambiguous_value",
-                                 f"{section}.{leaf} = '{profile[section][leaf]}'. {note}"))
-
-    # A value the graph already resolved differently is a live contradiction.
-    for ans in graph.query(type="answer"):
-        if "sponsorship" not in ans["label"].lower():
-            continue
-        stated = profile.get("screening_answers", {}).get("work_authorization_sponsorship")
-        if stated and stated.lower() != str(ans["attrs"]["value"]).lower():
-            findings.append((WARN, "G8", "graph_disagrees_with_profile",
-                             f"Profile says '{stated}', the answer bank says "
-                             f"'{ans['attrs']['value']}' (decided by {ans['attrs']['decided_by']}). "
-                             f"The answer bank wins unless you change the profile."))
+                                 f"{section}.{leaf} = '{stated}' and nothing in the answer "
+                                 f"bank corroborates it. {note}"))
+            elif str(bank["attrs"]["value"]).lower() != str(stated).lower():
+                findings.append((BLOCK, "G8", "graph_disagrees_with_profile",
+                                 f"Profile says '{stated}', the answer bank says "
+                                 f"'{bank['attrs']['value']}' (decided by "
+                                 f"{bank['attrs']['decided_by']}). Reconcile them before "
+                                 f"any field is typed — they cannot both be filled."))
+            else:
+                findings.append((WARN, "G8", "ambiguous_value_confirmed",
+                                 f"{section}.{leaf} = '{stated}', matching the answer bank "
+                                 f"(decided by {bank['attrs']['decided_by']}). Confirmed for "
+                                 f"India-based roles only — re-confirm if this job is not in "
+                                 f"the candidate's country of residence."))
     return findings
+
+
+def _bank_answer(graph, leaf):
+    """The answer-bank entry covering a profile key, matched on the key's content words."""
+    words = [w for w in leaf.split("_") if len(w) > 4]
+    for ans in graph.query(type="answer"):
+        label = ans["label"].lower()
+        if any(w in label for w in words):
+            return ans
+    return None
 
 
 def check_hosts(graph, probe=True):
