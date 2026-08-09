@@ -17,6 +17,7 @@ user_profile.json
 *.png
 slices/
 idfc_content.html
+oracle-*.md
 # tool scratch and caches - regenerated, never reviewed
 .playwright-mcp/
 .serena/
