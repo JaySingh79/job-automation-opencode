@@ -1,0 +1,42 @@
+---
+name: steel-developer
+description: Write reusable Steel code — SDK, REST API, Playwright, Puppeteer, Stagehand, or Browser Use scripts, examples, and app integrations. Use when building an app on Steel or working with credentials, profiles, files, extensions, live embeds, traces, or computer-use integrations.
+---
+
+# Steel Developer Skill
+
+Use Steel Developer when an agent should write reusable Steel code, scripts, examples, or app integrations.
+
+## Install
+
+```
+npx skills add steel-dev/skills --skill steel-developer
+```
+
+After adding the Steel Skills marketplace in Claude Code:
+
+```
+/plugin install steel-developer@steel-skills
+```
+
+## Use When
+
+- The user wants SDK, REST API, Playwright, Puppeteer, Stagehand, or Browser Use code.
+- The user is building an app on Steel.
+- The task involves credentials, profiles, files, extensions, live embeds, traces, or computer-use integrations.
+
+## Example Prompts
+
+- "Write a TypeScript Playwright script that runs on Steel."
+- "Show how to upload a file into a Steel session and submit it."
+- "Build a UI that embeds a live Steel session viewer."
+
+## Related Skills
+
+- Use `steel-browser` for live web work now.
+- Use `steel-session-debugging` for failed-session diagnosis.
+- Use `steel-reliability` for bot/proxy/CAPTCHA/login mitigation.
+
+## Source
+
+https://docs.steel.dev/overview/skills/available-skills/steel-developer
