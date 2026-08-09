@@ -11,7 +11,7 @@ from pathlib import Path
 
 import pytest
 
-ROOT = Path(__file__).parent
+ROOT = Path(__file__).resolve().parent.parent   # tests live in testing_files/, code at repo root
 sys.path.insert(0, str(ROOT))
 sys.path.insert(0, str(ROOT / "kb"))
 
@@ -296,9 +296,98 @@ def test_harvest_links_a_reworded_question_to_the_original(tmp_path, monkeypatch
     assert all(e["attrs"]["similarity"] >= kbmod.THRESHOLD for e in links)
 
 
-def test_preflight_blocks_on_the_known_inconsistencies():
+def test_preflight_passes_once_the_inconsistencies_are_reconciled():
     rc = subprocess.run([sys.executable, str(ROOT / "preflight.py"), "--no-probe"],
                         capture_output=True, text=True, cwd=ROOT)
-    assert rc.returncode == 1
-    for expected in ("Symx AI", "date_granularity", "ambiguous_value"):
-        assert expected in rc.stdout
+    assert rc.returncode == 0, rc.stdout
+    assert "0 blocker(s)" in rc.stdout
+
+
+# --------------------------------------------------- G9: fabrication vs staleness
+
+def test_role_missing_from_the_resume_only_warns():
+    """work_ex_details.md is the authoritative history and the resume PDF lags it, so a
+    role the resume omits is expected. Blocking on it stopped every run."""
+    import preflight as P
+    profile = {"work_experience": [
+        {"company": "Symx AI", "title": "Data Scientist", "dates": "Sep 2024 - Feb 2025"}]}
+    findings = P.check_consistency(profile, "Innovaccer  Pibit AI  Cambridge Judge")
+    kinds = {(level, kind) for level, _, kind, _ in findings}
+    assert (P.WARN, "role_not_on_resume") in kinds
+    assert not [f for f in findings if f[0] == P.BLOCK]
+
+
+def test_year_only_dates_still_block():
+    """E3: 'Symx AI months are absent — assumed Jan 2024 to Dec 2025' reached a submitted
+    application. Inventing a month is fabrication, not lag, so it stays a blocker."""
+    import preflight as P
+    profile = {"work_experience": [
+        {"company": "Symx AI", "title": "Data Scientist", "dates": "2024 - 2025"}]}
+    blocks = [f for f in P.check_consistency(profile, "Symx AI") if f[0] == P.BLOCK]
+    assert [f[2] for f in blocks] == ["date_granularity"]
+
+
+# --------------------------------------------------------------- G8 reconciliation
+
+def test_ambiguous_value_clears_when_the_answer_bank_agrees():
+    import preflight as P
+    profile = {"screening_answers": {"work_authorization_sponsorship": "No"}}
+    findings = P.check_ambiguity(profile, Graph())
+    assert not [f for f in findings if f[0] == P.BLOCK]
+    assert any(kind == "ambiguous_value_confirmed" for _, _, kind, _ in findings)
+
+
+def test_ambiguous_value_blocks_when_the_answer_bank_disagrees():
+    """The two cannot both be filled, and 'Yes' here is the disqualifying answer (E1)."""
+    import preflight as P
+    profile = {"screening_answers": {"work_authorization_sponsorship": "Yes"}}
+    blocks = [f for f in P.check_ambiguity(profile, Graph()) if f[0] == P.BLOCK]
+    assert [f[2] for f in blocks] == ["graph_disagrees_with_profile"]
+
+
+# ------------------------------------------------------------- E3 date parsing
+
+@pytest.mark.parametrize("text,expected", [
+    ("Sep 2024 - Feb 2025", (9, 2024, 2, 2025)),
+    ("Dec 2024 - Apr 2025", (12, 2024, 4, 2025)),
+    ("May 2023 - Sep 2023", (5, 2023, 9, 2023)),
+])
+def test_dates_parse_from_the_profile(text, expected):
+    import apply_orchestrator as A
+    assert A.parse_dates(text) == expected
+
+
+def test_a_missing_month_raises_instead_of_being_invented():
+    import apply_orchestrator as A
+    with pytest.raises(ValueError, match="no month"):
+        A.parse_dates("2024 - 2025")
+
+
+def test_every_profile_role_reaches_the_form():
+    """Entries are not filtered against the resume — that would silently drop real roles."""
+    import apply_orchestrator as A
+    profile = json.loads((ROOT / "user_profile.json").read_text(encoding="utf-8"))
+    entries = A.build_entries(profile)
+    assert len(entries) == len(profile["work_experience"])
+    assert [e["company"] for e in entries][0:2] == ["Pibit AI (YC W21)", "Pascal AI Labs"]
+
+
+# ------------------------------------------------------- G2 across both drivers
+
+def test_upload_probe_targets_the_tenants_own_file_input():
+    """Phenom has no data-automation-id; the Workday default must stay the default."""
+    wd = G.upload_probe("https://tmpfiles.org/dl/x/y.pdf", "R.pdf", 10)
+    ph = G.upload_probe("https://tmpfiles.org/dl/x/y.pdf", "R.pdf", 10,
+                        file_input="input[type=file]", confirm="[class*=upload]")
+    assert "file-upload-input-ref" in wd and "input[type=file]" not in wd
+    assert "input[type=file]" in ph and "file-upload-input-ref" not in ph
+    for sh in (wd, ph):
+        assert '"%PDF-"' in sh and "G2_FAIL" in sh      # integrity survives the swap
+
+
+def test_upload_verification_survives_a_tenant_without_workdays_wording():
+    out = '"Jay_Singh_Resume.pdf 120.35 KB"'
+    assert G.verify_upload(out, "Jay_Singh_Resume.pdf", success_marker="")["reported_kb"] == 120.35
+    with pytest.raises(G.UploadIntegrityError):
+        G.verify_upload("G2_FAIL: size 2600 != 123239", "Jay_Singh_Resume.pdf",
+                        success_marker="")
