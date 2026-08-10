@@ -7,7 +7,9 @@
         "-y",
         "@modelcontextprotocol/server-memory"
       ],
-      "env": {}
+      "env": {
+        "MEMORY_FILE_PATH": "D:\\Projects\\PRACTICE\\firecrawl_test\\kb\\memory.json"
+      }
     },
   
     "playwright": {

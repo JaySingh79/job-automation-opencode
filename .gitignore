@@ -11,6 +11,7 @@ guards.json
 runs/*.local.json
 # personal data / PII - never commit
 user_profile.json
+kb/memory.json
 *.pdf
 .pytest_cache/
 # screenshots and page captures of filled applications carry name, email and phone
