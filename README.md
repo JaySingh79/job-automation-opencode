@@ -36,6 +36,32 @@ portal agent, which fills the application and stops on the review page for your 
 - **Custom OpenCode configuration** — the 12 portal subagents, permission guardrails,
   and the model/task routing that holds parallel runs together.
 
+## Leash it before you trust it
+
+Left unsupervised, an OpenCode agent with a browser and a shell will wander: re-snapshot
+the same page dozens of times, install packages into your system Python, "fix" files you
+never asked about, and incinerate half a million tokens doing a 20k-token job. Assume
+every agent is one vague instruction away from redecorating your workspace.
+
+So constrain it in `opencode.json` (see `.opencode/opencode.json`) — permissions are
+load-bearing, not decorative:
+
+```json
+{
+  "$schema": "https://opencode.ai/config.json",
+  "permission": {
+    "edit": "ask",
+    "bash": { "*": "ask", "uv *": "allow", "node image_slicing.js *": "allow" },
+    "external_directory": "deny"
+  }
+}
+```
+
+And per agent in `.opencode/agents/*`: `task: deny` (agents spawning agents is how you
+get exponential chaos), `question: allow` for true blockers only, bash limited to
+`uv *` / `node *`. If an agent can't finish inside those walls, narrow the task — never
+widen the permissions to accommodate the wandering.
+
 ## Architecture
 
 ```text
