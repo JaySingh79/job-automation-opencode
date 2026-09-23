@@ -141,12 +141,42 @@ Every guard exists because a run paid for it (pitfalls in `kb/GRAPH.md`):
 - `user_profile.json` > `work_ex_details.md` > resume — the data hierarchy. The resume
   PDF is expected to lag the work history; never filter roles down to resume mentions.
 
+## Graph memory + retrieval tool (`graphrag`)
+
+Long-running sessions die by context bloat. This repo accumulates dozens of markdown
+notes — ATS playbooks, page structures, validation traps, answer banks — some pushing
+10k tokens each. Loading all of that "just in case" means stuffing hundreds of thousands
+of tokens of déjà vu into every run until the model can't see the actual form anymore.
+
+So the notes live in a **Neo4j knowledge graph** instead of in context. A cocoindex
+ingest over `./ats` builds `(:Document)-[:MENTION]->(:Entity)` structure with
+`[:RELATIONSHIP]` triples between entities, and a custom OpenCode tool does the fetching:
+
+- Tool: `graphrag` (`.opencode/tools/graphrag.ts` → `graphrag_query.py`) — ask a
+  natural-language question (`Workday searchable prompt gotchas`,
+  `Phenom country field re-render`), get back matched entities, relationship triples,
+  and source-file anchors, capped at ~6k chars. Agents query it BEFORE filling.
+- The same trick covers the context-heavy profile files: instead of loading all of
+  `user_profile.json` / `work_ex_details.md` (see the `*.example.*` shapes committed
+  here; real ones stay gitignored), agents fetch exactly the slice they need through a
+  tool call. Context goes on a diet; the facts stay on tap.
+- Safe and degradable: read-only retriever, bound Cypher parameters (no injection),
+  and a local markdown-scan fallback when Neo4j is empty or unreachable — the agent
+  never notices the difference, it just gets leaner answers.
+
 ## Setup
 
 - Python via `uv` only (`uv run`, `uv pip install`). Never raw `pip`/`python`.
 - Node via `npm run <script>` / `npx`; check `package.json` first
   (`@mendable/firecrawl-js`, `dotenv`, `sharp`).
 - `.env` holds `FIRECRAWL_API_KEY`; Firecrawl CLI on PATH; browser work via Playwright MCP.
+- **API keys — Firecrawl first, steel-browser second:** get a Firecrawl key at
+  [firecrawl.dev](https://www.firecrawl.dev) → `FIRECRAWL_API_KEY` in `.env` (powers
+  discovery, extraction, and the whole cloud driver). For pages that need a real
+  secondary cloud browser (bot walls, CAPTCHA-adjacent flows, login persistence), grab a
+  Steel key at [steel.dev](https://steel.dev) → `STEEL_API_KEY` in `.env` and drive it
+  through the `steel-browser` skill. Firecrawl does the bulk work; Steel is the backup
+  arm for whatever fights back.
 - Portal login rule: enter email only and pause — the human supplies passwords/OTPs.
   Never invent credentials.
 
@@ -190,3 +220,13 @@ Checkpoint every 2–3 applications.
   both acts and reports.
 - Verify before claiming success: targeted edit → `uv run pytest
   testing_files/test_guards.py -q` (+ `ruff check` if available). No clean evidence, no success.
+
+## Useful references
+
+- [Playwright MCP](https://github.com/microsoft/playwright-mcp) — MCP server setup,
+  browser profiles, and tool reference for everything under `initiate_fill.md`.
+- [Firecrawl introduction](https://docs.firecrawl.dev/introduction) — scrape / search /
+  extract overview behind the discovery side and the cloud driver.
+- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) — quality
+  community skills worth stealing patterns from.
+- [skills.sh](https://skills.sh/) — skill registry for finding and installing new ones.
