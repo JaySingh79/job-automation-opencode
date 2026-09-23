@@ -53,3 +53,8 @@ ats/workday/*
 !ats/oracle-recruiting/.gitkeep
 !ats/smartrecruiters/.gitkeep
 !ats/workday/.gitkeep
+
+credentials.json
+package.json
+field_map.json
+user_profile.json
