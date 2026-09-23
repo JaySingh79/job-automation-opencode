@@ -292,7 +292,8 @@ SURVEY = ("Do not click anything. Report: the current step name, the full list o
 def upload_script(page_url, filename, expect_bytes):
     """G2. Byte count and magic number are asserted inside the sandbox, before the file
     reaches the page — a 2.6 KB HTML error page once uploaded cleanly as resume.pdf. The
-    PDF is uploaded exactly as downloaded; nothing re-renders or reconstructs it."""
+    PDF is uploaded exactly as downloaded; nothing re-renders or reconstructs it.
+    Upload itself is handled via Playwright MCP (browser_file_upload)."""
     return f"""
 PAGE=$(curl -sL "{page_url}")
 LINK=$(echo "$PAGE" | grep -oE 'https://tmpfiles\\.org/dl/[0-9]+\\.[a-f0-9]+/[^"]+' | head -1)
@@ -302,9 +303,7 @@ SIZE=$(stat -c%s "/tmp/{filename}"); MAGIC=$(head -c 5 "/tmp/{filename}")
 echo "G2 size=$SIZE magic=$MAGIC expect={expect_bytes}"
 if [ "$MAGIC" != "%PDF-" ]; then echo "G2_FAIL: not a PDF ($MAGIC)"; exit 1; fi
 if [ "$SIZE" != "{expect_bytes}" ]; then echo "G2_FAIL: size $SIZE != {expect_bytes}"; exit 1; fi
-agent-browser upload "input[type=file]" "/tmp/{filename}" || echo "G2_NOTE: no visible file input"
-sleep 8
-agent-browser eval "document.body.innerText.slice(0,400)"
+echo "G2 verified /tmp/{filename} — upload via browser_file_upload next"
 """
 
 

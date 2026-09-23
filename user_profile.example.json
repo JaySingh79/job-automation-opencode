@@ -1,73 +1,160 @@
 {
   "credentials": {
     "workday": {
-      "email": "you@example.com",
-      "password": "YOUR_WORKDAY_PASSWORD"
+      "email": "user@example.com",
+      "password": "REPLACE_WITH_WORKDAY_PASSWORD"
+    },
+    "wellfound": {
+      "email": "user@example.com",
+      "password": "REPLACE_WITH_WELLFOUND_PASSWORD"
+    },
+    "Instahyre": {
+      "email": "user@example.com",
+      "password": "REPLACE_WITH_INSTAHYRE_PASSWORD"
+    },
+    "Naukri": {
+      "email": "user@example.com",
+      "password": "REPLACE_WITH_NAUKRI_PASSWORD"
     }
   },
   "personal_information": {
-    "first_name": "FIRST",
-    "last_name": "LAST",
-    "email": "you@example.com",
-    "phone": "+00-0000000000",
-    "address_line_1": "STREET ADDRESS",
-    "city": "CITY",
-    "state": "STATE",
+    "first_name": "FirstName",
+    "gender": "Male/Female/Other",
+    "last_name": "LastName",
+    "email": "user@example.com",
+    "phone": "+91-0000000000",
+    "address_line_1": "City Name",
+    "city": "City Name",
+    "state": "State Name",
     "postal_code": "000000",
-    "country": "COUNTRY",
-    "linkedin": "https://linkedin.com/in/your-handle/",
-    "github": "https://github.com/your-handle"
+    "country": "India",
+    "current_location": "City, State",
+    "linkedin": "https://linkedin.com/in/example-profile/",
+    "github": "https://github.com/example-user",
+    "portfolio": "https://example-portfolio.vercel.app/",
+    "kaggle": "https://www.kaggle.com/example-user"
   },
   "screening_answers": {
     "work_authorization_sponsorship": "No",
     "notice_period": "Immediate",
     "earliest_start_date": "YYYY-MM-DD",
     "source": "LinkedIn",
-    "_work_authorization_sponsorship_NOTE": "AMBIGUOUS — 'Yes' reads either as 'I am authorized' or 'I need sponsorship'. Opposite meanings, opposite outcomes. preflight.py (G8) blocks any run until this is confirmed against the job's country."
+    "_work_authorization_sponsorship_NOTE": "Means 'do I REQUIRE sponsorship' — answer No for domestic roles. Re-confirm before applying to a role outside your home country, where the answer may flip to Yes."
+  },
+  "total_experience_months": 12,
+  "_total_experience_NOTE": "Any 'total years/months of experience' field gets this value. Set by the user; use it instead of re-deriving from work_experience or trusting an ATS resume parser.",
+  "current_company": "Example Company",
+  "_current_company_NOTE": "Answer for 'current employer / current company' fields only — do not add it to work-history rows that already list it, and do not tick 'currently working here' on a row whose end date is in the past.",
+  "work_preferences": {
+    "travel_domestically": "Yes",
+    "travel_internationally": "No",
+    "willing_to_relocate": "Yes",
+    "all_locations": "Yes",
+    "length_of_willing_to_relocate": "2",
+    "relocation_reason": "Work from office preferred, hybrid would be great",
+    "comments": "By 2 it means 2 years",
+    "minimum_pay_text": "XX-YY LPA (negotiable)",
+    "minimum_pay_numeric": "XX",
+    "_minimum_pay_NOTE": "Expected CTC range. Free-text fields: 'XX-YY LPA (negotiable)'. Numeric-only: 'XX'."
   },
   "education": [
     {
-      "institution": "UNIVERSITY NAME",
-      "degree": "DEGREE",
-      "field_of_study": "FIELD OF STUDY",
+      "institution": "Example Institute of Technology",
+      "degree": "Bachelor of Technology (B.Tech)",
+      "field_of_study": "Example Engineering Discipline",
+      "department": "Example Department",
+      "start_date": "Month YYYY",
       "graduation_date": "Month YYYY",
-      "coursework": "Comma-separated list of relevant coursework."
+      "_start_date_NOTE": "Enter the course start only where a form has its own start-of-course field.",
+      "coursework": "Course 1, Course 2, Course 3.",
+      "tenth_percentage": "XX%",
+      "twelfth_percentage": "YY%",
+      "_grades_NOTE": "Use exact values for screener questions (10th/12th %); never estimate."
     }
   ],
   "work_experience": [
     {
-      "company": "COMPANY NAME",
-      "title": "JOB TITLE",
+      "company": "Example Company A",
+      "title": "Example Title",
       "dates": "Mon YYYY - Mon YYYY",
-      "location": "CITY, COUNTRY",
+      "location": "Remote",
       "bullets": [
-        "One achievement bullet per entry, as it should appear on the application.",
-        "Add as many bullets as the role warrants."
+        "Example accomplishment: built X that did Y, quantified impact Z.",
+        "Example accomplishment: engineered pipeline with A + B, reduced time from N hours to M minutes."
+      ]
+    },
+    {
+      "company": "Example Company B",
+      "title": "Example Intern Title",
+      "dates": "Mon YYYY - Mon YYYY",
+      "location": "City, Country",
+      "bullets": [
+        "Example accomplishment: built feature X with accuracy Y%.",
+        "Example accomplishment: integrated A/B tooling with thresholding and analytics."
       ]
     }
   ],
-  "resume_file_path": "C:\\path\\to\\your\\resume.pdf",
+  "resume_file_path": "D:\\path\\to\\Resumes\\Example Resume.pdf",
+  "_resume_NOTE": "Upload the local file by default — most ATS ask for an upload. Use resume_links only when the page asks for a URL instead of a file. Variant keys match between resume_files and resume_links.",
+  "resume_files": {
+    "GenAI_DS": {
+      "path": "D:\\path\\to\\Resumes\\Example Resume GenAI_DS.pdf",
+      "bytes": 123456,
+      "use_for": "GenAI / LLM / agents / general data science roles"
+    },
+    "ML_Vision": {
+      "path": "D:\\path\\to\\Resumes\\Example Resume ML_Vision.pdf",
+      "bytes": 123456,
+      "use_for": "computer vision / VLM / multimodal / document-AI roles"
+    },
+    "ML_Vision_RL": {
+      "path": "D:\\path\\to\\Resumes\\Example Resume ML_Vision_RL.pdf",
+      "bytes": 123456,
+      "use_for": "roles naming RL, decision intelligence, optimization, or planning"
+    }
+  },
+  "resume_links": {
+    "DS_Vision_RL": "https://drive.google.com/file/d/EXAMPLE_ID_1/view?usp=sharing",
+    "DS_Vision": "https://drive.google.com/file/d/EXAMPLE_ID_2/view?usp=sharing"
+  },
   "unseen_fields_encountered": [
     {
-      "aid": "formField-exampleFieldId",
-      "label": "The question text exactly as the ATS rendered it",
-      "value": "The answer that was filled in",
+      "aid": "formField-example-id-1",
+      "label": "Example screener question label as shown on the form",
+      "value": "No",
       "confidence": "high",
-      "reasoning": "Why this answer was chosen, for later human audit.",
-      "needs_human": false,
-      "escalated": false
+      "reasoning": "Why this example value was chosen.",
+      "needs_human": false
+    },
+    {
+      "aid": "formField-acceptTermsAndAgreements",
+      "label": "Yes, I have read and consent to the Terms & Conditions above.",
+      "value": "CHECKED",
+      "confidence": "high",
+      "reasoning": "Required to proceed. E-signature attesting application accuracy.",
+      "needs_human": false
+    }
+  ],
+  "hpe_screening_answers": [
+    {
+      "question": "Example screening question text as shown on the form?",
+      "answer": "No"
+    },
+    {
+      "question": "Do you possess a valid work permit in the country for which the position resides?",
+      "answer": "Yes"
     }
   ],
   "application_log": [
     {
-      "company": "COMPANY NAME",
+      "company": "Example Employer",
       "requisition": "000000",
-      "role": "ROLE TITLE",
+      "role": "Example Role Title",
       "ats": "Workday example.wd5.myworkdayjobs.com/EXT",
-      "submitted": false,
+      "submitted": true,
       "submitted_date": "YYYY-MM-DD",
-      "status": "Draft",
-      "note": "Free-text notes about how this particular run went."
+      "status": "In Process",
+      "note": "Example note about this tenant's submit behavior."
     }
   ]
 }

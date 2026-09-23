@@ -340,9 +340,7 @@ SIZE=$(stat -c%%s "/tmp/%(name)s")
 MAGIC=$(head -c 5 "/tmp/%(name)s")
 echo "size=$SIZE magic=$MAGIC"
 if [ "$MAGIC" != "%%PDF-" ]; then echo "ABORT: not a PDF"; exit 1; fi
-agent-browser upload "input[data-automation-id=file-upload-input-ref]" "/tmp/%(name)s"
-sleep 9
-agent-browser eval "Array.from(document.querySelectorAll('[data-automation-id=file-upload-item]')).map(e=>e.innerText.replace(/\\n/g,' ')).join(' || ')"
+echo "verified /tmp/%(name)s — upload via browser_file_upload next, confirm via browser_evaluate"
 """
 
 WD_STEP3 = """

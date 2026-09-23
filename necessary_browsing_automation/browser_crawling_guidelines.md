@@ -55,26 +55,6 @@
 | Human-readable output        | LLM/RAG-ready output                                 |
 | Not bulk crawling            | Production-scale crawling                            |
 
-## 3. Production Crawling Pipeline
-
-```text
-URL Queue → Scheduler → Browser Pool → Render JS → Extract → Clean → Chunk → Metadata → Embeddings → Vector DB
-```
-
-## 4. JS Rendering
-
-Without JS:
-
-```html
-<div id="root"></div>
-```
-
-With JS:
-
-```text
-HTML → Execute JS → Render DOM → Extract
-```
-
 Interactive elements are one of the biggest challenges because the desired content is often hidden until a user performs an action.
 
 Common issues include:
@@ -91,30 +71,9 @@ Date Pickers	                        Require multiple clicks and selections	    
 Pagination	                            Content spans multiple pages	            Google search results
 Drag & Drop	                            Requires complex mouse interactions	        Kanban boards like Trello
 
-| Challenge                             | Can modern browser crawlers handle it automatically? |
-| ------------------------------------- | :--------------------------------------------------: |
-| JavaScript rendering                  |                         ✅ Yes                        |
-| Clicking buttons                      |                       ✅ Usually                      |
-| Infinite scrolling                    |                       ✅ Usually                      |
-| Pagination                            |                         ✅ Yes                        |
-| Dropdowns                             |                       ✅ Usually                      |
-| Tabs & accordions                     |                         ✅ Yes                        |
-| Form filling                          |              ✅ Yes (if inputs are known)             |
-| File downloads/uploads                |                         ✅ Yes                        |
-| Multi-step workflows                  |                        ✅ Often                       |
-| Login (known credentials)             |                         ✅ Yes                        |
-| Dynamic waits                         |                         ✅ Yes                        |
-| CAPTCHA / human verification          |                    ❌ Not reliably                    |
-| MFA / OTP                             |    ❌ Usually requires human or external auth flow    |
-| Unknown workflows                     |                      ⚠ Sometimes                     |
-| Complex visual reasoning              |               ⚠ Improving, not perfect               |
-| Websites actively blocking automation |                   ❌ Not guaranteed                   |
-
-
 ### Why not?
 
 A crawler follows programmed logic. It cannot always infer:
-
 Which button is the correct one when several look similar.
 What values to enter into arbitrary forms.
 When a site intentionally requires a human (e.g., CAPTCHA or multi-factor authentication).
@@ -163,18 +122,6 @@ Modern browser agents can usually automate these, but not reliably CAPTCHAs/MFA.
 | Browser Storage    | Cookies, LocalStorage, SessionStorage, IndexedDB |
 | Console            | Errors, logs                                     |
 
-Example
-
-On a React app:
-Browser
-├── DOM
-├── Accessibility Tree
-├── Screenshot
-├── Network Requests (GraphQL)
-├── Cookies
-├── LocalStorage
-└── JS Runtime
-
 ## 7. Visual Element = Multi-layer Object
 
 ```text
@@ -197,17 +144,6 @@ Example ("Buy Now"):
 * Network → `POST /cart/add`
 
 ## 8. Date Picker
-
-### Layers
-
-| Layer              | Example                                        |
-| ------------------ | ---------------------------------------------- |
-| DOM                | `<input type="date">` or custom calendar DOM   |
-| CSS                | Popup, selected day, disabled dates            |
-| Accessibility      | `textbox`, `dialog`, `grid`, `gridcell`        |
-| JS                 | `openCalendar()`, `selectDate()`, `onChange()` |
-| Visual             | Calendar popup                                 |
-| Network (optional) | Fetch available slots                          |
 
 So, from an ML/browser-agent perspective:
 / A visual element = DOM + Layout/CSS + Accessibility semantics + JavaScript runtime behavior + Visual appearance + Browser/Network state. /
@@ -342,45 +278,3 @@ DOM
 + Visual Rendering
 + Browser State
 ```
-
-## 9. Fast one-shot recon loop (form pages)
-
-Speed rule: **grab all layers of the page in a single batched turn, then only DECIDE + FILL.**
-No drip-feed of per-field snapshots — that is what made the Oracle run slow.
-
-### On landing, fire these together (one assistant turn, parallel calls):
-
-1. `browser_snapshot` — accessibility tree + `@ref`s (what you *act* on).
-2. `browser_evaluate` running `reconFn` from `page_recon.js` — every interactive element fused
-   across DOM + accepted-input contract (`required/maxlength/pattern/inputmode/min/max`) + a11y state
-   (`checked/pressed/expanded/invalid/disabled`) + CSS visibility + rect, **keyed in page order**,
-   plus counts (`required`, `empty_required`, `honeypots`).
-3. `browser_take_screenshot { fullPage: true }` — then `node image_slicing.js <shot>.png slices/`
-   to cut a tall page into fixed 1400px tiles keyed `-slice-01..NN` with a manifest. Read the slices
-   in order; a field's slice = which tile its `rect.y` falls in.
-4. (debug only) `read_console_messages`, `read_network_requests`.
-
-That one turn yields DOM + a11y + CSS + accepted-input + visual + console at once.
-
-### Why the screenshot is NOT optional
-
-The DOM lies. On Oracle `minimumPay` reported `type=text`, no `pattern` — but was numeric-only with a
-hidden `maxlength=18`, and required siblings (Currency, Pay Frequency) appeared only after it was
-filled. `reconFn` catches `maxlength`/`required`; the **sliced screenshot** catches runtime validation
-text ("Enter a whole number.") and conditionally-revealed fields. Use both, always, for money/validated
-sections.
-
-### Then: DECIDE -> FILL
-
-- Map each `empty_required` field to a value from `user_profile.json` (+ `work_ex_details.md` for prose).
-- **Skip anything with `honeypot: true`.**
-- Batch every text/url/email field into ONE `browser_fill_form`; click radios/buttons by `@ref`.
-- Long prose fields get article-stripped in transit — set them via the base64 + native-setter trick
-  (see `ats/google-forms/observation_importance.md`).
-- Comboboxes: open -> type the NAME (not a code) -> click the `gridcell`.
-- Verify with one `reconFn` re-run (expect `empty_required: 0`) + one screenshot. Stop. Human submits (G1).
-
-### Artifacts
-
-- `page_recon.js` -> `reconFn()` : paste body into `browser_evaluate`.
-- `image_slicing.js` : `node image_slicing.js <input.png> [outDir]` -> keyed tiles + manifest.

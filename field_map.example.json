@@ -1,0 +1,410 @@
+{
+  "_generated_from": "kb/graph.json — do not hand-edit; run `python kb/project.py`",
+  "_tenant": "tenant:example.wd5/EXT",
+  "_ats": "ats:workday",
+  "flow": {
+    "steps": [
+      "Sign In",
+      "My Information",
+      "My Experience",
+      "Application Questions",
+      "Voluntary Disclosures",
+      "Review"
+    ],
+    "auth": "email/password, no verification interstitial",
+    "entry_choices": [
+      "Autofill with Resume",
+      "Apply Manually",
+      "Use My Last Application"
+    ],
+    "SUBMIT_WARNING": "There is NO separate Submit button. pageFooterNextButton on step 4 (Voluntary Disclosures) SUBMITS the application.",
+    "terminal_submit_step": 4
+  },
+  "fields": {
+    "auth.email": {
+      "step": 0,
+      "label": "Email Address",
+      "type": "text_bare",
+      "selector": "input[data-automation-id='email']",
+      "automation_id": "email",
+      "recipe": "automation-id is on the input itself, not a wrapper",
+      "source": "credentials.workday.email"
+    },
+    "auth.password": {
+      "step": 0,
+      "label": "Password",
+      "type": "password_bare",
+      "selector": "input[data-automation-id='password']",
+      "automation_id": "password",
+      "recipe": "automation-id is on the input itself; never log the value",
+      "source": "credentials.workday.password"
+    },
+    "auth.submit": {
+      "step": 0,
+      "label": "Sign In submit",
+      "type": "button_bare",
+      "selector": "button[data-automation-id='signInSubmitButton']",
+      "automation_id": "signInSubmitButton",
+      "recipe": "automation-id is on the button itself"
+    },
+    "control.back": {
+      "step": 0,
+      "label": "Back",
+      "type": "button_bare",
+      "selector": "button[data-automation-id='pageFooterBackButton']",
+      "automation_id": "pageFooterBackButton",
+      "recipe": "automation-id is on the button itself"
+    },
+    "control.next": {
+      "step": 0,
+      "label": "Save and Continue",
+      "type": "button_bare",
+      "selector": "button[data-automation-id='pageFooterNextButton']",
+      "automation_id": "pageFooterNextButton",
+      "recipe": "automation-id is on the button itself"
+    },
+    "address.city": {
+      "step": 1,
+      "label": "City",
+      "type": "text",
+      "selector": "[data-automation-id='formField-city'] input",
+      "automation_id": "formField-city",
+      "value": "City Name",
+      "recipe": "wrapper DIV holds the automation-id; descend to the control",
+      "source": "personal_information.city"
+    },
+    "address.country": {
+      "step": 1,
+      "label": "Country",
+      "type": "prompt_dropdown",
+      "selector": "[data-automation-id='formField-country'] button",
+      "automation_id": "formField-country",
+      "value": "India",
+      "recipe": "click the wrapper's button, wait, click get_by_role('option', name=X, exact=True)",
+      "source": "personal_information.country"
+    },
+    "address.line1": {
+      "step": 1,
+      "label": "Address Line 1",
+      "type": "text",
+      "selector": "[data-automation-id='formField-addressLine1'] input",
+      "automation_id": "formField-addressLine1",
+      "value": "123 Example Street",
+      "recipe": "wrapper DIV holds the automation-id; descend to the control",
+      "source": "personal_information.address_line_1"
+    },
+    "address.postal_code": {
+      "step": 1,
+      "label": "Postal Code",
+      "type": "text",
+      "selector": "[data-automation-id='formField-postalCode'] input",
+      "automation_id": "formField-postalCode",
+      "value": "000000",
+      "recipe": "wrapper DIV holds the automation-id; descend to the control",
+      "source": "personal_information.postal_code"
+    },
+    "history.previous_employee": {
+      "step": 1,
+      "label": "Have you previously worked for this organization?",
+      "type": "radio",
+      "selector": "[data-automation-id='formField-candidateIsPreviousWorker'] input[type=radio]",
+      "automation_id": "formField-candidateIsPreviousWorker",
+      "value": "No (index 1)",
+      "recipe": "wrapper DIV holds the automation-id; descend to the control"
+    },
+    "identity.first_name": {
+      "step": 1,
+      "label": "Given Name(s)",
+      "type": "text",
+      "selector": "[data-automation-id='formField-legalName--firstName'] input",
+      "automation_id": "formField-legalName--firstName",
+      "value": "FirstName",
+      "recipe": "wrapper DIV holds the automation-id; descend to the control",
+      "source": "personal_information.first_name"
+    },
+    "identity.last_name": {
+      "step": 1,
+      "label": "Family Name",
+      "type": "text",
+      "selector": "[data-automation-id='formField-legalName--lastName'] input",
+      "automation_id": "formField-legalName--lastName",
+      "value": "LastName",
+      "recipe": "wrapper DIV holds the automation-id; descend to the control",
+      "source": "personal_information.last_name"
+    },
+    "phone.country_code": {
+      "step": 1,
+      "label": "Country Phone Code",
+      "type": "multiselect",
+      "selector": "[data-automation-id='formField-countryPhoneCode']",
+      "automation_id": "formField-countryPhoneCode",
+      "value": "India (+91)",
+      "recipe": "pre-populated from country; verify rather than set"
+    },
+    "phone.device_type": {
+      "step": 1,
+      "label": "Phone Device Type",
+      "type": "prompt_dropdown",
+      "selector": "[data-automation-id='formField-phoneType'] button",
+      "automation_id": "formField-phoneType",
+      "value": "Personal Mobile",
+      "recipe": "click the wrapper's button, wait, click get_by_role('option', name=X, exact=True)",
+      "options": [
+        "Home",
+        "Personal Mobile"
+      ]
+    },
+    "phone.number": {
+      "step": 1,
+      "label": "Phone Number",
+      "type": "text",
+      "selector": "[data-automation-id='formField-phoneNumber'] input",
+      "automation_id": "formField-phoneNumber",
+      "value": "0000000000",
+      "recipe": "wrapper DIV holds the automation-id; descend to the control",
+      "source": "personal_information.phone"
+    },
+    "phone.sms_opt_in": {
+      "step": 1,
+      "label": "SMS opt-in",
+      "type": "checkbox",
+      "selector": "input[data-automation-id='phone-sms-opt-in']",
+      "automation_id": "phone-sms-opt-in",
+      "value": "UNCHECKED",
+      "recipe": "wrapper DIV holds the automation-id; descend to the control"
+    },
+    "attachment.resume": {
+      "step": 2,
+      "label": "Resume/CV",
+      "type": "file",
+      "selector": "input[data-automation-id='file-upload-input-ref']",
+      "automation_id": "file-upload-input-ref",
+      "value": "Example Resume.pdf (123.45 KB)",
+      "recipe": "wrapper DIV holds the automation-id; descend to the control",
+      "source": "resume_file_path"
+    },
+    "control.add_another": {
+      "step": 2,
+      "label": "Add Another",
+      "type": "button_indexed",
+      "selector": "button[data-automation-id='add-button']",
+      "automation_id": "add-button",
+      "recipe": "several buttons share this automation-id: nth(0)=Work Experience, nth(1)=Education, nth(2)=Languages"
+    },
+    "education.degree": {
+      "step": 2,
+      "label": "Degree",
+      "type": "prompt_dropdown",
+      "selector": "[data-automation-id='formField-degree'] button",
+      "automation_id": "formField-degree",
+      "value": "Bachelor's Degree",
+      "recipe": "click the wrapper's button, wait, click get_by_role('option', name=X, exact=True)",
+      "options": [
+        "Associate's Degree",
+        "Bachelor's Degree",
+        "Diploma",
+        "Doctor of Medicine",
+        "Doctorate",
+        "GED",
+        "High School",
+        "Honours",
+        "Juris Doctor",
+        "Master's Degree",
+        "None",
+        "Other",
+        "University"
+      ],
+      "source": "education[].degree"
+    },
+    "education.field_of_study": {
+      "step": 2,
+      "label": "Field of Study",
+      "type": "searchable_prompt",
+      "selector": "[data-automation-id='formField-fieldOfStudy']",
+      "automation_id": "formField-fieldOfStudy",
+      "value": "Computer and Information Science",
+      "recipe": "click promptSearchButton, click placeholder='Search', type, press Enter, click the returned option. Typing in the field itself does NOT filter.",
+      "options": [
+        "Computer and Information Science"
+      ],
+      "source": "education[].field_of_study"
+    },
+    "education.school": {
+      "step": 2,
+      "label": "School or University",
+      "type": "text",
+      "selector": "[data-automation-id='formField-schoolName'] input",
+      "automation_id": "formField-schoolName",
+      "value": "Example Institute of Technology",
+      "recipe": "wrapper DIV holds the automation-id; descend to the control",
+      "source": "education[].institution"
+    },
+    "social.linkedin": {
+      "step": 2,
+      "label": "LinkedIn",
+      "type": "text",
+      "selector": "[data-automation-id='formField-linkedInAccount'] input",
+      "automation_id": "formField-linkedInAccount",
+      "value": "https://www.linkedin.com/in/example-profile/",
+      "recipe": "wrapper DIV holds the automation-id; descend to the control",
+      "source": "personal_information.linkedin",
+      "constraints": [
+        "constraint:linkedin_www"
+      ]
+    },
+    "work.company": {
+      "step": 2,
+      "label": "Company",
+      "type": "text_indexed",
+      "selector": "[data-automation-id='formField-companyName'] input",
+      "automation_id": "formField-companyName",
+      "recipe": "locator(wrapper).nth(i).locator('input')",
+      "source": "work_experience[].company",
+      "constraints": [
+        "constraint:illegal_chars"
+      ]
+    },
+    "work.description": {
+      "step": 2,
+      "label": "Role Description",
+      "type": "textarea_indexed",
+      "selector": "[data-automation-id='formField-roleDescription'] textarea",
+      "automation_id": "formField-roleDescription",
+      "recipe": "locator(wrapper).nth(i).locator('textarea')",
+      "source": "work_experience[].bullets",
+      "constraints": [
+        "constraint:illegal_chars"
+      ]
+    },
+    "work.end_date": {
+      "step": 2,
+      "label": "To",
+      "type": "date_mm_yyyy",
+      "selector": "[data-automation-id='formField-endDate']",
+      "automation_id": "formField-endDate",
+      "recipe": "fill dateSectionMonth-input (zero-padded) then dateSectionYear-input",
+      "source": "work_experience[].dates"
+    },
+    "work.location": {
+      "step": 2,
+      "label": "Location",
+      "type": "text_indexed",
+      "selector": "[data-automation-id='formField-location'] input",
+      "automation_id": "formField-location",
+      "recipe": "locator(wrapper).nth(i).locator('input')",
+      "source": "work_experience[].location",
+      "constraints": [
+        "constraint:illegal_chars"
+      ]
+    },
+    "work.start_date": {
+      "step": 2,
+      "label": "From",
+      "type": "date_mm_yyyy",
+      "selector": "[data-automation-id='formField-startDate']",
+      "automation_id": "formField-startDate",
+      "recipe": "fill dateSectionMonth-input (zero-padded) then dateSectionYear-input",
+      "source": "work_experience[].dates"
+    },
+    "work.title": {
+      "step": 2,
+      "label": "Job Title",
+      "type": "text_indexed",
+      "selector": "[data-automation-id='formField-jobTitle'] input",
+      "automation_id": "formField-jobTitle",
+      "recipe": "locator(wrapper).nth(i).locator('input')",
+      "source": "work_experience[].title",
+      "constraints": [
+        "constraint:illegal_chars"
+      ]
+    },
+    "legal.terms_accept": {
+      "step": 4,
+      "label": "Terms & Conditions consent",
+      "type": "attestation_checkbox",
+      "selector": "[data-automation-id='formField-acceptTermsAndAgreements'] input[type=checkbox]",
+      "automation_id": "formField-acceptTermsAndAgreements",
+      "value": "CHECKED",
+      "recipe": "e-signature — G11 applies"
+    },
+    "q.are_you_currently_a_gartner_license": {
+      "step": 3,
+      "label": "Are you currently a Gartner license user?",
+      "type": "prompt_dropdown",
+      "aid": "formField-f05acb97f85d10014e5831683c390001",
+      "value": "No",
+      "confidence": "high",
+      "decided_by": "agent",
+      "reasoning": "Student/intern history; no research subscription."
+    },
+    "q.are_you_currently_being_considered_for": {
+      "step": 3,
+      "label": "Are you currently being considered for a job or have you recently applied at Gartner?",
+      "type": "prompt_dropdown",
+      "aid": "formField-f05acb97f85d10014e58303374460000",
+      "value": "No",
+      "confidence": "high",
+      "decided_by": "agent",
+      "reasoning": "No other active application for this account at fill time."
+    },
+    "q.are_you_currently_employed_by_gartner": {
+      "step": 3,
+      "label": "Are you currently employed by Gartner?",
+      "type": "prompt_dropdown",
+      "aid": "formField-f05acb97f85d10014e58303374460004",
+      "value": "No",
+      "confidence": "high",
+      "decided_by": "agent",
+      "reasoning": "No Gartner role in profile or resume."
+    },
+    "q.are_you_currently_subject_to_a": {
+      "step": 3,
+      "label": "Are you currently subject to a non-competition or non-solicitation agreement that could impact future employment?",
+      "type": "prompt_dropdown",
+      "aid": "formField-f05acb97f85d10014e58320207550001",
+      "value": "No",
+      "confidence": "medium",
+      "decided_by": "agent",
+      "reasoning": "No non-compete recorded in profile. Assumed none."
+    },
+    "q.has_gartner_employed_you_in_the": {
+      "step": 3,
+      "label": "Has Gartner employed you in the past?",
+      "type": "prompt_dropdown",
+      "aid": "formField-f05acb97f85d10014e5830cd6bfc0002",
+      "value": "No",
+      "confidence": "high",
+      "decided_by": "agent",
+      "reasoning": "No Gartner role in work history."
+    },
+    "q.in_your_current_role_are_you": {
+      "step": 3,
+      "label": "In your current role, are you involved in procuring, negotiating, approving, or influencing contracts or expenditures for Gartner services?",
+      "type": "prompt_dropdown",
+      "aid": "formField-f05acb97f85d10014e5831683c390004",
+      "value": "No",
+      "confidence": "high",
+      "decided_by": "agent",
+      "reasoning": "Individual-contributor intern roles; no procurement authority."
+    },
+    "q.will_you_now_or_in_the": {
+      "step": 3,
+      "label": "Will you, now or in the future, require Visa/Sponsorship within the country for which you are applying?",
+      "type": "prompt_dropdown",
+      "aid": "formField-f05acb97f85d10014e5830cd6bfc0005",
+      "value": "No",
+      "confidence": "high",
+      "decided_by": "user",
+      "reasoning": "Means 'do I REQUIRE sponsorship' — answer No for domestic roles. Escalated; user chose No."
+    }
+  },
+  "not_present_in_this_ats": [
+    "education[].coursework",
+    "personal_information.github",
+    "personal_information.state",
+    "screening_answers.earliest_start_date",
+    "screening_answers.notice_period",
+    "screening_answers.source",
+    "skills"
+  ]
+}

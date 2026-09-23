@@ -10,14 +10,6 @@
       "env": {
         "MEMORY_FILE_PATH": "D:\\Projects\\PRACTICE\\firecrawl_test\\kb\\memory.json"
       }
-    },
-  
-    "playwright": {
-      "command": "npx",
-      "args": [
-        "-y",
-        "@playwright/mcp@latest"
-      ]
     }
   }
 }
