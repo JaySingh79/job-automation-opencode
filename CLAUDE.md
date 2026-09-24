@@ -23,11 +23,10 @@ is not knowable in advance. So the last click always belongs to a human, on ever
 ATS. That is the load-bearing invariant of this repo.
 
 ⚠️ **The old record was wrong and is still wrong in other files.** Several places in this repo
-(`execution_instruction.md`, `apply_session.py`, `guards.py`, `user_profile.json`, `kb/graph.json` →
-`pitfall:A1` → `kb/GRAPH.md`) still say the application was "submitted without human review" because
+(`execution_instruction_firecrawl.md`, `apply_session.py`, `guards.py`, `user_profile.json`)
+still say the application was "submitted without human review" because
 step 4's continue was the submit. That did not happen. Do not repeat that claim, and do not use it as
-justification when writing new code or docs. Correcting it properly means editing `kb/graph.json`
-(the source of truth) and re-projecting/re-rendering — not hand-editing `kb/GRAPH.md`.
+justification when writing new code or docs. Correcting it means editing those files directly.
 
 ### What is actually known vs. assumed
 
@@ -91,12 +90,11 @@ Rules that keep this from becoming a second source of truth:
 - `NOTES.md` is **memory, not config**. No code reads it. It records what a human or agent would
   otherwise have to rediscover: how many steps, what the terminal step is actually called, which
   fields are searchable prompts, what error text looks like, which driver worked, what it cost.
-- `kb/graph.json` remains **the only source of truth for anything code reads** — selectors, answers,
+- `guards.json` is **the source of truth for anything code reads** — selectors, answers,
   constraints, `terminal_submit_step`. When an observation in `NOTES.md` becomes actionable, fold it
-  into the graph via `kb/harvest.py` and let the projection carry it. Never teach the orchestrator
-  from a notes file.
+  into `guards.json` / `guards.py` directly.
 - JSON in an ATS folder is either a raw capture (evidence, keep it) or a pending observation awaiting
-  harvest. Once harvested, the graph wins; don't hand-maintain both.
+  a guards update. Once folded in, the guards win; don't hand-maintain both.
 - Write the folder **during or immediately after** the run, while the session is still fresh. A
   pitfall you don't write down gets paid for twice — and, as the A1 entry shows, a pitfall written
   down wrong is worse than none.
@@ -108,7 +106,6 @@ All Python goes through the venv. Package installs go through `uv`, never raw `p
 ```powershell
 .venv\Scripts\python.exe preflight.py                      # gate, 0 credits; exit 1 = blocked
 .venv\Scripts\python.exe preflight.py --no-probe           # skip host curl probes (offline/tests)
-.venv\Scripts\python.exe kb\project.py tenant:gartner.wd5/EXT   # graph -> field_map.json + guards.json
 
 # selector-free driver (ATS-agnostic, prompt-based) — prefer this for a new ATS
 .venv\Scripts\python.exe apply_session.py --job HPE --dry-run
@@ -118,9 +115,6 @@ All Python goes through the venv. Package installs go through `uv`, never raw `p
 # selector-driven orchestrator (Workday-specific today)
 $env:JOB="Gartner"; $env:DRY_RUN="1"; .venv\Scripts\python.exe apply_orchestrator.py   # 0 credits
 $env:JOB="Gartner"; Remove-Item Env:DRY_RUN; .venv\Scripts\python.exe apply_orchestrator.py  # live, stops at G1
-
-.venv\Scripts\python.exe kb\harvest.py runs\<run>.json     # fold a run back in + regenerate GRAPH.md
-.venv\Scripts\python.exe kb\harvest.py --render-only       # regenerate GRAPH.md only
 
 uv pip install -r requirements.txt
 ```
@@ -155,28 +149,15 @@ Env: `.env` holds `FIRECRAWL_API_KEY`. `firecrawl` CLI must be on PATH (v1.19.27
 One direction of data flow. Do not shortcut it.
 
 ```
-kb/graph.json  --kb/project.py-->  field_map.json + guards.json  -->  apply_orchestrator.py
-     ^                                                                      |
-     +----------------- kb/harvest.py runs/<run>.json <---------------------+
+user_profile.json + guards.json + field_map.json  -->  apply_orchestrator.py
+         ^                                                      |
+         +----------- runs/<run>.json (fold learnings back) <--+
 ```
 
-**`kb/graph.json` is the only source of truth.** `field_map.json` and `guards.json` are generated
-projections — hand-edits are lost on the next `kb/project.py`. `guards.json` is gitignored. To change
-a selector, an answer, a constraint, or which step submits, edit the graph (via `kb/seed_gartner.py`,
-a run file + `harvest.py`, or the `Graph` API), then re-project.
+**`user_profile.json` is the answer bank, `guards.json` holds guard rules, `field_map.json`
+holds per-tenant selectors.** All three are hand-maintained. To change
+a selector, an answer, a constraint, or which step submits, edit them directly.
 
-- `kb/kb.py` — node/edge store over plain JSON. Node types and edge rels are whitelisted; unknown
-  ones raise. **Nodes are never deleted.** A material attr change clones the old node as `id@date`
-  and links `superseded_by`, so a tenant silently changing its DOM leaves a trail.
-  `find_answer()` is the compounding lever: `max(SequenceMatcher ratio, content-word containment)`
-  at `THRESHOLD = 0.78`, so the same screening question reworded by another ATS still resolves.
-  Answers whose edge carries `employer_specific` are locked to their tenant — "Are you currently
-  employed by Gartner?" must not answer Acme's form.
-- `kb/harvest.py` — merges a run file into the graph and re-renders `GRAPH.md`. The run-file schema
-  is documented in `harvest()`'s docstring; `runs/example-greenhouse.json` is the working reference.
-  Appends to `kb/events.jsonl` first (append-only, never rewritten) so a bad merge is reconstructable.
-- `kb/project.py` — flattens the graph into the two files the orchestrator reads. Screening answers
-  become `q.*` keys, which is exactly what the orchestrator greps for.
 - `guards.py` — guard *implementations*; the rules they enforce come from `guards.json`.
 - `preflight.py` — G9/G8/C4 gate. Runs automatically inside a live orchestrator run unless
   `SKIP_PREFLIGHT=1`. `--warn-only` downgrades blockers.
@@ -191,8 +172,7 @@ a run file + `harvest.py`, or the `Graph` API), then re-project.
   orchestrator is the path that is precise about one known flow.
 
 The layering is what makes a second application cheap: canonical fields and the answer bank are
-universal, constraints are per-ATS-product, selectors are per-tenant. Adding a tenant must not touch
-the `selector:tenant:gartner*` subtree — `test_harvest_grows_shared_layers_*` enforces that.
+universal, constraints are per-ATS-product, selectors are per-tenant.
 
 ## Hard rules
 
@@ -251,11 +231,10 @@ Workday-specific (do **not** assume these hold on a new ATS — verify and recor
 - `execution_instruction_firecrawl.md` is the runbook — operating procedure only, no field data. The
   name carries the driver because the procedure is Firecrawl-specific; the local driver's is not
   written yet.
-- `kb/GRAPH.md` is generated. Edit the graph and re-render; never edit it directly.
 - The per-ATS notes file is `NOTES.md` under `ats/workday/` and `observation_importance.md` under the
   folders written later (`oracle-recruiting`, `google-forms`, `microsoft-forms`). Both are the same
-  thing — hand-written memory, never generated. `kb/GRAPH.md` is generated and never hand-written. If
-  a fact belongs to code, it goes in the graph, not the notes.
+  thing — hand-written memory, never generated. If
+  a fact belongs to code, it goes in `guards.json` / `guards.py`, not the notes.
 - `necessary_browsing_automation/` holds driver-agnostic browsing notes — `browser_crawling_guidelines.md`
   and a Gemini transcript kept as raw evidence. Prose only; no code reads it.
 - `steel_based_automation/PLAN.md` is a proposal for a third driver (Steel). Nothing in it is built.
@@ -265,5 +244,4 @@ Workday-specific (do **not** assume these hold on a new ATS — verify and recor
 - `.agents/skills/agent-browser/SKILL.md` carries a snapshot of the agent-browser command reference.
   When it disagrees with `agent-browser skills get core --full`, the CLI wins.
 - `.firecrawl/` is a scratch cache of live-session probe scripts and outputs, gitignored except where
-  noted. `.firecrawl/field_map.handwritten.json` is the pre-projection baseline that
-  `test_projection_round_trips_the_handwritten_map` compares against — don't delete it.
+  noted. `.firecrawl/field_map.handwritten.json` is a baseline snapshot of the field map — don't delete it.

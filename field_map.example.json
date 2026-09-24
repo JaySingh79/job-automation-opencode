@@ -1,5 +1,5 @@
 {
-  "_generated_from": "kb/graph.json — do not hand-edit; run `python kb/project.py`",
+  "_generated_from": "hand-maintained example — copy to field_map.json and edit directly",
   "_tenant": "tenant:example.wd5/EXT",
   "_ats": "ats:workday",
   "flow": {

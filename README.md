@@ -5,7 +5,7 @@ One posting = one form session. The automation fills everything safely answerabl
 stops on the review page. **The final Submit always belongs to a human.**
 
 Built on [OpenCode](https://opencode.ai) orchestration, Playwright browser automation,
-Firecrawl cloud extraction, portal-specific subagents, and a knowledge graph over the
+Firecrawl cloud extraction, portal-specific subagents, and per-ATS notes capturing the
 lessons each run teaches.
 
 ## Quickstart (the easy way)
@@ -31,8 +31,8 @@ portal agent, which fills the application and stops on the review page for your 
   accessibility-tree driven), plus the browser extension for your real logged-in Chrome.
 - **Firecrawl** — discovery + extraction side: job listings become structured workload
   before any browser agent starts crawling.
-- **Knowledge Graph tooling** — markdown memory (`ats/*/`, `kb/GRAPH.md`) projected into
-  `kb/graph.json`, exposed to agents as a queryable tool so nobody re-reads 30+ files.
+- **Per-ATS memory** — hand-written notes (`ats/*/`) recording flow shapes, quirks,
+  and traps, so nobody re-pays for the same lesson twice.
 - **Custom OpenCode configuration** — the 12 portal subagents, permission guardrails,
   and the model/task routing that holds parallel runs together.
 
@@ -69,14 +69,14 @@ Job discovery ──────── Firecrawl (extract listings first, hand s
 Browser automation ─── Playwright MCP (accessibility tree, deterministic, stateful)
 Existing browser state  Playwright MCP browser extension (real Chrome: sessions, cookies)
 Parallelization ────── Portal-specific subagents (.opencode/agents/*, one per ATS)
-Long-term knowledge ── Knowledge graph (kb/graph.json) + per-ATS notes (ats/*/)
+Long-term knowledge ── per-ATS notes (ats/*/) + answer bank (user_profile.json)
 Orchestration ──────── OpenCode (primary agent plans, subagents execute, ledger checkpoints)
 ```
 
 The expensive insight: a single naive application run can burn ~500k tokens. Three
 decisions keep it cheap — extract before driving (Firecrawl), split by portal
-(subagents carry only their ATS context), and query memory instead of re-reading it
-(graph lookup instead of 30+ markdown files in context).
+(subagents carry only their ATS context), and record what each run teaches
+(per-ATS notes) instead of re-paying for it.
 
 ## The two drivers
 
@@ -117,9 +117,9 @@ insight + `file:line` anchors, never raw dumps.
 > your profile. The invocation list (`@general`, `@job-intel`, `@<portal>-fill`) lives
 > at the bottom of `initiate_fill.md`.
 
-## Guards (`guards.py`, projected from `kb/graph.json`)
+## Guards (`guards.py`, rules in `guards.json`)
 
-Every guard exists because a run paid for it (pitfalls in `kb/GRAPH.md`):
+Every guard exists because a run paid for it:
 
 - **G1 submit boundary** — automation never clicks Submit/Apply/Send. Unknown terminal
   step = every continue is destructive and blocked. `ALLOW_SUBMIT=1` is human-only.
@@ -134,8 +134,8 @@ Every guard exists because a run paid for it (pitfalls in `kb/GRAPH.md`):
 
 ## Knowledge layers
 
-- `kb/graph.json` — the only source of truth code reads (selectors, answers,
-  constraints, terminal steps). Project per tenant: `uv run python kb/project.py <tenant>`.
+- `guards.json` — guard rules code reads (selectors, answers,
+  constraints, terminal steps). Hand-maintained alongside `guards.py`.
 - `ats/<product>/` — hand-written prose memory (flow shape, quirks, traps). Never read
   by code, never skipped by agents.
 - `user_profile.json` > `work_ex_details.md` > resume — the data hierarchy. The resume

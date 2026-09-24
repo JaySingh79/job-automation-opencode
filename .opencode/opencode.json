@@ -1,11 +1,10 @@
 {
   "$schema": "https://opencode.ai/config.json",
-  "plugin": ["@langchain/langsmith-opencode"],
   "mcp": {
     "headroom": {
       "type": "local",
       "command": [
-        "C:/Users/<USER>/.local/bin/headroom.exe",
+        "C:/Users/binit/.local/bin/headroom.exe",
         "mcp",
         "serve"
       ],
@@ -16,7 +15,7 @@
       "command": [
         "npx",
         "@playwright/mcp@latest",
-        "--user-data-dir=C:/Users/<USER>/AppData/Local/Google/Chrome/User Data/Profile"
+        "--user-data-dir=C:/Users/binit/AppData/Local/Google/Chrome/User Data/Profile"
       ],
       "enabled": true
     },
@@ -28,14 +27,14 @@
         "--extension"
       ],
       "env":{
-        "PLAYWRIGHT_MCP_EXTENSION_TOKEN": "<CHROME_EXTENSION_TOKEN>"
+        "PLAYWRIGHT_MCP_EXTENSION_TOKEN": "zse8LU4TdA0oWJd6zW6hEoDiulMg3qB4Sxw6hzeXikQ"
       },
       "enabled": true
     },
     "gmail": {
-        "type": "remote",
-        "url": "https://gmailmcp.googleapis.com/mcp/v1",
-        "enabled": true
+      "type": "remote",
+      "url": "https://gmailmcp.googleapis.com/mcp/v1",
+      "enabled": true
     }
   },
   "provider": {
@@ -86,7 +85,7 @@
   },
   "skills": {
     "paths": [
-      "<path/global_skills>"
+      "C:/Users/binit/.config/opencode/skills"
     ]
   },
 "permission": {
@@ -104,7 +103,9 @@
       "*.env.*": "deny",
       "*.pem": "deny",
       "*.key": "deny",
-      "**/secrets/**": "deny"
+      "**/secrets/**": "deny",
+      "*.env.example": "allow",
+      "**/opencode.json": "deny"
     },
 
     "edit": {
@@ -114,39 +115,11 @@
       "*.pem": "deny",
       "*.key": "deny",
       "**/secrets/**": "deny",
-      "../**": "deny"
+      "../**": "deny",
+      "**/opencode.json": "deny"
     },
 
     "external_directory": "deny"
-  },
-  "agent": {
-    "build": {
-      "permission": {
-        "*": "allow",
-        "bash": {
-          "*": "allow",
-          "git config --global user.name *": "ask",
-          "git config --global user.email *": "ask"
-        },
-        "read": {
-          "*": "allow",
-          "**/.env*": "deny",
-          "**/*.pem": "deny",
-          "**/*.key": "deny",
-          "**/secrets/**": "deny"
-        },
-        "edit": {
-          "*": "allow",
-          "**/.env*": "deny",
-          "**/*.pem": "deny",
-          "**/*.key": "deny",
-          "**/secrets/**": "deny",
-          "../**": "deny"      
-        },
-        "external_directory": "deny",
-        "task": "deny"
-      }
-    }
   },
   "watcher": {
     "ignore": [

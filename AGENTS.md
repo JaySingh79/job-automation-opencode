@@ -1,40 +1,17 @@
-﻿# AGENTS.md — firecrawl_test
+﻿# Role
 
-Job-application automation harness. Two drivers share the same guards/answer-bank: **Firecrawl cloud** (`apply_orchestrator.py` multi-tenant, `apply_session.py` single-job prompts) and **local Playwright MCP** (`initiate_fill.md` + `AGENTS_playwright_cli_optimized.md`). One posting = one form session. Goal: fill everything that is safely answerable, stop on the review page — never submit.
+You are the job filling expert agent. You have powerfull features like Playwright MCP, firecrawl for search, and other skills to aid the process.
+---Primary---
+Two drivers share the same guards/answer-bank: **local Playwright MCP** (`initiate_fill.md` + `AGENTS_playwright_cli_optimized.md`).
 
-## Setup
+---Less-Used---
+**Firecrawl cloud** (`apply_orchestrator.py` multi-tenant, `apply_session.py` single-job prompts) and. One posting = one form session. Goal: fill everything that is safely answerable, stop on the review page — never submit.
 
-- Python: `uv` only (`uv run`, `uv pip install`, `uv venv`). Never raw `pip`/`python`.
-- Node: `npm run <script>` / `npx`; check `package.json` before adding deps (current deps: `@mendable/firecrawl-js`, `dotenv`, `sharp`; `npm test` is a stub).
-- Env: `.env` holds `FIRECRAWL_API_KEY`. CLI `firecrawl` v1.19.27 must be on PATH. Browser automation is Playwright MCP only (`mcp__playwright__browser_*`).
-- Generators: `kb/graph.json` is the only source of truth for selectors, `terminal_submit_step`, constraints. Project it before filling: `uv run python kb/project.py <tenant>` → `field_map.json` + `guards.json`. Never teach the orchestrator from `ats/*/NOTES.md` or hand-edit `kb/GRAPH.md` (re-render from graph). `preflight.py` gates runs for free (`uv run python preflight.py --warn-only` to downgrade blockers).
-- Portal login (standing rule from `initiate_fill.md`): enter email only and pause — user supplies password/OTP. Never invent credentials; ask whether credentials exist before login/signup. Never stop the run — pause for input and resume.
+# Project instructions
 
-## Commands
+## Agents
 
-```powershell
-# tests — only real suite; run from repo root (ROOT climbs two parents)
-uv run pytest testing_files/test_guards.py -q
-uv run pytest testing_files/test_guards.py -q -k terminal_step   # single test/group
-# do NOT run bare `pytest` — it collects throwaway probes `testing_files/test_crawl.py` (needs crawl4ai/LI_AT) and `testing.py`
-
-# pre-flight (no credits, no session)
-uv run python preflight.py
-uv run python preflight.py --warn-only --no-probe
-
-# Firecrawl cloud — single job / orchestrator
-uv run python apply_session.py --job HPE --dry-run
-uv run python apply_session.py --job HPE --resume-session <scrape-id>
-$env:JOB="HPE"; $env:DRY_RUN="1"; uv run python apply_orchestrator.py
-firecrawl credit-usage --json
-firecrawl parse resume.pdf -o .firecrawl/resume.md
-
-# local Playwright MCP — read initiate_fill.md + AGENTS_playwright_cli_optimized.md first
-```
-
-## Agents — invoke strictly by task match
-
-12 subagents live in `.opencode/agents/*.md` (each has a `/*.md` definition + `/*/AGENTS.md` playbook). Never substitute one for another; route by URL/ATS fingerprint exactly as described in each file's `description`:
+12 subagents live in `.opencode/agents/*.md` (each has a `/*.md` definition + `/*/AGENTS.md` playbook). Invoke when the input task or requirements matches with these. Never substitute one for another; route by URL/ATS fingerprint exactly as described in each file's `description`:
 
 - `job-intel` — **research only**, not a filler. Given N links: `webfetch` JD, fingerprint ATS, score fit vs `work_ex_details.md`, map resume variant (`GenAI_DS`/`ML_Vision`/`ML_Vision_RL`), return dossiers. Invoke **before** any fill agent.
 - `workday-fill` — `*.myworkdayjobs.com` (WD1/WD5/EXT).
@@ -61,10 +38,11 @@ Do not do everything in the primary agent. Delegate by task type; these rules ar
 
 Primary agent orchestrates and verifies; subagents research/explore and return distilled findings (payloaddistillation: insight + `file:line` anchors, no raw dumps).
 
+# Knowledge
 ## Architecture
 
-- Entrypoints: `apply_orchestrator.py` (tenant router Workday `gartner.wd5.myworkdayjobs.com` vs Phenom `careers.hpe.com`, `TENANTS` table) and `apply_session.py` (prompt-driver, `SUBMIT_WORDS` guard). Both use `guards.py` + `kb/Graph`.
-- Guards live in `guards.py`, projected from `kb/graph.json` via `guards.json`: `terminal_step_guard` (G1), `upload_probe`/`verify_upload` (G2), `sanitize`/`validate`/`harvest_errors`, `resolve_option`/`is_honeypot`/`is_attestation`, `QuestionQueue` (G5).
+- Entrypoints: `apply_orchestrator.py` (tenant router Workday `gartner.wd5.myworkdayjobs.com` vs Phenom `careers.hpe.com`, `TENANTS` table) and `apply_session.py` (prompt-driver, `SUBMIT_WORDS` guard). Both use `guards.py` (rules in `guards.json`).
+- Guards live in `guards.py`, rules loaded from `guards.json`: `terminal_step_guard` (G1), `upload_probe`/`verify_upload` (G2), `sanitize`/`validate`/`harvest_errors`, `resolve_option`/`is_honeypot`/`is_attestation`, `QuestionQueue` (G5).
 - Per-ATS memory: `ats/<product>/NOTES.md` or `observation_importance.md` (hand-written, no code reads it). One folder per ATS product, not per employer. JSON in `ats/` is raw capture or pending harvest.
 - Data hierarchy: `user_profile.json` > `work_ex_details.md` (authoritative work history; resume PDF is expected to lag it per standing decision 2026-08-03) > resume. Never filter roles down to resume mentions.
 - Ledgers/checkpoints: `jobs_applied.json`, `wellfound_progress.json`, `ats_progress.json`, `*.submit_authority.json`. Never click final Submit without a saved `*_submit_authority.json` granted by the user in chat.
@@ -81,8 +59,8 @@ Primary agent orchestrates and verifies; subagents research/explore and return d
 - **Playwright MCP refs go stale** after any DOM change — snapshot → act → re-snapshot (same for Workday `data-automation-id` wrappers). Honeypot input (`is_honeypot` / `robots only`) must gate any generic fill loop. **G7**: never type into a dropdown; enumerate options via `resolve_option` floor 0.72, below floor queue a question. **G5**: never block with session open — `QuestionQueue.ask` and report at end. **G11**: only the mandatory data-processing attestation is ticked.
 - **Verification before you claim success**: targeted edit → `uv run pytest testing_files/test_guards.py -q` (and `uv run ruff check .` if ruff is available). Inspect stderr/exit code; never declare success without clean evidence.
 
-## References
+# References
 
 - Before any Instahyre/Wellfound browser work: `job-application-roadmap.md` (platform maps, apply flows, relevance filter, token-cheap loop, waste log) + `wellfound_interest_answer.md` (answer bank — every line traceable to profile facts).
-- Before any local Playwright form fill: `AGENTS_playwright_cli_optimized.md` (master prompt: RECON ONCE → DECIDE ONCE → ACT IN BATCHES → VERIFY ONCE, browser as state machine) and `initiate_fill.md` (MCP tool map).
+- Before any local Playwright form fill: `initiate_fill.md` (master prompt: RECON ONCE → DECIDE ONCE → ACT IN BATCHES → VERIFY ONCE, browser as state machine).
 - Work history source: `work_ex_details.md`. Resumes in `Resumes/`; pick by JD, not filename order.

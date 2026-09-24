@@ -111,7 +111,7 @@ Report: what was filled, what is queued, what needs the human, and that Submit i
 <after_the_run>
 If this ATS product has no folder, create ats/<product>/observation_importance.md: flow shape,
 step count, terminal step name, widget quirks, validation traps, driver used (playwright-mcp), cost.
-Prose memory only — code reads kb/graph.json, never the notes.
+Prose memory only — code reads user_profile.json / guards.json, never the notes.
 </after_the_run>
 
 <output_format>

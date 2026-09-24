@@ -1,6 +1,6 @@
-"""Guard implementations. Rules come from guards.json, which is projected from the graph.
+"""Guard implementations. Rules come from guards.json.
 
-Each guard here exists because it was paid for once. See kb/GRAPH.md for the pitfall
+Each guard here exists because it was paid for once. See ats/*/NOTES.md for the pitfall
 that produced it.
 """
 
@@ -10,8 +10,10 @@ import re
 from difflib import SequenceMatcher
 from pathlib import Path
 
-ROOT = Path(__file__).parent
+ROOT = Path(__file__).resolve().parent.parent.parent
 GUARDS_JSON = ROOT / "guards.json"
+if not GUARDS_JSON.exists():  # fallback when run from a different layout
+    GUARDS_JSON = Path(__file__).parent / "guards.json"
 
 OPTION_FLOOR = 0.72       # below this, do not guess — queue a question
 ATTESTATION = re.compile(r"e-?signature|certify|i verify|consent|acknowledg", re.I)
@@ -42,7 +44,7 @@ def terminal_step_guard(step_index, guards, scrape_id=None, footer=None):
     if terminal is None:
         raise SubmitBoundary(
             "Terminal submit step is unknown for this tenant. Every continue click is "
-            "treated as destructive until the graph records which step submits."
+            "treated as destructive until guards.json records which step submits."
         )
     if step_index != terminal:
         return True
