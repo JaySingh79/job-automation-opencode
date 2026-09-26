@@ -674,6 +674,7 @@ dependencies = [
     { name = "pylint" },
     { name = "pytest" },
     { name = "python-dotenv" },
+    { name = "serpapi" },
 ]
 
 [package.metadata]
@@ -688,6 +689,7 @@ requires-dist = [
     { name = "pylint", specifier = ">=4.0.8" },
     { name = "pytest", specifier = ">=9.1.1" },
     { name = "python-dotenv", specifier = ">=1.2.3" },
+    { name = "serpapi" },
 ]
 
 [[package]]
@@ -2558,6 +2560,18 @@ wheels = [
     { url = "https://files.pythonhosted.org/packages/cf/d9/135be205d9de8783193aff9cc3bf483a03a38e4b29432c954e8cb66ac14e/scipy-1.18.1-cp315-cp315t-musllinux_1_2_x86_64.whl", hash = "sha256:179ce34a8d0fe273d8883ba59e17e052247d08973dfcb743ca52bb1cce2d60b0", size = 37521946, upload-time = "2026-08-21T23:28:35.245Z" },
     { url = "https://files.pythonhosted.org/packages/5c/a2/5b7d5270621ab7cfa3f7766067bf95dc360b5efb6394694e8143b4156e2b/scipy-1.18.1-cp315-cp315t-win_amd64.whl", hash = "sha256:5632e3ae3d09197c446310cd5187de63e28448ce22f0f67b2b93d97503c0c230", size = 37408295, upload-time = "2026-08-21T23:28:40.724Z" },
     { url = "https://files.pythonhosted.org/packages/63/ad/741c19fcb66755ff953daf9243af8480e4bf3d7fbe57583c178c7d2b6b51/scipy-1.18.1-cp315-cp315t-win_arm64.whl", hash = "sha256:eda632a7981f69730d6281f451db9c1c370993a2c0d7ddb43e2a809a2862b83a", size = 25319710, upload-time = "2026-08-21T23:28:45.713Z" },
+]
+
+[[package]]
+name = "serpapi"
+version = "1.1.2"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "requests" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/d7/cb/9b20af90c3481b424d988104be3a8ec096971b0fa2aaa6b4263e27e92503/serpapi-1.1.2.tar.gz", hash = "sha256:c4a16b5c99c3b34469cef12a3c9c74be18912324baad74d67d1d8820d4401b24", size = 76556, upload-time = "2026-09-22T05:40:13.884Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/8b/3f/543ef4d3f5004134ce2bdc3f79313cfae37e739a29db4477febed918e55d/serpapi-1.1.2-py3-none-any.whl", hash = "sha256:446943df71e8afde69906be7e918b44c8d6cdcb84e69c37d01112c313945b384", size = 11288, upload-time = "2026-09-22T05:40:12.733Z" },
 ]
 
 [[package]]

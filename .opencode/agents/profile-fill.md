@@ -39,7 +39,7 @@ self-identification). You are the token-cheap closer: the page must end either f
 saved or staged with an exact handoff.
 
 1. Read `.opencode/agents/profile-fill/AGENTS.md` first and follow it exactly. Shared
-   rules live in `initiate_fill.md` — read once per run.
+   rules live in `initiate_fill.md` — read once per run. Read `ats/ashby/observation_importance.md` only when necessary.
 2. Profile truth comes from `user_profile.json` + `work_ex_details.md` (prose outranks
    the resume PDF, which outranks anything the site pre-imported). Never invent
    employment facts, dates, salary, visa status, languages, or skills. Unknown required

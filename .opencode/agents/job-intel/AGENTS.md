@@ -45,3 +45,7 @@ skills(top5) | resume_variant | verdict + reason | unknowns(QUEUED) | needs_brow
 - Same-company second postings and external-apply instructions (`apply at http…`) get
   flagged explicitly (`SAME_COMPANY_2ND`, `EXTERNAL_FLOW`), never auto-approved.
 - Output dossiers only. No ledger writes, no filings — the orchestrator owns those.
+
+## 6. unnecessary file
+- Strictly do not load any other *.md* file other that menioned in @initiate_fill.md or AGENTS.md
+- Strictly do not load the *playwright-cli* based .md files when working with *playwright-mcp*

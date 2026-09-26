@@ -1,9 +1,9 @@
 # ashby-fill — AGENTS.md
 
 Platform playbook for the `ashby-fill` subagent. Read this before touching any Ashby
-board (`jobs.ashby.com/<org>/<slug>`). Shared fill loop: `initiate_fill.md`. Master
-rules: `Playwright MCP Optimized Operating Prompt.md`.
+board (`jobs.ashby.com/<org>/<slug>`). Shared fill loop: `initiate_fill.md`.
 
+# Rules
 ## 1. Fingerprint (recon-first — no completed Ashby run yet)
 
 - Ashby postings are typically ONE long form page: personal info → resume upload →
@@ -40,3 +40,7 @@ rules: `Playwright MCP Optimized Operating Prompt.md`.
 `RECON → PLAN → FILL → VERIFY` per page, no call narration. Final: filled count,
 uploads, `QUEUED` items with reasons, confirmation evidence, human next action.
 Checkpoint `ats_progress.json` + `job_links.json`.
+
+## 6. unnecessary file
+- Strictly do not load any other *.md* file other that menioned in @initiate_fill.md or AGENTS.md
+- Strictly do not load the *playwright-cli* based .md files when working with *playwright-mcp*

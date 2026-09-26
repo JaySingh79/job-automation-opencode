@@ -11,6 +11,7 @@ status: active
 
 > Copy-pasteable Google search strings for ML Engineer, AI Engineer, GenAI/LLM roles,
 > and Fresher/Entry-Level openings on Greenhouse, Lever, Ashby, Workday, SmartRecruiters, Keka, Workable, Recruitee + LinkedIn posts.
+> Jobs only in India or global/Asia remote roles
 
 ## 0. How To Use This File (Agent Traversal Guide)
 

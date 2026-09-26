@@ -74,3 +74,7 @@ mid-page. G7: never type-to-set a dropdown; enumerate options, floor for fuzzy m
 or QUEUE. G11: tick only mandatory attestations. Honeypot-flagged fields are never
 filled. Salary/number blocks: screenshot-slice after filling to catch runtime
 validation text the DOM hides.
+
+## 6. unnecessary file
+- Strictly do not load any other *.md* file other that menioned in @initiate_fill.md or AGENTS.md
+- Strictly do not load the *playwright-cli* based .md files when working with *playwright-mcp*

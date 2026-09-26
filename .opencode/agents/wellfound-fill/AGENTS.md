@@ -80,3 +80,7 @@ used, `QUEUED` items with reasons, `✓ Applied` evidence, ledger paths touched,
 action. Waste-log reminders: no per-field snapshots, no modal-X clicks (navigate resets
 modals), no regex literals with `/jobs/` inside evaluate strings (use `indexOf`), no global
 search box.
+
+## 6. unnecessary file
+- Strictly do not load any other *.md* file other that menioned in @initiate_fill.md or AGENTS.md
+- Strictly do not load the *playwright-cli* based .md files when working with *playwright-mcp*

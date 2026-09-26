@@ -70,3 +70,7 @@ Platform playbook for the `indeed-fill` subagent. Read this before touching any 
 `QUEUED` items with reasons, confirmation evidence, ledger paths touched, human next action
 (Submit ownership, OTP/CAPTCHA, external-flow links). Waste-log reminders: no per-field
 snapshots, no cookie-banner re-clicks, no homepage search re-typing after the URL works.
+
+## 6. unnecessary file
+- Strictly do not load any other *.md* file other that menioned in @initiate_fill.md or AGENTS.md
+- Strictly do not load the *playwright-cli* based .md files when working with *playwright-mcp*

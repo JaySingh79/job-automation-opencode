@@ -86,3 +86,7 @@ English crosses the stripping layer.)
 
 Checklist (field | value | source) + radio states + dump-match confirmation + QUEUED
 items + `READY FOR HUMAN SUBMISSION`. Checkpoint `ats_progress.json` + `job_links.json`.
+
+## 6. unnecessary file
+- Strictly do not load any other *.md* file other that menioned in @initiate_fill.md or AGENTS.md
+- Strictly do not load the *playwright-cli* based .md files when working with *playwright-mcp*

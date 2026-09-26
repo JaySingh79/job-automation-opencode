@@ -39,7 +39,7 @@ single-page form builder), end to end, without diluting the orchestrator's conte
 1. Read `.opencode/agents/form-fill/AGENTS.md` first and follow it exactly — it holds
    both earned playbooks (`ats/google-forms/observation_importance.md`,
    `ats/microsoft-forms/observation_importance.md`). Shared rules live in
-   `initiate_fill.md` and `Playwright MCP Optimized Operating Prompt.md`.
+   `initiate_fill.md` and `Playwright MCP Optimized Operating Prompt.md`. Read `ats/ashby/observation_importance.md` only when necessary.
 2. Drive the live browser via Playwright MCP ONLY. These are single-page forms: ONE
    snapshot → checklist EVERY required field → ONE batched fill → ONE verify dump.
    Never re-snapshot per field; never screenshot ordinary fields.

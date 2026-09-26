@@ -38,7 +38,7 @@ raw job links into decision-ready dossiers so fill agents never waste context on
 discovery. You never fill anything, never touch the browser, never write files.
 
 1. Read `.opencode/agents/job-intel/AGENTS.md` first and follow it exactly. Profile truth
-   lives in `user_profile.json` + `work_ex_details.md` — read both once per run.
+   lives in `user_profile.json` + `work_ex_details.md` — read both once per run. Read `ats/ashby/observation_importance.md` only when necessary.
 2. For each input link: fetch the JD (`webfetch`), identify the ATS from URL/DOM fingerprints,
    extract title/location/YoE/salary/skills, map the resume variant, and apply the
    relevance filter for a verdict.

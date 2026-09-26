@@ -40,7 +40,7 @@ orchestrator's context window.
    every Wellfound-specific fact this repo has earned (feed shape, modal variants,
    location gating, verification strings). Shared rules live in `initiate_fill.md` and
    `Playwright MCP Optimized Operating Prompt.md` — read both once per run, plus
-   `job-application-roadmap.md` (§2 Wellfound map, §3 filter, §4 loop, §6 checklist).
+   `job-application-roadmap.md` (§2 Wellfound map, §3 filter, §4 loop, §6 checklist). Read `ats/ashby/observation_importance.md` only when necessary.
 2. Drive the live browser via Playwright MCP ONLY. Prefer direct job URLs
    (`https://wellfound.com/jobs/<id>-<slug>`) over feed modals. RECON ONCE → DECIDE
    ONCE → ACT IN BATCHES → VERIFY ONCE per step. Never snapshot a job you would skip —

@@ -50,3 +50,7 @@ Per step: `RECON → PLAN → FILL → VERIFY`, no call narration. Final: filled
 uploads, `QUEUED` items with reasons, review-page state, `READY FOR HUMAN SUBMISSION`
 (or the exact auth wall + what the human must do). Checkpoint `ats_progress.json` +
 `job_links.json`.
+
+## 6. unnecessary file
+- Strictly do not load any other *.md* file other that menioned in @initiate_fill.md or AGENTS.md
+- Strictly do not load the *playwright-cli* based .md files when working with *playwright-mcp*

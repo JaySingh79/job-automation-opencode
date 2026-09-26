@@ -39,7 +39,7 @@ orchestrator's context window.
 1. Read `.opencode/agents/indeed-fill/AGENTS.md` first and follow it exactly. It holds every
    Indeed-specific fact this repo has earned (search URL shape, Easily Apply vs external,
    login wall). Shared rules live in `initiate_fill.md` and
-   `Playwright MCP Optimized Operating Prompt.md` — read both once per run.
+   `Playwright MCP Optimized Operating Prompt.md` — read both once per run. Read `ats/ashby/observation_importance.md` only when necessary.
 2. Drive the live browser via Playwright MCP ONLY. Search via URL params
    (`/jobs?q=<keywords>&l=<location>`), recon each card with ONE `evaluate` (title, company,
    salary, snippet, Apply/Easily-Apply/external markers) before any snapshot. RECON ONCE →

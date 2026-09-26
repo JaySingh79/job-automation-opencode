@@ -39,7 +39,7 @@ orchestrator's context window.
 1. Read `.opencode/agents/workday-fill/AGENTS.md` first and follow it exactly. It holds
    every Workday-specific fact this repo has earned (flow shape, widget quirks,
    validation traps). Shared rules live in `initiate_fill.md` and
-   `Playwright MCP Optimized Operating Prompt.md` — read both once per run.
+   `Playwright MCP Optimized Operating Prompt.md` — read both once per run. Read `ats/ashby/observation_importance.md` only when necessary.
 2. Drive the live browser via Playwright MCP ONLY (`browser_navigate`, `browser_snapshot`,
    `browser_evaluate` + `page_recon.js`, `browser_fill_form`, `browser_click`,
    `browser_select_option`, `browser_file_upload`, `browser_find`, `browser_wait_for`).

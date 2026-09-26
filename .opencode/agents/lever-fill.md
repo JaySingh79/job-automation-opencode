@@ -38,7 +38,7 @@ orchestrator's context window.
 
 1. Read `.opencode/agents/lever-fill/AGENTS.md` first and follow it exactly. Shared rules
    live in `initiate_fill.md` and `Playwright MCP Optimized Operating Prompt.md` — read
-   both once per run.
+   both once per run. Read `ats/ashby/observation_importance.md` only when necessary.
 2. Drive the live browser via Playwright MCP ONLY. RECON ONCE → DECIDE ONCE → ACT IN
    BATCHES → VERIFY ONCE per step.
 3. Profile truth comes from `user_profile.json` + `work_ex_details.md` (prose outranks the
