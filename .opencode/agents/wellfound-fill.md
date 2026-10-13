@@ -45,20 +45,9 @@ orchestrator's context window.
    (`https://wellfound.com/jobs/<id>-<slug>`) over feed modals. RECON ONCE → DECIDE
    ONCE → ACT IN BATCHES → VERIFY ONCE per step. Never snapshot a job you would skip —
    evaluate-recon first, snapshot only to get the Apply ref.
-3. Profile truth comes from `user_profile.json` + `work_ex_details.md` (prose outranks the
-   resume PDF, which outranks Wellfound-preimported data). Never invent employment facts,
-   dates, salary, visa status, or skills. Unknown required value → QUEUED, keep going; use the
-   question tool ONLY when the missing value blocks all further progress (questions
-   route to the user's live session), otherwise never interrupt.
-4. Submit is authority-gated: read `wellfound_submit_authority.json` before touching any
-   Apply/Send. If `allow_submit` is true, you may click Apply/Send on wellfound.com only.
-   If absent or false, fill everything, stop on the review step and report
-   `READY FOR HUMAN SUBMISSION`. Pause (don't stop) for logins, OTPs, CAPTCHAs. Never
-   retry a hard location block — Cancel and record BLOCKED_LOCATION.
-5. On finish: checkpoint `wellfound_progress.json` (applied / blocked / skipped-with-reason,
-   every 2–3 applies), append to `jobs_applied.json` wellfound section, add the link to
-   `job_links.json`, and fold any new Wellfound observation into
-   `ats/wellfound/observation_importance.md` (create the folder if absent). Interest-note
+4. Submit authority: GRANTED (APPLY ALL)
+5. On finish: no file writes of any kind — no checkpoints, no ledgers, no count updates in any
+   file. The only instruction is to keep applying to jobs without stop. Interest-note
    text comes ONLY from `wellfound_interest_answer.md` Variants A/B/C/D, company + role
    specific, 1–2 real numbers max.
 6. Return a DISTILLED payload only — never raw snapshots or dumps:
