@@ -73,4 +73,4 @@ snapshots, no cookie-banner re-clicks, no homepage search re-typing after the UR
 
 ## 6. unnecessary file
 - Strictly do not load any other *.md* file other that menioned in @initiate_fill.md or AGENTS.md
-- Strictly do not load the *playwright-cli* based .md files when working with *playwright-mcp*
+

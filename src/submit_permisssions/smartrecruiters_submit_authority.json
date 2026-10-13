@@ -1,0 +1,16 @@
+{
+  "allow_submit": true,
+  "authority": "User granted explicit permission to click Apply/Submit on SmartRecruiters (jobs.smartrecruiters.com) oneclick-ui publications",
+  "constraints": [
+    "Never invent profile data; unknown fields go QUEUED, keep going",
+    "Only Apply to jobs reconned as matching: AI/ML/DS/GenAI, fresher-2yr, India or Remote-India",
+    "Resume variant GenAI_DS per JD",
+    "Human remains responsible for interview attendance"
+  ],
+  "date_granted": "2026-09-24",
+  "granted_via": "chat: 'submit all, fill CTC above 22' — user explicitly authorized submit all pending including SmartRecruiters 12",
+  "scope": [
+    "https://jobs.smartrecruiters.com/* Apply/Submit buttons only",
+    "https://jobs.smartrecruiters.com/oneclick-ui/* Submit buttons only"
+  ]
+}

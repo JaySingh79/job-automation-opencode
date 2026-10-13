@@ -1,0 +1,13 @@
+{
+ "authority": "User granted explicit permission to click Apply on Indeed (in.indeed.com)",
+ "date_granted": "2026-09-18",
+ "granted_via": "chat question: Grant Indeed authority for matching fresher roles",
+ "scope": "https://in.indeed.com/* Apply/Easily Apply buttons only",
+ "allow_submit": true,
+ "constraints": [
+  "Never invent profile data",
+  "Only Apply to reconned matching fresher software/data roles",
+  "Require login first - user to provide credentials/OTP",
+  "Stop after 3 failures per operating prompt"
+ ]
+}

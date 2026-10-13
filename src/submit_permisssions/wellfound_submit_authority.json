@@ -1,0 +1,12 @@
+{
+  "authority": "User granted explicit permission to click Apply/Submit on Wellfound only (same as Instahyre)",
+  "date_granted": "2026-09-12",
+  "granted_via": "chat: 'https://wellfound.com/login same for this' following Instahyre submit authority",
+  "scope": "https://wellfound.com/* Apply/Submit buttons only",
+  "allow_submit": true,
+  "constraints": [
+    "Never invent profile data",
+    "Only Apply to jobs reconned as matching (GenAI/AI/Data Science)",
+    "Stop after 3 failures per operating prompt section 24"
+  ]
+}

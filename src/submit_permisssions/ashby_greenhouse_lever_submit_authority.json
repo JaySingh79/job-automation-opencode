@@ -1,0 +1,20 @@
+{
+  "allow_submit": true,
+  "authority": "User granted explicit permission to click Apply/Submit on Ashby + Greenhouse + Lever ATS job pages",
+  "constraints": [
+    "Never invent profile data; unknown fields go QUEUED, keep going",
+    "Only Apply to jobs reconned as matching: AI/ML/DS/GenAI/agentic/RAG/eval/NLP, fresher-2yr, India or Remote-India/Worldwide-remote without US-Only/UK-Only lock",
+    "Salary: target range-top >=22 LPA; compromise >=18 LPA only on exact skill-identity; undisclosed + skill-exact allowed with floor-to-confirm note",
+    "Resume variant selected per JD from Resumes folder (GenAI_DS / ML_Vision / ML_Vision_RL)",
+    "Stop after 3 failures per operating prompt section 24",
+    "Human remains responsible for interview attendance"
+  ],
+  "date_granted": "2026-09-13",
+  "granted_via": "chat: 'granting submit authority' for Ashby/Greenhouse/Lever fresher-2yr AI/ML/DS batch, no cap",
+  "scope": [
+    "https://boards.greenhouse.io/* Apply/Submit buttons only",
+    "https://job-boards.greenhouse.io/* Apply/Submit buttons only",
+    "https://jobs.lever.co/* Apply/Submit buttons only",
+    "https://*.ashbyhq.com/* Apply/Submit buttons only"
+  ]
+}

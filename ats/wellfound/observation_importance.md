@@ -1,0 +1,25 @@
+# Wellfound observation_importance (prose memory)
+
+- Send-click race (2026-09-26, 2/2: Bydek 4152820, Spheresmith 4670227): synthetic `Send application` click reports `disabled=true` at the click instant, yet a 3s wait + button-text check shows `✓ Applied` disabled x2. Do NOT re-click on `disabled=true` capture; wait 3s then verify via evaluate.
+- Similar-jobs sidebar harvests exact queue slugs (Bydek page confirmed 4246035-data-engineer-yoe-0-2). Prefer sidebar IDs over slug guesses.
+- CLOSED has two faces: `410 Page no longer available` (Wajeeh 4354439) and in-page `The job listing is no longer available` with no Apply button (TRAKO 4391339). Both = CLOSED, no retry.
+- `Only apply if` + must-have YoE is a hard gate (Steps AI 4754610: 2-4y prod full-stack), unlike soft `You're outside YoE` warnings which allow Send. Trust the stricter JD text.
+- Fill-NEVER-submit run (2026-10-04, CRUV 4696235): variant-(a) modal filled via one batched fill_form on the interest textbox; Send enables (cursor=pointer, no disabled) once text present — stop there, screenshot, report READY FOR HUMAN SUBMISSION. No Send click = no jobs_applied.json touch.
+- Gravity 4377335: third CLOSED face — `The job listing is no longer available.` in-page + external `Apply directly: Apply Link` text + stipend-scale comp (₹1.8L-2.4L) = CLOSED + EXTERNAL_FLOW + SALARY_FLOOR triple-skip, evaluate-recon only.
+- Shared-browser contention (parallel subagents, 2026-10-04): evaluate can run on another agent's active tab — always embed a URL guard (`if url lacks jobId return WRONG_TAB`) and retry; snapshot follows the selected tab reliably; browser_find is the cheapest Apply-ref lookup; targeted dialog snapshot (target=dialog ref) keeps modal fills token-cheap.
+- Fill-NEVER-submit batch (2026-10-06, red6.ai 4597637 + Langslide 4101394): variant-(a) modal each, one batched fill_form on the interest textbox, Send-enabled verified via evaluate (disabled:false, cursor:pointer) — no Send click, both in ready_for_human_submission. CRUV 4696235 verified Applied x2 disabled (human-sent after 10-04 fill) → moved to applied ledger.
+- Langslide 4101394 note: prior LEVEL skip overridden by explicit queue instruction; 1+y exp + Remote-India + GenAI identity cleared the filter, Variant D used for the intern/build-eval-ship framing.
+
+## 2026-10-08 SUBMIT run: hidden-tab stall + fetch-recon sweep
+- Tab ran document.visibilityState=hidden (user on another tab): ALL MCP ref-clicks time out at stability (rAF dead). Tapza Apply succeeded while tab visible; every later Apply failed.
+- Untrusted JS .click() on Apply DOES fire (segment job_apply_button:click logged) but apply modal renders as EMPTY ReactModal shell (0 children, textContent len 0) then self-closes. Late rAF polyfill does not help (libs capture raf at import).
+- FIX THAT WORKED: same-origin fetch() recon sweep — 25 job URLs x 1 evaluate: status (410=closed), Apply-vs-Applied marker, Python-mention flag, title. SSR HTML always contains nav Applied tab so match checkmark form for applied state; live-DOM button-text verify still required for submit evidence.
+- Phantom navigations: tab auto-moved Teal->BillionNexus->helical between calls (cause undetermined: user activity or site auto-advance). Always assert location.href inside recon evaluate; close stray tabs.
+- New 410s: Marvedge 4602354, VAIA 4130769 (Worksbot 4348164 re-confirmed 410). edxso 4572801 undergrad-only eligibility = LEVEL_MISMATCH skip. AI47Labs 4408970 no Python = NON_PYTHON_MAJOR skip.
+
+## 2026-10-08 apply-all run: hidden-tab APPLY_DEAD gate
+- orqum.ai 3783438 APPLIED (Variant A, evidence: `✓ Applied` disabled-button x2). paygent 4436943 + AffinityAnswers 4642615 confirmed already-Applied.
+- Immediately after, Apply died on 4 consecutive jobs (senzcraft 3280338, Aight 4452779, Planso-jrBackend 4717817, Binocs-SDE-I 4762758): identical signature — no `job_apply_button` beacon, no `JobApplicationApplyButton` GraphQL, no modal, no error, across a11y-click + evaluate-dispatch + force-click + TRUSTED mouse.click + 8s waits. Save/Follow still work (page interactive). Retest after ~30min still dead.
+- ROOT CAUSE: `document.visibilityState === 'hidden'` (user on another tab/window minimized). Matches 2026-10-08-morning hidden-tab stall note. `page.bringToFront()` did NOT restore visibility from extension context.
+- RECIPES THAT WORK WHEN VISIBLE: header `Apply` (exact-text, idx-search) is stability-flaky — prefer card `Apply now` via `page.$('button:has-text("Apply now")')` + force:true; modal can take 20-30s to paint (double-dialog = double-click landed, harmless); Send via `[data-test="JobApplicationModal--SubmitButton"]` force-click.
+- RULE: before ANY Apply batch, evaluate `document.visibilityState` — if `hidden`, do NOT burn the queue; park + tell human to keep the Wellfound tab selected. Parked this run (still `queued`, retryable): 3280338, 4452779, 4717817, 4762758. Parked URL for resume: https://wellfound.com/jobs/3280338-junior-python-developer (file order).

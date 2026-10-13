@@ -23,11 +23,11 @@ oracle-*.md
 .playwright-mcp/
 .serena/
 .claude/.headroom_wrap_marker.json
-# Playwright CLI output (may contain credentials)
-.playwright-cli/
 necessary_browsing_automation\chat_history_gemini.md
 work_ex_details.md
 
+
+runs/
 ats/google-forms/*
 ats/ashby/*
 ats/avature/*

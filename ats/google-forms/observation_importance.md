@@ -95,6 +95,31 @@ Note: filter on `input[type=text]` alone MISSES url/email fields — query all `
   doubles as the agents/LLMs proof. Source bullets: `work_ex_details.md`.
 - Current Location fields: `Gaya, Bihar` (memory `current-location-answer.md`), NOT the recent role city.
 
+## 2026-10-04 revisit (DS Intern 6-month + PPO form)
+- Revisiting a submitted form lands on "You've already responded" (title + "Your response has been
+  recorded."); the "Edit your response" link reopens the filled form with all values + uploaded
+  filename ("Selected files ...pdf" + Remove button) intact — fastest verify path, no re-fill needed.
+- Google file-upload answers persist across sessions; here the human had uploaded
+  `Resume ML_Vision_RL_PPO 7th Aug - Jay Singh.pdf` after the 2026-09-28 run (which had queued the
+  GenAI_DS variant as blocked by the Drive picker). No picker retry needed when a file is present.
+- Record-email checkbox state persists checked through submit/edit; radio checked states surface in
+  the evaluate dump via `div[role=radio][aria-checked=true]` aria-labels (IITs / 2026).
+
+## 2026-10-05 Scalio AI Engineer run (tab-1 Google Form)
+- 12 required: 5 short (name/email/phone/resume-link/exp) + 1 radio (onsite Yes) + 6 long
+  textareas (Q1 pre-filled 1109c, Q2-Q6 empty). Pre-filled values verified via dump, left intact.
+- Snapshot a11y shows long answers as `textbox` but DOM truth = native `textarea`
+  (`getElementsByTagName("textarea")`, order = page order: TA0=Q1..TA5=Q6). `[role=textbox]`
+  selector matches nothing (implicit role, no attribute); `input,textarea` query is the
+  verify path. Hidden mirrored inputs echo each answer (content-head check).
+- A11y refs ROTATE after every element-targeted set (e160 worked once, e174 stale next).
+  Fix: ONE page-level evaluate, index textareas by position, base64 blobs keyed inline.
+- Multi-tab contention: sibling session kept stealing focus to tab 2 (SymphonyAI); tab
+  selects did not stick. Guard = `location.href` check first line of every evaluate.
+- Draft autosaves continuously ("Draft saved"); radios pre-checked need no click (no
+  coordinate fallback needed). Submit never clicked. No file-upload widget on this form
+  (resume asked as link) — Drive-picker block did not apply.
+
 ## Data sources
 
 - `user_profile.json` — personal info, links (`portfolio`, `kaggle`, `resume_links`), screening.

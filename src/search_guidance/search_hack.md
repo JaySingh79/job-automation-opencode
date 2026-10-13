@@ -1,9 +1,9 @@
 ---
 id: search_hack
-version: 2.1
+version: 2.2
 purpose: Google Dork query library for finding ML/AI/GenAI jobs on ATS portals
 audience: [agent, human]
-last_updated: 2026-09-14
+last_updated: 2026-09-28
 status: active
 ---
 
@@ -12,6 +12,9 @@ status: active
 > Copy-pasteable Google search strings for ML Engineer, AI Engineer, GenAI/LLM roles,
 > and Fresher/Entry-Level openings on Greenhouse, Lever, Ashby, Workday, SmartRecruiters, Keka, Workable, Recruitee + LinkedIn posts.
 > Jobs only in India or global/Asia remote roles
+
+# Important
+> Use `google_search` tool as first preference while searching using these keywords. The reponse may be slow but results are highly relevant.
 
 ## 0. How To Use This File (Agent Traversal Guide)
 
@@ -32,6 +35,8 @@ status: active
 - `§2.4` Role-Specific India/Remote (LLM, Fresher, MLOps) — `Q-17` to `Q-19`
 - `§2.5` LinkedIn Posts Dorks — `Q-20`, `Q-21`, `Q-22`
 - `§2.6` Simple-ATS Expansion (Keka, Workable, Recruitee) — `Q-23` to `Q-25`
+- `§2.7` Freshness Patterns via `intitle:` + `after:` (JobDorking-derived) — `Q-26` to `Q-31`
+- `§2.8` Aggregator-Combo + Company-Direct + `filetype:` (Yudi-derived) — `Q-32` to `Q-37`
 - `§3` Negative-Filter Glossary
 - `§4` Composition Rules
 - `§5` Execution SOP
@@ -54,6 +59,10 @@ status: active
 | `recruitee` | `site:recruitee.com` | Startups/SMB, simple offers API |
 | `workday` | `site:myworkdayjobs.com` | Enterprises, Fortune 500 |
 | `linkedin-posts` | `site:linkedin.com/posts` | Founder / hiring-manager posts |
+| `linkedin-jobs` | `site:linkedin.com/jobs` | LinkedIn job listings (distinct from posts) |
+| `indeed` | `site:indeed.com` | Aggregator listings, India volume |
+| `glassdoor` | `site:glassdoor.com` | Aggregator listings + salary context |
+| `company-direct` | `site:<company>.com` | Company career-site direct (template, see Q-34) |
 
 ### 1.2 Role phrases (`ROLE`)
 
@@ -72,6 +81,22 @@ status: active
 - Remote: `"Remote"`, `"Remote - Worldwide"`, `"Remote India"`, `"Work from Anywhere"`, `"Worldwide"`, `"APAC"`
 
 See `§3` for exclusions (`-"US Only"`, `-"UK Only"`).
+
+### 1.5 Operator vocabulary (`OP` — new from JobDorking + Yudi, 2026-09-28)
+
+| Operator | Syntax | Purpose | Source |
+|---|---|---|---|
+| `intitle:` | `intitle:"ML Engineer"` | Title must contain phrase; cuts body-match noise | JobDorking guide + board guides; Yudi `intitle:"job title"` |
+| `intext:` | `intext:PyTorch` | Phrase must appear in page body (skill qualifier) | JobDorking guide |
+| `after:` | `after:2026-09-01` | Pages Google considers updated after date (ISO `YYYY-MM-DD`) | JobDorking guide + all 4 board guides |
+| `filetype:` | `filetype:pdf` | Restrict to file type (JD/resource PDFs, not apply pages) | Yudi |
+| `AND` | `"careers" AND "ML Engineer"` | Both sides must match (company-direct pattern) | Yudi company-specific |
+| Multi-`site:` OR | `(site:a OR site:b)` | Sweep several boards in one query | JobDorking ("Combine multiple boards") |
+
+Caveats (verbatim from sources):
+- `after:` is page-update date per Google, not guaranteed posting date. New listings lag 1–2 days; widen window if thin, always verify date on employer page.
+- `site:` only returns indexed pages; brand-new postings may not yet be crawled.
+- Bare `remote` is a keyword match, not a location filter — a page saying "no remote work" still matches.
 
 ---
 
@@ -349,6 +374,179 @@ site:apply.workable.com ("Machine Learning" OR "ML Engineer" OR "AI Engineer" OR
 site:recruitee.com ("Machine Learning" OR "ML Engineer" OR "AI Engineer" OR "Data Scientist" OR "LLM") ("India" OR "Bengaluru" OR "Bangalore" OR "Hyderabad" OR "Pune" OR "Remote") -"US Only"
 ```
 
+### 2.7 Freshness Patterns via `intitle:` + `after:` (JobDorking-derived)
+
+> Source: `https://jobdorking.com/guide/` + board guides `/guide/linkedin-job-search/`, `/guide/greenhouse-job-search/`, `/guide/lever-job-search/`, `/guide/workday-job-search/` (scraped 2026-09-28).
+> Pattern: `site:<board> intitle:"<Role>" <optional skill/geo keyword> after:YYYY-MM-DD`.
+> Why: `intitle:` cuts body-match noise (vs bare quoted phrases in Q-01–Q-25); `after:` prioritises recently indexed pages. Set `after:` to ~45 days before run date (examples below use `2026-08-14`, matching source window). Refine one variable at a time per source guidance.
+
+#### Q-26: Greenhouse — `intitle:` Fresh ML/AI — India / Remote
+
+- **Intent:** Fresh Greenhouse ML/AI titles for India + remote, with less aggregator noise than Q-06.
+- **Filters:** `ATS=[greenhouse] | Role=[core, genai] | Seniority=any | Geo=[India-hubs, Remote] | OP=[intitle, after] | Exclude=[US-Only]`
+- **Query:**
+
+```text
+site:boards.greenhouse.io intitle:("Machine Learning Engineer" OR "ML Engineer" OR "AI Engineer" OR "LLM Engineer") ("India" OR "Bengaluru" OR "Bangalore" OR "Hyderabad" OR "Pune" OR "Remote") after:2026-08-14 -"US Only"
+```
+
+- **Notes:** Derived from JobDorking Greenhouse pattern `site:boards.greenhouse.io intitle:"UX Designer" after:2026-08-14` + skill-qualifier variant `intitle:"Software Engineer" TypeScript`. `intitle:(A OR B)` grouping works on Google; if zero results, fall back to single `intitle:"ML Engineer"`.
+
+#### Q-27: Lever — `intitle:` Fresh ML/AI + Skill Qualifier
+
+- **Intent:** Fresh Lever startup roles, optionally narrowed by skill token employers actually use.
+- **Filters:** `ATS=[lever] | Role=[core] | Seniority=any | Geo=[India-hubs, Remote] | OP=[intitle, intext-skill, after]`
+- **Query (broad):**
+
+```text
+site:jobs.lever.co intitle:("Machine Learning Engineer" OR "AI Engineer" OR "ML Engineer") ("India" OR "Bengaluru" OR "Remote") after:2026-08-14
+```
+
+- **Query (skill-narrowed, use when broad >50 results):**
+
+```text
+site:jobs.lever.co intitle:("Machine Learning Engineer" OR "AI Engineer") (Python OR PyTorch OR LLM) after:2026-08-14
+```
+
+- **Notes:** Mirrors JobDorking Lever patterns `intitle:"Data Analyst" after:...` and `intitle:"Software Engineer" senior remote after:...`. Skill term is body match (equivalent to `intext:`); add only when genuinely required.
+
+#### Q-28: LinkedIn Jobs Section — `intitle:` Fresher ML/AI (not Posts)
+
+- **Intent:** LinkedIn *listings* (`/jobs`) for junior ML/AI — distinct from Q-20–Q-22 which target `/posts`.
+- **Filters:** `ATS=[linkedin-jobs] | Role=[ML, AI] | Seniority=entry | Geo=[India-hubs, Remote] | OP=[intitle, after]`
+- **Query:**
+
+```text
+site:linkedin.com/jobs intitle:("ML Engineer" OR "AI Engineer" OR "Machine Learning Engineer" OR "Data Scientist") ("Fresher" OR "Junior" OR "Entry Level" OR "Graduate") ("India" OR "Bengaluru" OR "Bangalore" OR "Hyderabad" OR "Remote") after:2026-08-14
+```
+
+- **Notes:** Derived from JobDorking LinkedIn patterns `site:linkedin.com/jobs intitle:"Product Manager" after:...` and `intitle:"Frontend Engineer" remote after:...`. Keep to `/jobs` path to exclude profiles/posts/company pages. Try title alternatives with `OR` if too narrow.
+
+#### Q-29: Workday — `intitle:` + City Qualifier (Enterprise India)
+
+- **Intent:** Enterprise Workday roles in India hubs, fresh-first.
+- **Filters:** `ATS=[workday] | Role=[ML Engineer, AI Engineer, Data Scientist] | Seniority=any | Geo=[India-hubs] | OP=[intitle, after]`
+- **Query:**
+
+```text
+site:myworkdayjobs.com intitle:("Machine Learning Engineer" OR "AI Engineer" OR "Data Scientist") ("Bengaluru" OR "Bangalore" OR "Hyderabad" OR "Pune" OR "Gurugram" OR "Noida" OR "India") after:2026-08-14
+```
+
+- **Notes:** Derived from JobDorking Workday patterns `intitle:"Marketing Manager" after:...` and `intitle:"Financial Analyst" Chicago after:...` (city-as-qualifier). Workday titles vary by employer; if restrictive, drop `intitle:` and search key term once (per source: "Expect varied URLs and titles").
+
+#### Q-30: Multi-Board `intitle:` Mega-Dork — Fresh ML/AI Across ATS
+
+- **Intent:** One-query freshness sweep across Greenhouse + Lever + Ashby with title restriction.
+- **Filters:** `ATS=[greenhouse, lever, ashby] | Role=[core, genai] | Seniority=any | Geo=[India-hubs, Remote] | OP=[multi-site-OR, intitle, after] | Exclude=[US-Only]`
+- **Query:**
+
+```text
+(site:boards.greenhouse.io OR site:jobs.lever.co OR site:ashbyhq.com) intitle:("ML Engineer" OR "AI Engineer" OR "Machine Learning Engineer" OR "LLM Engineer") ("India" OR "Remote") after:2026-08-14 -"US Only"
+```
+
+- **Notes:** Direct application of JobDorking "Combine multiple boards with OR, wrapped in parentheses" rule to Q-04-style geo filter. Widen `after:` window if <5 results (index lag 1–2 days).
+
+#### Q-31: `intext:` Skill Qualifier — Python / PyTorch / LLM on ATS Boards
+
+- **Intent:** Filter ATS listings by skill appearing in JD body (GenAI-ready fresher signal).
+- **Filters:** `ATS=[greenhouse, lever, ashby] | Role=[ML, AI, genai] | Seniority=entry | Geo=[India-hubs, Remote] | OP=[intext] | Exclude=[US-Only]`
+- **Query:**
+
+```text
+(site:boards.greenhouse.io OR site:jobs.lever.co OR site:ashbyhq.com) ("Machine Learning" OR "AI Engineer" OR "LLM") ("Junior" OR "Fresher" OR "Entry Level" OR "Graduate") intext:(Python OR PyTorch OR LLM OR Transformers) ("India" OR "Remote") -"US Only"
+```
+
+- **Notes:** From JobDorking operator table (`intext:` = must appear in body) + Greenhouse engineering example `intitle:"Software Engineer" TypeScript`. Use one skill group at a time; `intext:(A OR B)` keeps recall.
+
+### 2.8 Aggregator-Combo + Company-Direct + `filetype:` (Yudi-derived)
+
+> Source: `https://yudij.substack.com/p/google-dorking-for-job-search` (scraped 2026-09-28): `site:` + `"job title"` + `"location"` combos, `intitle:"job title"`, Boolean mixing, `site:company.com "careers" AND "role"`, `filetype:pdf`.
+> Why: reaches postings invisible on single-ATS sweeps (Indeed/Glassdoor mirrors, unindexed company career sites).
+
+#### Q-32: Indeed Combo — ML/AI Title + India Location
+
+- **Intent:** Indeed-mirrored ML/AI listings for India hubs (Yudi `site:indeed.com "software developer" "Austin"` pattern, retargeted).
+- **Filters:** `ATS=[indeed] | Role=[core, adjacent] | Seniority=any | Geo=[India-hubs]`
+- **Query:**
+
+```text
+site:indeed.com ("Machine Learning Engineer" OR "ML Engineer" OR "AI Engineer" OR "Data Scientist") ("Bengaluru" OR "Bangalore" OR "Hyderabad" OR "Pune" OR "Gurugram" OR "Noida" OR "India")
+```
+
+- **Query (fresher-narrowed):**
+
+```text
+site:indeed.com ("ML Engineer" OR "AI Engineer" OR "Machine Learning") ("Fresher" OR "Junior" OR "Entry Level" OR "0-1 years") ("Bengaluru" OR "Hyderabad" OR "Pune" OR "India")
+```
+
+#### Q-33: Glassdoor Combo — Boolean Mix for Fresher ML/Data Roles
+
+- **Intent:** Glassdoor-listed internships/junior roles via Boolean `site:` + title + seniority + geo (Yudi "Combine Dorks" / data-analyst-internship-on-Glassdoor pattern).
+- **Filters:** `ATS=[glassdoor] | Role=[ML, Data Scientist, AI] | Seniority=entry | Geo=[India-hubs]`
+- **Query:**
+
+```text
+site:glassdoor.com ("Machine Learning" OR "Data Scientist" OR "AI Engineer") ("Intern" OR "Fresher" OR "Junior" OR "Entry Level") ("Bengaluru" OR "Bangalore" OR "Hyderabad" OR "Pune" OR "India")
+```
+
+#### Q-34: Company-Site Direct — `site:<company>.com "careers" AND "<role>"` (Template)
+
+- **Intent:** Company career-site openings that never surface on ATS/aggregator sweeps (Yudi `site:netflix.com "careers" AND "Software Developer"` pattern).
+- **Filters:** `ATS=[company-direct] | Role=[core, genai] | Seniority=any | Geo=[India, Remote]`
+- **Template (replace `<company>.com` per target):**
+
+```text
+site:<company>.com ("careers" OR "career" OR "jobs") AND ("Machine Learning Engineer" OR "AI Engineer" OR "LLM Engineer")
+```
+
+- **Concrete examples (paste-ready):**
+
+```text
+site:flipkart.com ("careers" OR "jobs") AND ("Machine Learning" OR "AI Engineer" OR "Data Scientist")
+```
+
+```text
+site:swiggy.com ("careers" OR "jobs") AND ("Machine Learning" OR "AI Engineer")
+```
+
+- **Notes:** Yudi source example targets Netflix/Apple; retargeted here to India-hiring product companies. One company per query (no `OR` across companies — keeps precision). Good for target-company lists.
+
+#### Q-35: `intitle:` Internship / Trainee Finder (Yudi `intitle:"job title"` pattern)
+
+- **Intent:** Internship-to-FTE pipeline roles (`supply-chain-intern` analogue → ML/AI intern), cross-board.
+- **Filters:** `ATS=[greenhouse, lever, ashby, indeed] | Role=[ML, AI, Data Scientist] | Seniority=[Intern, Trainee] | Geo=[India-hubs, Remote]`
+- **Query:**
+
+```text
+(site:boards.greenhouse.io OR site:jobs.lever.co OR site:ashbyhq.com OR site:indeed.com) intitle:("ML Intern" OR "Machine Learning Intern" OR "AI Intern" OR "Data Science Intern") ("Bengaluru" OR "Bangalore" OR "Hyderabad" OR "Pune" OR "India" OR "Remote")
+```
+
+- **Notes:** Yudi's `intitle:"supply chain intern"` + podcast-guest-Intel anecdote show `intitle:` internship titles surface hidden pipeline posts. No `after:` here for max recall; add `after:2026-08-14` only if >50 results.
+
+#### Q-36: `filetype:pdf` — JD / Guide Finder (Resource, Not Apply Pages)
+
+- **Intent:** Find ML/AI JD PDFs and role guides for role-language calibration (Yudi `filetype:pdf resume job role` pattern). Do NOT log as applications.
+- **Filters:** `ATS=n/a (resource) | Role=[ML, AI, PM-guide-analogue] | OP=[filetype]`
+- **Query:**
+
+```text
+filetype:pdf ("Machine Learning Engineer" OR "AI Engineer" OR "LLM Engineer") ("job description" OR "responsibilities" OR "qualifications") ("India" OR "Remote")
+```
+
+- **Notes:** Yudi uses `filetype:pdf` for guides/resumes; adapted to JD PDFs. Useful for extracting skill keywords to feed back into Q-27/Q-31 `intext:` qualifiers.
+
+#### Q-37: LinkedIn Generic-Site Combo — `site:linkedin.com` Title + Hiring CTA
+
+- **Intent:** Catch-all LinkedIn surface (jobs + posts + company updates) when `/jobs`-restricted Q-28 is too narrow (Yudi `site:linkedin.com Data Analyst job` pattern).
+- **Filters:** `ATS=[linkedin-jobs, linkedin-posts] | Role=[ML, AI] | Seniority=entry | Geo=[India-hubs]`
+- **Query:**
+
+```text
+site:linkedin.com ("ML Engineer" OR "AI Engineer" OR "Machine Learning") ("Fresher" OR "Junior" OR "Entry Level") ("India" OR "Bengaluru" OR "Bangalore" OR "Hyderabad") ("hiring" OR "apply" OR "DM me" OR "email")
+```
+
+- **Notes:** Broadest LinkedIn recall; deduplicate against Q-20–Q-22 and Q-28 by URL before logging.
+
 ---
 
 ## 3. Negative-Filter Glossary
@@ -358,6 +556,8 @@ site:recruitee.com ("Machine Learning" OR "ML Engineer" OR "AI Engineer" OR "Dat
 | `-"US Only"` | Strip US-region-locked postings | Any India / worldwide-remote query |
 | `-"UK Only"` | Strip UK-region-locked postings | Worldwide-remote sweeps (Q-04) |
 | `"posted"` | Bias to live Greenhouse job pages | Q-06 only |
+
+Operator quick-ref (full defs in `§1.5`): `intitle:"..."` (title must contain), `intext:` (body must contain), `after:YYYY-MM-DD` (recently indexed pages), `filetype:pdf` (resource PDFs only, Q-36), `AND` (company-direct, Q-34).
 
 ## 4. Composition Rules (Agent Query Builder)
 
@@ -374,6 +574,8 @@ Template:
 5. `EXCLUDE-CLAUSE` = append `-"US Only"` (and `-"UK Only"` for worldwide) when `GEO` includes India/Remote.
 6. Keep each clause parenthesized. Keep `OR` uppercase. Keep phrases double-quoted.
 7. Prefer 3-clause queries (ATS + Role + one of Seniority/Geo) over 4-clause for recall; add 4th clause only to narrow.
+8. Freshness variant (JobDorking, Q-26–Q-30): `site:<board> intitle:(<ROLE-OR>) (<GEO>)? after:YYYY-MM-DD`. Set `after:` ≈ run-date minus 45d. Refine one variable at a time; drop `intitle:` before dropping `site:` if recall <5.
+9. Aggregator/company-direct variant (Yudi, Q-32–Q-35, Q-37): `site:<aggregator|company> ("<role>") ("<city|seniority>")`. One company per query for Q-34; no `after:` on first pass for max recall.
 
 Example — new query (Bangalore junior GenAI, Ashby+Greenhouse):
 
@@ -393,6 +595,11 @@ Example — new query (Bangalore junior GenAI, Ashby+Greenhouse):
 
 ## 6. Changelog
 
+- `2.2 (2026-09-28)` — Added `§2.7` Freshness Patterns `Q-26`–`Q-31` (`intitle:` + `after:` + `intext:` skill qualifier + multi-board OR, from `jobdorking.com/guide/` + LinkedIn/Greenhouse/Lever/Workday board guides) and `§2.8` Aggregator/Company-Direct `Q-32`–`Q-37` (Indeed/Glassdoor combos, `site:<company>.com careers AND role` template, `intitle:` intern finder, `filetype:pdf` JD finder, LinkedIn catch-all, from Yudi Substack dorking guide). Added `§1.5` operator vocab (`intitle`/`intext`/`after`/`filetype`/`AND`/multi-`site:` OR + caveats), new `§1.1` tokens (`linkedin-jobs`, `indeed`, `glassdoor`, `company-direct`), `§4` Rules 8–9, `§3` operator quick-ref. `after:` examples use `2026-08-14` source window — shift to run-date minus ~45d on use.
 - `2.1 (2026-09-14)` — Added `§2.6` Simple-ATS Expansion: `Q-23` Keka, `Q-24` Workable, `Q-25` Recruitee (India/Remote, simple-DOM only, skip Workday-complex). Added `keka`/`workable`/`recruitee` to `§1.1` vocab. Fixed TOC Q-ranges to match actual sections.
 - `2.0 (2026-09-12)` — Restructured for agent traversal: frontmatter, TOC, stable Q-IDs, vocabularies, code-fenced queries, composition rules, SOP. No query semantics changed; Q-13/Q-14 split Lever roles; Q-20–Q-22 grouped LinkedIn.
 - `1.0` — Original flat list: global mega-dorks, platform copy-pasteables, LinkedIn dorks, India/remote variants, date-filter tip.
+
+
+
+("ML engineer" OR "AI engineer" OR "Data Scientist") site:lever.co remote
