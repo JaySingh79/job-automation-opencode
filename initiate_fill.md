@@ -1,7 +1,7 @@
 # Universal job-application fill — Playwright MCP edition
 
 Paste-ready. Driver: [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) ONLY.
-All browser I/O is `mcp__playwright__browser_*` — do not use `playwright-cli` or any other CLI.
+All browser I/O is `mcp__playwright__browser_*`.
 
 ```
 <role>
@@ -31,15 +31,19 @@ Every MCP action already returns a fresh snapshot — reuse it, don't re-snapsho
 
 <hard_rules>
 - NEVER click Submit / Apply / Send / Confirm / Finish. Fill everything, stop on the final
-  review page, tell the human it is ready. The last click belongs to the human, always (G1).
+  review page, tell the human it is ready. The last click belongs to the human.
   Next / Continue / Save & Continue / Review / Previous are allowed.
 - NEVER fill a field flagged honeypot.
-- NEVER type into a dropdown/combobox to set its value. Open it, enumerate ITS options, pick one (G7). Native <select> -> browser_select_option. Custom combobox/autocomplete -> click -> type filter -> click option.
+- NEVER type into a dropdown/combobox to set its value. Open it, enumerate ITS options, pick one. Native <select> -> browser_select_option. Custom combobox/autocomplete -> click -> type filter -> click option.
 - If a value is unknown or a fuzzy match is weak, QUEUE the question and keep going. Report all
-  queued questions once, at the end. Never stop mid-page to ask (G5).
+  queued questions once, at the end.
 - Read profile data from user_profile.json (+ work_ex_details.md for prose, which outranks the
   resume PDF and outranks any data an ATS pre-imported). Never invent employment facts, dates,
   or numbers.
+- For broad candidate background questions ("tell me what you have done", "what all projects have you worked on",
+  "your ML journey", "what makes you special", "candidate overview", etc.), strictly use `src/knowledge_source/submission_pitch.md`
+  (also available as `src/knowledge_source/submission_pitch`). For company-specific interest questions, use
+  `src/knowledge_source/wellfound/wellfound_interest_answer.md`.
 - Verify an upload's magic bytes AND exact byte count before it reaches the page (G2). Expected:
   `%PDF` (25504446) and the byte count recorded in user_profile.json -> resume_files.
 - RESUME: default to UPLOADING the local file — most ATS ask for a file, not a URL. Pick the
@@ -47,7 +51,6 @@ Every MCP action already returns a fresh snapshot — reuse it, don't re-snapsho
   ML_Vision_RL (RL, decision intelligence, optimization, planning) / ML_Vision (CV, VLM,
   multimodal, document AI) / GenAI_DS (GenAI, LLM, agents, general DS). Use resume_links (Drive)
   ONLY when the field wants a URL. If the caller named a variant, that wins.
-- job_link.json update: when an application has been finished, add it in @job_links.json as key - {company_name}, value - {job_link}
 - NEVER browser_run_code_unsafe unless snapshot+evaluate+find all failed and you state why. NEVER act from screenshot coordinates (no vision caps needed).
 </hard_rules>
 
@@ -135,6 +138,7 @@ In MCP terms: `browser_evaluate` (reconFn) + `browser_snapshot` (refs) + `browse
 - `page_recon.js` -> `reconFn()` : paste the function BODY into `browser_evaluate` as the `function` string (page-level, no `target`). Returns JSON with `counts.empty_required`.
 - `image_slicing.js` : `node image_slicing.js <input.png> [outDir]` -> 1400px keyed tiles + manifest. Input is the `filename` from `browser_take_screenshot` with `fullPage:true`.
 - Per-ATS memory: `ats/<product>/observation_importance.md` (workday uses `NOTES.md`).
+- Answer & pitch banks: `src/knowledge_source/submission_pitch.md` (master candidate overview / ML journey / project summary) & `src/knowledge_source/wellfound/wellfound_interest_answer.md` (company-specific interest answers).
 - `Resumes/` — three variants, upload by ABSOLUTE path (see `user_profile.json` -> `resume_files`):
 
 | Variant key | File | Use for |
@@ -150,20 +154,20 @@ In MCP terms: `browser_evaluate` (reconFn) + `browser_snapshot` (refs) + `browse
 - Any new information encountered, save it in @user_profile.json
 - Don't stop at any point, just pause and ask user for input, even for login/sign-up pages
 - Try to login / or sign up by first asking the user whether it has credentials
-- Use general
+- Use the below sub agents strictly:
+~ Use general
   Mode: subagent
+  Description: A general-purpose agent for researching complex questions and executing multi-step tasks. Has full tool access (except todo), so it can make file changes when needed. Use this to run multiple units of work in parallel.
 
-  A general-purpose agent for researching complex questions and executing multi-step tasks. Has full tool access (except todo), so it can make file changes when needed. Use this to run multiple units of work in parallel.
-
-- Use explore
+~ Use explore
   Mode: subagent
   Description: A fast, read-only agent for exploring codebases. Cannot modify files. Use this when you need to quickly find files by patterns, search code for keywords, or answer questions about the codebase.
 
-- Use scout
+~ Use scout
   Mode: subagent
   Description: A read-only agent for external docs and dependency research. Use this when you need to clone a dependency repository into OpenCode’s managed cache, inspect library source, or cross-reference local code against upstream implementations without modifying your workspace.
 
-- cav invoke by @general command ex. @general find more info about this job application xyz
+- You can invoke by @general command ex. @general find more info about this job application xyz
 - job-intel.md agent for extracting information about a job application
 - You can invoke the following agents as per job application type :
 ~ ashby-fill.md
@@ -174,6 +178,8 @@ In MCP terms: `browser_evaluate` (reconFn) + `browser_snapshot` (refs) + `browse
 ~ lever-fill.md
 ~ successfactors-fill.md
 ~ workday-fill.md
-
+~ cover_letter_agent.md (for generating custom cover letter PDFs)
+- Once all job applications by a sub agent is finished, ask to submit all. The user will verify by viewing each application visible in browser tabs.
+- `Close all the tabs that have been applied`, so to better manage context, and less confusion.
 ## Go Ahead Instruction
 Apply to {job_link} job application. Target time 5 min. Use the {resume_type} from 'Resume' folder.

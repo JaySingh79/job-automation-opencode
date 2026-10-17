@@ -44,6 +44,7 @@ Platform playbook for the `indeed-fill` subagent. Read this before touching any 
   roles, pay `22-26 LPA (negotiable)` / numeric `22`. Prose from `work_ex_details.md` only —
   Pascal DFR-Tracer (LangGraph RAG, pgvector, citation loop, 4hr→2min), Pibit 94.2%
   classification pipeline, Symx 87%/92%, Innovaccer Sara RAG, Cambridge agentic workflows.
+- For open-ended questions like 'tell me what you have done', 'what all projects have you worked on', 'your ML journey', 'what makes you special', or candidate overview, strictly use `src/knowledge_source/submission_pitch.md`. For company interest, use `src/knowledge_source/wellfound/wellfound_interest_answer.md`.
 - Relevance filter: fresher software/data roles (AI/ML/DS/GenAI/agentic/RAG/eval/NLP
   preferred under the broader scope), India/Remote-India, exp 0–2y ideal (2–4y ok on exact
   skill identity), range tops ≥18L on exact matches. Skip taxonomy (shared):
@@ -73,4 +74,8 @@ snapshots, no cookie-banner re-clicks, no homepage search re-typing after the UR
 
 ## 6. unnecessary file
 - Strictly do not load any other *.md* file other that menioned in @initiate_fill.md or AGENTS.md
+
+## 7. Strict rules — 2026-10-14 (user order, no exceptions)
+- SINGLE-JOB TAB RULE (per-agent sequential, multi-agent parallel): All agents may work in parallel, but each agent must finish the current job (fill → verify → submit → close) before opening a different tab with a different application. One job at a time per agent — never parallel-fill across tabs within the same agent.
+- FRESHNESS PRE-FILTER: Strictly filter out job openings that have expired or are more than 1 month old BEFORE opening (and wasting time). Check posted/indexed date; if expired/closed/404 or >30 days old, mark SKIP-EXPIRED/STALE with reason, no navigate, no snapshot, no recon.
 

@@ -81,6 +81,7 @@ English crosses the stripping layer.)
   variant by JD (`DS_Vision` vision/CV/general, `DS_Vision_RL` RL-heavy).
 - Long prose: DFR-Tracer (Pascal AI Labs) writeup from `work_ex_details.md` — doubles as
   agents/LLM proof for "something you built" fields.
+- Candidate pitch / overview questions: For screening questions matching 'tell me what you have done', 'what all projects have you worked on', 'your ML journey', 'what makes you special', or candidate overview, strictly use `src/knowledge_source/submission_pitch.md`. For company interest, use `src/knowledge_source/wellfound/wellfound_interest_answer.md`.
 
 ## 7. Output contract
 
@@ -89,4 +90,8 @@ items + `READY FOR HUMAN SUBMISSION`. Checkpoint `ats_progress.json` + `job_link
 
 ## 6. unnecessary file
 - Strictly do not load any other *.md* file other that menioned in @initiate_fill.md or AGENTS.md
+
+## 7. Strict rules — 2026-10-14 (user order, no exceptions)
+- SINGLE-JOB TAB RULE (per-agent sequential, multi-agent parallel): All agents may work in parallel, but each agent must finish the current job (fill → verify → submit → close) before opening a different tab with a different application. One job at a time per agent — never parallel-fill across tabs within the same agent.
+- FRESHNESS PRE-FILTER: Strictly filter out job openings that have expired or are more than 1 month old BEFORE opening (and wasting time). Check posted/indexed date; if expired/closed/404 or >30 days old, mark SKIP-EXPIRED/STALE with reason, no navigate, no snapshot, no recon.
 

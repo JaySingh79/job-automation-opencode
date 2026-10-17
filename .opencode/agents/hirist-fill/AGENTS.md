@@ -79,6 +79,7 @@ Per job, in this order, no deviations:
   `What is your current notice period?` → `10 days`; relocate → `Yes`; `Are you
   available to join immediately?` → `Yes`; WFO comfortable → `Yes`; `IIT/NIT/IIIT?`
   and `IIT background?` → `Yes`. Otherwise sponsorship `No`.
+  For descriptive questions matching 'tell me what you have done', 'projects worked on', 'ML journey', 'what makes you special', or candidate overview, strictly use `src/knowledge_source/submission_pitch.md`.
 - NEVER treat pause as done: on step pressure, checkpoint, park current id in output,
   resume from parked id next run. Only hard stops: login/OTP/CAPTCHA, explicit user stop.
 
@@ -90,3 +91,7 @@ Per job, in this order, no deviations:
 - Pending-item URLs (manual handoff): `https://www.hirist.tech/j/<slug>-<id>` where slug =
   lowercase title + first city + `<min>-<max>-yrs`, non-alphanumerics → `-` (verified exact).
 - Output contract: `RECON (total/filtered counts) → APPLIED (count + evidence) → PARKED (ids + reasons) → ledgers touched → human next action`. No raw dumps.
+
+## 6. Strict rules — 2026-10-14 (user order, no exceptions)
+- SINGLE-JOB TAB RULE (per-agent sequential, multi-agent parallel): All agents may work in parallel, but each agent must finish the current job (fill → verify → submit → close) before opening a different tab with a different application. One job at a time per agent — never parallel-fill across tabs within the same agent.
+- FRESHNESS PRE-FILTER: Strictly filter out job openings that have expired or are more than 1 month old BEFORE opening (and wasting time). Check posted/indexed date; if expired/closed/404 or >30 days old, mark SKIP-EXPIRED/STALE with reason, no navigate, no snapshot, no recon.

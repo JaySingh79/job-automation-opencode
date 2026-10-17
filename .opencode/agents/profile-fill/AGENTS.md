@@ -7,6 +7,7 @@
   Materials Engineering, Aug 2021–Apr 2026), 6 work roles, `resume_files` (path + bytes),
   `resume_links` (Drive URLs, URL-fields only).
 - `work_ex_details.md` — prose bullets; outranks resume PDF and site-preimported data.
+- `src/knowledge_source/submission_pitch.md` — master pitch for Bio, Summary, "About Me", and "what projects have you worked on / ML journey" text areas.
 - `Resumes/` variants: `GenAI_DS` (GenAI/LLM/agents/general DS — default),
   `ML_Vision` (CV/VLM/multimodal/document AI), `ML_Vision_RL` (RL/optimization/planning).
 - Existing page entries that are NOT in the profile (side gigs, extracurriculars) are the
@@ -77,4 +78,8 @@ validation text the DOM hides.
 
 ## 6. unnecessary file
 - Strictly do not load any other *.md* file other that menioned in @initiate_fill.md or AGENTS.md
+
+## 7. Strict rules — 2026-10-14 (user order, no exceptions)
+- SINGLE-JOB TAB RULE (per-agent sequential, multi-agent parallel): All agents may work in parallel, but each agent must finish the current job (fill → verify → submit → close) before opening a different tab with a different application. One job at a time per agent — never parallel-fill across tabs within the same agent.
+- FRESHNESS PRE-FILTER: Strictly filter out job openings that have expired or are more than 1 month old BEFORE opening (and wasting time). Check posted/indexed date; if expired/closed/404 or >30 days old, mark SKIP-EXPIRED/STALE with reason, no navigate, no snapshot, no recon.
 

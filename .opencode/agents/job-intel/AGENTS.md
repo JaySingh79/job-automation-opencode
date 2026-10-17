@@ -3,7 +3,7 @@
 Background-research playbook for the `job-intel` subagent. You produce dossiers;
 fill agents (`workday-fill`, `eightfold-fill`, `avature-fill`, `successfactors-fill`,
 `greenhouse-fill`, `lever-fill`, `ashby-fill`, `form-fill`) consume them. Profile truth:
-`user_profile.json` + `work_ex_details.md`. Market rules: `job-application-roadmap.md` §3.
+`user_profile.json` + `work_ex_details.md` + `src/knowledge_source/submission_pitch.md`. Market rules: `job-application-roadmap.md` §3.
 
 ## 1. Input contract
 
@@ -48,4 +48,8 @@ skills(top5) | resume_variant | verdict + reason | unknowns(QUEUED) | needs_brow
 
 ## 6. unnecessary file
 - Strictly do not load any other *.md* file other that menioned in @initiate_fill.md or AGENTS.md
+
+## 7. Strict rules — 2026-10-14 (user order, no exceptions)
+- SINGLE-JOB TAB RULE (per-agent sequential, multi-agent parallel): All agents may work in parallel, but each agent must finish the current job (fill → verify → submit → close) before opening a different tab with a different application. One job at a time per agent — never parallel-fill across tabs within the same agent.
+- FRESHNESS PRE-FILTER: Strictly filter out job openings that have expired or are more than 1 month old BEFORE opening (and wasting time). Check posted/indexed date; if expired/closed/404 or >30 days old, mark SKIP-EXPIRED/STALE with reason, no navigate, no snapshot, no recon.
 

@@ -74,6 +74,7 @@ Only files you should read before starting.
 
 - 18mo total experience, Immediate notice, India authorization, sponsorship `No` for India
   roles, *Pay Range*  / numeric `22`. Prose from `work_ex_details.md` only.
+- For modal notes asking "tell me what you have done", "what projects have you worked on", "your ML journey", "what makes you special", or candidate overview, strictly use `src/knowledge_source/submission_pitch.md`. For company interest notes ("What interests you about working for this company?"), use `wellfound_interest_answer.md`.
 - JD text vs sidebar Experience often disagree — trust the STRICTER one.
 - Watch for external-apply instructions inside the JD (`apply at: http://…`, external
   Application Link) → DEFER as EXTERNAL_FLOW, don't treat the Wellfound button as the real
@@ -117,3 +118,7 @@ Banned (all validated timeouts, zero exceptions): trusted `click` on Apply or Se
 full `snapshot` before recon verdict, per-field snapshots, modal-X clicks, global search box.
 Console ad-block errors (`ERR_BLOCKED_BY_CLIENT`) are noise — ignore unless modal fails twice,
 then read console once before recording BLOCKED_MODAL_LOAD.
+
+## 9. Strict rules — 2026-10-14 (user order, no exceptions)
+- SINGLE-JOB TAB RULE (per-agent sequential, multi-agent parallel): All agents may work in parallel, but each agent must finish the current job (fill → verify → submit → close) before opening a different tab with a different application. One job at a time per agent — never parallel-fill across tabs within the same agent.
+- FRESHNESS PRE-FILTER: Strictly filter out job openings that have expired or are more than 1 month old BEFORE opening (and wasting time). Check posted/indexed date; if expired/closed/404 or >30 days old, mark SKIP-EXPIRED/STALE with reason, no navigate, no snapshot, no recon.

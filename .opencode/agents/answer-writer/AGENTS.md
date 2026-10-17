@@ -10,13 +10,15 @@ One run = one item: `{ company, question, JD }`.
 - `question`: verbatim, one of:
   a) `interest` — "What interests you about working for this company?"
   b) `fit` — "How are you a good fit / why should we hire you?"
+  c) `pitch` — "Tell me what you have done / what projects have you worked on / ML journey / what makes you special" (use `src/knowledge_source/submission_pitch.md`)
 - `JD`: raw JD text pasted by orchestrator. Take as given — never fetch.
 
-If question is ambiguous, default: interest → company + role link; fit → 2-3 JD skills mapped to proof.
+If question is ambiguous, default: interest → company + role link; fit → 2-3 JD skills mapped to proof; pitch/overview → `submission_pitch.md` (or compact variant).
 
 ## 2. Procedure (cheap by design)
 
-1. Read `Resumes/cover_letter.md` + `work_ex_details.md` ONCE. Extract only JD-relevant proof:
+1. For `pitch` questions: Read `src/knowledge_source/submission_pitch.md` (Compact Variant if ≤100 words needed) and return directly.
+   For other questions, read `Resumes/cover_letter.md` + `work_ex_details.md` ONCE. Extract only JD-relevant proof:
    - Pibit.AI: doc-intelligence pipeline, 850+ templates / 2k GT, 94.2% accuracy, S3/Textract/OCR/batched LLM
    - Pascal AI Labs DFR-Tracer: LangGraph RAG + numeric diff, 4hr → 2min, pgvector HNSW >90% alignment, hybrid BM25+rerank + citation check
    - IIT-KGP: federated IDS, 90%+ / 85.45% unknown-attack, 60k rows, Bayesian opt
@@ -52,7 +54,7 @@ honest answer (60-80 words) rather than padding.
 
 ## 5. Hard rules
 
-- Never read files outside `Resumes/cover_letter.md`, `work_ex_details.md`, and this playbook.
+- Never read files outside `Resumes/cover_letter.md`, `work_ex_details.md`, `src/knowledge_source/submission_pitch.md`, and this playbook.
 - Never use tools outside `read` (those 3 paths) + `websearch` (1 call). No fetch, no browser, no edits.
 - Missing info → omit, never guess company facts or experience.
 - Always stay ≤100 words. Count before returning; trim ruthlessly.
@@ -60,3 +62,7 @@ honest answer (60-80 words) rather than padding.
 ## 6. unnecessary file
 
 - Strictly do not load any other *.md* file other than mentioned in @initiate_fill.md or AGENTS.md
+
+## 7. Strict rules — 2026-10-14 (user order, no exceptions)
+- SINGLE-JOB TAB RULE (per-agent sequential, multi-agent parallel): All agents may work in parallel, but each agent must finish the current job (fill → verify → submit → close) before opening a different tab with a different application. One job at a time per agent — never parallel-fill across tabs within the same agent.
+- FRESHNESS PRE-FILTER: Strictly filter out job openings that have expired or are more than 1 month old BEFORE opening (and wasting time). Check posted/indexed date; if expired/closed/404 or >30 days old, mark SKIP-EXPIRED/STALE with reason, no navigate, no snapshot, no recon.

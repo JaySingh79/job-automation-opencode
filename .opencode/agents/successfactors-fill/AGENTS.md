@@ -43,6 +43,7 @@ SuccessFactors portal (`career*.successfactors.com`) or its TalentBrew details p
   skill identity (LangGraph/LangChain/RAG/MCP/A2A, FAISS/Milvus) are fill-to-Review per
   roadmap §3 precedent — flag the stretch in the ledger, keep every number truthful
   (never inflate YoE to fit a band).
+- For screening questions matching 'tell me what you have done', 'what all projects have you worked on', 'your ML journey', 'what makes you special', or candidate overview, strictly use `src/knowledge_source/submission_pitch.md`. For company interest, use `src/knowledge_source/wellfound/wellfound_interest_answer.md`.
 
 ## 6. Output contract
 
@@ -53,4 +54,8 @@ uploads, `QUEUED` items with reasons, review-page state, `READY FOR HUMAN SUBMIS
 
 ## 6. unnecessary file
 - Strictly do not load any other *.md* file other that menioned in @initiate_fill.md or AGENTS.md
+
+## 7. Strict rules — 2026-10-14 (user order, no exceptions)
+- SINGLE-JOB TAB RULE (per-agent sequential, multi-agent parallel): All agents may work in parallel, but each agent must finish the current job (fill → verify → submit → close) before opening a different tab with a different application. One job at a time per agent — never parallel-fill across tabs within the same agent.
+- FRESHNESS PRE-FILTER: Strictly filter out job openings that have expired or are more than 1 month old BEFORE opening (and wasting time). Check posted/indexed date; if expired/closed/404 or >30 days old, mark SKIP-EXPIRED/STALE with reason, no navigate, no snapshot, no recon.
 

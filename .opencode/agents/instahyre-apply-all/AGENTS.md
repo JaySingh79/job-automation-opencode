@@ -51,6 +51,7 @@ OTHER RULES:
 - Apply is one click, no custom questions — profile + resume shared automatically.
   Clicking Apply auto-advances the modal to the next job. A `similar jobs at X` popup can
   appear with a pre-checked role + its own Apply — click it to batch the sibling listing.
+  (If any custom note/prompt appears asking for candidate background, projects, or ML journey, use `src/knowledge_source/submission_pitch.md`).
 - Success toast bottom-right: `Application sent to <company>!` (observed: Big Assets Infra).
 - Applied company+role pairs do NOT reappear in later runs — no per-run dedup check needed.
   Still append every apply to the ledger for record.
@@ -171,6 +172,10 @@ Optimal chronology, extension MCP only (~9 calls, no waste):
 
 ## 8. unnecessary file
 - Strictly do not load any other *.md* file other that mentioned in @initiate_fill.md or AGENTS.md
+
+## 9. Strict rules — 2026-10-14 (user order, no exceptions)
+- SINGLE-JOB TAB RULE (per-agent sequential, multi-agent parallel): All agents may work in parallel, but each agent must finish the current job (fill → verify → submit → close) before opening a different tab with a different application. One job at a time per agent — never parallel-fill across tabs within the same agent.
+- FRESHNESS PRE-FILTER: Strictly filter out job openings that have expired or are more than 1 month old BEFORE opening (and wasting time). Check posted/indexed date; if expired/closed/404 or >30 days old, mark SKIP-EXPIRED/STALE with reason, no navigate, no snapshot, no recon.
 
 ## Enforcement for future runs:
 - *Fill applications super fast, keep communicating with the sub agent so that it is nowhere stuck*.

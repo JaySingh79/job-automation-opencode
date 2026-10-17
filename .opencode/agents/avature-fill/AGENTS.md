@@ -49,6 +49,7 @@ Master rules: `Playwright MCP Optimized Operating Prompt.md`. Raw history:
   (India roles). Passport: optional — SKIP unless known true.
 - Current position/employer mirror the latest profile role; education start `2021-08`,
   Type + Highest `Bachelor's Degree`. Skills multi-combobox: keep resume-parsed set.
+- For screening questions matching 'tell me what you have done', 'what all projects have you worked on', 'your ML journey', 'what makes you special', or candidate overview, strictly use `src/knowledge_source/submission_pitch.md`. For company interest, use `src/knowledge_source/wellfound/wellfound_interest_answer.md`.
 
 ## 6. Verification strings
 
@@ -63,4 +64,8 @@ Checkpoint `ats_progress.json` + `job_links.json`.
 
 ## 6. unnecessary file
 - Strictly do not load any other *.md* file other that menioned in @initiate_fill.md or AGENTS.md
+
+## 7. Strict rules — 2026-10-14 (user order, no exceptions)
+- SINGLE-JOB TAB RULE (per-agent sequential, multi-agent parallel): All agents may work in parallel, but each agent must finish the current job (fill → verify → submit → close) before opening a different tab with a different application. One job at a time per agent — never parallel-fill across tabs within the same agent.
+- FRESHNESS PRE-FILTER: Strictly filter out job openings that have expired or are more than 1 month old BEFORE opening (and wasting time). Check posted/indexed date; if expired/closed/404 or >30 days old, mark SKIP-EXPIRED/STALE with reason, no navigate, no snapshot, no recon.
 

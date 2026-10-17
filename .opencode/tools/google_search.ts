@@ -1,7 +1,72 @@
 import { tool } from "@opencode-ai/plugin/tool"
 import { getJson } from "serpapi"
+import fs from "node:fs"
+import path from "node:path"
 
 const MAX_CHARS = 15000
+
+const KEY_NAMES = ["SERPAPI_API_KEY", "SERP_API_KEY", "SERPAPI_KEY"] as const
+
+/** Bun auto-loads .env from cwd only. Tool cwd isn't always the project root,
+ *  so fall back to manually parsing the nearest .env (read-only, never writes). */
+function loadEnvFallback(): void {
+  for (const k of KEY_NAMES) {
+    if (process.env[k]) return
+  }
+  try {
+    const g = globalThis as unknown as Record<string, unknown>
+    const bun = g["Bun"] as Record<string, unknown> | undefined
+    const bunEnv = bun?.["env"] as Record<string, string | undefined> | undefined
+    if (bunEnv) {
+      for (const k of KEY_NAMES) {
+        const v = bunEnv[k]
+        if (v && !process.env[k]) process.env[k] = v
+      }
+      for (const k of KEY_NAMES) {
+        if (process.env[k]) return
+      }
+    }
+  } catch {
+    // ignore — fall through to .env file scan
+  }
+  let dir = process.cwd()
+  for (let i = 0; i < 6; i++) {
+    const p = path.join(dir, ".env")
+    if (fs.existsSync(p)) {
+      try {
+        const text = fs.readFileSync(p, "utf8")
+        for (const line of text.split("\n")) {
+          const trimmed = line.trim()
+          if (!trimmed || trimmed.startsWith("#")) continue
+          const m = trimmed.match(/^([A-Za-z_][A-Za-z0-9_]*)\s*=\s*(.*)$/)
+          if (!m) continue
+          const [, k, raw] = m
+          if (!(KEY_NAMES as readonly string[]).includes(k)) continue
+          if (process.env[k]) continue
+          let v = raw.trim()
+          if (
+            (v.startsWith('"') && v.endsWith('"') && v.length >= 2) ||
+            (v.startsWith("'") && v.endsWith("'") && v.length >= 2)
+          ) {
+            v = v.slice(1, -1)
+          }
+          if (v) process.env[k] = v
+        }
+      } catch {
+        // unreadable .env — ignore
+      }
+      return
+    }
+    const parent = path.dirname(dir)
+    if (parent === dir) return
+    dir = parent
+  }
+}
+
+function resolveApiKey(): string | undefined {
+  loadEnvFallback()
+  return process.env.SERPAPI_API_KEY ?? process.env.SERP_API_KEY ?? process.env.SERPAPI_KEY
+}
 
 export default tool({
   description:
@@ -24,7 +89,7 @@ export default tool({
     google_domain: tool.schema.string().optional().describe("Google domain (default 'google.com')"),
   },
   async execute(args) {
-    const api_key = process.env.SERPAPI_API_KEY ?? process.env.SERP_API_KEY ?? process.env.SERPAPI_KEY
+    const api_key = resolveApiKey()
     if (!api_key) {
       return "Error: SERPAPI_API_KEY (or SERP_API_KEY) not set in env/.env"
     }
@@ -38,18 +103,38 @@ export default tool({
     const collected: { title: string; link: string; snippet: string }[] = []
 
     for (let page = 0; page < num_pages; page++) {
-      const json = await getJson({
-        engine: "google",
-        q: query,
-        google_domain,
-        hl,
-        gl,
-        start: page * 10,
-        api_key,
-      })
+      let json: unknown
+      try {
+        json = await getJson({
+          engine: "google",
+          q: query,
+          google_domain,
+          hl,
+          gl,
+          start: page * 10,
+          api_key,
+        })
+      } catch (err) {
+        const msg = err instanceof Error ? `${err.constructor.name}: ${err.message}` : String(err)
+        // Key/plan problems fail fast; transient page errors stop pagination.
+        if (/api[_-]?key|unauthorized|forbidden|402|quota|credit|plan/i.test(msg) && collected.length === 0) {
+          return `Error: SerpApi request failed — ${msg}`
+        }
+        break
+      }
 
-      const organic = (json as { organic_results?: { title?: string; link?: string; snippet?: string }[] })
-        .organic_results
+      const body = json as {
+        error?: string
+        organic_results?: { title?: string; link?: string; snippet?: string }[]
+      }
+      if (body.error) {
+        if (collected.length === 0) {
+          return `Error: SerpApi returned an error — ${body.error}`
+        }
+        break
+      }
+
+      const organic = body.organic_results
       if (!organic || organic.length === 0) break
 
       for (const item of organic) {
@@ -59,6 +144,10 @@ export default tool({
           snippet: item.snippet ?? "",
         })
       }
+    }
+
+    if (collected.length === 0) {
+      return JSON.stringify({ response: [], note: "No organic_results returned for this query." }, null, 2)
     }
 
     const seen = new Set<string>()
