@@ -1,0 +1,138 @@
+{
+  "platform": "intellohire",
+  "last_updated": "2026-10-28T15:15:12.658249+00:00",
+  "total_jobs": 14,
+  "staged_count": 3,
+  "skipped_count": 11,
+  "jobs": [
+    {
+      "job_id": "240226505110",
+      "title": "Java Full Stack Developer",
+      "company": "Logic Planet",
+      "url": "https://app.intellohire.com/public/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZXNvdXJjZSI6eyJvcmdhbml6YXRpb24iOjM5Nn19.FVmOkFldcowxdAQsyZn6uTT8Uw3axXiIbMRH360VtZc/15291/job-description",
+      "applied_at": "2026-10-28T15:12:35.315359+00:00",
+      "status": "SKIPPED",
+      "reason": "Skipped pure Java Full Stack non-Python enterprise role"
+    },
+    {
+      "job_id": "200226500477",
+      "title": "full stack developer",
+      "company": "Logic Planet",
+      "url": "https://app.intellohire.com/public/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZXNvdXJjZSI6eyJvcmdhbml6YXRpb24iOjM5Nn19.FVmOkFldcowxdAQsyZn6uTT8Uw3axXiIbMRH360VtZc/12461/job-description",
+      "applied_at": "2026-10-28T15:13:22.822395+00:00",
+      "status": "READY FOR HUMAN SUBMISSION",
+      "verification": "100% required fields filled (Name: Jay Singh, Phone: 8651274328, CTC: 18->22 LPA, Notice: 0 days, Resume: JayResumeGenAIDS5thAug.pdf). Save button unclicked, staged for human review.",
+      "screenshot": "src/accessability_snapshot/intellohire_200226500477_staged.png"
+    },
+    {
+      "job_id": "240226505135",
+      "title": "MuleSoft developer",
+      "company": "Logic Planet",
+      "url": "https://app.intellohire.com/public/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZXNvdXJjZSI6eyJvcmdhbml6YXRpb24iOjM5Nn19.FVmOkFldcowxdAQsyZn6uTT8Uw3axXiIbMRH360VtZc/21392/job-description",
+      "applied_at": "2026-10-28T15:13:24.797845+00:00",
+      "status": "SKIPPED",
+      "reason": "Skipped pure enterprise MuleSoft role"
+    },
+    {
+      "job_id": "240226505116",
+      "title": "MuleSoft developer",
+      "company": "Logic Planet",
+      "url": "https://app.intellohire.com/public/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZXNvdXJjZSI6eyJvcmdhbml6YXRpb24iOjM5Nn19.FVmOkFldcowxdAQsyZn6uTT8Uw3axXiIbMRH360VtZc/16763/job-description",
+      "applied_at": "2026-10-28T15:13:24.797941+00:00",
+      "status": "SKIPPED",
+      "reason": "Skipped pure enterprise MuleSoft role"
+    },
+    {
+      "job_id": "240226505156",
+      "title": "CRM 365 Developer",
+      "company": "Logic Planet",
+      "url": "https://app.intellohire.com/public/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZXNvdXJjZSI6eyJvcmdhbml6YXRpb24iOjM5Nn19.FVmOkFldcowxdAQsyZn6uTT8Uw3axXiIbMRH360VtZc/17039/job-description",
+      "applied_at": "2026-10-28T15:13:24.798000+00:00",
+      "status": "SKIPPED",
+      "reason": "Skipped pure enterprise CRM 365 role"
+    },
+    {
+      "job_id": "240226505065",
+      "title": "BMC ITSM Remedy developers",
+      "company": "Logic Planet",
+      "url": "https://app.intellohire.com/public/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZXNvdXJjZSI6eyJvcmdhbml6YXRpb24iOjM5Nn19.FVmOkFldcowxdAQsyZn6uTT8Uw3axXiIbMRH360VtZc/16808/job-description",
+      "applied_at": "2026-10-28T15:13:24.798053+00:00",
+      "status": "SKIPPED",
+      "reason": "Skipped pure enterprise BMC ITSM Remedy role"
+    },
+    {
+      "job_id": "240226505147",
+      "title": "Java Developer 8",
+      "company": "Logic Planet",
+      "url": "https://app.intellohire.com/public/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZXNvdXJjZSI6eyJvcmdhbml6YXRpb24iOjM5Nn19.FVmOkFldcowxdAQsyZn6uTT8Uw3axXiIbMRH360VtZc/20498/job-description",
+      "applied_at": "2026-10-28T15:13:24.798111+00:00",
+      "status": "SKIPPED",
+      "reason": "Skipped pure Java 8 non-Python role"
+    },
+    {
+      "job_id": "240226505163",
+      "title": "Java Developer 8",
+      "company": "Logic Planet",
+      "url": "https://app.intellohire.com/public/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZXNvdXJjZSI6eyJvcmdhbml6YXRpb24iOjM5Nn19.FVmOkFldcowxdAQsyZn6uTT8Uw3axXiIbMRH360VtZc/20979/job-description",
+      "applied_at": "2026-10-28T15:13:24.798162+00:00",
+      "status": "SKIPPED",
+      "reason": "Skipped pure Java 8 non-Python role"
+    },
+    {
+      "job_id": "240226504891",
+      "title": "SNOW Developer",
+      "company": "Logic Planet",
+      "url": "https://app.intellohire.com/public/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZXNvdXJjZSI6eyJvcmdhbml6YXRpb24iOjM5Nn19.FVmOkFldcowxdAQsyZn6uTT8Uw3axXiIbMRH360VtZc/21394/job-description",
+      "applied_at": "2026-10-28T15:13:24.798458+00:00",
+      "status": "SKIPPED",
+      "reason": "Skipped pure enterprise ServiceNow role"
+    },
+    {
+      "job_id": "240226504890",
+      "title": "Angular Developer",
+      "company": "Logic Planet",
+      "url": "https://app.intellohire.com/public/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZXNvdXJjZSI6eyJvcmdhbml6YXRpb24iOjM5Nn19.FVmOkFldcowxdAQsyZn6uTT8Uw3axXiIbMRH360VtZc/21364/job-description",
+      "applied_at": "2026-10-28T15:13:24.798515+00:00",
+      "status": "SKIPPED",
+      "reason": "Skipped pure frontend Angular role"
+    },
+    {
+      "job_id": "210226502509",
+      "title": "Full Stack Python Developer",
+      "company": "Logic Planet",
+      "url": "https://app.intellohire.com/public/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZXNvdXJjZSI6eyJvcmdhbml6YXRpb24iOjM5Nn19.FVmOkFldcowxdAQsyZn6uTT8Uw3axXiIbMRH360VtZc/20769/job-description",
+      "applied_at": "2026-10-28T15:14:16.340287+00:00",
+      "status": "READY FOR HUMAN SUBMISSION",
+      "verification": "100% required fields filled (Name: Jay Singh, Phone: 8651274328, CTC: 18->22 LPA, Notice: 0 days, Resume: JayResumeGenAIDS5thAug.pdf). Save button unclicked, staged for human review.",
+      "screenshot": "src/accessability_snapshot/intellohire_210226502509_staged.png"
+    },
+    {
+      "job_id": "240226505143",
+      "title": "Power Automate Developer",
+      "company": "Logic Planet",
+      "url": "https://app.intellohire.com/public/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZXNvdXJjZSI6eyJvcmdhbml6YXRpb24iOjM5Nn19.FVmOkFldcowxdAQsyZn6uTT8Uw3axXiIbMRH360VtZc/16609/job-description",
+      "applied_at": "2026-10-28T15:14:18.793060+00:00",
+      "status": "SKIPPED",
+      "reason": "Skipped pure enterprise Power Automate RPA role"
+    },
+    {
+      "job_id": "240226505137",
+      "title": "RPA Developer",
+      "company": "Logic Planet",
+      "url": "https://app.intellohire.com/public/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZXNvdXJjZSI6eyJvcmdhbml6YXRpb24iOjM5Nn19.FVmOkFldcowxdAQsyZn6uTT8Uw3axXiIbMRH360VtZc/21326/job-description",
+      "applied_at": "2026-10-28T15:14:18.793179+00:00",
+      "status": "SKIPPED",
+      "reason": "Skipped pure enterprise RPA role"
+    },
+    {
+      "job_id": "240226505128",
+      "title": "ETL Developer with Pyspark",
+      "company": "Logic Planet",
+      "url": "https://app.intellohire.com/public/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZXNvdXJjZSI6eyJvcmdhbml6YXRpb24iOjM5Nn19.FVmOkFldcowxdAQsyZn6uTT8Uw3axXiIbMRH360VtZc/21356/job-description",
+      "applied_at": "2026-10-28T15:15:09.004493+00:00",
+      "status": "READY FOR HUMAN SUBMISSION",
+      "verification": "100% required fields filled (Name: Jay Singh, Phone: 8651274328, CTC: 18->22 LPA, Notice: 0 days, Resume: JayResumeGenAIDS5thAug.pdf). Save button unclicked, staged for human review.",
+      "screenshot": "src/accessability_snapshot/intellohire_240226505128_staged.png"
+    }
+  ]
+}

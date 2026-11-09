@@ -1,0 +1,195 @@
+{
+  "batch_id": 3,
+  "subagent": "naukri-fill-3",
+  "total_jobs": 10,
+  "jobs": [
+    {
+      "job_id": "261026021216",
+      "title": "FullSatck Engineer - Apply via Link in Description Only",
+      "company": "Babblebots",
+      "experience": "0-5 Yrs",
+      "salary": "10-20 Lacs PA",
+      "location": "Pune, Bengaluru, Mumbai (All Areas)",
+      "tags": [
+        "Python",
+        "Full Stack",
+        "Java",
+        "SQL",
+        "Javas",
+        "Development",
+        "Fullstack Development",
+        "Application"
+      ],
+      "posted_date": "1 day ago",
+      "url": "https://www.naukri.com/job-listings-fullsatck-engineer-apply-via-link-in-description-only-babblebots-pune-bengaluru-mumbai-all-areas-0-to-5-years-261026021216"
+    },
+    {
+      "job_id": "141026040702",
+      "title": "Software Development Engineer at A FinTech Company",
+      "company": "Talentzo Delhi",
+      "experience": "0-5 Yrs",
+      "salary": "14-20 Lacs PA",
+      "location": "Remote",
+      "tags": [
+        "Node.js",
+        "Golang",
+        "Javascript",
+        "Software development",
+        "Fintech",
+        "Development",
+        "Software",
+        "Company"
+      ],
+      "posted_date": "1 week ago",
+      "url": "https://www.naukri.com/job-listings-software-development-engineer-at-a-fintech-company-talentzo-delhi-pune-0-to-5-years-141026040702"
+    },
+    {
+      "job_id": "030926010300",
+      "title": "SDE - 1",
+      "company": "Atmos Care",
+      "experience": "0-4 Yrs",
+      "salary": "Filtered >= 15 LPA",
+      "location": "Pune",
+      "tags": [
+        "Fullstack Development",
+        "TypeScript",
+        "Javascript",
+        "Node.js",
+        "React.js",
+        "Full Stack",
+        "Sde",
+        "Development"
+      ],
+      "posted_date": "3 weeks ago",
+      "url": "https://www.naukri.com/job-listings-sde-1-atmos-care-pune-0-to-4-years-030926010300"
+    },
+    {
+      "job_id": "161026026801",
+      "title": "Data Analyst",
+      "company": "Talentstream",
+      "experience": "0-3 Yrs",
+      "salary": "10-16 Lacs PA",
+      "location": "Remote",
+      "tags": [
+        "SQL",
+        "Analysis",
+        "Excel",
+        "Data analysis",
+        "Data"
+      ],
+      "posted_date": "1 week ago",
+      "url": "https://www.naukri.com/job-listings-data-analyst-talentstream-bengaluru-0-to-3-years-161026026801"
+    },
+    {
+      "job_id": "231026922937",
+      "title": "Engineer - Camera Systems (3A)",
+      "company": "Qualcomm",
+      "experience": "0-4 Yrs",
+      "salary": "Filtered >= 15 LPA",
+      "location": "Hyderabad",
+      "tags": [
+        "Processing",
+        "Automotive",
+        "Program",
+        "Rest Assured",
+        "Rest",
+        "Programming",
+        "Computer",
+        "Multimedia"
+      ],
+      "posted_date": "4 days ago",
+      "url": "https://www.naukri.com/job-listings-engineer-camera-systems-3a-qualcomm-india-pvt-ltd-hyderabad-0-to-4-years-231026922937"
+    },
+    {
+      "job_id": "131026048948",
+      "title": "Analyst-CPRA-Retail",
+      "company": "Hdfc Bank",
+      "experience": "0-1 Yrs",
+      "salary": "Filtered >= 15 LPA",
+      "location": "Mumbai",
+      "tags": [
+        "Assortment Planning",
+        "Retail Analysis",
+        "Category Management",
+        "Retail Sales",
+        "Retail Operations",
+        "Shrinkage Control",
+        "Merchandising",
+        "Store Management"
+      ],
+      "posted_date": "1 week ago",
+      "url": "https://www.naukri.com/job-listings-analyst-cpra-retail-hdfc-bank-limited-mumbai-0-to-1-years-131026048948"
+    },
+    {
+      "job_id": "221026026105",
+      "title": "Data Steward-BIU",
+      "company": "Hdfc Bank",
+      "experience": "0-1 Yrs",
+      "salary": "Filtered >= 15 LPA",
+      "location": "Mumbai",
+      "tags": [
+        "Budgeting",
+        "Data management",
+        "Macros",
+        "SQL",
+        "Data Visualization",
+        "Project",
+        "Data analysis",
+        "HLOOKUP"
+      ],
+      "posted_date": "5 days ago",
+      "url": "https://www.naukri.com/job-listings-data-steward-biu-hdfc-bank-limited-mumbai-0-to-1-years-221026026105"
+    },
+    {
+      "job_id": "270726007509",
+      "title": "Quality Analyst",
+      "company": "Highradius",
+      "experience": "0 Yrs",
+      "salary": "Filtered >= 15 LPA",
+      "location": "Hyderabad",
+      "tags": [],
+      "posted_date": "5 days ago",
+      "url": "https://www.naukri.com/job-listings-quality-analyst-highradius-technologies-pvt-ltd-hyderabad-0-to-0-years-270726007509"
+    },
+    {
+      "job_id": "191026918087",
+      "title": "SW Applications Engineer",
+      "company": "Applied Materials",
+      "experience": "0-4 Yrs",
+      "salary": "Filtered >= 15 LPA",
+      "location": "Mumbai",
+      "tags": [
+        "Electronics",
+        "CAD",
+        "Electronics engineering",
+        "Diagnostics",
+        "Debugging",
+        "Application",
+        "Algorithms",
+        "Customer focus"
+      ],
+      "posted_date": "1 week ago",
+      "url": "https://www.naukri.com/job-listings-sw-applications-engineer-applied-materials-india-private-limited-mumbai-0-to-4-years-191026918087"
+    },
+    {
+      "job_id": "211026008546",
+      "title": "Factor Analytics Product Specialist",
+      "company": "MSCI Services",
+      "experience": "0-2 Yrs",
+      "salary": "Filtered >= 15 LPA",
+      "location": "Mumbai",
+      "tags": [
+        "Writing",
+        "Bi",
+        "Performance Attribution",
+        "Microservices",
+        "Time Managements",
+        "Tools",
+        "Program",
+        "Data Integration Tools"
+      ],
+      "posted_date": "6 days ago",
+      "url": "https://www.naukri.com/job-listings-factor-analytics-product-specialist-msci-services-mumbai-0-to-2-years-211026008546"
+    }
+  ]
+}

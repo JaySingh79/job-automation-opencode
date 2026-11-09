@@ -1,0 +1,22 @@
+{
+  "company": "Flyo",
+  "role": "AI Engineering Intern - Hyderabad",
+  "platform": "Google Forms",
+  "url": "https://docs.google.com/forms/d/e/1FAIpQLSf8pb4QQMEQZqtntSZCDfyNdPz5-hAhpZomnYiHBOkoir5ekQ/viewform",
+  "status": "awaiting_human_video_link",
+  "staged_at": "2026-10-29T13:42:35+05:30",
+  "filled_fields": {
+    "full_name": "Jay Singh",
+    "email": "jays.iitkgp@gmail.com",
+    "phone": "+91-8651274328",
+    "role": "AI Engineering Intern - Hyderabad",
+    "current_city": "Gaya, Bihar",
+    "willing_to_relocate_hyderabad": "Yes, willing to relocate",
+    "years_experience": "1.5",
+    "linkedin": "https://linkedin.com/in/jay-singh-ds/",
+    "github": "https://github.com/JaySingh79",
+    "resume_drive_link": "https://drive.google.com/file/d/1RDKyGssbTGDZqI2v03WM0vqvLwIYmbhh/view?usp=sharing",
+    "additional_notes": "Passionate about agentic workflows, LLM orchestration, and evaluation harnesses. Built Agentic-Commerce with autonomous scouts, A2A negotiation, and AP2 mandates."
+  },
+  "blocked_on": "YouTube video link (Unlisted, face visible) - requires candidate's 2-3 min video answering what excites you about Flyo and hardest problem faced"
+}

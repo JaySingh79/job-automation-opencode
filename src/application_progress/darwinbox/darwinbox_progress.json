@@ -1,0 +1,45 @@
+{
+  "platform": "darwinbox",
+  "timestamp": "2026-10-28T15:15:30Z",
+  "total_jobs": 4,
+  "summary": {
+    "staged_ready": 0,
+    "applied_success": 0,
+    "blocked_auth_required": 2,
+    "skipped": 2
+  },
+  "jobs": [
+    {
+      "job_id": "011026504418",
+      "company": "Upstox",
+      "title": "Software Developement Engineer III (JAVA+Rust)",
+      "url": "https://upstox.darwinbox.in/ms/candidatev2/main/careers/jobDetails/a6abb7810a31b9",
+      "status": "SKIPPED",
+      "reason": "Seniority: SDE III (3+ YoE) exceeds candidate experience profile (1.5 YoE) per hard skipping rule."
+    },
+    {
+      "job_id": "091026504125",
+      "company": "Ashoka University",
+      "title": "Project Research Scientist I (AI/ML)",
+      "url": "https://hrmsashoka.darwinbox.in/ms/candidatev2/main/careers/jobDetails/a6ac6330d2f4f5",
+      "status": "BLOCKED_AUTH_REQUIRED",
+      "reason": "Darwinbox candidate portal requires tenant-level account authentication (Sign In/Sign Up). Furthermore, posting specifies direct CV submission via email (pradeep.tiwari@ashoka.edu.in) with deadline passed on 21st Oct 2026."
+    },
+    {
+      "job_id": "091026504095",
+      "company": "Ashoka University",
+      "title": "Project Research Scientist I (Human Immunology)",
+      "url": "https://hrmsashoka.darwinbox.in/ms/candidatev2/main/careers/jobDetails/a6ac62c9a84e30",
+      "status": "SKIPPED",
+      "reason": "Domain mismatch: Human Immunology / laboratory biology role per skipping rule."
+    },
+    {
+      "job_id": "180626506365",
+      "company": "Coding Ninjas",
+      "title": "SDE 1",
+      "url": "https://codingninjas.darwinbox.in/ms/candidatev2/main/careers/jobDetails/a68c7fee0c6f61",
+      "status": "BLOCKED_AUTH_REQUIRED",
+      "reason": "Darwinbox candidate portal enforces mandatory candidate login/registration. Candidate email not registered on tenant ('This account does not exist'), and login form presents CAPTCHA challenge."
+    }
+  ]
+}

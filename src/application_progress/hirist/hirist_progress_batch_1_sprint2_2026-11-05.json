@@ -1,0 +1,20 @@
+{
+  "worker": 1,
+  "batch": 1,
+  "sprint": 2,
+  "batch_file": "src/job_search_results/hirist/batches/hirist_sprint2_batch_1_2026-11-05.json",
+  "total_jobs": 6,
+  "applied_count": 5,
+  "parked_count": 1,
+  "already_applied_count": 0,
+  "failed_count": 0,
+  "status": "batch_completed",
+  "all_results": [
+    { "jobId": 1681526, "title": "Exotel - Software Development Engineer II - AI & Speech Platform (3-5 yrs)", "company": "EXOTEL TECHCOM PRIVATE LIMITED", "status": "applied", "applicationId": 79293826 },
+    { "jobId": 1681454, "title": "Mobifly - Senior Python Developer - FastAPI (3-5 yrs)", "company": "Moonshine Food Ventures", "status": "applied", "applicationId": 79293832 },
+    { "jobId": 1681477, "title": "Backend Python Lead (3-9 yrs)", "company": "Mytech Global", "status": "applied", "applicationId": 79293834 },
+    { "jobId": 1680884, "title": "Ascendion - Quality Assurance Engineer - Healthcare Application Testing (3-5 yrs)", "company": "Ascendion", "status": "applied", "applicationId": 79293836 },
+    { "jobId": 1680946, "title": "SymphonyAI - Application Support Engineer (3-5 yrs)", "company": "Symphonyincubator Business Services", "status": "applied", "applicationId": 79293839 },
+    { "jobId": 1681391, "title": "TechRAQ - Python Developer - Django/Flask (3-4 yrs)", "company": "TechRAQ Info Solutions", "status": "parked_assessment", "reason": "Assessment/ screening is required to apply for this Job" }
+  ]
+}

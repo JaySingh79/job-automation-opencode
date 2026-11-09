@@ -1,0 +1,408 @@
+{
+  "batch_name": "gamma_latest_50",
+  "created_at": "2026-10-26T14:45:00Z",
+  "max_age_months": 2,
+  "count": 50,
+  "jobs": [
+    {
+      "id": "3167723",
+      "title": "Data Science Manager 5 Years 2 3 Years Relevant Equity Only Part Time Founding Role",
+      "url": "https://wellfound.com/jobs/3167723-data-science-manager-5-years-2-3-years-relevant-equity-only-part-time-founding-role",
+      "status": "skipped",
+      "source": "wellfound_live_feed",
+      "raw_text": "Principal Data Scientist, 5+ years, 2-3 years relevant (Equity-only, Part-Time, Founding role) | Remote onlyIndia1.5% \u2013 "
+    },
+    {
+      "id": "4890605",
+      "title": "Senior Ai Engineer",
+      "url": "https://wellfound.com/jobs/4890605-senior-ai-engineer",
+      "status": "skipped",
+      "source": "wellfound_live_feed",
+      "raw_text": "Senior AI Engineer | In officeBengaluru\u20b916L \u2013 \u20b918L | RECRUITER RECENTLY ACTIVE | POSTED 1 DAY AGO"
+    },
+    {
+      "id": "4824519",
+      "title": "Ai Intern",
+      "url": "https://wellfound.com/jobs/4824519-ai-intern",
+      "status": "blocked_location",
+      "source": "wellfound_live_feed",
+      "raw_text": "AI Intern | In officeHyderabad\u20b91.2L \u2013 \u20b91.8L \u2022 No equity | RECRUITER RECENTLY ACTIVE | POSTED 3 DAYS AGO"
+    },
+    {
+      "id": "4881160",
+      "title": "Applied Data Scientist Analytics Ai Agents",
+      "url": "https://wellfound.com/jobs/4881160-applied-data-scientist-analytics-ai-agents",
+      "status": "skipped",
+      "source": "wellfound_live_feed",
+      "raw_text": "Applied Data Scientist - Analytics & AI Agents | In officeBengaluru\u20b920L \u2013 \u20b940L \u2022 No equity | RECRUITER RECENTLY ACTIVE |"
+    },
+    {
+      "id": "4878934",
+      "title": "Senior Ai Engineer Remote Within 2 5Hrs Of Sgt",
+      "url": "https://wellfound.com/jobs/4878934-senior-ai-engineer-remote-within-2-5hrs-of-sgt",
+      "status": "skipped",
+      "source": "wellfound_live_feed",
+      "raw_text": "Senior AI Engineer (Remote- Within 2.5Hrs of SGT) | Onsite or remoteSingaporeRemote (Asia)Remote (South East Asia) | REC"
+    },
+    {
+      "id": "4785385",
+      "title": "Senior Ai Research Engineer Foundation Models Vlms",
+      "url": "https://wellfound.com/jobs/4785385-senior-ai-research-engineer-foundation-models-vlms",
+      "status": "skipped",
+      "source": "wellfound_live_feed",
+      "raw_text": "Senior AI Research Engineer (Foundation Models & VLMs) | Onsite or remoteSingaporeRemote (United States)Remote (Asia) | "
+    },
+    {
+      "id": "4875057",
+      "title": "Analytics Manager",
+      "url": "https://wellfound.com/jobs/4875057-analytics-manager",
+      "status": "skipped",
+      "source": "wellfound_live_feed",
+      "raw_text": "Analytics Manager | In officeBengaluruNo equity | RECRUITER RECENTLY ACTIVE | POSTED 4 DAYS AGO"
+    },
+    {
+      "id": "4869663",
+      "title": "Ai Agentic And Automation Intern",
+      "url": "https://wellfound.com/jobs/4869663-ai-agentic-and-automation-intern",
+      "status": "applied",
+      "source": "wellfound_live_feed",
+      "raw_text": "AI Agentic and Automation Intern | In officePerungudi | RECRUITER RECENTLY ACTIVE | POSTED 5 DAYS AGO"
+    },
+    {
+      "id": "4894463",
+      "title": "Ai Engineer Intern",
+      "url": "https://wellfound.com/jobs/4894463-ai-engineer-intern",
+      "status": "applied",
+      "source": "wellfound_live_feed",
+      "raw_text": "AI Engineer Intern | In officeBengaluru\u20b930,000 \u2013 \u20b960,000 \u2022 No equity | RECRUITER RECENTLY ACTIVE | POSTED YESTERDAY"
+    },
+    {
+      "id": "4869612",
+      "title": "Senior Ai Engineer",
+      "url": "https://wellfound.com/jobs/4869612-senior-ai-engineer",
+      "status": "skipped",
+      "source": "wellfound_live_feed",
+      "raw_text": "Senior AI Engineer | In officeJP Nagar\u20b950,000 \u2013 \u20b92L \u2022 No equity | RECRUITER RECENTLY ACTIVE | POSTED 5 DAYS AGO"
+    },
+    {
+      "id": "4879023",
+      "title": "Software Engineer Ai Engineer",
+      "url": "https://wellfound.com/jobs/4879023-software-engineer-ai-engineer",
+      "status": "skipped",
+      "source": "wellfound_live_feed",
+      "raw_text": "Software Engineer / AI Engineer | In officeIndiaBangalore UrbanHSR Layout\u20b915L \u2013 \u20b925L \u2022 No equity | RECRUITER RECENTLY AC"
+    },
+    {
+      "id": "4890615",
+      "title": "Artificial Intelligence Engineer",
+      "url": "https://wellfound.com/jobs/4890615-artificial-intelligence-engineer",
+      "status": "blocked_location",
+      "source": "wellfound_live_feed",
+      "raw_text": "Artificial Intelligence Engineer | In officeMumbai\u20b920,000 \u2013 \u20b91L \u2022 1.0% \u2013 2.0% | RECRUITER RECENTLY ACTIVE | POSTED YESTE"
+    },
+    {
+      "id": "4884610",
+      "title": "Ai Computer Vision Engineer Anpr Video On Device Ai",
+      "url": "https://wellfound.com/jobs/4884610-ai-computer-vision-engineer-anpr-video-on-device-ai",
+      "status": "applied",
+      "source": "wellfound_live_feed",
+      "raw_text": "AI / Computer Vision Engineer \u2014 ANPR, Video & On-Device AI | In officePuneMumbai\u20b940,000 \u2013 \u20b970,000 | RECRUITER RECENTLY A"
+    },
+    {
+      "id": "4893909",
+      "title": "Ml Inference Engineer Llm Tts Serving",
+      "url": "https://wellfound.com/jobs/4893909-ml-inference-engineer-llm-tts-serving",
+      "status": "applied",
+      "source": "wellfound_live_feed",
+      "raw_text": "ML Inference Engineer (LLM/TTS Serving) | Remote onlyIndia\u20b912L \u2013 \u20b924L \u2022 0.0% \u2013 0.5% | RECRUITER RECENTLY ACTIVE | POSTED"
+    },
+    {
+      "id": "4878946",
+      "title": "Aiml Engineer Computer Vision",
+      "url": "https://wellfound.com/jobs/4878946-aiml-engineer-computer-vision",
+      "status": "skipped",
+      "source": "wellfound_live_feed",
+      "raw_text": "AIML Engineer - Computer vision | Onsite or remoteMangaluruRemote (Everywhere)No equity | RECRUITER RECENTLY ACTIVE | PO"
+    },
+    {
+      "id": "4844610",
+      "title": "Global Data Analytics Expert",
+      "url": "https://wellfound.com/jobs/4844610-global-data-analytics-expert",
+      "status": "skipped",
+      "source": "wellfound_live_feed",
+      "raw_text": "Global Data Analytics Expert | Bengaluru | RECRUITER RECENTLY ACTIVE | POSTED 1 WEEK AGO"
+    },
+    {
+      "id": "4791915",
+      "title": "Data Scientist",
+      "url": "https://wellfound.com/jobs/4791915-data-scientist",
+      "status": "skipped",
+      "source": "wellfound_live_feed",
+      "raw_text": "Data Scientist | Bengaluru | RECRUITER RECENTLY ACTIVE | POSTED 2 WEEKS AGO"
+    },
+    {
+      "id": "4809470",
+      "title": "Application Developer",
+      "url": "https://wellfound.com/jobs/4809470-application-developer",
+      "status": "skipped",
+      "source": "wellfound_live_feed",
+      "raw_text": "Application Developer | In officeBengaluru\u20b914L \u2013 \u20b916L \u2022 No equity | RECRUITER RECENTLY ACTIVE | POSTED 3 WEEKS AGO"
+    },
+    {
+      "id": "4809468",
+      "title": "Data Scientist",
+      "url": "https://wellfound.com/jobs/4809468-data-scientist",
+      "status": "applied",
+      "source": "wellfound_live_feed",
+      "raw_text": "Data Scientist | In officeBengaluru\u20b914L \u2013 \u20b917L \u2022 No equity | RECRUITER RECENTLY ACTIVE | POSTED 3 WEEKS AGO"
+    },
+    {
+      "id": "4733661",
+      "title": "Ai Engineer",
+      "url": "https://wellfound.com/jobs/4733661-ai-engineer",
+      "status": "skipped",
+      "source": "wellfound_live_feed",
+      "raw_text": "AI Engineer | In officeBengaluru\u20b930L \u2013 \u20b955L | RECRUITER RECENTLY ACTIVE | POSTED 1 MONTH AGO"
+    },
+    {
+      "id": "4811752",
+      "title": "Lead Data Scientist",
+      "url": "https://wellfound.com/jobs/4811752-lead-data-scientist",
+      "status": "skipped",
+      "source": "wellfound_live_feed",
+      "raw_text": "Lead Data Scientist | Onsite or remoteBengaluruRemote (India)\u20b935L \u2013 \u20b938L \u2022 No equity | RECRUITER RECENTLY ACTIVE | POSTE"
+    },
+    {
+      "id": "4855256",
+      "title": "Data Scientist Ai Ml With Gcp",
+      "url": "https://wellfound.com/jobs/4855256-data-scientist-ai-ml-with-gcp",
+      "status": "skipped",
+      "source": "wellfound_live_feed",
+      "raw_text": "Data Scientist ( AI / ML with GCP) | Remote onlyEverywhere\u20b935L \u2013 \u20b950L | RECRUITER RECENTLY ACTIVE | POSTED 1 WEEK AGO"
+    },
+    {
+      "id": "4814791",
+      "title": "Senior Lead Data Scientist Aiml Engineer Clone",
+      "url": "https://wellfound.com/jobs/4814791-senior-lead-data-scientist-aiml-engineer-clone",
+      "status": "skipped",
+      "source": "wellfound_live_feed",
+      "raw_text": "Senior/Lead Data Scientist / AIML Engineer | In officeMadurai\u20b912L \u2013 \u20b929L \u2022 No equity | RECRUITER RECENTLY ACTIVE | POSTE"
+    },
+    {
+      "id": "3534689",
+      "title": "Senior Agentic Ai Engineer",
+      "url": "https://wellfound.com/jobs/3534689-senior-agentic-ai-engineer",
+      "status": "skipped",
+      "source": "wellfound_live_feed",
+      "raw_text": "Senior Agentic AI Engineer | In officeBengaluru\u20b930L \u2013 \u20b947L \u2022 0.02% \u2013 0.05% | RECRUITER RECENTLY ACTIVE | POSTED 1 WEEK A"
+    },
+    {
+      "id": "4735114",
+      "title": "Senior Ai Product Manager With Software Engineering Experience Clone",
+      "url": "https://wellfound.com/jobs/4735114-senior-ai-product-manager-with-software-engineering-experience-clone",
+      "status": "skipped",
+      "source": "wellfound_live_feed",
+      "raw_text": "AI Product Manager (With Software Engineering Experience) | In officeBengaluru\u20b920L \u2013 \u20b935L \u2022 0.05% \u2013 0.1% | RECRUITER REC"
+    },
+    {
+      "id": "4814816",
+      "title": "Ml Engineer Catalysk Climate Fintech",
+      "url": "https://wellfound.com/jobs/4814816-ml-engineer-catalysk-climate-fintech",
+      "status": "skipped",
+      "source": "wellfound_live_feed",
+      "raw_text": "ML Engineer - Catalysk (Climate Fintech) | Onsite or remoteBangalore UrbanRemote (Everywhere) | RECRUITER RECENTLY ACTIV"
+    },
+    {
+      "id": "3286215",
+      "title": "Ai Engineer",
+      "url": "https://wellfound.com/jobs/3286215-ai-engineer",
+      "status": "skipped",
+      "source": "wellfound_live_feed",
+      "raw_text": "AI Engineer | In officeBengaluru\u20b910L \u2013 \u20b915L | RECRUITER RECENTLY ACTIVE | POSTED 1 WEEK AGO"
+    },
+    {
+      "id": "4037858",
+      "title": "Full Stack Ai Engineer Intermediate",
+      "url": "https://wellfound.com/jobs/4037858-full-stack-ai-engineer-intermediate",
+      "status": "skipped",
+      "source": "wellfound_live_feed",
+      "raw_text": "Full-Stack AI Engineer (Intermediate) | Onsite or remoteBangalore UrbanRemote (India) | RECRUITER RECENTLY ACTIVE | POST"
+    },
+    {
+      "id": "3650842",
+      "title": "Machine Learning Engineer",
+      "url": "https://wellfound.com/jobs/3650842-machine-learning-engineer",
+      "status": "skipped",
+      "source": "wellfound_live_feed",
+      "raw_text": "Machine Learning Engineer | In officeBengaluru\u20b920L \u2013 \u20b930L \u2022 No equity | RECRUITER RECENTLY ACTIVE | POSTED 1 MONTH AGO"
+    },
+    {
+      "id": "3569087",
+      "title": "2 Technical Lead Data India",
+      "url": "https://wellfound.com/jobs/3569087-2-technical-lead-data-india",
+      "status": "skipped",
+      "source": "wellfound_live_feed",
+      "raw_text": "Technical Lead (Data) - India | Remote onlyIndia | RECRUITER RECENTLY ACTIVE | POSTED 1 WEEK AGO"
+    },
+    {
+      "id": "4829554",
+      "title": "E Commerce Automation Specialist",
+      "url": "https://wellfound.com/jobs/4829554-e-commerce-automation-specialist",
+      "status": "skipped",
+      "source": "wellfound_live_feed",
+      "raw_text": "E-Commerce Automation Specialist | Remote onlyIndia\u20b93L \u2013 \u20b95L \u2022 No equity | RECRUITER RECENTLY ACTIVE | POSTED 1 WEEK AGO"
+    },
+    {
+      "id": "4810454",
+      "title": "Head Of Science Algorithms And Causal Health Intelligence",
+      "url": "https://wellfound.com/jobs/4810454-head-of-science-algorithms-and-causal-health-intelligence",
+      "status": "skipped",
+      "source": "wellfound_live_feed",
+      "raw_text": "Head of Science (Algorithms and Causal Health Intelligence) | In officeGurugram | RECRUITER RECENTLY ACTIVE | POSTED 2 W"
+    },
+    {
+      "id": "4846256",
+      "title": "Senior Ai Engineer Generative Ai Rag Agentic Ai",
+      "url": "https://wellfound.com/jobs/4846256-senior-ai-engineer-generative-ai-rag-agentic-ai",
+      "status": "skipped",
+      "source": "wellfound_live_feed",
+      "raw_text": "Senior AI Engineer (Generative AI / RAG / Agentic AI) | In officeHyderabad\u20b920L \u2013 \u20b925L | RECRUITER RECENTLY ACTIVE | POST"
+    },
+    {
+      "id": "4811863",
+      "title": "Data Science Engineer",
+      "url": "https://wellfound.com/jobs/4811863-data-science-engineer",
+      "status": "skipped",
+      "source": "wellfound_live_feed",
+      "raw_text": "Data Science Engineer | In officeBangalore Urban\u20b915L \u2013 \u20b925L \u2022 No equity | RECRUITER RECENTLY ACTIVE | POSTED 2 WEEKS AGO"
+    },
+    {
+      "id": "4839973",
+      "title": "Senior Ai Engineer",
+      "url": "https://wellfound.com/jobs/4839973-senior-ai-engineer",
+      "status": "skipped",
+      "source": "wellfound_live_feed",
+      "raw_text": "Senior AI Engineer | Onsite or remoteDubaiRemote (India)Remote (Nigeria)No equity | RECRUITER RECENTLY ACTIVE | POSTED 1"
+    },
+    {
+      "id": "4824688",
+      "title": "Voice Ai Engineer",
+      "url": "https://wellfound.com/jobs/4824688-voice-ai-engineer",
+      "status": "skipped",
+      "source": "wellfound_live_feed",
+      "raw_text": "Voice AI Engineer | Onsite or remoteBengaluruMumbaiRemote (India)\u20b920L \u2013 \u20b925L \u2022 No equity | RECRUITER RECENTLY ACTIVE | P"
+    },
+    {
+      "id": "3051307",
+      "title": "Senior Machine Learning Engineer",
+      "url": "https://wellfound.com/jobs/3051307-senior-machine-learning-engineer",
+      "status": "skipped",
+      "source": "wellfound_live_feed",
+      "raw_text": "Senior Machine Learning Engineer | In officeBangalore Urban\u20b927L \u2013 \u20b945L \u2022 No equity | RECRUITER RECENTLY ACTIVE | POSTED "
+    },
+    {
+      "id": "4817710",
+      "title": "Forward Deployed Ai Engineer",
+      "url": "https://wellfound.com/jobs/4817710-forward-deployed-ai-engineer",
+      "status": "applied",
+      "source": "wellfound_live_feed",
+      "raw_text": "Forward Deployed AI Engineer | In officeGurgaonNo equity | RECRUITER RECENTLY ACTIVE | POSTED 2 WEEKS AGO"
+    },
+    {
+      "id": "4728255",
+      "title": "Ai Engineer",
+      "url": "https://wellfound.com/jobs/4728255-ai-engineer",
+      "status": "skipped",
+      "source": "wellfound_live_feed",
+      "raw_text": "AI Engineer | In officeGurgaonPuneBangalore UrbanNo equity | POSTED 1 MONTH AGO"
+    },
+    {
+      "id": "4824040",
+      "title": "Ai Ml Lead",
+      "url": "https://wellfound.com/jobs/4824040-ai-ml-lead",
+      "status": "skipped",
+      "source": "wellfound_live_feed",
+      "raw_text": "AI/ML Lead | In officeAhmedabad\u20b910L \u2013 \u20b930L | RECRUITER RECENTLY ACTIVE | POSTED 2 WEEKS AGO"
+    },
+    {
+      "id": "4844691",
+      "title": "Computer Vision Developer Internship",
+      "url": "https://wellfound.com/jobs/4844691-computer-vision-developer-internship",
+      "status": "applied",
+      "source": "wellfound_live_feed",
+      "raw_text": "Computer Vision Developer Internship | In officeIIT Guwahati\u20b93.6L \u2013 \u20b94.8L \u2022 No equity | RECRUITER RECENTLY ACTIVE | POST"
+    },
+    {
+      "id": "4287559",
+      "title": "Ai Intern",
+      "url": "https://wellfound.com/jobs/4287559-ai-intern",
+      "status": "blocked_location",
+      "source": "wellfound_live_feed",
+      "raw_text": "AI Intern | In officeBhopal\u20b98,000 \u2013 \u20b915,000 | RECRUITER RECENTLY ACTIVE | POSTED 1 WEEK AGO"
+    },
+    {
+      "id": "4791188",
+      "title": "Data Scientist",
+      "url": "https://wellfound.com/jobs/4791188-data-scientist",
+      "status": "skipped",
+      "source": "wellfound_live_feed",
+      "raw_text": "Data Scientist | In officeHyderabadMumbai\u20b925L \u2013 \u20b930L \u2022 No equity | RECRUITER RECENTLY ACTIVE | POSTED 3 WEEKS AGO"
+    },
+    {
+      "id": "4385653",
+      "title": "Senior Ai Engineer",
+      "url": "https://wellfound.com/jobs/4385653-senior-ai-engineer",
+      "status": "skipped",
+      "source": "wellfound_live_feed",
+      "raw_text": "Senior AI Engineer | Bengaluru | RECRUITER RECENTLY ACTIVE | POSTED 4 WEEKS AGO"
+    },
+    {
+      "id": "4787204",
+      "title": "Senior Applied Ml Engineer Evals Data",
+      "url": "https://wellfound.com/jobs/4787204-senior-applied-ml-engineer-evals-data",
+      "status": "skipped",
+      "source": "wellfound_live_feed",
+      "raw_text": "Senior Applied ML Engineer, Evals & Data | Bengaluru | RECRUITER RECENTLY ACTIVE | POSTED 3 WEEKS AGO"
+    },
+    {
+      "id": "4791927",
+      "title": "Pricing Revenue Optimization Scientist Hotels 3 5 Years Experience",
+      "url": "https://wellfound.com/jobs/4791927-pricing-revenue-optimization-scientist-hotels-3-5-years-experience",
+      "status": "skipped",
+      "source": "wellfound_live_feed",
+      "raw_text": "Pricing & Revenue Optimization Scientist \u2014 Hotels (3 -5 years Experience) | In officeChennai\u20b912L \u2013 \u20b918L | RECRUITER RECE"
+    },
+    {
+      "id": "4696243",
+      "title": "Senior Data Scientist Ml Engineer Forecasting Rms Engines 3 6 Years",
+      "url": "https://wellfound.com/jobs/4696243-senior-data-scientist-ml-engineer-forecasting-rms-engines-3-6-years",
+      "status": "skipped",
+      "source": "wellfound_live_feed",
+      "raw_text": "Senior Data Scientist / ML Engineer \u2013 Forecasting & RMS Engines (3-6 Years) | In officeChennai\u20b912L \u2013 \u20b918L | RECRUITER RE"
+    },
+    {
+      "id": "4756716",
+      "title": "Lead Ai Ml Engineer",
+      "url": "https://wellfound.com/jobs/4756716-lead-ai-ml-engineer",
+      "status": "skipped",
+      "source": "wellfound_live_feed",
+      "raw_text": "Lead AI/ML Engineer | In officeGurgaon\u20b910L \u2013 \u20b930L | RECRUITER RECENTLY ACTIVE | POSTED 1 MONTH AGO"
+    },
+    {
+      "id": "4817713",
+      "title": "Software Development Engineer 1 Sde 1 Backend",
+      "url": "https://wellfound.com/jobs/4817713-software-development-engineer-1-sde-1-backend",
+      "status": "skipped",
+      "source": "wellfound_live_feed",
+      "raw_text": "Software Development Engineer 1 (SDE-1) \u2013 Backend | In officeBangalore Urban | RECRUITER RECENTLY ACTIVE | POSTED 2 WEEK"
+    },
+    {
+      "id": "4772634",
+      "title": "Senior Applied Ai Engineer Agents Evaluation",
+      "url": "https://wellfound.com/jobs/4772634-senior-applied-ai-engineer-agents-evaluation",
+      "status": "skipped",
+      "source": "wellfound_live_feed",
+      "raw_text": "Senior Applied AI Engineer (Agents & Evaluation) | Onsite or remoteSingaporeRemote (Everywhere)$60k \u2013 $72k SGD | POSTED "
+    }
+  ]
+}

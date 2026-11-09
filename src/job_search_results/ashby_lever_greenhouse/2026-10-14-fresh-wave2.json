@@ -1,0 +1,76 @@
+{
+ "date": "2026-10-14",
+ "count": 7,
+ "filters": {
+  "exp": "0-3yr",
+  "geo": "India/remote",
+  "ats": [
+   "ashby",
+   "lever",
+   "greenhouse"
+  ],
+  "qid": [
+   "Q-05",
+   "Q-27",
+   "ashby-genai"
+  ]
+ },
+ "jobs": [
+  {
+   "company": "Trackmind",
+   "role": "Junior AI Engineer",
+   "url": "https://jobs.lever.co/trackmind/ad66c0ec-1ae9-47cb-9d5d-83ae1cb6d200",
+   "platform": "lever",
+   "location": "Hyderabad",
+   "snippet": "Junior AI Engineer Hyderabad Internship On-site"
+  },
+  {
+   "company": "JobTwine",
+   "role": "Junior Data Analyst 0-2yr",
+   "url": "https://jobs.lever.co/jobtwine/baf9b35a-1ac6-45f8-9a95-de02c8b532bd",
+   "platform": "lever",
+   "location": "Bangalore Hybrid",
+   "snippet": "Junior Data Analyst 0-2 years Bangalore Hybrid"
+  },
+  {
+   "company": "Cayuse",
+   "role": "Associate Software Engineer AI Solutions",
+   "url": "https://boards.greenhouse.io/cayuse/jobs/8885769002",
+   "platform": "greenhouse",
+   "location": "Remote first (verify India)",
+   "snippet": "Associate Engineer entry-level AI capabilities remote-first"
+  },
+  {
+   "company": "Korza",
+   "role": "AI Engineer L3",
+   "url": "https://jobs.ashbyhq.com/korza/f5a9b331-b454-475c-ab96-d48b91e8c977",
+   "platform": "ashby",
+   "location": "Bangalore Remote",
+   "snippet": "AI Engineer L3 Bangalore Remote full time"
+  },
+  {
+   "company": "Interview Kickstart",
+   "role": "Software Engineer 1 Applied AI",
+   "url": "https://jobs.ashbyhq.com/interview-kickstart/92b00d54-160b-4ef8-8e10-dc952f7311bf",
+   "platform": "ashby",
+   "location": "Remote geography-agnostic (verify India)",
+   "snippet": "SWE1 Applied AI LLM agentic remote"
+  },
+  {
+   "company": "Mastra",
+   "role": "AI Engineer",
+   "url": "https://jobs.ashbyhq.com/mastra/531a3fe8-556f-4b83-bee7-20374f67f980",
+   "platform": "ashby",
+   "location": "Remote (verify India)",
+   "snippet": "AI Engineer Remote full time"
+  },
+  {
+   "company": "Weekday",
+   "role": "Agentic AI Engineer Remote India",
+   "url": "https://jobs.lever.co/weekdayworks/70aa2f8f-fc89-483a-abc0-97bad8615ff9",
+   "platform": "lever",
+   "location": "Remote India Rs25-45L",
+   "snippet": "Agentic AI Remote India, snippet says Senior — verify YoE"
+  }
+ ]
+}

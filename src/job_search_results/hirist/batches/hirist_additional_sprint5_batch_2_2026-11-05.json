@@ -1,0 +1,355 @@
+{
+  "worker": 2,
+  "sprint": 5,
+  "target_applied": 12,
+  "total_jobs": 17,
+  "jobs": [
+    {
+      "id": 1652792,
+      "title": "Carnera Technologies - AI/ML Engineer",
+      "company": "Carnera Technologies",
+      "min": 3,
+      "max": 13,
+      "exp": "3-13 yrs",
+      "location": "Hyderabad",
+      "tags": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Python",
+        "NLP",
+        "Deep Learning",
+        "RAG",
+        "Computer Vision",
+        "Tensorflow",
+        "PyTorch",
+        "AWS SageMaker"
+      ],
+      "createdTime": 1783535400000
+    },
+    {
+      "id": 1652644,
+      "title": "AI Product Manager",
+      "company": "Hashone Careers",
+      "min": 3,
+      "max": 8,
+      "exp": "3-8 yrs",
+      "location": "Anywhere in India/Multiple Locations | Remote",
+      "tags": [
+        "AI Product Management",
+        "Product Strategy",
+        "Product Management",
+        "Product Roadmap",
+        "LLM",
+        "RAG",
+        "Agentic AI"
+      ],
+      "createdTime": 1783535400000
+    },
+    {
+      "id": 1652418,
+      "title": "Senior AI/ML Developer",
+      "company": "Jubilant HR Consultants",
+      "min": 3,
+      "max": 6,
+      "exp": "3-6 yrs",
+      "location": "Mumbai",
+      "tags": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "LLM",
+        "RAG",
+        "MLOps",
+        "Deep Learning",
+        "Generative AI",
+        "AWS"
+      ],
+      "createdTime": 1783449000000
+    },
+    {
+      "id": 1652295,
+      "title": "Python Engineer - Agentic AI",
+      "company": "MLOPS SOLUTIONS PVT LTD",
+      "min": 3,
+      "max": 8,
+      "exp": "3-8 yrs",
+      "location": "Hyderabad",
+      "tags": [
+        "Python",
+        "Agentic AI",
+        "Machine Learning",
+        "LangChain",
+        "OpenAI",
+        "LLM",
+        "RAG",
+        "Generative AI",
+        "Prompt Engineering",
+        "PyTorch"
+      ],
+      "createdTime": 1783449000000
+    },
+    {
+      "id": 1652119,
+      "title": "Predikly Technologies - Generative AI Developer",
+      "company": "Predikly Technologies",
+      "min": 3,
+      "max": 8,
+      "exp": "3-8 yrs",
+      "location": "Pune",
+      "tags": [
+        "Generative AI",
+        "LLM",
+        "Machine Learning",
+        "Spark",
+        "LangChain",
+        "Python",
+        "VectorDB",
+        "OpenAI"
+      ],
+      "createdTime": 1783362600000
+    },
+    {
+      "id": 1651902,
+      "title": "Trianz - Agentic AI Engineer",
+      "company": "Trianz",
+      "min": 3,
+      "max": 9,
+      "exp": "3-9 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "Agentic AI",
+        "Artificial Intelligence",
+        "RAG",
+        "LLM",
+        "Machine Learning",
+        "AI Architecture"
+      ],
+      "createdTime": 1783362600000
+    },
+    {
+      "id": 1652153,
+      "title": "LLM/Generative AI Engineer",
+      "company": "Softomatic Technology Services",
+      "min": 3,
+      "max": 6,
+      "exp": "3-6 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "Python",
+        "Generative AI",
+        "LLM",
+        "Prompt Engineering",
+        "RAG",
+        "VectorDB",
+        "LangChain",
+        "Machine Learning",
+        "Artificial Intelligence"
+      ],
+      "createdTime": 1783362600000
+    },
+    {
+      "id": 1652115,
+      "title": "Predikly Technologies - Data Scientist - Time Series Forecasting",
+      "company": "Predikly Technologies",
+      "min": 3,
+      "max": 8,
+      "exp": "3-8 yrs",
+      "location": "Pune",
+      "tags": [
+        "Data Science",
+        "Data Scientist",
+        "Numpy",
+        "Pandas",
+        "Tensorflow",
+        "Python",
+        "SQL",
+        "Time Series Forecasting",
+        "Deep Learning"
+      ],
+      "createdTime": 1783362600000
+    },
+    {
+      "id": 1651230,
+      "title": "Amgen - Data Scientist - Patient Finding",
+      "company": "Amgen",
+      "min": 3,
+      "max": 5,
+      "exp": "3-5 yrs",
+      "location": "Hyderabad",
+      "tags": [
+        "Python",
+        "SQL",
+        "Predictive Modeling",
+        "Predictive Analytics",
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Data Analytics",
+        "Data Visualization"
+      ],
+      "createdTime": 1783017000000
+    },
+    {
+      "id": 1651308,
+      "title": "Python Engineer - Agentic AI",
+      "company": "MLOPS SOLUTIONS PVT LTD",
+      "min": 3,
+      "max": 10,
+      "exp": "3-10 yrs",
+      "location": "Hyderabad",
+      "tags": [
+        "Python",
+        "Agentic AI",
+        "Prompt Engineering",
+        "AI Integration",
+        "Artificial Intelligence",
+        "Machine Learning",
+        "RESTful API",
+        "Microservices Architecture",
+        "RAG",
+        "VectorDB",
+        "LangChain"
+      ],
+      "createdTime": 1783017000000
+    },
+    {
+      "id": 1650995,
+      "title": "Founding AI Engineer",
+      "company": "Orangemint Technologies",
+      "min": 3,
+      "max": 8,
+      "exp": "3-8 yrs",
+      "location": "Mumbai",
+      "tags": [
+        "Artificial Intelligence",
+        "Agentic AI",
+        "Prompt Engineering",
+        "LLM",
+        "AI Infrastructure"
+      ],
+      "createdTime": 1783017000000
+    },
+    {
+      "id": 1650634,
+      "title": "AI Engineer",
+      "company": "Bulwark Software Research",
+      "min": 3,
+      "max": 6,
+      "exp": "3-6 yrs",
+      "location": "Gurgaon/Gurugram",
+      "tags": [
+        "RAG",
+        "LLM",
+        "Python",
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Data Science",
+        "Data Scientist",
+        "PyTorch",
+        "Computer Vision",
+        "Speech Recognition"
+      ],
+      "createdTime": 1782930600000
+    },
+    {
+      "id": 1650386,
+      "title": "AI Engineer - LLM Models",
+      "company": "Bulwark Software Research",
+      "min": 3,
+      "max": 6,
+      "exp": "3-6 yrs",
+      "location": "Gurgaon/Gurugram",
+      "tags": [
+        "Artificial Intelligence",
+        "Generative AI",
+        "Python",
+        "LLM",
+        "Agentic AI",
+        "Data Structure",
+        "Algorithm"
+      ],
+      "createdTime": 1782844200000
+    },
+    {
+      "id": 1650337,
+      "title": "Prowess Publishing - Data Scientist - Predictive Analytics",
+      "company": "Prowess Publishing & Software Solutions",
+      "min": 3,
+      "max": 6,
+      "exp": "3-6 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "Data Science",
+        "Data Scientist",
+        "Artificial Intelligence",
+        "Predictive Analytics",
+        "RAG",
+        "Generative AI",
+        "Agentic AI",
+        "Python",
+        "PySpark",
+        "Knowledge Graph"
+      ],
+      "createdTime": 1782844200000
+    },
+    {
+      "id": 1650170,
+      "title": "Quantiphi - Machine Learning Engineer - Artificial Intelligence",
+      "company": "Quantiphi Analytics Solutions Private Limited",
+      "min": 3,
+      "max": 8,
+      "exp": "3-8 yrs",
+      "location": "Bangalore | Mumbai | Trivandrum/Thiruvananthapuram",
+      "tags": [
+        "Machine Learning",
+        "Python",
+        "Time Series Forecasting",
+        "Regression Algorithms",
+        "SQL",
+        "PySpark",
+        "Artificial Intelligence",
+        "Azure"
+      ],
+      "createdTime": 1782844200000
+    },
+    {
+      "id": 1649523,
+      "title": "AI/Applied ML Engineer",
+      "company": "Risk Resources",
+      "min": 3,
+      "max": 12,
+      "exp": "3-12 yrs",
+      "location": "Anywhere in India/Multiple Locations | Pune",
+      "tags": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Python",
+        "Tensorflow",
+        "Deep Learning",
+        "LLM",
+        "Generative AI",
+        "Azure"
+      ],
+      "createdTime": 1782671400000
+    },
+    {
+      "id": 1649293,
+      "title": "Netcore Cloud - Artificial Intelligence Engineer - Machine Learning",
+      "company": "NETCORE CLOUD PRIVATE LIMITED",
+      "min": 3,
+      "max": 6,
+      "exp": "3-6 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "Artificial Intelligence",
+        "Python",
+        "Machine Learning",
+        "Deep Learning",
+        "SaaS",
+        "Data Analytics",
+        "Kafka",
+        "Big Data",
+        "Hadoop"
+      ],
+      "createdTime": 1782671400000
+    }
+  ]
+}

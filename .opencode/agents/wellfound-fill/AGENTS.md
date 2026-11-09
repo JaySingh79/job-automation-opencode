@@ -40,7 +40,14 @@ Only files you should read before starting.
 1. `tabs new` → direct job URL (fresh tab per job; browser auto-prunes old tabs).
 2. ONE `evaluate` recon: exp line, salary, ext-flow markers (`apply at|email|send resume|careers@`),
    Apply vs `✓ Applied` BUTTON texts (never page innerText — nav `Applied` tab false-positives),
-   first ~400 chars of head. SKIP HERE on filter fail — never snapshot, never find.
+   first ~400 chars of head.
+   - FAST 1-SECOND BAILOUT & EXCLUSION (ZERO TIME WASTE): If ANY of the following match:
+     a) Already Applied (✓ Applied button disabled)
+     b) Job posting no longer available / closed / expired / 404 ('This job has closed', 'The job listing is no longer available', etc.)
+     c) Experience requirement > 3 years (>3 YoE)
+     d) Location beyond India (outside India and not remote-eligible)
+     e) Job posting date MORE THAN 2 MONTHS OLD (e.g. 'POSTED 2 MONTHS AGO', 'POSTED 3+ MONTHS AGO', or 'YEARS AGO')
+     -> Close tab immediately within <= 1s (	abs(close)), record reason, and proceed to next job immediately without wasting any time, snapshots, or modal clicks. SKIP HERE on filter fail — never snapshot, never find.
 3. ONE synthetic Apply click via `evaluate`
    (`Array.from(document.querySelectorAll('button')).find(x => x.innerText.trim() === 'Apply').click()`).
    NEVER trusted `click` on Apply — always times out (`element never stable` / overlay intercepts).
@@ -79,8 +86,9 @@ Only files you should read before starting.
 - Watch for external-apply instructions inside the JD (`apply at: http://…`, external
   Application Link) → DEFER as EXTERNAL_FLOW, don't treat the Wellfound button as the real
   application (observed: Parsewave, Beyond).
-- SKIP : SENIOR_TITLE/5Y_GAP, SALARY_FLOOR(≤10L), VOICE_OR_SECURITY_CORE_GAP, LEVEL_MISMATCH, SAME_COMPANY_2ND,
-  DOMAIN_OR_INFRA_MISMATCH, EXTERNAL_FLOW.
+- SKIP : SENIOR_TITLE/5Y_GAP, SALARY_FLOOR(≤10L), VOICE_OR_SECURITY_CORE_GAP, LEVEL_MISMATCH, DOMAIN_OR_INFRA_MISMATCH, EXTERNAL_FLOW. (NOTE: SAME_COMPANY_2ND IS REMOVED - Multiple distinct roles at the same company ARE ALLOWED).
+- MULTIPLE ROLES PER COMPANY ALLOWED: If a company has multiple distinct job postings (e.g. AI/ML, Data Science, SDE/Software Engineer, Backend), you CAN and MUST apply to all matching roles at that company. Applying to multiple distinct roles at the same company does NOT violate any rules.
+- SDE FRESHER ROLES FULLY TARGETED: Fresher SDE / SWE / Software Engineer / Backend / Python Developer roles (<=2 YoE, or up to 3 yrs) are explicitly welcomed and must be applied to.
 - Fill *Expected CTC* salary cap, `expected CTC`, but apply to roles with already mentioned pay even less than 18L.
 - Can apply to jobs requiring up to `3yrs of experience` but *NOT* more than 3.
 
@@ -120,5 +128,20 @@ Console ad-block errors (`ERR_BLOCKED_BY_CLIENT`) are noise — ignore unless mo
 then read console once before recording BLOCKED_MODAL_LOAD.
 
 ## 9. Strict rules — 2026-10-14 (user order, no exceptions)
+- SDE FRESHER ROLES & MULTIPLE COMPANY POSTINGS (2026-10-26 USER DIRECTIVE):
+  1. SDE / SWE / Software Engineer / Backend / Python Developer fresher roles are explicitly welcomed and MUST be applied to.
+  2. If a single company has multiple relevant postings (e.g. SDE, AI Engineer, Data Scientist, ML Engineer), APPLY TO ALL OF THEM. Do NOT skip second or third postings at the same company.
+- FAST 1-SECOND BAILOUT & EXCLUSION (MANDATORY, ZERO TIME WASTE): Quickly close and exclude within 1 second any application that shows:
+  1. Already applied (✓ Applied button disabled)
+  2. Job posting no longer available ('This job has closed', 'The job listing is no longer available', 404, or expired)
+  3. Experience requirement more than 3 years (> 3 yrs)
+  4. Location beyond India (outside India, non-remote)
+  5. Job posting date MORE THAN 2 MONTHS OLD (e.g. 'POSTED 2 MONTHS AGO', 'POSTED 3+ MONTHS AGO', or 'POSTED N YEARS AGO')
+  Immediately execute 	abs(close) within 1s. Do not click Apply, do not open modals, do not snapshot, do not wait. Move immediately to the next job.
 - SINGLE-JOB TAB RULE (per-agent sequential, multi-agent parallel): All agents may work in parallel, but each agent must finish the current job (fill → verify → submit → close) before opening a different tab with a different application. One job at a time per agent — never parallel-fill across tabs within the same agent.
 - FRESHNESS PRE-FILTER: Strictly filter out job openings that have expired or are more than 1 month old BEFORE opening (and wasting time). Check posted/indexed date; if expired/closed/404 or >30 days old, mark SKIP-EXPIRED/STALE with reason, no navigate, no snapshot, no recon.
+- ANTI-BOT DETECTION HUMAN EMULATION (MANDATORY):
+  1. DEFINITELY SCROLL 4 TIMES: On every Wellfound job page, perform at least 4 smooth scrolls (25%, 50%, 75%, 100% of viewport) to trigger viewport observers, lazy components, and human behavior telemetry.
+  2. SEQUENTIAL TOP-TO-BOTTOM ORDER: Complete fields/modals in natural order.
+  3. RANDOM DELAYS: Add 800ms - 2200ms randomized delays between filling consecutive fields and 60ms - 180ms delay between keystrokes.
+  4. 5 AGENTS MAX: Process at most 5 jobs/agents at a time.

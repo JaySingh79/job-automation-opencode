@@ -1,0 +1,188 @@
+{
+ "date": "2026-10-14",
+ "wave": "22-queued first",
+ "applied": [
+  {
+   "company": "Enterpret",
+   "role": "[Backend, Onsite] Software Engineering Intern",
+   "url": "https://job-boards.greenhouse.io/enterpret/jobs/7847134003",
+   "platform": "greenhouse",
+   "location": "Bengaluru, India (Onsite)",
+   "resume": "GenAI_DS (Jay Resume GenAI+DS 5th Aug.pdf, 130007 bytes)",
+   "date": "2026-10-14",
+   "status": "applied",
+   "evidence": "/confirmation + Thank you for applying. Your application has been received."
+  },
+  {
+   "company": "Rzr",
+   "role": "Machine Learning Engineer L3 1-3yr",
+   "url": "https://job-boards.greenhouse.io/rzr/jobs/4241380009",
+   "platform": "greenhouse",
+   "location": "Bengaluru, India",
+   "resume": "GenAI_DS",
+   "date": "2026-10-14",
+   "status": "applied",
+   "evidence": "/confirmation + Thank you for applying, landed safely"
+  },
+  {
+   "company": "Proximal",
+   "role": "Software Engineer Bengaluru/India LLM infra",
+   "url": "https://jobs.ashbyhq.com/Proximal/7f947847-ea9f-41f6-a6c8-147413b9dd6e",
+   "platform": "ashby",
+   "location": "Bengaluru/India",
+   "resume": "GenAI_DS",
+   "date": "2026-10-14",
+   "status": "applied",
+   "evidence": "Success | Your application was successfully submitted."
+  },
+  {
+   "company": "Outmarket AI",
+   "role": "Full Stack AI Engineer",
+   "url": "https://jobs.ashbyhq.com/outmarket/716e3319-1d72-4f8d-b5d9-efb9de1cf72f/application",
+   "platform": "ashby",
+   "location": "Remote India",
+   "resume": "GenAI_DS",
+   "date": "2026-10-14",
+   "status": "applied",
+   "evidence": "Success submitted (FILL-STRETCH 18mo vs 2yr logged)"
+  },
+  {
+   "company": "Handshake",
+   "role": "Member Technical Staff AI Eng India",
+   "url": "https://jobs.ashbyhq.com/handshake/4870c024-f6b8-4c2d-a5cb-e94f6c8f94a9",
+   "platform": "ashby",
+   "location": "Bangalore, India",
+   "resume": "GenAI_DS",
+   "date": "2026-10-14",
+   "status": "applied",
+   "evidence": "Success submitted (FILL-STRETCH 2-10yr logged)"
+  },
+  {
+   "company": "Bjak",
+   "role": "Applied AI Engineer",
+   "url": "https://jobs.ashbyhq.com/bjakcareer/416c3505-bc04-4b6e-8c60-fae0ea8b947e",
+   "platform": "ashby",
+   "location": "India Remote (filled Gaya Bihar)",
+   "resume": "GenAI_DS",
+   "date": "2026-10-14",
+   "status": "applied",
+   "evidence": "Success + ApiSubmitSingleApplicationFormAction 200, marketing consent required-noted"
+  }
+ ],
+ "deferred": [
+  {
+   "company": "DoorDash India",
+   "url": "http://job-boards.greenhouse.io/doordashindia/jobs/5856393",
+   "reason": "contention+resume-contest, retry clean"
+  }
+ ],
+ "blocked": [
+  {
+   "company": "Enterpret",
+   "role": "Machine Learning Intern",
+   "url": "https://job-boards.greenhouse.io/enterpret/jobs/7723230003",
+   "reason": "SKIP-EXPIRED req removed from live board",
+   "date": "2026-10-14"
+  },
+  {
+   "company": "Anteriad",
+   "role": "AI Engineer",
+   "url": "https://job-boards.greenhouse.io/anteriad/jobs/5386350004",
+   "reason": "SKIP-EXPIRED req removed",
+   "date": "2026-10-14"
+  },
+  {
+   "company": "DoorDash India",
+   "role": "SWE Backend",
+   "url": "http://job-boards.greenhouse.io/doordashindia/jobs/5856393",
+   "reason": "DEFERRED-contention+resume-contest, needs clean single-agent retry; FILL-STRETCH 3yr gap",
+   "date": "2026-10-14"
+  },
+  {
+   "company": "AHL-SaafAI",
+   "role": "Junior Data Engineer",
+   "url": "https://jobs.ashbyhq.com/ahl-saafai/ed53ed8f-00aa-4fe6-b177-e1679143e32c",
+   "reason": "SKIP-EXPIRED Job not found",
+   "date": "2026-10-14"
+  },
+  {
+   "company": "Wisdom AI",
+   "role": "SWE NLP/ML",
+   "url": "https://jobs.ashbyhq.com/Wisdom-AI/93441adc-4cd9-4253-a335-c20a5aa4ada6",
+   "reason": "SKIP-EXPIRED Job not found",
+   "date": "2026-10-14"
+  },
+  {
+   "company": "Deductive",
+   "role": "AI Engineer FDE",
+   "url": "https://jobs.ashbyhq.com/deductive/124b540e-f84f-46d5-9752-f151361b8223/application",
+   "reason": "SKIP-EXPIRED Page not found",
+   "date": "2026-10-14"
+  },
+  {
+   "company": "DehazeLabs",
+   "role": "Junior Python",
+   "url": "https://jobs.ashbyhq.com/DehazeLabs/3fc045c8-c43d-4523-b258-80e35b2930ed/application",
+   "reason": "SKIP-EXPIRED Job not found",
+   "date": "2026-10-14"
+  },
+  {
+   "company": "Ema",
+   "role": "AI/Data Resident",
+   "url": "https://jobs.ashbyhq.com/ema/e0511c0c-998f-4079-b62c-d2f164bf2c86",
+   "reason": "SKIP-EXPIRED Job not found",
+   "date": "2026-10-14"
+  }
+ ],
+ "skipped": [
+  {
+   "company": "Merkle Science",
+   "url": "https://jobs.lever.co/merklescience/e663b69b-264a-4bd7-b04d-fb3c0a824a28",
+   "reason": "SKIP-ELIGIBILITY 2027 grad CSE/IT only",
+   "date": "2026-10-14"
+  },
+  {
+   "company": "Epifi",
+   "url": "https://jobs.lever.co/epifi/8ec7ec3f-c24f-49b6-9984-14df7006fe7f",
+   "reason": "SKIP-EXPIRED 404",
+   "date": "2026-10-14"
+  },
+  {
+   "company": "OutcomesAI",
+   "url": "https://jobs.lever.co/outcomesai/7bbc10a3-805c-441a-8c58-44ab9be9c73c/apply",
+   "reason": "SKIP-5Y_GAP 4-6yr",
+   "date": "2026-10-14"
+  },
+  {
+   "company": "Lingaro",
+   "url": "https://jobs.lever.co/lingarogroup/5b9bd5a9-5953-43cf-a7e5-fe9161ac0f21/apply",
+   "reason": "SKIP-5Y_GAP 5yr+MS-stack",
+   "date": "2026-10-14"
+  },
+  {
+   "company": "Lingaro Peepal",
+   "url": "https://jobs.lever.co/lingarogroup/6adf8593-2a35-44d0-9400-0ced651fd403/apply",
+   "reason": "SKIP-5Y_GAP 6yr Senior GenAI Copilot (live JD-gate)",
+   "date": "2026-10-14"
+  },
+  {
+   "company": "Lingaro Adecco",
+   "url": "https://jobs.lever.co/lingarogroup/18f8d2c5-b52a-4d9f-b4ff-3f71e0fee53d/apply",
+   "reason": "SKIP-5Y_GAP 6yr (live JD-gate)",
+   "date": "2026-10-14"
+  },
+  {
+   "company": "Jobgether Classical",
+   "url": "https://jobs.lever.co/jobgether/0aec7f97-7358-4643-b5ad-c186165b5d4f",
+   "reason": "SKIP-5Y_GAP 5yr",
+   "date": "2026-10-14"
+  },
+  {
+   "company": "Jobgether MLE",
+   "url": "https://jobs.lever.co/jobgether/ded47afc-192d-4c46-863d-41397012116a",
+   "reason": "SKIP-EXPIRED 404",
+   "date": "2026-10-14"
+  }
+ ],
+ "next": "fresh sweep Q-05/Q-18/Q-30/Q-26/Q-27 after queue clear"
+}

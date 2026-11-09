@@ -1,0 +1,152 @@
+{
+  "batch_id": 5,
+  "sprint": 2,
+  "total_jobs": 6,
+  "jobs": [
+    {
+      "id": 1680253,
+      "title": "Full Stack AI Engineer - TypeScript/NestJS (3-7 yrs)",
+      "company": "Unico Talent",
+      "min": 3,
+      "max": 7,
+      "exp": "3-7 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "Full Stack",
+        "Generative AI",
+        "TypeScript",
+        "Python",
+        "React.js",
+        "PostgreSQL",
+        "Agentic AI",
+        "NestJS",
+        "FastAPI",
+        "Next.js",
+        "AI Integration"
+      ],
+      "url": "https://www.hirist.tech/j/unico-talent-full-stack-ai-engineer-typescript-nestjs-3-7-yrs-1680253?ref=cl_br",
+      "applied": 0,
+      "createdTime": 1792953000000,
+      "sourceFeed": "2-3"
+    },
+    {
+      "id": 1680259,
+      "title": "Tradl AI - Senior Backend Developer - Golang/Java/Rust (3-6 yrs)",
+      "company": "Tradl AI",
+      "min": 3,
+      "max": 6,
+      "exp": "3-6 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "Backend Architecture",
+        "Golang",
+        "C++",
+        "Java",
+        "Distributed Systems",
+        "Microservices Architecture",
+        "PostgreSQL",
+        "AWS",
+        "Rest Webservices",
+        "WebSockets",
+        "Rust"
+      ],
+      "url": "https://www.hirist.tech/j/tradl-ai-tradl-ai-senior-backend-developer-golang-java-rust-3-6-yrs-1680259?ref=cl_br",
+      "applied": 0,
+      "createdTime": 1792953000000,
+      "sourceFeed": "2-3"
+    },
+    {
+      "id": 1680359,
+      "title": "Python Data & Automation Engineer (3-8 yrs)",
+      "company": "CRESCENDO GLOBAL LEADERSHIP HIRING INDIA PRIVATE L",
+      "min": 3,
+      "max": 8,
+      "exp": "3-8 yrs",
+      "location": "Pune | Gurgaon/Gurugram | Bangalore | Noida",
+      "tags": [
+        "Python",
+        "AWS",
+        "ETL",
+        "SQL",
+        "Data Engineering",
+        "Data Pipeline",
+        "Data Ingestion",
+        "API Integration",
+        "SAS Integration"
+      ],
+      "url": "https://www.hirist.tech/j/crescendo-global-leadership-hiring-india-private-l-python-data-automation-engineer-3-8-yrs-1680359?ref=cl_br",
+      "applied": 0,
+      "createdTime": 1792953000000,
+      "sourceFeed": "2-3"
+    },
+    {
+      "id": 1680364,
+      "title": "Python Developer - Data Engineering (3-8 yrs)",
+      "company": "CRESCENDO GLOBAL LEADERSHIP HIRING INDIA PRIVATE L",
+      "min": 3,
+      "max": 8,
+      "exp": "3-8 yrs",
+      "location": "Pune | Gurgaon/Gurugram | Bangalore | Noida",
+      "tags": [
+        "Data Engineering",
+        "Python",
+        "SQL",
+        "ETL",
+        "Pandas",
+        "Numpy"
+      ],
+      "url": "https://www.hirist.tech/j/crescendo-global-leadership-hiring-india-private-l-python-developer-data-engineering-3-8-yrs-1680364?ref=cl_br",
+      "applied": 0,
+      "createdTime": 1792953000000,
+      "sourceFeed": "2-3"
+    },
+    {
+      "id": 1678854,
+      "title": "Jupiter Money - Software Development Engineer II - DevOps (3-6 yrs)",
+      "company": "Jupiter Money",
+      "min": 3,
+      "max": 6,
+      "exp": "3-6 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "DevOps",
+        "AWS Infrastructure",
+        "Kubernetes",
+        "IAC Terraform",
+        "CI/CD Pipeline",
+        "Python",
+        "Prometheus",
+        "Grafana",
+        "ELK Stack"
+      ],
+      "url": "https://www.hirist.tech/j/jupiter-money-jupiter-money-software-development-engineer-ii-devops-3-6-yrs-1678854?ref=cl_br",
+      "applied": 0,
+      "createdTime": 1792089000000,
+      "sourceFeed": "2-3"
+    },
+    {
+      "id": 1678517,
+      "title": "Intel - Software Application Development Engineer - Python/Java/C++ (3-10 yrs)",
+      "company": "Intel",
+      "min": 3,
+      "max": 10,
+      "exp": "3-10 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "Python",
+        "Java",
+        "C++",
+        "Generative AI",
+        "LLM",
+        "Ruby on Rails",
+        "Application Designing",
+        "Artificial Intelligence",
+        "AI Integration"
+      ],
+      "url": "https://www.hirist.tech/j/intel-intel-software-application-development-engineer-python-java-c-3-10-yrs-1678517?ref=cl_br",
+      "applied": 0,
+      "createdTime": 1791916200000,
+      "sourceFeed": "2-3"
+    }
+  ]
+}

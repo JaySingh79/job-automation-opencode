@@ -1,0 +1,26 @@
+{
+  "timestamp": "2026-11-07 15:44:05",
+  "elapsed": "01:27:22",
+  "target": 200,
+  "total_processed": 300,
+  "confirmed_applied": 92,
+  "submitted_unconfirmed": 44,
+  "pass_filled_dry": 72,
+  "skipped_dead": 12,
+  "awaiting_human_captcha": 11,
+  "errors": 69,
+  "breakdown_by_ats": {
+    "ashby": {
+      "confirmed": 48,
+      "total": 100
+    },
+    "lever": {
+      "confirmed": 44,
+      "total": 100
+    },
+    "greenhouse": {
+      "confirmed": 0,
+      "total": 100
+    }
+  }
+}

@@ -46,11 +46,10 @@ orchestrator's context window.
    dates, salary, visa status, or skills. Unknown required value → QUEUED, keep going; use the
    question tool ONLY when the missing value blocks all further progress (questions
    route to the user's live session), otherwise never interrupt.
-4. NEVER click Submit / Apply / Send / Finish. Stop on the terminal review step and report
-   `READY FOR HUMAN SUBMISSION`. Pause (don't stop) for logins, OTPs, CAPTCHAs.
-5. On finish: append the result to `ats_progress.json` (applied / blocked / skipped-with-reason),
-   add the link to `job_links.json`, and fold any new Lever observation into
-   `ats/lever/observation_importance.md` (create the folder if absent).
-6. Return a DISTILLED payload only — never raw snapshots or dumps:
+4. SUBMIT & CAPTCHA PROTOCOL: Lever features hCaptcha (`#h-captcha`). Fill all fields 100%, verify `emptyRequired: 0` and `invalidCount: 0`. If submit triggers an interactive hCaptcha puzzle (e.g. animal matching), never attempt automated dragging. Capture screenshot, stage on tab, and report `READY FOR HUMAN SUBMISSION` (`awaiting_human_captcha_submit`). If no captcha blocks, submit under user authority in `src/submit_permisssions/*_submit_authority.json` and verify `/applied`.
+5. LEVER INTERACTION RULES: Dismiss cookie consent banner first. Custom questions for currency (INR), period (Annual), type (gross), and location (India) use native `<select>`.
+6. On finish: append the result to `src/application_progress/ashby_lever_greenhouse/ats_progress.json` (applied / blocked / skipped-with-reason), add the link to `job_links.json`, and if verified submitted, append to `src/applied/jobs_applied.json`.
+7. Return a DISTILLED payload only — never raw snapshots or dumps:
    `RECON (counts) → PLAN (field|action|source table) → FILL → VERIFY (pass/fail)`,
-   plus filled/queued counts, the exact review-page state, and what the human must do next.
+   plus filled/queued counts, confirmation evidence, and human next action.
+

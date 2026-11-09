@@ -1,0 +1,64 @@
+{
+  "timestamp": "2026-10-20 02:36:45.428167",
+  "mode": "train",
+  "summary": {
+    "greenhouse": {
+      "total": 5,
+      "passed": 5,
+      "dead": 0,
+      "failed": 0
+    }
+  },
+  "results": [
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 7,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_cloudsek_jobs_6115382004.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/cloudsek/jobs/6115382004",
+      "elapsed_sec": 30.38
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 20,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_coherehealth_jobs_7693298003.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/coherehealth/jobs/7693298003",
+      "elapsed_sec": 48.34
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 22,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_coherehealth_jobs_7741414003.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/coherehealth/jobs/7741414003",
+      "elapsed_sec": 50.74
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 26,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_coherehealth_jobs_7611463003.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/coherehealth/jobs/7611463003",
+      "elapsed_sec": 57.82
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 24,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_celonis_jobs_7784391003.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7784391003",
+      "elapsed_sec": 61.25
+    }
+  ]
+}

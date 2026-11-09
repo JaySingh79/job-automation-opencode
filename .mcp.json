@@ -10,6 +10,21 @@
       "env": {
         "MEMORY_FILE_PATH": "D:\\Projects\\PRACTICE\\firecrawl_test\\kb\\memory.json"
       }
+    },
+    "gmail": {
+      "type": "stdio",
+      "command": "uv",
+      "args": [
+        "run",
+        "--no-project",
+        "python",
+        "-m",
+        "src.scripts.gmail_mcp.server"
+      ],
+      "env": {
+        "GMAIL_CREDENTIALS_PATH": "D:\\Projects\\PRACTICE\\firecrawl_test\\credentials.json",
+        "GMAIL_TOKEN_PATH": "D:\\Projects\\PRACTICE\\firecrawl_test\\token.json"
+      }
     }
   }
 }

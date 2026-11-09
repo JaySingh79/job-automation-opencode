@@ -1,0 +1,50 @@
+{
+  "platform": "ripplehire",
+  "total_jobs": 2,
+  "jobs": [
+    {
+      "job_id": "211026502004",
+      "title": "Full Stack developer (Python)",
+      "company": "Bahwan CyberTek",
+      "platform": "ripplehire",
+      "company_site_url": "https://bahwancybertek.ripplehire.com/candidate/?token=ncskoGgjoqYnuqre7tUl&source=CAREERSITE#detail/job/916297",
+      "ats_domain": "bahwancybertek.ripplehire.com",
+      "naukri_url": "https://www.naukri.com/job-listings-full-stack-developer-python-bahwan-cybertek-chennai-0-to-1-years-211026502004",
+      "experience": "0-1 Yrs",
+      "location": "Chennai",
+      "posted_date": "6 days ago",
+      "skills": [
+        "HTML",
+        "Troubleshooting",
+        "Technology",
+        "Full Stack",
+        "Postgresql",
+        "SQL",
+        "MySQL",
+        "Python"
+      ]
+    },
+    {
+      "job_id": "211026501999",
+      "title": "Full Stack developer (Angular, Node, JS)",
+      "company": "Bahwan CyberTek",
+      "platform": "ripplehire",
+      "company_site_url": "https://bahwancybertek.ripplehire.com/candidate/?token=ncskoGgjoqYnuqre7tUl&source=CAREERSITE#detail/job/916298",
+      "ats_domain": "bahwancybertek.ripplehire.com",
+      "naukri_url": "https://www.naukri.com/job-listings-full-stack-developer-angular-node-js-bahwan-cybertek-chennai-0-to-1-years-211026501999",
+      "experience": "0-1 Yrs",
+      "location": "Chennai",
+      "posted_date": "6 days ago",
+      "skills": [
+        "Angular",
+        "Technical documentation",
+        "Coding",
+        "Development",
+        "Debugging",
+        "Control",
+        "Node",
+        "Full Stack"
+      ]
+    }
+  ]
+}

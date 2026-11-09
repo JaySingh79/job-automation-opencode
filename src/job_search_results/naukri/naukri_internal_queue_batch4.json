@@ -1,0 +1,203 @@
+{
+  "batch_id": 4,
+  "subagent": "naukri-fill-4",
+  "total_jobs": 10,
+  "jobs": [
+    {
+      "job_id": "261026027398",
+      "title": "Site Reliability Engineer",
+      "company": "Highradius",
+      "experience": "0 Yrs",
+      "salary": "Filtered >= 15 LPA",
+      "location": "Hyderabad",
+      "tags": [
+        "Containerization",
+        "Microsoft",
+        "Program",
+        "Elk",
+        "Budgeting",
+        "Docker",
+        "AWS",
+        "SLA"
+      ],
+      "posted_date": "1 day ago",
+      "url": "https://www.naukri.com/job-listings-site-reliability-engineer-highradius-technologies-pvt-ltd-hyderabad-0-to-0-years-261026027398"
+    },
+    {
+      "job_id": "191026918063",
+      "title": "Software Engineer(Unity 3D)",
+      "company": "Applied Materials",
+      "experience": "0-5 Yrs",
+      "salary": "Filtered >= 15 LPA",
+      "location": "Bengaluru",
+      "tags": [
+        "C#",
+        "Program",
+        "Integration",
+        "Continuous Integration",
+        "Continuous Integration",
+        "Framework",
+        "Communication skills",
+        "Platform Development"
+      ],
+      "posted_date": "1 week ago",
+      "url": "https://www.naukri.com/job-listings-software-engineer-unity-3d-applied-materials-india-private-limited-bengaluru-0-to-5-years-191026918063"
+    },
+    {
+      "job_id": "261026922005",
+      "title": "Anaplan Consultant",
+      "company": "Infosys",
+      "experience": "0-5 Yrs",
+      "salary": "Filtered >= 15 LPA",
+      "location": "Pune, Pune",
+      "tags": [
+        "Software",
+        "Digital Transformation",
+        "Pricing",
+        "Consulting",
+        "Configuration",
+        "EPM",
+        "Anaplan",
+        "Digital"
+      ],
+      "posted_date": "1 day ago",
+      "url": "https://www.naukri.com/job-listings-anaplan-consultant-infosys-limited-pune-pune-0-to-5-years-261026922005"
+    },
+    {
+      "job_id": "131026048916",
+      "title": "Analyst-CPRA-Retail",
+      "company": "Hdfc Bank",
+      "experience": "0-1 Yrs",
+      "salary": "Filtered >= 15 LPA",
+      "location": "Gurugram",
+      "tags": [
+        "Assortment Planning",
+        "Retail Analysis",
+        "Category Management",
+        "Retail Sales",
+        "Retail Operations",
+        "Shrinkage Control",
+        "Merchandising",
+        "Store Management"
+      ],
+      "posted_date": "1 week ago",
+      "url": "https://www.naukri.com/job-listings-analyst-cpra-retail-hdfc-bank-limited-gurugram-0-to-1-years-131026048916"
+    },
+    {
+      "job_id": "201026008397",
+      "title": "DEVOPS ENGINEER L3",
+      "company": "Wipro",
+      "experience": "0-5 Yrs",
+      "salary": "Filtered >= 15 LPA",
+      "location": "Hybrid - Bengaluru",
+      "tags": [
+        "Devops",
+        "Integration",
+        "Continuous Integration",
+        "L3"
+      ],
+      "posted_date": "1 week ago",
+      "url": "https://www.naukri.com/job-listings-devops-engineer-l3-wipro-limited-bengaluru-0-to-5-years-201026008397"
+    },
+    {
+      "job_id": "270726007497",
+      "title": "Agent Developer Test III",
+      "company": "Highradius",
+      "experience": "0 Yrs",
+      "salary": "Filtered >= 15 LPA",
+      "location": "Hyderabad",
+      "tags": [
+        "Test Automation Framework",
+        "Programming",
+        "Ci/Cd",
+        "Microservices",
+        "Docker",
+        "API Testing",
+        "Javascript",
+        "Microsoft Azure"
+      ],
+      "posted_date": "1 week ago",
+      "url": "https://www.naukri.com/job-listings-agent-developer-test-iii-highradius-technologies-pvt-ltd-hyderabad-0-to-0-years-270726007497"
+    },
+    {
+      "job_id": "211026919092",
+      "title": "Associate",
+      "company": "Axtria",
+      "experience": "0-5 Yrs",
+      "salary": "Filtered >= 15 LPA",
+      "location": "Bengaluru",
+      "tags": [
+        "Data Operations",
+        "Technical design",
+        "Email",
+        "Data",
+        "Capability building",
+        "Technology",
+        "Triggers",
+        "Quality assurance"
+      ],
+      "posted_date": "6 days ago",
+      "url": "https://www.naukri.com/job-listings-associate-axtria-india-private-limited-bengaluru-0-to-5-years-211026919092"
+    },
+    {
+      "job_id": "211026922858",
+      "title": "Associate",
+      "company": "Axtria",
+      "experience": "0-5 Yrs",
+      "salary": "Filtered >= 15 LPA",
+      "location": "Noida",
+      "tags": [
+        "Data warehousing",
+        "Ai Techniques",
+        "Bi Tools",
+        "Bi",
+        "Change",
+        "Quality",
+        "Data quality",
+        "Access Database"
+      ],
+      "posted_date": "5 days ago",
+      "url": "https://www.naukri.com/job-listings-associate-axtria-india-private-limited-noida-0-to-5-years-211026922858"
+    },
+    {
+      "job_id": "051026931370",
+      "title": "Business Technology Solutions Associate- Anaplan",
+      "company": "ZS",
+      "experience": "0-4 Yrs",
+      "salary": "Filtered >= 15 LPA",
+      "location": "Pune, Gurugram",
+      "tags": [
+        "Business Technology",
+        "Business Strategy",
+        "Business Analytics",
+        "Qlikview",
+        "Tableau",
+        "Informatica",
+        "Analytics",
+        "Sql"
+      ],
+      "posted_date": "3 weeks ago",
+      "url": "https://www.naukri.com/job-listings-business-technology-solutions-associate-anaplan-zs-associates-india-pvt-ltd-pune-gurugram-0-to-4-years-051026931370"
+    },
+    {
+      "job_id": "080426034452",
+      "title": "SDE -2",
+      "company": "Deloitte US-India Offices",
+      "experience": "0-5 Yrs",
+      "salary": "10-50+ LPA (Applied Filter)",
+      "location": "Bengaluru, Delhi / NCR, Mumbai (All Areas)",
+      "tags": [
+        "Software Engineering",
+        "Application Programming",
+        "Software Services",
+        "Software Design",
+        "Software Programming",
+        "Software Solutions",
+        "Application",
+        "Programming"
+      ],
+      "posted_date": "2 weeks ago",
+      "url": "https://www.naukri.com/job-listings-sde-2-deloitte-us-india-offices-bengaluru-delhi-ncr-mumbai-all-areas-0-to-5-years-080426034452"
+    }
+  ]
+}

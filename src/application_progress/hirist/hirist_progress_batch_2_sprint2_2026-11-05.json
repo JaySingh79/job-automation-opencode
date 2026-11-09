@@ -1,0 +1,65 @@
+{
+  "worker": 2,
+  "batch": 2,
+  "sprint": 2,
+  "total_jobs": 6,
+  "applied_count": 4,
+  "parked_count": 2,
+  "already_applied_count": 0,
+  "all_results": [
+    {
+      "jobId": 1681031,
+      "title": "Flipspaces - Product Manager (3-8 yrs)",
+      "company": "Flipspaces",
+      "status": "parked_assessment",
+      "applicationId": null,
+      "message": "Assessment/ screening is required to apply for this Job",
+      "timestamp": "2026-11-05T13:00:29.073Z"
+    },
+    {
+      "jobId": 1681033,
+      "title": "Site Reliability Engineer - Cloud Infrastructure (3-5 yrs)",
+      "company": "HyrMe",
+      "status": "applied",
+      "applicationId": 79293862,
+      "message": null,
+      "timestamp": "2026-11-05T13:00:33.662Z"
+    },
+    {
+      "jobId": 1681076,
+      "title": "Allstate - Senior Software Engineer - Full Stack Development (3-5 yrs)",
+      "company": "Allstate",
+      "status": "applied",
+      "applicationId": 79293865,
+      "message": null,
+      "timestamp": "2026-11-05T13:00:35.277Z"
+    },
+    {
+      "jobId": 1681121,
+      "title": "InfoCepts - Business Intelligence Developer (3-5 yrs)",
+      "company": "Infocepts Technologies",
+      "status": "applied",
+      "applicationId": 79293872,
+      "message": null,
+      "timestamp": "2026-11-05T13:00:39.113Z"
+    },
+    {
+      "jobId": 1681152,
+      "title": "Allstate - Senior Software Engineer - Kong/API Gateway (3-9 yrs)",
+      "company": "Allstate",
+      "status": "applied",
+      "applicationId": 79293874,
+      "message": null,
+      "timestamp": "2026-11-05T13:00:40.951Z"
+    },
+    {
+      "jobId": 1680627,
+      "title": "Implementation Engineer - Cloud Deployment (3-6 yrs)",
+      "company": "ComplyDP",
+      "status": "parked_assessment",
+      "applicationId": null,
+      "message": "Assessment/ screening is required to apply for this Job",
+      "timestamp": "2026-11-05T13:00:42.518Z"
+    }
+  ]
+}

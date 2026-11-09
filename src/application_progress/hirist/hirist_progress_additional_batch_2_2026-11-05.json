@@ -1,0 +1,507 @@
+{
+  "worker": 2,
+  "batch": 2,
+  "sweep": "additional_200",
+  "target_applied": 40,
+  "applied_count": 23,
+  "parked_count": 39,
+  "already_applied_count": 0,
+  "all_results": [
+    {
+      "jobId": 1645044,
+      "title": "Software Development Engineer I - Python/Node.js",
+      "company": "Talhive",
+      "status": "applied",
+      "applicationId": 79305038,
+      "timestamp": "2026-11-05T18:33:40.477Z"
+    },
+    {
+      "jobId": 1645012,
+      "title": "Node.js Developer",
+      "company": "Rainclouds Global Solutions LLP",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job",
+      "timestamp": "2026-11-05T18:33:42.334Z"
+    },
+    {
+      "jobId": 1680508,
+      "title": "CarDekho Group - AI Engineer",
+      "company": "CarDekho",
+      "status": "applied",
+      "applicationId": 79305063,
+      "timestamp": "2026-11-05T18:33:44.463Z"
+    },
+    {
+      "jobId": 1681078,
+      "title": "Solution Intelligence Analyst II - AI/ML",
+      "company": "MantriAI   ",
+      "status": "applied",
+      "applicationId": 79305064,
+      "timestamp": "2026-11-05T18:33:46.558Z"
+    },
+    {
+      "jobId": 1678650,
+      "title": "Anthropic Product & Platform Expert/Technical Specialist",
+      "company": "ArdbergAI",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job",
+      "timestamp": "2026-11-05T18:33:48.911Z"
+    },
+    {
+      "jobId": 1679867,
+      "title": "True Credits - Machine Learning Engineer - MLOps",
+      "company": "TRUE CREDITS PRIVATE LIMITED",
+      "status": "applied",
+      "applicationId": 79305069,
+      "timestamp": "2026-11-05T18:33:51.321Z"
+    },
+    {
+      "jobId": 1682377,
+      "title": "Data Scientist",
+      "company": "HiringBlaze",
+      "status": "applied",
+      "applicationId": 79305071,
+      "timestamp": "2026-11-05T18:33:53.836Z"
+    },
+    {
+      "jobId": 1682455,
+      "title": "Machine Learning Engineer - Time Series Forecasting",
+      "company": "Axionix Technologies",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job",
+      "timestamp": "2026-11-05T18:33:56.577Z"
+    },
+    {
+      "jobId": 1682008,
+      "title": "Data Scientist - Credit Risk/Model Risk Domain",
+      "company": "Vintronics Consulting",
+      "status": "applied",
+      "applicationId": 79305075,
+      "timestamp": "2026-11-05T18:33:58.826Z"
+    },
+    {
+      "jobId": 1681596,
+      "title": "Wobot AI - Computer Vision Engineer - C++",
+      "company": "Wobot Intelligence Pvt. Ltd.",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job",
+      "timestamp": "2026-11-05T18:34:01.212Z"
+    },
+    {
+      "jobId": 1681028,
+      "title": "Data Scientist - Python/Pandas",
+      "company": "D Square Consulting Services",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job",
+      "timestamp": "2026-11-05T18:34:03.303Z"
+    },
+    {
+      "jobId": 1680650,
+      "title": "Forward Deployed Engineer - AI/ML",
+      "company": "Anzy Global",
+      "status": "applied",
+      "applicationId": 79305077,
+      "timestamp": "2026-11-05T18:34:05.723Z"
+    },
+    {
+      "jobId": 1680432,
+      "title": "Data Scientist - Forecasting & Predictive Analysis",
+      "company": "D Square Consulting Services",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job",
+      "timestamp": "2026-11-05T18:34:08.167Z"
+    },
+    {
+      "jobId": 1680438,
+      "title": "Streamlit Developer/Junior Data Scientist",
+      "company": "D Square Consulting Services",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job",
+      "timestamp": "2026-11-05T18:34:53.570Z"
+    },
+    {
+      "jobId": 1680430,
+      "title": "Data Scientist - Python/Power BI",
+      "company": "D Square Consulting Services",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job",
+      "timestamp": "2026-11-05T18:34:55.763Z"
+    },
+    {
+      "jobId": 1680386,
+      "title": "Nomiso - Generative AI Engineer",
+      "company": "NOMISO INDIA PRIVATE LIMITED",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job",
+      "timestamp": "2026-11-05T18:34:58.740Z"
+    },
+    {
+      "jobId": 1678926,
+      "title": "Conversational AI Designer/Engineer - Prompt Engineering",
+      "company": "SUPPORTEX PRIVATE LIMITED",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job",
+      "timestamp": "2026-11-05T18:35:01.476Z"
+    },
+    {
+      "jobId": 1677493,
+      "title": "AI/ML Engineer",
+      "company": "Aspire Talent Innovations",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job",
+      "timestamp": "2026-11-05T18:35:03.885Z"
+    },
+    {
+      "jobId": 1668808,
+      "title": "HealthPlix - Data Scientist - Healthcare Domain",
+      "company": "HealthPlix",
+      "status": "applied",
+      "applicationId": 79305119,
+      "timestamp": "2026-11-05T18:35:06.697Z"
+    },
+    {
+      "jobId": 1672849,
+      "title": "Exotel - Forward Deployed Engineer II - Voicebot Delivery",
+      "company": "EXOTEL TECHCOM PRIVATE LIMITED",
+      "status": "applied",
+      "applicationId": 79305122,
+      "timestamp": "2026-11-05T18:35:09.012Z"
+    },
+    {
+      "jobId": 1672462,
+      "title": "Generative AI/Agentic AI Engineer - Python/LangChain",
+      "company": "USIL Technologies",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job",
+      "timestamp": "2026-11-05T18:35:11.191Z"
+    },
+    {
+      "jobId": 1671913,
+      "title": "AU Small Finance Bank - AI Engineer - Conversational AI",
+      "company": "AU SMALL FINANCE BANK Limited",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job",
+      "timestamp": "2026-11-05T18:35:13.800Z"
+    },
+    {
+      "jobId": 1671408,
+      "title": "Focalworks - AI Engineer - Large Language Models",
+      "company": "Focalworks Solutions",
+      "status": "applied",
+      "applicationId": 79305129,
+      "timestamp": "2026-11-05T18:35:16.678Z"
+    },
+    {
+      "jobId": 1671507,
+      "title": "PubMatic - Senior Software Engineer - GenAI/AI Agents Development",
+      "company": "PubMatic",
+      "status": "applied",
+      "applicationId": 79305134,
+      "timestamp": "2026-11-05T18:35:19.241Z"
+    },
+    {
+      "jobId": 1662124,
+      "title": "Univest - Artificial Intelligence Engineer - Python/LLM",
+      "company": "Univest",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job",
+      "timestamp": "2026-11-05T18:35:22.366Z"
+    },
+    {
+      "jobId": 1675221,
+      "title": "Junior Member of Technical Staff - AI/ML",
+      "company": "Scaling Theory Technologies",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job",
+      "timestamp": "2026-11-05T18:35:24.601Z"
+    },
+    {
+      "jobId": 1674463,
+      "title": "AI Engineer - Machine Learning/Generative AI",
+      "company": "SK HR Consultants",
+      "status": "applied",
+      "applicationId": 79305141,
+      "timestamp": "2026-11-05T18:35:27.483Z"
+    },
+    {
+      "jobId": 1673343,
+      "title": "AI Automation Developer - Python/Generative AI",
+      "company": "Risosu Consulting",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job",
+      "timestamp": "2026-11-05T18:35:29.831Z"
+    },
+    {
+      "jobId": 1672872,
+      "title": "Data Science/BI Strategy Consultant",
+      "company": "Totl Rpo Solutions",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job",
+      "timestamp": "2026-11-05T18:35:49.147Z"
+    },
+    {
+      "jobId": 1672149,
+      "title": "Data Scientist - Time Series Forecasting",
+      "company": "Yo Hr Consultancy",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job",
+      "timestamp": "2026-11-05T18:35:56.444Z"
+    },
+    {
+      "jobId": 1671772,
+      "title": "Data Scientist - Time Series Forecasting",
+      "company": "Bluglint Solutions",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job",
+      "timestamp": "2026-11-05T18:35:58.815Z"
+    },
+    {
+      "jobId": 1670187,
+      "title": "Data Scientist - Artificial Intelligence/Machine Learning",
+      "company": "Nash HR Consultants",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job",
+      "timestamp": "2026-11-05T18:36:01.175Z"
+    },
+    {
+      "jobId": 1669106,
+      "title": "Senior Computer Vision Engineer - Python",
+      "company": "JMJ Consultants",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job",
+      "timestamp": "2026-11-05T18:36:07.099Z"
+    },
+    {
+      "jobId": 1669045,
+      "title": "Forward Deployed AI Engineer - Generative AI/LLM",
+      "company": "ElementSkill",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job",
+      "timestamp": "2026-11-05T18:36:09.922Z"
+    },
+    {
+      "jobId": 1669081,
+      "title": "Founding ML Engineer - Computer Vision",
+      "company": "Aretius Advisory",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job",
+      "timestamp": "2026-11-05T18:36:12.261Z"
+    },
+    {
+      "jobId": 1668571,
+      "title": "Calpion - Software Development Engineer - Agentic AI",
+      "company": "Calpion Software Technologies Pvt. Ltd",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job",
+      "timestamp": "2026-11-05T18:36:14.358Z"
+    },
+    {
+      "jobId": 1668430,
+      "title": "Applied AI/ML Engineer",
+      "company": "The Reliable Jobs",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job",
+      "timestamp": "2026-11-05T18:36:17.079Z"
+    },
+    {
+      "jobId": 1661230,
+      "title": "Optum - AI/ML Engineer",
+      "company": "Optum Global Solutions",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job",
+      "timestamp": "2026-11-05T18:36:19.265Z"
+    },
+    {
+      "jobId": 1657331,
+      "title": "AI-Native Systems Builder",
+      "company": "Darwinbox",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job",
+      "timestamp": "2026-11-05T18:36:21.385Z"
+    },
+    {
+      "jobId": 1644768,
+      "title": "Optum - Associate AI/ML Engineer - Python/PyTorch",
+      "company": "Optum Global Solutions",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job",
+      "timestamp": "2026-11-05T18:36:24.139Z"
+    },
+    {
+      "jobId": 1658116,
+      "title": "Hybrid AI Engineer",
+      "company": "Hawk Sense Business Solution pvt. ltd.",
+      "status": "applied",
+      "applicationId": 79305193,
+      "timestamp": "2026-11-05T18:36:26.818Z"
+    },
+    {
+      "jobId": 1656260,
+      "title": "Senior Machine Learning Engineer",
+      "company": "TAAS Partners",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job",
+      "timestamp": "2026-11-05T18:36:29.303Z"
+    },
+    {
+      "jobId": 1653547,
+      "title": "Generative AI Engineer - NLP/LLM",
+      "company": "NovoTree Minds Consulting",
+      "status": "applied",
+      "applicationId": 79305198,
+      "timestamp": "2026-11-05T18:36:32.485Z"
+    },
+    {
+      "jobId": 1653671,
+      "title": "Data Scientist - Machine Learning",
+      "company": "Nexionpro Services",
+      "status": "applied",
+      "applicationId": 79305213,
+      "timestamp": "2026-11-05T18:36:51.390Z"
+    },
+    {
+      "jobId": 1652805,
+      "title": "OneClick.ai - Generative AI Engineer - LLM/Python",
+      "company": "One Click AI",
+      "status": "applied",
+      "applicationId": 79305215,
+      "timestamp": "2026-11-05T18:36:53.941Z"
+    },
+    {
+      "jobId": 1651980,
+      "title": "AI/ML Engineer",
+      "company": "Unico Talent",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job",
+      "timestamp": "2026-11-05T18:36:56.331Z"
+    },
+    {
+      "jobId": 1651766,
+      "title": "Process Nine Technologies - Generative AI Engineer",
+      "company": "PROCESS NINE TECHNOLOGIES PVT.LTD.",
+      "status": "applied",
+      "applicationId": 79305222,
+      "timestamp": "2026-11-05T18:36:58.849Z"
+    },
+    {
+      "jobId": 1651031,
+      "title": "Trinity - Associate Data Scientist - LLM/RAG",
+      "company": "Trinity Partners",
+      "status": "applied",
+      "applicationId": 79305228,
+      "timestamp": "2026-11-05T18:37:02.047Z"
+    },
+    {
+      "jobId": 1651067,
+      "title": "Forward Deployed AI Engineer - Python/RAG",
+      "company": "The Reliable Jobs",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job",
+      "timestamp": "2026-11-05T18:37:04.606Z"
+    },
+    {
+      "jobId": 1648698,
+      "title": "Artificial Intelligence Engineer",
+      "company": "The Reliable Jobs",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job",
+      "timestamp": "2026-11-05T18:37:07.050Z"
+    },
+    {
+      "jobId": 1647656,
+      "title": "Apptware Solutions - GenAI Developer - Machine Learning/NLP",
+      "company": "Apptware",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job",
+      "timestamp": "2026-11-05T18:37:09.629Z"
+    },
+    {
+      "jobId": 1646639,
+      "title": "McLaren Strategic Solutions - Generative AI Engineer - LLM/RAG",
+      "company": "MCLAREN STRATEGIC VENTURES INDIA PRIVATE LIMITED",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job",
+      "timestamp": "2026-11-05T18:37:12.353Z"
+    },
+    {
+      "jobId": 1646642,
+      "title": "McLaren Strategic Solutions - NLP Engineer",
+      "company": "MCLAREN STRATEGIC VENTURES INDIA PRIVATE LIMITED",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job",
+      "timestamp": "2026-11-05T18:37:14.798Z"
+    },
+    {
+      "jobId": 1646632,
+      "title": "McLaren Strategic Solutions - Computer Vision Engineer - Machine Learning/Deep Learning",
+      "company": "MCLAREN STRATEGIC VENTURES INDIA PRIVATE LIMITED",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job",
+      "timestamp": "2026-11-05T18:37:17.791Z"
+    },
+    {
+      "jobId": 1645925,
+      "title": "Data Scientist",
+      "company": "ConsultBae",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job",
+      "timestamp": "2026-11-05T18:37:20.379Z"
+    },
+    {
+      "jobId": 1645503,
+      "title": "AI/ML Engineer",
+      "company": "Unico Talent",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job",
+      "timestamp": "2026-11-05T18:37:23.162Z"
+    },
+    {
+      "jobId": 1681825,
+      "title": "GreyOrange - Senior Software Developer II - Backend Applications",
+      "company": "Grey Orange",
+      "status": "applied",
+      "applicationId": 79305246,
+      "timestamp": "2026-11-05T18:37:25.834Z"
+    },
+    {
+      "jobId": 1682287,
+      "title": "Playlist - Software Engineer I - C#/.Net",
+      "company": "Playlist",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job",
+      "timestamp": "2026-11-05T18:37:28.094Z"
+    },
+    {
+      "jobId": 1681724,
+      "title": "Java Developer - Microservices Architecture",
+      "company": "Varite",
+      "status": "applied",
+      "applicationId": 79305251,
+      "timestamp": "2026-11-05T18:37:31.063Z"
+    },
+    {
+      "jobId": 1678905,
+      "title": "PTC Software - Software Specialist - Java",
+      "company": "PTC",
+      "status": "applied",
+      "applicationId": 79305254,
+      "timestamp": "2026-11-05T18:37:33.544Z"
+    },
+    {
+      "jobId": 1682106,
+      "title": "Backend Developer - Golang",
+      "company": "Vcommission Media Private",
+      "status": "applied",
+      "applicationId": 79305256,
+      "timestamp": "2026-11-05T18:37:35.955Z"
+    },
+    {
+      "jobId": 1682230,
+      "title": "Volody - PHP Laravel Developer",
+      "company": "Volody",
+      "status": "applied",
+      "applicationId": 79305257,
+      "timestamp": "2026-11-05T18:37:38.025Z"
+    }
+  ]
+}

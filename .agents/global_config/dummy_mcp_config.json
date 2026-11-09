@@ -1,0 +1,40 @@
+{
+  "mcpServers": {
+    "headroom": {
+      "command": "headroom",
+      "args": ["mcp", "serve"]
+    },
+    "playwright": {
+      "command": "cmd.exe",
+      "args": [
+        "/c",
+        "npx",
+        "@playwright/mcp@latest",
+        "--user-data-dir=C:/Users/USERNAME/AppData/Local/Google/Chrome/User Data/Profile"
+      ]
+    },
+    "playwright-extention": {
+      "command": "npx",
+      "args": [
+        "@playwright/mcp@latest",
+        "--extension"
+      ],
+      "env": {
+        "PLAYWRIGHT_MCP_EXTENSION_TOKEN": "YOUR_PLAYWRIGHT_MCP_EXTENSION_TOKEN"
+      }
+    },
+    "gmail": {
+      "url": "https://gmailmcp.googleapis.com/mcp/v1"
+    },
+    "memory": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-memory"
+      ],
+      "env": {
+        "MEMORY_FILE_PATH": "kb/memory.json"
+      }
+    }
+  }
+}

@@ -61,7 +61,7 @@ orchestrator's context window.
 5. Experience filter is MANDATORY: set max 2 yrs BEFORE opening any `View »` job
    (§2 Method 2 canonical) — never skip it. On every 30 applies: append to
    `src/applied/jobs_applied.json` instahyre array and update
-   `src/application_progress/instahyre_applyall_<YYYY-MM-DD>.json`. Loop skills forever until the
+   `src/application_progress/instahyre/instahyre_applyall_<YYYY-MM-DD>.json`. Loop skills forever until the
    human says STOP. Fold any new persistent blocker (3+ iterations) into
    `src/knowledge_source/instahyre/bottlenecks.md`.
 6. Return a DISTILLED payload only — never raw snapshots or dumps:

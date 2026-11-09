@@ -1,0 +1,97 @@
+[
+  {
+    "company": "Futureacad",
+    "role": "AI Product Developer - Intern",
+    "url": "https://futureacad.zohorecruit.in/jobs/Careers/179505000001734372",
+    "platform": "zoho_recruit",
+    "status": "staged_ready_for_submission",
+    "date": "2026-10-28",
+    "resume": "Jay Resume GenAI+DS 5th Aug.pdf",
+    "note": "100% of required fields filled (Basic info, Address info, Education, Resume upload). Delays applied. Ready for human submit click in tab 0."
+  },
+  {
+    "company": "Akaike Technologies",
+    "role": "Data Scientist (Sr. Data Scientist)",
+    "url": "https://akaiketech.zohorecruit.in/jobs/Careers/46717000001300512/Sr-Data-Scientist?source=CareerSite",
+    "platform": "zoho_recruit",
+    "status": "staged_ready_for_submission",
+    "date": "2026-10-28",
+    "resume": "Jay Resume GenAI+DS 5th Aug.pdf",
+    "note": "100% of candidate profile fields filled (Name, Email, Mobile, Experience, Salary 18/22 LPA, LinkedIn, Resume upload). Image captcha present; ready for human review in tab 1."
+  },
+  {
+    "company": "Futureacad",
+    "role": "Web Development with Gen AI - Intern",
+    "url": "https://futureacad.zohorecruit.in/jobs/Careers/179505000001734205",
+    "platform": "zoho_recruit",
+    "status": "staged_ready_for_submission",
+    "date": "2026-10-28",
+    "resume": "Jay Resume GenAI+DS 5th Aug.pdf",
+    "note": "100% of required fields filled (Basic info, Address info, Education, Resume upload). Delays applied. Ready for human submit click in tab 2."
+  },
+  {
+    "company": "Galaxeye Space",
+    "role": "AI Researcher",
+    "url": "https://galaxeye-pranitgalaxeyespace.zohorecruit.in/jobs/Careers/214465000000581913",
+    "platform": "zoho_recruit",
+    "status": "staged_ready_for_submission",
+    "date": "2026-10-28",
+    "resume": "Jay Resume GenAI+DS 5th Aug.pdf",
+    "note": "100% of candidate fields filled (Name, Contact, Address, Job title, LinkedIn, Resume upload). Captcha present; ready for human review in tab 3."
+  },
+  {
+    "company": "HealthMinds",
+    "role": "IT Engineer",
+    "url": "https://healthminds.zohorecruit.in/jobs/Careers/181671000003457957",
+    "platform": "zoho_recruit",
+    "status": "staged_ready_for_submission",
+    "date": "2026-10-28",
+    "resume": "Jay Resume GenAI+DS 5th Aug.pdf",
+    "note": "100% of required fields filled (Name, Email, Mobile, LinkedIn, Resume upload). Delays applied. Ready for human submit click in tab 4."
+  },
+  {
+    "job_id": "179505000001734372",
+    "title": "AI Product Developer - Intern",
+    "company": "Futureacad",
+    "url": "https://futureacad.zohorecruit.in/jobs/Careers/179505000001734372",
+    "status": "applied",
+    "applied_by": "human_user",
+    "applied_at": "2026-10-29T02:31:20.283218"
+  },
+  {
+    "job_id": "46717000001300512",
+    "title": "Data Scientist",
+    "company": "Akaike Technologies",
+    "url": "https://akaiketech.zohorecruit.in/jobs/Careers/46717000001300512/Sr-Data-Scientist?source=CareerSite",
+    "status": "applied",
+    "applied_by": "human_user",
+    "applied_at": "2026-10-29T02:31:20.283289"
+  },
+  {
+    "job_id": "179505000001734205",
+    "title": "Web Development with Gen AI - Intern",
+    "company": "Futureacad",
+    "url": "https://futureacad.zohorecruit.in/jobs/Careers/179505000001734205",
+    "status": "applied",
+    "applied_by": "human_user",
+    "applied_at": "2026-10-29T02:31:20.283295"
+  },
+  {
+    "job_id": "181671000003457957",
+    "title": "IT Engineer",
+    "company": "HealthMinds",
+    "url": "https://healthminds.zohorecruit.in/jobs/Careers/181671000003457957",
+    "status": "applied",
+    "applied_by": "human_user",
+    "applied_at": "2026-10-29T02:31:20.283300"
+  },
+  {
+    "job_id": "214465000000581913",
+    "title": "AI Researcher",
+    "company": "Galaxeye Space",
+    "url": "https://galaxeye-pranitgalaxeyespace.zohorecruit.in/jobs/Careers/214465000000581913",
+    "status": "applied",
+    "applied_by": "human_user",
+    "applied_at": "2026-10-29T02:34:55.768114"
+  }
+]

@@ -39,7 +39,9 @@ Platform playbook for the `workday-fill` subagent. Read this before touching any
   (`browser_fill_form`/`browser_type` on the Month/Year spinbuttons). Values set through
   `browser_evaluate` display but FAIL validation ("field required"). Phone likewise:
   pick Country Phone Code first, then type the NATIONAL number only.
-- A honeypot input for robots exists — gate every generic fill on the recon `honeypot` flag.
+- A honeypot input for robots exists: `input[data-automation-id="beecatcher"]`. Strictly filter out and never touch `beecatcher`. Any interaction flags automated bot abuse.
+- Legal Notice / Cookie Consent Overlay: On tenants like Valeo (`wd3`) and Pitney Bowes (`wd1`), a blocking banner `[data-automation-id="legalNotice"]` covers the viewport. Immediately click `[data-automation-id="legalNoticeAcceptButton"]` before attempting to locate the Apply button.
+- Apply CTA Flow: Click `[data-automation-id="adventureButton"]` (Apply) -> click sub-option `[data-automation-id="applyManually"]`. Never navigate directly to `/apply/applyManually` via URL, as React router will reset to the main JD without an active session click.
 - Stale error alerts persist after fixing fields; only the post-Continue validation counts.
 
 ## 5. Validation traps
@@ -64,7 +66,7 @@ Platform playbook for the `workday-fill` subagent. Read this before touching any
 
 Per step: `RECON → PLAN → FILL → VERIFY`, no narration of calls. Final: filled count,
 uploads, `QUEUED` items with reasons, review-page state, `READY FOR HUMAN SUBMISSION`.
-Checkpoint `ats_progress.json` + `job_links.json`; append new findings to `ats/workday/NOTES.md`.
+Checkpoint `src/application_progress/workday/src/application_progress/workday/ats_progress.json` + `job_links.json`; append new findings to `ats/workday/NOTES.md`. Strictly never read/write progress files in the root of `src/application_progress/`.
 
 ## 6. unnecessary file
 - Strictly do not load any other *.md* file other that menioned in @initiate_fill.md or AGENTS.md
@@ -72,4 +74,9 @@ Checkpoint `ats_progress.json` + `job_links.json`; append new findings to `ats/w
 ## 7. Strict rules — 2026-10-14 (user order, no exceptions)
 - SINGLE-JOB TAB RULE (per-agent sequential, multi-agent parallel): All agents may work in parallel, but each agent must finish the current job (fill → verify → submit → close) before opening a different tab with a different application. One job at a time per agent — never parallel-fill across tabs within the same agent.
 - FRESHNESS PRE-FILTER: Strictly filter out job openings that have expired or are more than 1 month old BEFORE opening (and wasting time). Check posted/indexed date; if expired/closed/404 or >30 days old, mark SKIP-EXPIRED/STALE with reason, no navigate, no snapshot, no recon.
+- ANTI-BOT DETECTION HUMAN EMULATION (MANDATORY):
+  1. DEFINITELY SCROLL 4 TIMES: On every Workday page/step, perform at least 4 smooth scrolls (25%, 50%, 75%, 100% of viewport) to trigger viewport observers, lazy components, and human behavior telemetry.
+  2. SEQUENTIAL TOP-TO-BOTTOM ORDER: Fill fields strictly in top-to-bottom visual order per wizard step.
+  3. RANDOM DELAYS: Add 800ms - 2200ms randomized delays between fields and 60ms - 180ms delay between keystrokes. Never perform instantaneous bulk DOM sets.
+  4. 5 AGENTS MAX: Process at most 5 jobs/agents at a time.
 

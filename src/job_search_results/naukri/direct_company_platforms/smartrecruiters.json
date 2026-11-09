@@ -1,0 +1,138 @@
+{
+  "platform": "smartrecruiters",
+  "total_jobs": 6,
+  "jobs": [
+    {
+      "job_id": "120925505347",
+      "title": "Data Engineer",
+      "company": "Blend360 India",
+      "platform": "smartrecruiters",
+      "company_site_url": "https://jobs.smartrecruiters.com/Blend360/744000081031745",
+      "ats_domain": "jobs.smartrecruiters.com",
+      "naukri_url": "https://www.naukri.com/job-listings-data-engineer-blend-360-hyderabad-0-to-3-years-120925505347",
+      "experience": "0-3 Yrs",
+      "location": "Hyderabad",
+      "posted_date": "3+ weeks ago",
+      "skills": [
+        "Performance tuning",
+        "Automation",
+        "Debugging",
+        "Agile",
+        "Apache",
+        "Information technology",
+        "Monitoring",
+        "SQL"
+      ]
+    },
+    {
+      "job_id": "280520500774",
+      "title": "Java Developer",
+      "company": "Indusa",
+      "platform": "smartrecruiters",
+      "company_site_url": "https://jobs.smartrecruiters.com/Indusa/743999665564163-exciting-opportunity-for-java-developer-in-ahmedabad-with-indusa",
+      "ats_domain": "jobs.smartrecruiters.com",
+      "naukri_url": "https://www.naukri.com/job-listings-java-developer-indusa-ahmedabad-0-to-2-years-280520500774",
+      "experience": "0-2 Yrs",
+      "location": "Ahmedabad",
+      "posted_date": "3+ weeks ago",
+      "skills": [
+        "Hibernate",
+        "Core Java",
+        "ERP",
+        "Business analysis",
+        "Project management",
+        "Consulting",
+        "ISO 27001",
+        "Struts"
+      ]
+    },
+    {
+      "job_id": "200726504531",
+      "title": "Deck Cadet For Oil Tanker",
+      "company": "Ocean Star Ships",
+      "platform": "smartrecruiters",
+      "company_site_url": "https://jobs.smartrecruiters.com/oceanstarshipscom/86436179",
+      "ats_domain": "jobs.smartrecruiters.com",
+      "naukri_url": "https://www.naukri.com/job-listings-deck-cadet-for-oil-tanker-ocean-star-ships-chandigarh-0-to-3-years-200726504531",
+      "experience": "0-3 Yrs",
+      "location": "Chandigarh",
+      "posted_date": "3+ weeks ago",
+      "skills": [
+        "supply chain",
+        "dns",
+        "freight forwarding",
+        "logistics",
+        "marine engineering",
+        "shipping line",
+        "marine",
+        "transportation"
+      ]
+    },
+    {
+      "job_id": "200726505279",
+      "title": "Os Wiper AB Oiler Fresher",
+      "company": "Ocean Star Ships",
+      "platform": "smartrecruiters",
+      "company_site_url": "https://jobs.smartrecruiters.com/oceanstarshipscom/99134538",
+      "ats_domain": "jobs.smartrecruiters.com",
+      "naukri_url": "https://www.naukri.com/job-listings-os-wiper-ab-oiler-fresher-ocean-star-ships-new-delhi-0-to-2-years-200726505279",
+      "experience": "0-2 Yrs",
+      "location": "New Delhi",
+      "posted_date": "3+ weeks ago",
+      "skills": [
+        "container",
+        "ab",
+        "mechanical engineering",
+        "rating",
+        "trims",
+        "mechanical",
+        "assembly design",
+        "job description"
+      ]
+    },
+    {
+      "job_id": "200726504798",
+      "title": "GP Rating, Deck Cadet & Engine Cadet",
+      "company": "Ocean Star Ships",
+      "platform": "smartrecruiters",
+      "company_site_url": "https://jobs.smartrecruiters.com/oceanstarshipscom/93166798",
+      "ats_domain": "jobs.smartrecruiters.com",
+      "naukri_url": "https://www.naukri.com/job-listings-gp-rating-deck-cadet-engine-cadet-ocean-star-ships-ludhiana-0-to-2-years-200726504798",
+      "experience": "0-2 Yrs",
+      "location": "Ludhiana",
+      "posted_date": "3+ weeks ago",
+      "skills": [
+        "technical",
+        "cargo handling",
+        "vmware",
+        "dns",
+        "networking",
+        "ms-cit",
+        "system administration",
+        "windows system administration"
+      ]
+    },
+    {
+      "job_id": "220726501372",
+      "title": "AI Agent Developer (Remote)",
+      "company": "Winbold",
+      "platform": "smartrecruiters",
+      "company_site_url": "https://jobs.smartrecruiters.com/Winbold/744000098688234",
+      "ats_domain": "jobs.smartrecruiters.com",
+      "naukri_url": "https://www.naukri.com/job-listings-ai-agent-developer-remote-manikya-winbold-systems-pvt-ltd-bengaluru-0-to-3-years-220726501372",
+      "experience": "0-3 Yrs",
+      "location": "Bengaluru",
+      "posted_date": "3+ weeks ago",
+      "skills": [
+        "server",
+        "css",
+        "python",
+        "dns",
+        "networking",
+        "engineering",
+        "machine learning",
+        "artificial intelligence"
+      ]
+    }
+  ]
+}

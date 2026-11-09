@@ -1,0 +1,10 @@
+import json, pathlib
+p = pathlib.Path('src/application_progress/ats_progress.json')
+data = json.loads(p.read_text(encoding='utf-8'))
+entries = [
+ {"company":"Enterpret","role":"[Backend, Onsite] Software Engineering Intern","url":"https://job-boards.greenhouse.io/enterpret/jobs/7847134003","platform":"greenhouse","location":"Bengaluru, India (Onsite)","resume":"GenAI_DS (Jay Resume GenAI+DS 5th Aug.pdf attached, verified in DOM)","status":"filled_ready_for_submit","exp":"Intern (fresher)","salary":"Intern stipend undisclosed","filled":["First/Last/Preferred/Email/Phone(+91 8651274328, added 2026-10-14)","LinkedIn https://linkedin.com/in/jay-singh-ds/","Website https://jaysingh.vercel.app/","Resume attached","Location/gender/race/veteran/disability selects untouched (voluntary)"],"verification":"Live DOM read 2026-10-14: all text fields populated, resume filename visible, Submit application present. NOT submitted — awaiting user submit call.","date":"2026-10-14"},
+ {"company":"Bjak","role":"Applied AI Engineer","url":"https://jobs.ashbyhq.com/bjakcareer/416c3505-bc04-4b6e-8c60-fae0ea8b947e","platform":"ashby","location":"India Remote","resume":"GenAI_DS (upload pending — file picker not completed before tab wipe; text + radios done)","status":"filled_partial_resume_pending","exp":"3yr asked vs 18mo (answered No truthfully); Python/GenAI/shipped/evals/LLM Yes; Node No (truthful)","salary":"Undisclosed","filled":["Name/Email/Phone/Nationality Indian/Location Gaya Bihar India/LinkedIn/Project links","Radios: authorized Yes, sponsorship No, Python/Coding/GenAI Yes, 3yr No, shipped Yes, evals Yes, LLMs Yes, Node No"],"verification":"Live DOM read 2026-10-14: text fields populated, 4 checked controls, Submit Application present, no resume attached yet. NOT submitted.","date":"2026-10-14"},
+]
+data.setdefault('filled_pending_submit', []).extend(entries)
+p.write_text(json.dumps(data, indent=2, ensure_ascii=False), encoding='utf-8')
+print(f"filled_pending_submit_total={len(data['filled_pending_submit'])} applied_total={len(data.get('applied',[]))} blocked_total={len(data.get('blocked',[]))}")

@@ -1,0 +1,234 @@
+{
+ "platform": "hirist",
+ "date": "2026-10-08",
+ "filter": "AI-ML category, max<=3 yrs exp",
+ "applied": [
+  {
+   "jobId": 1674857,
+   "applicationId": 77920410,
+   "title": "United States Pharmacopeia - Data Scientist - Digital Products",
+   "company": "The United States Pharmacopeia",
+   "url": "https://www.hirist.tech/j/united-states-pharmacopeia-data-scientist-digital-products-hyderabad-1-3-yrs-1674857.html"
+  },
+  {
+   "jobId": 1676228,
+   "applicationId": 77925672,
+   "title": "Data Scientist - NLP/Generative AI",
+   "company": "NovoTree Minds Consulting",
+   "url": "https://www.hirist.tech/j/data-scientist-nlp-generative-ai-mumbai-2-3-yrs-1676228.html"
+  },
+  {
+   "jobId": 1675746,
+   "applicationId": 77925702,
+   "title": "AI Engineer",
+   "company": "HiringBlaze",
+   "url": "https://www.hirist.tech/j/ai-engineer-agra-1-3-yrs-1675746.html"
+  },
+  {
+   "jobId": 1675747,
+   "applicationId": 77925716,
+   "title": "AI Engineer - Enterprise Conversational Platform",
+   "company": "HiringBlaze",
+   "url": "https://www.hirist.tech/j/ai-engineer-enterprise-conversational-platform-noida-0-2-yrs-1675747.html"
+  },
+  {
+   "jobId": 1674645,
+   "applicationId": 77925726,
+   "title": "Ekfrazo Technologies - Agentic AI Developer",
+   "company": "EKFRAZO TECHNOLOGIES PRIVATE LIMITED",
+   "url": "https://www.hirist.tech/j/ekfrazo-technologies-agentic-ai-developer-noida-1-3-yrs-1674645.html"
+  },
+  {
+   "jobId": 1673577,
+   "applicationId": 77925738,
+   "title": "Enphase Energy - AI/ML Engineer",
+   "company": "Enphase Energy",
+   "url": "https://www.hirist.tech/j/enphase-energy-ai-ml-engineer-bangalore-0-1-yrs-1673577.html"
+  },
+  {
+   "jobId": 1672680,
+   "applicationId": 77925777,
+   "title": "McLaren Strategic Solutions - AI/ML Engineer - GenAI",
+   "company": "MCLAREN STRATEGIC VENTURES INDIA PRIVATE LIMITED",
+   "url": "https://www.hirist.tech/j/mclaren-strategic-solutions-ai-ml-engineer-genai-bangalore-1-2-yrs-1672680.html"
+  },
+  {
+   "jobId": 1672379,
+   "applicationId": 77925795,
+   "title": "Junior AI Developer - Generative AI",
+   "company": "TresVista",
+   "url": "https://www.hirist.tech/j/junior-ai-developer-generative-ai-pune-1-3-yrs-1672379.html"
+  },
+  {
+   "jobId": 1671520,
+   "applicationId": 77925839,
+   "title": "AI/ML Engineer - NLP & Speech Recognition",
+   "company": "MCLAREN STRATEGIC VENTURES INDIA PRIVATE LIMITED",
+   "url": "https://www.hirist.tech/j/ai-ml-engineer-nlp-speech-recognition-bangalore-2-3-yrs-1671520.html"
+  },
+  {
+   "jobId": 1671567,
+   "applicationId": 77925855,
+   "title": "Software Development Engineer I - AI/ML",
+   "company": "Tech Grow Global",
+   "url": "https://www.hirist.tech/j/software-development-engineer-i-ai-ml-bangalore-1-3-yrs-1671567.html"
+  },
+  {
+   "jobId": 1669987,
+   "applicationId": 77925896,
+   "title": "Chat360 - Generative AI Engineer - Python/NLP",
+   "company": "Sumanel Technology Ventures",
+   "url": "https://www.hirist.tech/j/chat360-generative-ai-engineer-python-nlp-pune-0-1-yrs-1669987.html"
+  },
+  {
+   "jobId": 1669422,
+   "applicationId": 77925910,
+   "title": "SmartJoules  - Software Engineer - Python/Machine Learning",
+   "company": "Smart Joules",
+   "url": "https://www.hirist.tech/j/smartjoules-software-engineer-python-machine-learning-delhi-0-2-yrs-1669422.html"
+  },
+  {
+   "jobId": 1668720,
+   "applicationId": 77925924,
+   "title": "Medline Industries - Data Scientist - Artificial Intelligence/Machine Learning",
+   "company": "Medline Industries India Private Limited",
+   "url": "https://www.hirist.tech/j/medline-industries-data-scientist-artificial-intelligence-machine-learning-pune-1-3-yrs-1668720.html"
+  },
+  {
+   "jobId": 1676039,
+   "applicationId": null,
+   "title": "Robotics Applied AI Engineer - Python",
+   "company": "TELUS Digital",
+   "url": "https://www.hirist.tech/j/telus-digital-robotics-applied-ai-engineer-python-1676039",
+   "applied_at": "2026-10-08T14:10Z",
+   "mode": "1-click",
+   "resume": "ML_Vision"
+  },
+  {
+   "jobId": 1675617,
+   "applicationId": null,
+   "title": "Senior AI/ML Engineer LangChain LangGraph",
+   "company": "Unknown",
+   "url": "https://www.hirist.tech/j/senior-ai-ml-engineer-langchain-langgraph-1675617",
+   "applied_at": "2026-10-08T14:10Z",
+   "mode": "1-click",
+   "resume": "GenAI_DS"
+  },
+  {
+   "jobId": 1677325,
+   "applicationId": null,
+   "title": "AI Platform Engineer",
+   "company": "KreditBee",
+   "url": "https://www.hirist.tech/j/kreditbee-ai-platform-engineer-1677325",
+   "applied_at": "2026-10-08T14:10Z",
+   "mode": "1-click",
+   "resume": "GenAI_DS"
+  },
+  {
+   "jobId": 1676496,
+   "applicationId": null,
+   "title": "AI/ML Engineer",
+   "company": "OZI",
+   "url": "https://www.hirist.tech/j/ozi-ai-ml-engineer-1676496",
+   "applied_at": "2026-10-08T14:10Z",
+   "mode": "screening",
+   "resume": "GenAI_DS"
+  },
+  {
+   "jobId": 1670198,
+   "applicationId": null,
+   "title": "Senior AI/ML Engineer",
+   "company": "Freecharge",
+   "url": "https://www.hirist.tech/j/freecharge-payment-technologies-senior-ai-ml-engineer-1670198",
+   "applied_at": "2026-10-08T14:10Z",
+   "mode": "screening",
+   "resume": "GenAI_DS"
+  },
+  {
+   "jobId": 1670016,
+   "applicationId": null,
+   "title": "Senior AI Engineer LLM",
+   "company": "Brillio",
+   "url": "https://www.hirist.tech/j/brillio-technologies-senior-ai-engineer-llm-1670016",
+   "applied_at": "2026-10-08T14:10Z",
+   "mode": "1-click",
+   "resume": "GenAI_DS"
+  },
+  {
+   "jobId": 1674763,
+   "applicationId": null,
+   "title": "Applied Computer Vision Engineer",
+   "company": "Syook",
+   "url": "https://www.hirist.tech/j/syook-applied-computer-vision-engineer-1674763",
+   "applied_at": "2026-10-08T14:10Z",
+   "mode": "screening",
+   "resume": "ML_Vision"
+  },
+  {
+   "jobId": 1674280,
+   "applicationId": null,
+   "title": "Data Scientist II",
+   "company": "Setu",
+   "url": "https://www.hirist.tech/j/setu-data-scientist-ii-1674280",
+   "applied_at": "2026-10-08T14:10Z",
+   "mode": "1-click",
+   "resume": "GenAI_DS"
+  },
+  {
+   "jobId": 1672857,
+   "applicationId": null,
+   "title": "SDE II Voicebot",
+   "company": "Exotel",
+   "url": "https://www.hirist.tech/j/exotel-software-development-engineer-ii-voicebot-1672857",
+   "applied_at": "2026-10-08T14:10Z",
+   "mode": "1-click",
+   "resume": "GenAI_DS"
+  }
+ ],
+ "pending_assessment": [
+  {
+   "jobId": 1675992,
+   "title": "Forward Deployed Applied AI Engineer - Generative AI",
+   "company": "EzDataMunch",
+   "url": "https://www.hirist.tech/j/forward-deployed-applied-ai-engineer-generative-ai-bangalore-2-3-yrs-1675992.html",
+   "questions": [
+    "How much experience do you have in GenAI/LLM?",
+    "How much experience do you have in Python?",
+    "Experience in Building Rag Pipelines"
+   ]
+  },
+  {
+   "jobId": 1673772,
+   "title": "AI Adoption Specialist - Generative AI",
+   "company": "matriosh",
+   "url": "https://www.hirist.tech/j/ai-adoption-specialist-generative-ai-mumbai-1-3-yrs-1673772.html",
+   "questions": [
+    "How much experience do you have with CX, NetOps, Tech or Retail in years",
+    "how much experience do you have in AI/ML"
+   ]
+  },
+  {
+   "jobId": 1673189,
+   "title": "FastCollab - AI Engineer - IIT",
+   "company": "Fastcollab",
+   "url": "https://www.hirist.tech/j/fastcollab-ai-engineer-iit-hyderabad-1-2-yrs-1673189.html",
+   "questions": [
+    "Are you from an IIT background? (Yes/No)",
+    "What is your current CTC?",
+    "What is your expected CTC?"
+   ]
+  },
+  {
+   "jobId": 1670614,
+   "title": "Binocs - Forward Deployed Engineer - AI/LLM Powered Solutions",
+   "company": "Bluecrux",
+   "url": "https://www.hirist.tech/j/binocs-forward-deployed-engineer-ai-llm-powered-solutions-bangalore-0-1-yrs-1670614.html",
+   "questions": [
+    "What is your current annual salary? (in LPA, e.g., 45)",
+    "How much annual salary are you expecting? (in LPA, e.g., 45)",
+    "Are you currently living in bangalore?",
+    "What is your current notice period?"
+   ]
+  }
+ ]
+}

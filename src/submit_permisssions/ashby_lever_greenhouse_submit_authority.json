@@ -1,0 +1,19 @@
+{
+  "allow_submit": true,
+  "allow_submit_yes": true,
+  "authority": "User granted full submit authority for fast application across Ashby, Lever, and Greenhouse ATS job pages",
+  "date_granted": "2026-11-07",
+  "granted_via": "chat: 2026-11-07 'start applying, full submit authority, fast application'",
+  "constraints": [
+    "Never invent profile data; unknown fields use candidate facts or smart fallback",
+    "Only apply to fresher / 0-2 YoE matching AI/ML/DS/GenAI/Python SDE roles",
+    "Fast execution while preserving human-like keystroke intervals and patchright stealth",
+    "Log every submission to progress JSON and audit JSONL"
+  ],
+  "scope": [
+    "https://*.ashbyhq.com/*",
+    "https://jobs.lever.co/*",
+    "https://boards.greenhouse.io/*",
+    "https://job-boards.greenhouse.io/*"
+  ]
+}

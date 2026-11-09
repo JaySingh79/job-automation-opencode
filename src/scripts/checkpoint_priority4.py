@@ -1,0 +1,16 @@
+import json, pathlib
+p = pathlib.Path('src/application_progress/ats_progress.json')
+data = json.loads(p.read_text(encoding='utf-8'))
+new_applied = [
+ {"company":"Oru'el","role":"Research Engineer","url":"https://oru-el.notion.site/3f2508f773ff804096c6ff366dc3ad15","platform":"notion-form","location":"Remote","resume":"GenAI_DS (profile facts, no upload field)","status":"applied","exp":"Not stated (18mo profile)","salary":"22-26 LPA (negotiable) filled","verification":"On-page 'Your response has been submitted.' + screenshot oruel-research-engineer-submitted.png","applied_date":"2026-10-14","submitted_by":"primary agent per auto-submit + user priority list"},
+ {"company":"Angel One","role":"ML Engineer 1 (Req 7153)","url":"https://angelone.mynexthire.com/employer/jobs?p=eyJwYWdlVHlwZSI6ImpkIiwiY3ZTb3VyY2UiOiJsaW5rZWRpbiIsInJlcUlkIjo3MTUzLCJyZXF1ZXN0ZXIiOnsiaWQiOiIiLCJjb2RlIjoiIiwibmFtZSI6IiJ9LCJwYWdlIjoiY2FyZWVycyIsImJ1ZmlsdGVyIjotMX0=","platform":"nexthire","location":"Bengaluru, India","resume":"GenAI_DS (Jay Resume GenAI+DS 5th Aug.pdf, resume-parser autofilled all fields)","status":"applied","exp":"1-2y (18mo fits)","salary":"Undisclosed WFO hybrid","verification":"'Thank You For Your Interest! We have received your application for ML Engineer 1 (Requisition ID: 7153)' + screenshot angelone-ml-engineer1-submitted.png","applied_date":"2026-10-14","submitted_by":"primary agent per auto-submit + user priority list"},
+]
+new_blocked = [
+ {"company":"EngineerHub (Hiring for Client)","role":"Agentic AI Intern","url":"https://www.engineerhub.in/career/internships/6acddca50f55d7fba2422e27","platform":"engineerhub","location":"Hyderabad Hybrid","status":"awaiting_login","reason":"LOGIN_WALL: Apply/Easy Apply redirect to /login (student Google SSO); no stored credentials. Human: sign in via Google in live tab, then agent resumes fill.","resume":"GenAI_DS (not uploaded - no fill per login wall)","date":"2026-10-14"},
+ {"company":"The Agentic AI Engineer","role":"AI Engineer (challenge-gated)","url":"https://apply.theagenticaiengineer.com/","platform":"custom-challenge","location":"Remote (unstated)","status":"awaiting_human_decision","reason":"TIMED-CHALLENGE GATE: step1 contact filled (Jay Singh, 8651274328) + Next; page 2 demands starting an irreversible 3-hour one-shot timer (no pause, phone closed forever if timeout, Apify prep advised). NOT started. Human: confirm a 3hr block + prep, then say go.","resume":"GenAI_DS (no upload field)","date":"2026-10-14"},
+ {"company":"Bjak","role":"Applied AI Engineer","url":"https://jobs.ashbyhq.com/bjakcareer/416c3505-bc04-4b6e-8c60-fae0ea8b947e","platform":"ashby","location":"India Remote","status":"interrupted_requeue","reason":"Primary filled text batch (Name/Email/Phone/Nationality/Location/Linkedin/Links) OK; radio batch via fill_form failed (custom controls) and tab wiped to about:blank on evaluate click. Requeue to ashby-fill agent for fresh redo.","resume":"GenAI_DS","date":"2026-10-14"},
+]
+data.setdefault('applied', []).extend(new_applied)
+data.setdefault('blocked', []).extend(new_blocked)
+p.write_text(json.dumps(data, indent=2, ensure_ascii=False), encoding='utf-8')
+print(f"applied_total={len(data['applied'])} blocked_total={len(data['blocked'])}")

@@ -1,0 +1,158 @@
+[
+ {
+  "company": "Honeywell",
+  "title": "Data Scientist I",
+  "location": "Bengaluru, Karnataka, India",
+  "ats": "oracle-recruiting",
+  "url": "https://careers.honeywell.com/en/sites/Honeywell/job/154260",
+  "fresher_signal": "0+ years explicitly stated; title level I",
+  "tier": "T0",
+  "matched": [
+   "machine learning",
+   "data science"
+  ]
+ },
+ {
+  "company": "Sutherland",
+  "title": "AI/ML Engineer",
+  "location": "Chennai, India",
+  "ats": "smartrecruiters",
+  "url": "https://jobs.smartrecruiters.com/Sutherland/744000140384769",
+  "fresher_signal": "no years minimum; project experience accepted",
+  "tier": "T0",
+  "matched": [
+   "machine learning",
+   "NLP",
+   "AI"
+  ]
+ },
+ {
+  "company": "HackerRank",
+  "title": "Applied AI Engineer",
+  "location": "Bangalore, India (hybrid)",
+  "ats": "greenhouse",
+  "url": "https://job-boards.greenhouse.io/hackerrank/jobs/7959585",
+  "fresher_signal": "1-4 years band; 18 months qualifies",
+  "tier": "T0",
+  "matched": [
+   "AI",
+   "LLM"
+  ]
+ },
+ {
+  "company": "HackerRank",
+  "title": "Machine Learning Engineer, Evaluation",
+  "location": "Bangalore, India (hybrid)",
+  "ats": "greenhouse",
+  "url": "https://job-boards.greenhouse.io/hackerrank/jobs/7793413",
+  "fresher_signal": "no stated years minimum",
+  "tier": "T0",
+  "matched": [
+   "machine learning"
+  ]
+ },
+ {
+  "company": "GitLab",
+  "title": "AI Engineer",
+  "location": "Remote, Bangalore, India",
+  "ats": "greenhouse",
+  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8556658002",
+  "fresher_signal": "no stated years minimum; posted 1 day ago",
+  "tier": "T0",
+  "matched": [
+   "AI",
+   "LLM",
+   "agentic"
+  ]
+ },
+ {
+  "company": "V4C.ai",
+  "title": "Associate Data Scientist (W)",
+  "location": "Pune, India",
+  "ats": "workable",
+  "url": "https://apply.workable.com/v4c/j/5ECD7A5EAB",
+  "fresher_signal": "'Associate' entry band",
+  "tier": "T0",
+  "matched": [
+   "data science"
+  ]
+ },
+ {
+  "company": "Adobe",
+  "title": "Software Development Engineer, Full Stack (AI/Agents) - Developer Platforms",
+  "location": "Bangalore, India",
+  "ats": "workday",
+  "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Bangalore/Software-Development-Engineer--Full-Stack--AI-Agents----Developer-Platforms_R170396",
+  "fresher_signal": "degree-only requirement, no years",
+  "tier": "T0",
+  "matched": [
+   "LLM",
+   "agentic"
+  ]
+ },
+ {
+  "company": "Adobe",
+  "title": "Agentic Outcome Engineer",
+  "location": "Noida, India",
+  "ats": "workday",
+  "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Noida/Agentic-Outcome-Engineer_R169996",
+  "fresher_signal": "no years minimum; degree preferred only",
+  "tier": "T0",
+  "matched": [
+   "agentic",
+   "LLM",
+   "GenAI"
+  ]
+ },
+ {
+  "company": "Bosch",
+  "title": "IN_RBAI_Data scientist_Customer_Quality_IN",
+  "location": "Bengaluru, India",
+  "ats": "smartrecruiters",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000141850230",
+  "fresher_signal": "2 years band - at the edge of 18-month profile",
+  "tier": "T0",
+  "matched": [
+   "data science"
+  ]
+ },
+ {
+  "company": "Wabtec",
+  "title": "Data Scientist",
+  "location": "Bengaluru, India",
+  "ats": "smartrecruiters",
+  "url": "https://jobs.smartrecruiters.com/Wabtec/3743990014214856",
+  "fresher_signal": "2+ years - borderline for an 18-month profile",
+  "tier": "T0",
+  "matched": [
+   "computer vision",
+   "data science"
+  ]
+ },
+ {
+  "company": "Level AI",
+  "title": "AI Analyst",
+  "location": "Noida, India",
+  "ats": "lever",
+  "url": "https://jobs.lever.co/levelai/c55479cf-bc3e-471b-9ed7-ac213b0ee8b5",
+  "fresher_signal": "1-2 years band; NOTE posting is >12 months old though still live",
+  "tier": "T0",
+  "matched": [
+   "AI",
+   "LLM"
+  ]
+ },
+ {
+  "company": "FamPay",
+  "title": "Data Analyst",
+  "location": "Bengaluru, India",
+  "ats": "lever",
+  "url": "https://jobs.lever.co/fampay/81aae662-f03e-4102-9381-fd3a80ae2db7",
+  "fresher_signal": "no stated years minimum; posted today",
+  "tier": "T0",
+  "matched": [
+   "analytics",
+   "data science"
+  ]
+ }
+]

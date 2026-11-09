@@ -1,0 +1,445 @@
+{
+  "worker": 1,
+  "batch": 1,
+  "sweep": "additional_200",
+  "target_applied": 40,
+  "applied_count": 34,
+  "parked_count": 28,
+  "already_applied_count": 0,
+  "all_results": [
+    {
+      "id": 1668696,
+      "title": "AI Vibe Coding Engineer - Prototyping",
+      "company": "K-Logix Partnering Solutions",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "id": 1657066,
+      "title": "ML/AI Engineer - Foundation Model Engineering",
+      "company": "Scaling Theory Technologies",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "id": 1653242,
+      "title": "Senior AI/ML Researcher",
+      "company": "IAI Solution",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "id": 1668404,
+      "title": "Software Development Engineer I - Backend Technologies",
+      "company": "Incanus Technologies",
+      "status": "applied",
+      "applicationId": 79305042
+    },
+    {
+      "id": 1674507,
+      "title": "Binocs - Software Development Engineer I - Backend Architecture",
+      "company": "Bluecrux",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "id": 1671890,
+      "title": "HFT Developer - C++ - IIT",
+      "company": "Callisto Talent Solutions",
+      "status": "applied",
+      "applicationId": 79305043
+    },
+    {
+      "id": 1670052,
+      "title": "PACE - Backend Developer - Python",
+      "company": "Pace Stock Broking Services",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "id": 1666381,
+      "title": "Junior Backend Developer - Python/Django",
+      "company": "Talent Quest Technologies",
+      "status": "applied",
+      "applicationId": 79305048
+    },
+    {
+      "id": 1658227,
+      "title": "Backend Developer - Server Side Programming",
+      "company": "HireSource.ai",
+      "status": "applied",
+      "applicationId": 79305056
+    },
+    {
+      "id": 1653491,
+      "title": "PHP Developer",
+      "company": "Peoplite",
+      "status": "applied",
+      "applicationId": 79305059
+    },
+    {
+      "id": 1647815,
+      "title": "Software Engineer I - Artificial Intelligence",
+      "company": "Getaight.ai",
+      "status": "applied",
+      "applicationId": 79305061
+    },
+    {
+      "id": 1680685,
+      "title": "Policybazaar - Machine Learning Engineer - Generative AI",
+      "company": "Policybazaar",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "id": 1681085,
+      "title": "PurpleTalk - Principal AI Scientist",
+      "company": "PurpleTalk",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "id": 1677833,
+      "title": "Principal Machine Learning Engineer - Rust & AI Infrastructure",
+      "company": "SHAIL.AI",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "id": 1681878,
+      "title": "AI Engineer - LLM Agents & Workflow Automation",
+      "company": "HiringBlaze",
+      "status": "applied",
+      "applicationId": 79305065
+    },
+    {
+      "id": 1681679,
+      "title": "AI Engineer - LLM/RAG - Supply Chain Intelligence Domain",
+      "company": "HiringBlaze",
+      "status": "applied",
+      "applicationId": 79305067
+    },
+    {
+      "id": 1680581,
+      "title": "AI Engineer - Python/Machine Learning",
+      "company": "Bulwark Software Research",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "id": 1677546,
+      "title": "LLM Trainer - Code Security",
+      "company": "The Reliable Jobs",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "id": 1667632,
+      "title": "AI/ML Engineer",
+      "company": "Unico Talent",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "id": 1667144,
+      "title": "AI/ML Engineer - GEO",
+      "company": "Rivet HR",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "id": 1666256,
+      "title": "AI/ML Engineer - Generative AI",
+      "company": "Hire Global",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "id": 1663813,
+      "title": "TechRAQ - AI/ML Engineer",
+      "company": "TechRAQ Info Solutions",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "id": 1659332,
+      "title": "Data & AI Engineer",
+      "company": "Neovara",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "id": 1658924,
+      "title": "Valiance Solutions - Computer Vision Engineer",
+      "company": "Valiance Analytics",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "id": 1654256,
+      "title": "Navtech - AI/ML Engineer",
+      "company": "Navaratan Technologies",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "id": 1653612,
+      "title": "LLM Trainer",
+      "company": "The Reliable Jobs",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "id": 1651397,
+      "title": "TymeX - Scorecard Developer - Machine Learning",
+      "company": "Tyme",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "id": 1648674,
+      "title": "i2V Systems - Computer Vision Engineer",
+      "company": "i2V Systems",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "id": 1647334,
+      "title": "AI Solutions Engineer",
+      "company": "Talent Pro",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "id": 1682085,
+      "title": "Software Engineer - Node.js Platform",
+      "company": "Seventh Contact Hiring Solutions",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "id": 1678002,
+      "title": "Sciative Solutions - Software Developer - Python/Django/Flask",
+      "company": "Sciative - We Price Right",
+      "status": "applied",
+      "applicationId": 79305109
+    },
+    {
+      "id": 1669122,
+      "title": "StashFin - Software Engineer - Backend Architecture",
+      "company": "Stashfin",
+      "status": "applied",
+      "applicationId": 79305111
+    },
+    {
+      "id": 1663034,
+      "title": "Zaggle - Senior Software Engineer - Java Technologies",
+      "company": "Zaggle Prepaid Ocean Services",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "id": 1673138,
+      "title": "Java Backend Developer - Spring Boot/Microservices Architecture",
+      "company": "Techno Comp",
+      "status": "applied",
+      "applicationId": 79305144
+    },
+    {
+      "id": 1672848,
+      "title": "Technical/Application Support Engineer - Java",
+      "company": "Neemtree",
+      "status": "applied",
+      "applicationId": 79305145
+    },
+    {
+      "id": 1672549,
+      "title": "SplashLearn - Backend Developer - Java/Ruby on Rails",
+      "company": "SplashLearn",
+      "status": "applied",
+      "applicationId": 79305148
+    },
+    {
+      "id": 1671983,
+      "title": "PHP Developer - CodeIgniter Framework",
+      "company": "Mesitus",
+      "status": "applied",
+      "applicationId": 79305149
+    },
+    {
+      "id": 1670868,
+      "title": "C Developer -",
+      "company": "Aanet Talent Global Solutions",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "id": 1670707,
+      "title": "Quant Developer - Rust/C++",
+      "company": "White Squire Technologies",
+      "status": "applied",
+      "applicationId": 79305150
+    },
+    {
+      "id": 1665240,
+      "title": "Java Backend Engineer - Golang/Microservices Architecture",
+      "company": "heyaura",
+      "status": "applied",
+      "applicationId": 79305151
+    },
+    {
+      "id": 1665284,
+      "title": "heyaura - Backend Engineer - Voice AI Platform",
+      "company": "heyaura",
+      "status": "applied",
+      "applicationId": 79305163
+    },
+    {
+      "id": 1662224,
+      "title": "Aristocrat - Game Mathematician",
+      "company": "Aristocrat",
+      "status": "applied",
+      "applicationId": 79305167
+    },
+    {
+      "id": 1656305,
+      "title": "Software Development Engineer I - Java/Python",
+      "company": "HackCulture",
+      "status": "applied",
+      "applicationId": 79305169
+    },
+    {
+      "id": 1653763,
+      "title": "WheelsEye - Software Backend Engineer",
+      "company": "Wheelseye Technology",
+      "status": "applied",
+      "applicationId": 79305172
+    },
+    {
+      "id": 1651419,
+      "title": "Game Developer - Java/LibGDX",
+      "company": "YO IT CONSULTING",
+      "status": "applied",
+      "applicationId": 79305175
+    },
+    {
+      "id": 1651423,
+      "title": "Software Engineer - Backend Development",
+      "company": "YO IT CONSULTING",
+      "status": "applied",
+      "applicationId": 79305178
+    },
+    {
+      "id": 1651413,
+      "title": "Junior Python Game Developer - Panda3D",
+      "company": "YO IT CONSULTING",
+      "status": "applied",
+      "applicationId": 79305180
+    },
+    {
+      "id": 1651445,
+      "title": "Python Developer",
+      "company": "YO IT CONSULTING",
+      "status": "applied",
+      "applicationId": 79305182
+    },
+    {
+      "id": 1651382,
+      "title": "Game Developer - Graphics Programming",
+      "company": "YO IT CONSULTING",
+      "status": "applied",
+      "applicationId": 79305211
+    },
+    {
+      "id": 1650702,
+      "title": "Miko.ai - Junior Java Developer - Spring Boot",
+      "company": "RN Chidakashi Technologies",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "id": 1649515,
+      "title": "Trendlyne - Backend Engineer - Python",
+      "company": "Giskard Datatech",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "id": 1659558,
+      "title": "Software Development Engineer - Java/Python",
+      "company": "HackCulture",
+      "status": "applied",
+      "applicationId": 79305218
+    },
+    {
+      "id": 1658376,
+      "title": "Forward Deployed Engineer - Python",
+      "company": "Scaling Theory Technologies",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "id": 1658105,
+      "title": "NCR Voyix - Software Engineer II - Golang",
+      "company": "Terafina",
+      "status": "applied",
+      "applicationId": 79305223
+    },
+    {
+      "id": 1657117,
+      "title": "QClairvoyance Quantum Labs - Python Backend Developer - Flask/FastAPI",
+      "company": "QClairvoyance Quantum Labs",
+      "status": "applied",
+      "applicationId": 79305226
+    },
+    {
+      "id": 1653515,
+      "title": "Java Developer - Spring/Hibernate",
+      "company": "Jobato HR Consultancy",
+      "status": "applied",
+      "applicationId": 79305229
+    },
+    {
+      "id": 1651537,
+      "title": "Java Technical Lead - Spring Boot/Multithreading",
+      "company": "AJM Talentrix",
+      "status": "applied",
+      "applicationId": 79305236
+    },
+    {
+      "id": 1651492,
+      "title": "Junior Python Game Developer - Panda3D",
+      "company": "Yo Hr Consultancy",
+      "status": "applied",
+      "applicationId": 79305239
+    },
+    {
+      "id": 1651496,
+      "title": "Game Developer - Java/LibGDX",
+      "company": "Yo Hr Consultancy",
+      "status": "applied",
+      "applicationId": 79305241
+    },
+    {
+      "id": 1651497,
+      "title": "Python Game Developer - Panda3D",
+      "company": "Yo Hr Consultancy",
+      "status": "applied",
+      "applicationId": 79305243
+    },
+    {
+      "id": 1650243,
+      "title": "Software Development Engineer I - Server Side Component",
+      "company": "NPrep",
+      "status": "applied",
+      "applicationId": 79305245
+    },
+    {
+      "id": 1649612,
+      "title": "EY - Application Backend Engineer - Java/Python",
+      "company": "Ernsy",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job"
+    }
+  ]
+}

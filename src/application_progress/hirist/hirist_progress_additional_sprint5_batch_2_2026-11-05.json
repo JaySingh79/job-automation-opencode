@@ -1,0 +1,148 @@
+{
+  "worker": 2,
+  "batch": 2,
+  "sprint": 5,
+  "sweep": "additional_200",
+  "target_applied": 12,
+  "applied_count": 9,
+  "parked_count": 8,
+  "already_applied_count": 0,
+  "all_results": [
+    {
+      "jobId": 1652792,
+      "title": "Carnera Technologies - AI/ML Engineer",
+      "company": "Carnera Technologies",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job",
+      "timestamp": "2026-11-05T18:40:55.624Z"
+    },
+    {
+      "jobId": 1652644,
+      "title": "AI Product Manager",
+      "company": "Hashone Careers",
+      "status": "applied",
+      "applicationId": 79305310,
+      "timestamp": "2026-11-05T18:40:58.275Z"
+    },
+    {
+      "jobId": 1652418,
+      "title": "Senior AI/ML Developer",
+      "company": "Jubilant HR Consultants",
+      "status": "applied",
+      "applicationId": 79305312,
+      "timestamp": "2026-11-05T18:41:00.386Z"
+    },
+    {
+      "jobId": 1652295,
+      "title": "Python Engineer - Agentic AI",
+      "company": "MLOPS SOLUTIONS PVT LTD",
+      "status": "applied",
+      "applicationId": 79305313,
+      "timestamp": "2026-11-05T18:41:02.686Z"
+    },
+    {
+      "jobId": 1652119,
+      "title": "Predikly Technologies - Generative AI Developer",
+      "company": "Predikly Technologies",
+      "status": "applied",
+      "applicationId": 79305314,
+      "timestamp": "2026-11-05T18:41:05.057Z"
+    },
+    {
+      "jobId": 1651902,
+      "title": "Trianz - Agentic AI Engineer",
+      "company": "Trianz",
+      "status": "applied",
+      "applicationId": 79305316,
+      "timestamp": "2026-11-05T18:41:07.635Z"
+    },
+    {
+      "jobId": 1652153,
+      "title": "LLM/Generative AI Engineer",
+      "company": "Softomatic Technology Services",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job",
+      "timestamp": "2026-11-05T18:41:10.022Z"
+    },
+    {
+      "jobId": 1652115,
+      "title": "Predikly Technologies - Data Scientist - Time Series Forecasting",
+      "company": "Predikly Technologies",
+      "status": "applied",
+      "applicationId": 79305317,
+      "timestamp": "2026-11-05T18:41:12.339Z"
+    },
+    {
+      "jobId": 1651230,
+      "title": "Amgen - Data Scientist - Patient Finding",
+      "company": "Amgen",
+      "status": "applied",
+      "applicationId": 79305318,
+      "timestamp": "2026-11-05T18:41:14.598Z"
+    },
+    {
+      "jobId": 1651308,
+      "title": "Python Engineer - Agentic AI",
+      "company": "MLOPS SOLUTIONS PVT LTD",
+      "status": "applied",
+      "applicationId": 79305323,
+      "timestamp": "2026-11-05T18:41:17.193Z"
+    },
+    {
+      "jobId": 1650995,
+      "title": "Founding AI Engineer",
+      "company": "Orangemint Technologies",
+      "status": "applied",
+      "applicationId": 79305325,
+      "timestamp": "2026-11-05T18:41:19.385Z"
+    },
+    {
+      "jobId": 1650634,
+      "title": "AI Engineer",
+      "company": "Bulwark Software Research",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job",
+      "timestamp": "2026-11-05T18:41:21.551Z"
+    },
+    {
+      "jobId": 1650386,
+      "title": "AI Engineer - LLM Models",
+      "company": "Bulwark Software Research",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job",
+      "timestamp": "2026-11-05T18:41:23.848Z"
+    },
+    {
+      "jobId": 1650337,
+      "title": "Prowess Publishing - Data Scientist - Predictive Analytics",
+      "company": "Prowess Publishing & Software Solutions",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job",
+      "timestamp": "2026-11-05T18:41:26.351Z"
+    },
+    {
+      "jobId": 1650170,
+      "title": "Quantiphi - Machine Learning Engineer - Artificial Intelligence",
+      "company": "Quantiphi Analytics Solutions Private Limited",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job",
+      "timestamp": "2026-11-05T18:41:29.083Z"
+    },
+    {
+      "jobId": 1649523,
+      "title": "AI/Applied ML Engineer",
+      "company": "Risk Resources",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job",
+      "timestamp": "2026-11-05T18:41:31.527Z"
+    },
+    {
+      "jobId": 1649293,
+      "title": "Netcore Cloud - Artificial Intelligence Engineer - Machine Learning",
+      "company": "NETCORE CLOUD PRIVATE LIMITED",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job",
+      "timestamp": "2026-11-05T18:41:34.144Z"
+    }
+  ]
+}

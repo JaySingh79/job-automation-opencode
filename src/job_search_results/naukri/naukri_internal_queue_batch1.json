@@ -1,0 +1,201 @@
+{
+  "batch_id": 1,
+  "subagent": "naukri-fill-1",
+  "total_jobs": 10,
+  "jobs": [
+    {
+      "job_id": "151026016759",
+      "title": "Specialist Programmer (Trainee)",
+      "company": "Infosys",
+      "experience": "0-2 Yrs",
+      "salary": "11-21 Lacs PA",
+      "location": "Hybrid - Hyderabad, Bengaluru, Delhi / NCR",
+      "tags": [
+        "Fullstack Development",
+        "Java",
+        "generative ai",
+        "SCALA",
+        "Big Data",
+        "Aiml",
+        "React.js",
+        "Machine Learning"
+      ],
+      "posted_date": "6 days ago",
+      "url": "https://www.naukri.com/job-listings-specialist-programmer-trainee-infosys-hyderabad-bengaluru-delhi-ncr-0-to-2-years-151026016759"
+    },
+    {
+      "job_id": "261026005898",
+      "title": "Software Engineer",
+      "company": "Qualcomm",
+      "experience": "0-1 Yrs",
+      "salary": "17-32 Lacs PA",
+      "location": "Bengaluru",
+      "tags": [
+        "C++",
+        "Software engineering",
+        "Python",
+        "Software"
+      ],
+      "posted_date": "1 day ago",
+      "url": "https://www.naukri.com/job-listings-software-engineer-qualcomm-bengaluru-0-to-1-years-261026005898"
+    },
+    {
+      "job_id": "231026930132",
+      "title": "Engineer",
+      "company": "Qualcomm",
+      "experience": "0-5 Yrs",
+      "salary": "Filtered >= 15 LPA",
+      "location": "Bengaluru",
+      "tags": [
+        "Review",
+        "Peer Reviews",
+        "Tools",
+        "Program",
+        "Features",
+        "Data",
+        "Gitlab CI",
+        "Perforce"
+      ],
+      "posted_date": "3 days ago",
+      "url": "https://www.naukri.com/job-listings-engineer-qualcomm-india-pvt-ltd-bengaluru-0-to-5-years-231026930132"
+    },
+    {
+      "job_id": "271026021740",
+      "title": "Data Science Engineer(Jr)",
+      "company": "Nexacore",
+      "experience": "0-2 Yrs",
+      "salary": "9-15 Lacs PA",
+      "location": "Hybrid - Noida(Noida Extension), Hyderabad, Bengaluru",
+      "tags": [
+        "Data Science",
+        "Processing",
+        "Artificial Intelligence",
+        "Languages",
+        "Intelligence",
+        "Data",
+        "Python",
+        "Science"
+      ],
+      "posted_date": "Few hours ago",
+      "url": "https://www.naukri.com/job-listings-data-science-engineer-jr-nexacore-noida-hyderabad-bengaluru-0-to-2-years-271026021740"
+    },
+    {
+      "job_id": "131026036420",
+      "title": "AI/ML Engineer with Knowledge of Front End",
+      "company": "Visioapps Technology",
+      "experience": "0-4 Yrs",
+      "salary": "Filtered >= 15 LPA",
+      "location": "Gurugram",
+      "tags": [
+        "Machine Learning",
+        "Javascript",
+        "Cordova",
+        "ML",
+        "Machine",
+        "End",
+        "Artificial Intelligence",
+        "Front end"
+      ],
+      "posted_date": "2 weeks ago",
+      "url": "https://www.naukri.com/job-listings-ai-ml-engineer-with-knowledge-of-front-end-visioapps-technology-gurugram-0-to-4-years-131026036420"
+    },
+    {
+      "job_id": "071026020153",
+      "title": "Data Scientist",
+      "company": "Info Edge",
+      "experience": "0-3 Yrs",
+      "salary": "Filtered >= 15 LPA",
+      "location": "Noida",
+      "tags": [
+        "Python",
+        "Decision Tree",
+        "Logistic Regression",
+        "Lstm",
+        "Machine Learning",
+        "Deep Learning",
+        "Random Forest",
+        "Rnn"
+      ],
+      "posted_date": "2 weeks ago",
+      "url": "https://www.naukri.com/job-listings-data-scientist-info-edge-noida-0-to-3-years-071026020153"
+    },
+    {
+      "job_id": "290926016989",
+      "title": "Data Scientist",
+      "company": "Info Edge",
+      "experience": "0-1 Yrs",
+      "salary": "Filtered >= 15 LPA",
+      "location": "Noida",
+      "tags": [
+        "Python",
+        "Decision Tree",
+        "Logistic Regression",
+        "Lstm",
+        "Langchain",
+        "K-Means",
+        "Chatbot",
+        "Boosting"
+      ],
+      "posted_date": "3+ weeks ago",
+      "url": "https://www.naukri.com/job-listings-data-scientist-info-edge-noida-0-to-1-years-290926016989"
+    },
+    {
+      "job_id": "061026002836",
+      "title": "Software Engineer",
+      "company": "Qualcomm",
+      "experience": "0-1 Yrs",
+      "salary": "15-25 Lacs PA",
+      "location": "Hyderabad",
+      "tags": [
+        "Signal Processing",
+        "Processing",
+        "Signalling",
+        "Software engineering",
+        "Process",
+        "Software"
+      ],
+      "posted_date": "3 weeks ago",
+      "url": "https://www.naukri.com/job-listings-software-engineer-qualcomm-hyderabad-0-to-1-years-061026002836"
+    },
+    {
+      "job_id": "300926018042",
+      "title": "Fullstack Developer (Agentic/ Gen AI)",
+      "company": "Tech Mahindra",
+      "experience": "0-5 Yrs",
+      "salary": "5-15 Lacs PA",
+      "location": "Noida, Pune, Bengaluru",
+      "tags": [
+        "generative ai",
+        "Fast API",
+        "React.js",
+        "Python",
+        "SQL",
+        "Agentic Ai",
+        "Fullstack Development",
+        "Javascript"
+      ],
+      "posted_date": "3 weeks ago",
+      "url": "https://www.naukri.com/job-listings-fullstack-developer-agentic-gen-ai-tech-mahindra-noida-pune-bengaluru-0-to-5-years-300926018042"
+    },
+    {
+      "job_id": "250926005072",
+      "title": "Artificial Intelligence- Engineer",
+      "company": "Stage Technologies",
+      "experience": "0-3 Yrs",
+      "salary": "Filtered >= 15 LPA",
+      "location": "Noida",
+      "tags": [
+        "Agentic Ai",
+        "Gstack",
+        "Large Language Model",
+        "TDD",
+        "Retrieval Augmented Generation",
+        "Languages",
+        "Large",
+        "Engineering"
+      ],
+      "posted_date": "3+ weeks ago",
+      "url": "https://www.naukri.com/job-listings-artificial-intelligence-engineer-stage-technologies-noida-0-to-3-years-250926005072"
+    }
+  ]
+}

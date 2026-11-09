@@ -31,6 +31,7 @@ Driver: **local Playwright MCP** (`initiate_fill.md`).
 - `ashby-fill` — `jobs.ashby.com/<org>/<slug>` (single long page).
 - `wellfound-fill` — `wellfound.com/jobs/*` (virtualized feed; prefer direct `wellfound.com/jobs/<id>-<slug>` URLs).
 - `indeed-fill` — `in.indeed.com` search + `Apply with Indeed` / `Easily apply` flows.
+- `naukri-fill` — `naukri.com/job-listings-*` native internal apply (instant 1-click apply or questionnaire drawer).
 - `form-fill` — single-page form builders `docs.google.com/forms` / `forms.cloud.microsoft` (Page 1 of 1, heading `N. <label> Required`).
 - `profile-fill` — any profile/account page seeking user info (`my.greenhouse.io/profile`, `workatastartup.com/application/*`, Weekday, Hirist, or similar). Completes or stages it; never a job-application submitter.
 - `cover_letter_agent` — fast customized cover letter PDF generator from `Resumes/cover_letter.md` using `src/scripts/generate_cover_letter.py` saving to `Resumes/cover_letter/cover_letter_<company>.pdf`.
@@ -48,6 +49,11 @@ Do not do everything in the primary agent. Delegate by task type; these rules ar
 - in case of *multi_job_agent workflow*, the agent / sub-agent should `not` handle all the applications/tabs at once, *one at a time*.
 - *multi_sub_agent workflow* When multiple sub-agents are working, ask the user for *pressing submit button* of all the previously filled application, only then move ahead.
 - *multi_sub_agent workflow* or *multi_job_agent workflow* when previous jobs have been submitted, simply close the tabs, to save from uncessary confusions.
+- *Anti-Bot Detection & Human Emulation Rules (Mandatory)*:
+  1. **Random Delays**: Insert randomized human delays (800ms - 2200ms) between filling consecutive fields and 60ms - 180ms delay between keystrokes (`slowly: true`). Never perform instantaneous robotic DOM assignments.
+  2. **Sequential Order**: Always fill form values strictly from top to bottom in natural visual/page order (Personal info -> Resume upload -> Custom questions -> Consent checkboxes -> Demographics).
+  3. **Scroll 4 Times**: Definitely execute at least 4 smooth scrolls down the page on every single application page (e.g. 25%, 50%, 75%, 100%) to trigger viewport observers, lazy components, and human behavior telemetry.
+  4. **5 Agents Max**: Run at most 5 agents / applications at a time to prevent IP burst rate-limiting, Cloudflare / reCAPTCHA Enterprise automated blocking, and browser contention.
 - Simply ignore any role with out of India location, unless *remote* available. Neither store, nor open such job links.
 - Simply ignore any role with major tech stack requirement being `Java` or `C++` or any other language other than `python`. If the jobs have `python` and other languages, then fill it, dont skip.
 Primary agent orchestrates and verifies; subagents research/explore and return distilled findings (payloaddistillation: insight + `file:line` anchors, no raw dumps).
@@ -58,15 +64,18 @@ Primary agent orchestrates and verifies; subagents research/explore and return d
 - Use `google_search` tool as `first preference` while searching using these keywords. The reponse may be slow but results are highly relevant.
 - Store the accessability snapshots of any job application under the name of the company it belogs at path : "src\accessability_snapshot".
 - store the applied jobs (submitted ones) in json by the name of the job platform on which it has been applied ex. Naukri, Indeed, Wellfound, etc, with exact `date-time`. And keep appending to the same json for a particular platform(for every new instance of application on platform x, you need not create a new json file): "src\applied".
-- Store all the newly found jobs in "src\job_search_results".
+- Store all the newly found jobs strictly inside their corresponding board subfolders under "src\job_search_results" (e.g. `ashby_lever_greenhouse/`, `wellfound/`, `hirist/`, `google_dork_sweeps/`, `leads_and_startups/`, `internships/`, `workday/`, etc.). Strictly never store or edit loose search files in the root of `src\job_search_results`.
 - If you discoverd a new observation for a job platform or regarding a particular company then store than knowledge in "src\knowledge_source" under the "company/platform" name.
 - Store the user given submit permissions inside "src\submit_permisssions" by the name of job_platform (ex. ashby, greenhouse, etc).
-- under "src\application_progress" only save final results of the session after jobs that have been applied, skipped, other detailed information.
-- Always skip job postings that demand 2+ yrs of experience, or the job role has 'senior' mentioned. We are only targetting *fresher* *SDE/AI/ML roles*.
+- Under "src\application_progress" only save and edit progress/checkpoints inside tight job-board subfolders (e.g. `ashby_lever_greenhouse/ats_progress.json`, `wellfound/wellfound_progress.json`, `instahyre/`, `hirist/`, `indeed/`, `workday/`, etc.). Strictly do not read or write loose progress files directly in the root of `src\application_progress`.
+- Always skip job postings that demand 3+ yrs of experience, or the job role has 'senior' mentioned. We are targetting *fresher* *SDE/AI/ML/Data roles* (0-2 YoE). SDE/Software Engineer fresher roles are explicitly welcomed and prioritized alongside AI/ML.
+- Multi-role permission: If a company has multiple distinct postings (e.g. AI/ML, Data Science, SDE), apply to each role — do not skip secondary roles at the same company.
+- Posting freshness gate: If a job posting is more than 2 months old (`POSTED 2+ MONTHS AGO` or `YEARS AGO`), immediately close within <= 1s and skip as stale.
+- Fast bailout: Quickly close and exclude within <= 1s any job showing already applied (`✓ Applied`), posting closed/expired/404, experience >3 yrs, or non-India location.
 - Whenever filling jobs on wellfound / Instahyre, follow : `src\knowledge_source\job-application-roadmap_wellfound_instahyre.md`
 - The job search results or queued job roles should never contain senior roles, only *fresher*. *fresher* roles constintute at max 2 yrs of experience.
 - Any new programming file you create ex. ".py", ".js", etc always store them inside "src\scripts", and no where else.
-- Once the planned job applications have been applied, mark them as applied in its json file in `@src\job_search_results` folder.
+- Once the planned job applications have been applied, mark them as applied in its json file in `@src\job_search_results\<subfolder>` folder.
 - Always maintain the json file with active and pending applications while working with job applys.
 
 ## 6. unnecessary file

@@ -1,0 +1,162 @@
+[
+  {
+    "status": "awaiting_human_captcha_submit",
+    "reason": "reCAPTCHA visual challenge presented on Ashby",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\designworkstalent-captcha-challenge.png",
+    "url": "https://jobs.ashbyhq.com/designworkstalent/41bddeaf-efca-4ce6-b79b-1c159d05cee9/application",
+    "job_url": "https://jobs.ashbyhq.com/designworkstalent/41bddeaf-efca-4ce6-b79b-1c159d05cee9",
+    "company": "designworkstalent",
+    "role": "AI Training Infrastructure Engineer",
+    "platform": "ashby",
+    "duration_seconds": 18.9
+  },
+  {
+    "status": "VALIDATION_FAILED",
+    "url": "https://job-boards.greenhouse.io/embed/job_app?for=ensono&validityToken=bznQrH9loPq2cz-oxXUbX92yjxACSF45OkjFqKZSQtZtImMcy4CWL99bBuH1qz16ch-NUNmQ9s37H2btbg7UQlWcd1IwVtD5zo57pvb0UG3lh2ccbmdZ_2f-fQrmhAD8FNNAA9Dlz0TmzC9LNvRYsHEgYAM-yl4TfJ6f3hcw3eCfEp7V_Y5pYFTIEjNDUB0VFAmDFB4tH_EUC5dl5O1pX27Xv6zQMjYh6vLREraHzI4BsM8Bd8VmbSw0lZSxFbIV5aRforJV43qn68Dkcqk7P77w4hyxrJOx3DhfbtAknmXrLwZuBWB6gO3LSuDXsm3w608bh0J3iwIt7PtXjEXr0A%3D%3D&token=4625506005",
+    "evidence": "create a job alert\n\ninterested in building your career at ensono? get future opportunities sent straight to your email.\n\ncreate alert\napply for this job\n\n*\n\nindicates a required field\n\nautofill my application\nfirst name*\nlast name*\nemail*\nphone\ncountry*\n+91\nphone*\nlocation (city)*\noption , selected.",
+    "invalid_controls": [
+      {
+        "id": "candidate-location",
+        "name": "",
+        "validationMessage": "",
+        "lbl": ""
+      },
+      {
+        "id": "",
+        "name": "",
+        "validationMessage": "Please fill out this field.",
+        "lbl": ""
+      },
+      {
+        "id": "question_8070400005",
+        "name": "",
+        "validationMessage": "",
+        "lbl": ""
+      },
+      {
+        "id": "question_8070401005",
+        "name": "",
+        "validationMessage": "",
+        "lbl": ""
+      },
+      {
+        "id": "question_8070402005",
+        "name": "",
+        "validationMessage": "",
+        "lbl": ""
+      },
+      {
+        "id": "question_8070403005",
+        "name": "",
+        "validationMessage": "",
+        "lbl": ""
+      },
+      {
+        "id": "question_8070404005",
+        "name": "",
+        "validationMessage": "",
+        "lbl": "What are your total years of experience? *"
+      },
+      {
+        "id": "question_8070405005",
+        "name": "",
+        "validationMessage": "",
+        "lbl": "What are your total years of relevant experience? *"
+      },
+      {
+        "id": "question_8070406005",
+        "name": "",
+        "validationMessage": "",
+        "lbl": "Please enter your current company's name:*"
+      }
+    ],
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\ensono-validation-failed.png",
+    "job_url": "https://ensono.com/company/careers/jobs-board/?gh_jid=4625506005",
+    "company": "ensono",
+    "role": "Application Developer \u2013 Commercial Apps",
+    "platform": "greenhouse",
+    "duration_seconds": 31.3
+  },
+  {
+    "status": "awaiting_human_captcha_submit",
+    "reason": "hCaptcha challenge presented on Lever",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\mactores-captcha-challenge.png",
+    "url": "https://jobs.lever.co/mactores/35e29122-3a7a-4851-a1f2-09e06457641d/apply",
+    "job_url": "https://jobs.lever.co/mactores/35e29122-3a7a-4851-a1f2-09e06457641d",
+    "company": "mactores",
+    "role": "AWS DevOps Engineer (Associate)",
+    "platform": "lever",
+    "duration_seconds": 19.4
+  },
+  {
+    "status": "awaiting_human_captcha_submit",
+    "reason": "reCAPTCHA visual challenge presented on Ashby",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\designworkstalent-captcha-challenge.png",
+    "url": "https://jobs.ashbyhq.com/designworkstalent/de4fa4c3-3ad2-492a-aba9-97ca3500f7df/application",
+    "job_url": "https://jobs.ashbyhq.com/designworkstalent/de4fa4c3-3ad2-492a-aba9-97ca3500f7df",
+    "company": "designworkstalent",
+    "role": "Applied Researcher \u2013 AI Expert",
+    "platform": "ashby",
+    "duration_seconds": 19.3
+  },
+  {
+    "status": "VALIDATION_FAILED",
+    "url": "https://job-boards.greenhouse.io/embed/job_app?for=mongodb&validityToken=mxqcKOr67VeMON2ljZh6vbcNg0OWNEdsRZRFef7qns_0X20o2FG9Q0aOcpzettcw6tnOgPuzs1mBltjlyePx072KgXFEDuXDrH5UYTaRIfpLeL7JsZdvM6T5Z5A9z4uuf1Pgrn76Q2z5VO3c6b3EBwC3LULTMh_vdHnIPQZKL3tY3siG5Ixxf4A7-3TBYbUp9dcwvs4ugluaISvpXpoEkypBkeOOB7wg9rXopg6WQO2Pnl5w2wsGZGxOGR1gcUveJ214hyQ8PDrup0Rhgg_mruW7ypvIOjVXPNhTjhHZS2DuvnNfeermB672SIFrxJ4XGtMEHCsKkyrJHbQyZ5SqMw%3D%3D&token=8143980",
+    "evidence": "create a job alert\n\ninterested in building your career at mongodb? get future opportunities sent straight to your email.\n\ncreate alert\napply for this job\n\n*\n\nindicates a required field\n\nfirst name*\nlast name*\nemail*\nphone\ncountry*\n+91\nphone*\nlocation (city)*\noption , selected.select is focused ,type",
+    "invalid_controls": [
+      {
+        "id": "candidate-location",
+        "name": "",
+        "validationMessage": "",
+        "lbl": ""
+      },
+      {
+        "id": "",
+        "name": "",
+        "validationMessage": "Please fill out this field.",
+        "lbl": ""
+      },
+      {
+        "id": "question_68709167",
+        "name": "",
+        "validationMessage": "",
+        "lbl": "Preferred Name*"
+      },
+      {
+        "id": "question_68709176",
+        "name": "",
+        "validationMessage": "",
+        "lbl": ""
+      },
+      {
+        "id": "question_68709177",
+        "name": "",
+        "validationMessage": "",
+        "lbl": ""
+      },
+      {
+        "id": "32288",
+        "name": "",
+        "validationMessage": "",
+        "lbl": ""
+      }
+    ],
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\mongodb-validation-failed.png",
+    "job_url": "https://www.mongodb.com/careers/job/?gh_jid=8143980",
+    "company": "mongodb",
+    "role": "Application Engineer",
+    "platform": "greenhouse",
+    "duration_seconds": 34.9
+  },
+  {
+    "status": "awaiting_human_captcha_submit",
+    "reason": "hCaptcha challenge presented on Lever",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\mactores-captcha-challenge.png",
+    "url": "https://jobs.lever.co/mactores/d237505f-5e6a-4eae-9b06-fa8dd0686236/apply",
+    "job_url": "https://jobs.lever.co/mactores/d237505f-5e6a-4eae-9b06-fa8dd0686236",
+    "company": "mactores",
+    "role": "Cloud Engineer (Intern)",
+    "platform": "lever",
+    "duration_seconds": 19.9
+  }
+]

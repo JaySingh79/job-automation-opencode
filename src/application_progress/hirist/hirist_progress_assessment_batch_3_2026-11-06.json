@@ -1,0 +1,383 @@
+{
+  "batch": 3,
+  "date": "2026-11-06",
+  "total": 46,
+  "completed": 46,
+  "newly_applied": 44,
+  "already_applied": 1,
+  "failed": 1,
+  "failed_reasons": {
+    "1679385": "Job inactive / unpublished by recruiter (active: 0, status: 0) on Hirist"
+  },
+  "jobs": [
+    {
+      "id": 1650087,
+      "title": "Talent Pro - .Net Full Stack Developer",
+      "company": "Talent Pro",
+      "status": "applied",
+      "applied": 1,
+      "assessmentCompleted": 1
+    },
+    {
+      "id": 1648897,
+      "title": "WITS Innovation Lab - Golang Developer - Backend Systems",
+      "company": "WITS",
+      "status": "applied",
+      "applied": 1,
+      "assessmentCompleted": 1
+    },
+    {
+      "id": 1645210,
+      "title": "Black Panda Enterprises - Backend Engineer - Java",
+      "company": "Black Panda",
+      "status": "applied",
+      "applied": 1,
+      "assessmentCompleted": 1
+    },
+    {
+      "id": 1677552,
+      "title": "QubeLabs - QubeLabs Systems - LLM/AI Model Engineer",
+      "company": "QubeLabs",
+      "status": "applied",
+      "applied": 1,
+      "assessmentCompleted": 1
+    },
+    {
+      "id": 1682060,
+      "title": "Spectraforce Technologies - Data Scientist",
+      "company": "Spectraforce",
+      "status": "applied",
+      "applied": 1,
+      "assessmentCompleted": 1
+    },
+    {
+      "id": 1679758,
+      "title": "TrueFan - TrueFan AI - Applied AI Engineer - Content Systems",
+      "company": "TrueFan",
+      "status": "applied",
+      "applied": 1,
+      "assessmentCompleted": 1
+    },
+    {
+      "id": 1681580,
+      "title": "Sutra Services - Machine Learning Engineer - Computer Vision",
+      "company": "Sutra Services",
+      "status": "applied",
+      "applied": 1,
+      "assessmentCompleted": 1
+    },
+    {
+      "id": 1681304,
+      "title": "Big Ideas Social Media Recruitment - AI Engineer - LLM/RAG",
+      "company": "Big Ideas",
+      "status": "applied",
+      "applied": 1,
+      "assessmentCompleted": 1
+    },
+    {
+      "id": 1659266,
+      "title": "Associate Lead/Engineer - AI/ML",
+      "company": "Talent Pro",
+      "status": "applied",
+      "applied": 1,
+      "assessmentCompleted": 1
+    },
+    {
+      "id": 1658525,
+      "title": "Senior AI Engineer - Python",
+      "company": "Tristone Strategic Partners LLP",
+      "status": "applied",
+      "applied": 1,
+      "assessmentCompleted": 1
+    },
+    {
+      "id": 1657897,
+      "title": "Hexalog - Artificial Intelligence Engineer - LangGraph",
+      "company": "Hexalog",
+      "status": "applied",
+      "applied": 1,
+      "assessmentCompleted": 1
+    },
+    {
+      "id": 1657943,
+      "title": "LLM Engineer",
+      "company": "ANP HR Consultancy",
+      "status": "applied",
+      "applied": 1,
+      "assessmentCompleted": 1
+    },
+    {
+      "id": 1656666,
+      "title": "Straive - Senior Data Scientist - Machine Learning Models",
+      "company": "SPI TECHNOLOGIES INDIA PRIVATE LIMITED",
+      "status": "applied",
+      "applied": 1,
+      "assessmentCompleted": 1
+    },
+    {
+      "id": 1656729,
+      "title": "Machine Learning Engineer",
+      "company": "Recruit Me",
+      "status": "applied",
+      "applied": 1,
+      "assessmentCompleted": 1
+    },
+    {
+      "id": 1654533,
+      "title": "Senior Software Engineer - Legacy Modernization & AI",
+      "company": "Geek Technologies",
+      "status": "applied",
+      "applied": 1,
+      "assessmentCompleted": 1
+    },
+    {
+      "id": 1654174,
+      "title": "CDM Smith - Data Science Specialist",
+      "company": "CDM Smith",
+      "status": "applied",
+      "applied": 1,
+      "assessmentCompleted": 1
+    },
+    {
+      "id": 1653499,
+      "title": "Data Scientist - Machine Learning",
+      "company": "D Square Consulting Services",
+      "status": "applied",
+      "applied": 1,
+      "assessmentCompleted": 1
+    },
+    {
+      "id": 1652913,
+      "title": "Data Scientist - Machine Learning & Predictive Modeling",
+      "company": "Aspyra HR Services ",
+      "status": "applied",
+      "applied": 1,
+      "assessmentCompleted": 1
+    },
+    {
+      "id": 1653001,
+      "title": "Data Scientist - Python",
+      "company": "Mount Talent Consulting",
+      "status": "applied",
+      "applied": 1,
+      "assessmentCompleted": 1
+    },
+    {
+      "id": 1652153,
+      "title": "LLM/Generative AI Engineer",
+      "company": "Softomatic Technology Services",
+      "status": "applied",
+      "applied": 1,
+      "assessmentCompleted": 1
+    },
+    {
+      "id": 1650634,
+      "title": "AI Engineer",
+      "company": "Bulwark Software Research",
+      "status": "applied",
+      "applied": 1,
+      "assessmentCompleted": 1
+    },
+    {
+      "id": 1650386,
+      "title": "AI Engineer - LLM Models",
+      "company": "Bulwark Software Research",
+      "status": "applied",
+      "applied": 1,
+      "assessmentCompleted": 1
+    },
+    {
+      "id": 1650337,
+      "title": "Prowess Publishing - Data Scientist - Predictive Analytics",
+      "company": "Prowess Publishing & Software Solutions",
+      "status": "applied",
+      "applied": 1,
+      "assessmentCompleted": 1
+    },
+    {
+      "id": 1650170,
+      "title": "Quantiphi - Machine Learning Engineer - Artificial Intelligence",
+      "company": "Quantiphi Analytics Solutions Private Limited",
+      "status": "applied",
+      "applied": 1,
+      "assessmentCompleted": 1
+    },
+    {
+      "id": 1649523,
+      "title": "AI/Applied ML Engineer",
+      "company": "Risk Resources",
+      "status": "applied",
+      "applied": 1,
+      "assessmentCompleted": 1
+    },
+    {
+      "id": 1649293,
+      "title": "Netcore Cloud - Artificial Intelligence Engineer - Machine Learning",
+      "company": "NETCORE CLOUD PRIVATE LIMITED",
+      "status": "applied",
+      "applied": 1,
+      "assessmentCompleted": 1
+    },
+    {
+      "id": 1648811,
+      "title": "Data Scientist - Python",
+      "company": "Aspyra HR Services ",
+      "status": "applied",
+      "applied": 1,
+      "assessmentCompleted": 1
+    },
+    {
+      "id": 1645611,
+      "title": "Unico Connect - Senior AI Engineer - LangGraph/LangChain",
+      "company": "Unico Connect",
+      "status": "applied",
+      "applied": 1,
+      "assessmentCompleted": 1
+    },
+    {
+      "id": 1644393,
+      "title": "Machine Learning Engineer - PySpark/Python",
+      "company": "Gloify",
+      "status": "applied",
+      "applied": 1,
+      "assessmentCompleted": 1
+    },
+    {
+      "id": 1643320,
+      "title": "Data Scientist - Machine Learning/Python",
+      "company": "EXPEDITE HIRE",
+      "status": "applied",
+      "applied": 1,
+      "assessmentCompleted": 1
+    },
+    {
+      "id": 1680735,
+      "title": "Trendlyne - Backend Engineer - Python",
+      "company": "Giskard Datatech",
+      "status": "applied",
+      "applied": 1,
+      "assessmentCompleted": 1
+    },
+    {
+      "id": 1680736,
+      "title": "Trendlyne - Backend Engineer - Python",
+      "company": "Giskard Datatech",
+      "status": "applied",
+      "applied": 1,
+      "assessmentCompleted": 1
+    },
+    {
+      "id": 1682328,
+      "title": "iRage - Go Language Developer - Algorithmic Trading",
+      "company": "Irage Broking Services",
+      "status": "applied",
+      "applied": 1,
+      "assessmentCompleted": 1
+    },
+    {
+      "id": 1682160,
+      "title": "Senior Software Engineer - .Net",
+      "company": "Spectraforce Technologies",
+      "status": "applied",
+      "applied": 1,
+      "assessmentCompleted": 1
+    },
+    {
+      "id": 1681824,
+      "title": "TrueFan AI - Software Development Engineer II - Python Frameworks",
+      "company": "TrueFan",
+      "status": "applied",
+      "applied": 1,
+      "assessmentCompleted": 1
+    },
+    {
+      "id": 1682416,
+      "title": "Software Developer - PHP/Laravel",
+      "company": "Caprion",
+      "status": "applied",
+      "applied": 1,
+      "assessmentCompleted": 1
+    },
+    {
+      "id": 1681391,
+      "title": "TechRAQ - Python Developer - Django/Flask",
+      "company": "TechRAQ Info Solutions",
+      "status": "already_applied",
+      "applied": 1,
+      "assessmentCompleted": 1
+    },
+    {
+      "id": 1680259,
+      "title": "Tradl AI - Senior Backend Developer - Golang/Java/Rust",
+      "company": "Tradl AI",
+      "status": "applied",
+      "applied": 1,
+      "assessmentCompleted": 1
+    },
+    {
+      "id": 1679385,
+      "title": "Euphoric Thought - Python Developer - Azure",
+      "company": "Euphoric Thought Technologies",
+      "status": "failed",
+      "applied": 0,
+      "assessmentCompleted": 0,
+      "reason": "Job inactive / unpublished by recruiter"
+    },
+    {
+      "id": 1678110,
+      "title": "C++ Developer",
+      "company": "Programming.Com",
+      "status": "applied",
+      "applied": 1,
+      "assessmentCompleted": 1
+    },
+    {
+      "id": 1677740,
+      "title": "6D Technologies - Senior Backend Developer - Java",
+      "company": "6D Technologies",
+      "status": "applied",
+      "applied": 1,
+      "assessmentCompleted": 1
+    },
+    {
+      "id": 1677405,
+      "title": "Sav - Senior Backend Engineer - Node.js/Next.js",
+      "company": "Sav Technologies",
+      "status": "applied",
+      "applied": 1,
+      "assessmentCompleted": 1
+    },
+    {
+      "id": 1666551,
+      "title": "Haptik - Software Development Engineer II - Backend Architecture",
+      "company": "Haptik",
+      "status": "applied",
+      "applied": 1,
+      "assessmentCompleted": 1
+    },
+    {
+      "id": 1662835,
+      "title": "Trendlyne - Senior Python Developer - Django/Flask",
+      "company": "Giskard Datatech",
+      "status": "applied",
+      "applied": 1,
+      "assessmentCompleted": 1
+    },
+    {
+      "id": 1661997,
+      "title": "Antino Labs - Backend Developer - Node.js",
+      "company": "Antino",
+      "status": "applied",
+      "applied": 1,
+      "assessmentCompleted": 1
+    },
+    {
+      "id": 1677186,
+      "title": "Verona Matchmaking - Senior Backend Engineer - Node.js/Rust",
+      "company": "VERONA JUPITER PRIVATE LIMITED",
+      "status": "applied",
+      "applied": 1,
+      "assessmentCompleted": 1
+    }
+  ]
+}

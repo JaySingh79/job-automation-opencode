@@ -1,0 +1,13 @@
+[
+  {
+    "status": "awaiting_human_otp",
+    "reason": "Greenhouse email OTP challenge presented",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\job-boards-otp-challenge.png",
+    "url": "https://job-boards.greenhouse.io/celonis/jobs/7635190003?gh_jid=7635190003",
+    "job_url": "https://job-boards.greenhouse.io/celonis/jobs/7635190003?gh_jid=7635190003",
+    "company": "job-boards",
+    "role": "Direct Target Role",
+    "platform": "greenhouse",
+    "duration_seconds": 26.1
+  }
+]

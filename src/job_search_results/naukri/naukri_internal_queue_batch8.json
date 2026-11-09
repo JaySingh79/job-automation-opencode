@@ -1,0 +1,320 @@
+{
+  "batch_id": 8,
+  "subagent": "naukri-fill-8",
+  "total_jobs": 16,
+  "jobs": [
+    {
+      "job_id": "231026929924",
+      "title": "Engineer - RF SW - M.Tech - Communication background - 2025/26",
+      "company": "Qualcomm",
+      "experience": "0-1 Yrs",
+      "salary": "Filtered >= 12-15 LPA",
+      "location": "Hyderabad",
+      "tags": [
+        "Algorithms",
+        "Communication engineering",
+        "Front",
+        "Architecture",
+        "Transformation",
+        "Embedded systems",
+        "Program",
+        "ASIC"
+      ],
+      "posted_date": "3 days ago",
+      "url": "https://www.naukri.com/job-listings-engineer-rf-sw-m-tech-communication-background-2025-26-qualcomm-india-pvt-ltd-hyderabad-0-to-1-years-231026929924"
+    },
+    {
+      "job_id": "121026035176",
+      "title": "SDE - I (Frontend)",
+      "company": "Recruito",
+      "experience": "0-3 Yrs",
+      "salary": "12-18 Lacs PA",
+      "location": "Remote",
+      "tags": [
+        "Javascript",
+        "React.js",
+        "Nextjs"
+      ],
+      "posted_date": "2 weeks ago",
+      "url": "https://www.naukri.com/job-listings-sde-i-frontend-recruito-bengaluru-0-to-3-years-121026035176"
+    },
+    {
+      "job_id": "151026033955",
+      "title": "Urgent Opening For Java Developer who Can join immediately",
+      "company": "Altimetrik",
+      "experience": "0 Yrs",
+      "salary": "Filtered >= 12-15 LPA",
+      "location": "Hybrid - Bengaluru",
+      "tags": [
+        "Boot",
+        "Can Bus",
+        "Spring Boot",
+        "AWS",
+        "Java",
+        "WHO",
+        "For Java",
+        "Kafka"
+      ],
+      "posted_date": "1 week ago",
+      "url": "https://www.naukri.com/job-listings-urgent-opening-for-java-developer-who-can-join-immediately-altimetrik-bengaluru-0-to-0-years-151026033955"
+    },
+    {
+      "job_id": "020922501934",
+      "title": "Business Development Executive - IT Software",
+      "company": "Letscms",
+      "experience": "0-3 Yrs",
+      "salary": "Filtered >= 12-15 LPA",
+      "location": "Noida",
+      "tags": [
+        "Cold calling",
+        "Lead generation",
+        "Sales",
+        "MIS",
+        "Wordpress",
+        "Technical sales",
+        "Business Development Executive",
+        "Database maintenance"
+      ],
+      "posted_date": "3+ weeks ago",
+      "url": "https://www.naukri.com/job-listings-business-development-executive-it-software-letscms-pvt-ltd-noida-0-to-3-years-020922501934"
+    },
+    {
+      "job_id": "021026014318",
+      "title": "Data Analyst (Bangla Speaker - India)",
+      "company": "Peroptyx",
+      "experience": "0-5 Yrs",
+      "salary": "Filtered >= 12-15 LPA",
+      "location": "Remote",
+      "tags": [
+        "English",
+        "Bangla",
+        "Data Research",
+        "Research Analysis",
+        "Data Analysis",
+        "Data Collection",
+        "Research",
+        "Collections"
+      ],
+      "posted_date": "3 weeks ago",
+      "url": "https://www.naukri.com/job-listings-data-analyst-bangla-speaker-india-peroptyx-delhi-ncr-0-to-5-years-021026014318"
+    },
+    {
+      "job_id": "231026025350",
+      "title": "Data Analyst (Marathi Speaker - India)",
+      "company": "Peroptyx",
+      "experience": "0-5 Yrs",
+      "salary": "Filtered >= 12-15 LPA",
+      "location": "Remote",
+      "tags": [
+        "Detailing",
+        "Research",
+        "Analysis",
+        "Mapping",
+        "Marathi",
+        "English",
+        "Data analysis",
+        "Data"
+      ],
+      "posted_date": "4 days ago",
+      "url": "https://www.naukri.com/job-listings-data-analyst-marathi-speaker-india-peroptyx-pune-0-to-5-years-231026025350"
+    },
+    {
+      "job_id": "231026025403",
+      "title": "Data Analyst - Odia Speaker (India)",
+      "company": "Peroptyx",
+      "experience": "0-5 Yrs",
+      "salary": "Filtered >= 12-15 LPA",
+      "location": "Remote",
+      "tags": [
+        "Data analysis",
+        "Research",
+        "Data analytics",
+        "English",
+        "Analysis",
+        "Development",
+        "Mapping",
+        "Development"
+      ],
+      "posted_date": "4 days ago",
+      "url": "https://www.naukri.com/job-listings-data-analyst-odia-speaker-india-peroptyx-bhubaneswar-0-to-5-years-231026025403"
+    },
+    {
+      "job_id": "121026013943",
+      "title": "Data Analyst (Punjabi Speaker - India)",
+      "company": "Peroptyx",
+      "experience": "0-5 Yrs",
+      "salary": "Filtered >= 12-15 LPA",
+      "location": "Remote",
+      "tags": [
+        "English",
+        "Punjabi",
+        "Data Research",
+        "Translation",
+        "Data Analysis",
+        "Linguistics",
+        "Mapping",
+        "Data Collection"
+      ],
+      "posted_date": "2 weeks ago",
+      "url": "https://www.naukri.com/job-listings-data-analyst-punjabi-speaker-india-peroptyx-amritsar-0-to-5-years-121026013943"
+    },
+    {
+      "job_id": "231026025421",
+      "title": "Data Analyst (Punjabi Speaker - India)",
+      "company": "Peroptyx",
+      "experience": "0-5 Yrs",
+      "salary": "Filtered >= 12-15 LPA",
+      "location": "Remote",
+      "tags": [
+        "Interpretation",
+        "Data research",
+        "Analysis",
+        "Data",
+        "English",
+        "Punjabi",
+        "Mapping",
+        "Data analysis"
+      ],
+      "posted_date": "4 days ago",
+      "url": "https://www.naukri.com/job-listings-data-analyst-punjabi-speaker-india-peroptyx-jalandhar-0-to-5-years-231026025421"
+    },
+    {
+      "job_id": "021026014324",
+      "title": "Data Analyst (Punjabi Speaker - India)",
+      "company": "Peroptyx",
+      "experience": "0-5 Yrs",
+      "salary": "Filtered >= 12-15 LPA",
+      "location": "Remote",
+      "tags": [
+        "English",
+        "Punjabi",
+        "Data Analysis",
+        "Mapping",
+        "Research",
+        "Interpretation",
+        "Attention to Detail",
+        "Detailing"
+      ],
+      "posted_date": "3 weeks ago",
+      "url": "https://www.naukri.com/job-listings-data-analyst-punjabi-speaker-india-peroptyx-ludhiana-0-to-5-years-021026014324"
+    },
+    {
+      "job_id": "121026013863",
+      "title": "Data Analyst - Kannada Speaker (India)",
+      "company": "Peroptyx",
+      "experience": "0-5 Yrs",
+      "salary": "Filtered >= 12-15 LPA",
+      "location": "Remote",
+      "tags": [
+        "English",
+        "Kannada",
+        "Data Analysis",
+        "Research and Development",
+        "Data Collection",
+        "Research",
+        "Data Analytics",
+        "Data Mapping"
+      ],
+      "posted_date": "2 weeks ago",
+      "url": "https://www.naukri.com/job-listings-data-analyst-kannada-speaker-india-peroptyx-karnataka-0-to-5-years-121026013863"
+    },
+    {
+      "job_id": "021026014311",
+      "title": "Data Analyst (Marathi Speaker - India)",
+      "company": "Peroptyx",
+      "experience": "0-5 Yrs",
+      "salary": "Filtered >= 12-15 LPA",
+      "location": "Remote",
+      "tags": [
+        "Data Analysis",
+        "Marathi",
+        "English",
+        "Data Analytics",
+        "Data Mapping",
+        "Analytics",
+        "Analysis",
+        "Mapping"
+      ],
+      "posted_date": "3 weeks ago",
+      "url": "https://www.naukri.com/job-listings-data-analyst-marathi-speaker-india-peroptyx-mumbai-all-areas-0-to-5-years-021026014311"
+    },
+    {
+      "job_id": "021026014314",
+      "title": "Data Analyst (Odia Speaker - India)",
+      "company": "Peroptyx",
+      "experience": "0-5 Yrs",
+      "salary": "Filtered >= 12-15 LPA",
+      "location": "Remote",
+      "tags": [
+        "English",
+        "Odia",
+        "Data Analysis",
+        "Research",
+        "Analysis",
+        "Data"
+      ],
+      "posted_date": "3 weeks ago",
+      "url": "https://www.naukri.com/job-listings-data-analyst-odia-speaker-india-peroptyx-cuttack-0-to-5-years-021026014314"
+    },
+    {
+      "job_id": "300926011454",
+      "title": "Data Analyst",
+      "company": "Job Nexus India",
+      "experience": "0-5 Yrs",
+      "salary": "5-15 Lacs PA",
+      "location": "Remote",
+      "tags": [
+        "Data Analysis",
+        "Pivot Tables",
+        "Power BI",
+        "KPI",
+        "Profitability Analysis",
+        "Advanced Excel",
+        "Reporting",
+        "MIS Reporting"
+      ],
+      "posted_date": "3 weeks ago",
+      "url": "https://www.naukri.com/job-listings-data-analyst-nexus-india-bengaluru-0-to-5-years-300926011454"
+    },
+    {
+      "job_id": "260926006738",
+      "title": "Assistant Professor - Computer Science and Technology",
+      "company": "Karunya University",
+      "experience": "0-10 Yrs",
+      "salary": "5-10 Lacs PA",
+      "location": "Coimbatore",
+      "tags": [
+        "Computer Science",
+        "Data Science",
+        "Computer Networking",
+        "Cloud Computing",
+        "Software Engineering",
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Deep Learning"
+      ],
+      "posted_date": "3+ weeks ago",
+      "url": "https://www.naukri.com/job-listings-assistant-professor-computer-science-and-technology-karunya-university-coimbatore-0-to-10-years-260926006738"
+    },
+    {
+      "job_id": "280926030884",
+      "title": "Business Analyst",
+      "company": "Incanus Technologies",
+      "experience": "0-3 Yrs",
+      "salary": "6-10 Lacs PA",
+      "location": "Bengaluru, Delhi / NCR, Mumbai (All Areas)",
+      "tags": [
+        "Excel",
+        "SQL",
+        "Python",
+        "Visual Analytics",
+        "Power BI",
+        "Artificial Intelligence",
+        "Data Analytics",
+        "Data"
+      ],
+      "posted_date": "3+ weeks ago",
+      "url": "https://www.naukri.com/job-listings-business-analyst-incanus-technologies-bengaluru-delhi-ncr-mumbai-all-areas-0-to-3-years-280926030884"
+    }
+  ]
+}

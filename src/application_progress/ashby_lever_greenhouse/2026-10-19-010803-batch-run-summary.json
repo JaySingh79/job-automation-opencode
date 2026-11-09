@@ -1,0 +1,66 @@
+[
+  {
+    "status": "awaiting_human_captcha_submit",
+    "reason": "reCAPTCHA visual challenge presented on Ashby",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\helm-ai-captcha-challenge.png",
+    "url": "https://jobs.ashbyhq.com/helm-ai/1e14146a-a343-4e58-b8d0-7552e334b3a6/application",
+    "job_url": "https://jobs.ashbyhq.com/helm-ai/1e14146a-a343-4e58-b8d0-7552e334b3a6",
+    "company": "helm-ai",
+    "role": "Machine Learning Engineer",
+    "platform": "ashby",
+    "duration_seconds": 14.4
+  },
+  {
+    "status": "FAILED",
+    "reason": "No submit button found on Greenhouse",
+    "job_url": "https://www.jumptrading.com/hr/job?gh_jid=5555988",
+    "company": "jumptrading",
+    "role": "HPC Systems Engineer ",
+    "platform": "greenhouse",
+    "duration_seconds": 9.4
+  },
+  {
+    "status": "awaiting_human_captcha_submit",
+    "reason": "hCaptcha challenge presented on Lever",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\extremenetworks-captcha-challenge.png",
+    "url": "https://jobs.lever.co/extremenetworks/8bf87d77-a14f-4c33-b6f6-98448fd67866/apply",
+    "job_url": "https://jobs.lever.co/extremenetworks/8bf87d77-a14f-4c33-b6f6-98448fd67866",
+    "company": "extremenetworks",
+    "role": "SW SYSTEMS ENGINEER 10139 - Layer2 & Layer 3 Forwarding Development- BCM Chipset",
+    "platform": "lever",
+    "duration_seconds": 20.1
+  },
+  {
+    "status": "awaiting_human_captcha_submit",
+    "reason": "reCAPTCHA visual challenge presented on Ashby",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\canals-captcha-challenge.png",
+    "url": "https://jobs.ashbyhq.com/canals/e8b48781-447e-4564-9870-e108fcfc899c/application",
+    "job_url": "https://jobs.ashbyhq.com/canals/e8b48781-447e-4564-9870-e108fcfc899c",
+    "company": "canals",
+    "role": "Machine Learning Engineer",
+    "platform": "ashby",
+    "duration_seconds": 17.8
+  },
+  {
+    "status": "awaiting_human_otp",
+    "reason": "Greenhouse email OTP challenge presented",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\doordashindia-otp-challenge.png",
+    "url": "https://job-boards.greenhouse.io/doordashindia/jobs/5856393",
+    "job_url": "https://job-boards.greenhouse.io/doordashindia/jobs/5856393",
+    "company": "doordashindia",
+    "role": "Software Engineer, Backend",
+    "platform": "greenhouse",
+    "duration_seconds": 33.9
+  },
+  {
+    "status": "awaiting_human_captcha_submit",
+    "reason": "hCaptcha challenge presented on Lever",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\wmg-captcha-challenge.png",
+    "url": "https://jobs.lever.co/wmg/bd93e552-e497-44a2-bbae-4f2dc318b2f4/apply",
+    "job_url": "https://jobs.lever.co/wmg/bd93e552-e497-44a2-bbae-4f2dc318b2f4",
+    "company": "wmg",
+    "role": "Backend Engineer",
+    "platform": "lever",
+    "duration_seconds": 18.5
+  }
+]

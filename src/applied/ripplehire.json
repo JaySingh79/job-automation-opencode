@@ -1,0 +1,24 @@
+[
+  {
+    "company": "Bahwan CyberTek",
+    "role": "Full Stack developer (Python)",
+    "url": "https://bahwancybertek.ripplehire.com/candidate/?token=ncskoGgjoqYnuqre7tUl&source=CAREERSITE#detail/job/916297",
+    "platform": "ripplehire",
+    "status": "staged_ready_for_submission",
+    "date": "2026-10-28",
+    "resume": "Jay Resume GenAI+DS 5th Aug.pdf",
+    "screenshot": "src/accessability_snapshot/ripplehire_bahwan_python_staged.png",
+    "note": "100% of required fields filled (Personal details, Address info, Professional details, Salary 18/22 LPA, Resume upload). 800ms-2200ms human delays and 4 viewport scrolls applied. Verified Backbone model isValid: true (0 errors). Staged ready for human submission."
+  },
+  {
+    "company": "Bahwan CyberTek",
+    "role": "Full Stack developer (Angular, Node, JS)",
+    "url": "https://bahwancybertek.ripplehire.com/candidate/?token=ncskoGgjoqYnuqre7tUl&source=CAREERSITE#detail/job/916298",
+    "platform": "ripplehire",
+    "status": "staged_ready_for_submission",
+    "date": "2026-10-28",
+    "resume": "Jay Resume GenAI+DS 5th Aug.pdf",
+    "screenshot": "src/accessability_snapshot/ripplehire_bahwan_angular_staged.png",
+    "note": "100% of required fields filled (Personal details, Address info, Professional details, Salary 18/22 LPA, Resume upload). 800ms-2200ms human delays and 4 viewport scrolls applied. Verified Backbone model isValid: true (0 errors). Staged ready for human submission."
+  }
+]

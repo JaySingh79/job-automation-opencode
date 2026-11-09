@@ -1,0 +1,22 @@
+{
+  "timestamp": "2026-11-06T09:36:37Z",
+  "local_timestamp": "2026-11-06T15:06:37+05:30",
+  "platform": "Instahyre",
+  "driver": "playwright-extention",
+  "experience_filter": "max 2 yrs (years=2)",
+  "initial_applied_count": 2184,
+  "final_applied_count": 2303,
+  "total_applications_submitted": 119,
+  "target_met": true,
+  "target_goal": 100,
+  "breakdown": {
+    "data science": 14,
+    "agents": 5,
+    "agentic ai": 2,
+    "langchain": 0,
+    "langgraph": 0,
+    "ML": 0,
+    "Backend Developer": 16,
+    "Software Engineer": 82
+  }
+}

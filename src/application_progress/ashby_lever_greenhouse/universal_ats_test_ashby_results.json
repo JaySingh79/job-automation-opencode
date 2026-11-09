@@ -1,0 +1,331 @@
+{
+  "timestamp": "2026-10-20 03:01:40.291606",
+  "mode": "test",
+  "summary": {
+    "ashby": {
+      "total_evaluated": 32,
+      "active_total": 30,
+      "passed": 30,
+      "dead_skipped": 2,
+      "failed": 0
+    }
+  },
+  "results": [
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 3,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\ashby_jobs_ashbyhq_com_aiprise_3763c791-a387-4078-9ca4-00cbfbf9b1a6.png",
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/aiprise/3763c791-a387-4078-9ca4-00cbfbf9b1a6",
+      "elapsed_sec": 18.65
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 3,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\ashby_jobs_ashbyhq_com_Meraki-Labs_93ff65d2-f0cd-4fd1-b76f-b2e350f2d6c8.png",
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/Meraki-Labs/93ff65d2-f0cd-4fd1-b76f-b2e350f2d6c8",
+      "elapsed_sec": 19.24
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 3,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\ashby_jobs_ashbyhq_com_Meraki-Labs_958edd0a-edca-4da9-b65e-2aac4c6564fe.png",
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/Meraki-Labs/958edd0a-edca-4da9-b65e-2aac4c6564fe",
+      "elapsed_sec": 19.3
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 6,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\ashby_jobs_ashbyhq_com_ahl-saafai_d2b7a8fa-a108-4a46-a22b-364759bf75a4.png",
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/ahl-saafai/d2b7a8fa-a108-4a46-a22b-364759bf75a4",
+      "elapsed_sec": 23.4
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 6,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\ashby_jobs_ashbyhq_com_Proximal_7f947847-ea9f-41f6-a6c8-147413b9dd6e.png",
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/Proximal/7f947847-ea9f-41f6-a6c8-147413b9dd6e",
+      "elapsed_sec": 19.89
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 5,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\ashby_jobs_ashbyhq_com_Wisdom-AI_35029bbd-c8cd-448a-8491-65ea639dbea2.png",
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/Wisdom-AI/35029bbd-c8cd-448a-8491-65ea639dbea2",
+      "elapsed_sec": 19.95
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 17,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\ashby_jobs_ashbyhq_com_airwallex_5031c6ab-8fd3-4b2f-8c1d-4271e85075b0.png",
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/airwallex/5031c6ab-8fd3-4b2f-8c1d-4271e85075b0",
+      "elapsed_sec": 36.32
+    },
+    {
+      "status": "SKIPPED_DEAD",
+      "reason": "No Ashby application form",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\ashby_jobs_ashbyhq_com_anyone-ai_00d01f25-b22d-49e0-a21c-03839c58107b.png",
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/anyone-ai/00d01f25-b22d-49e0-a21c-03839c58107b",
+      "elapsed_sec": 23.0
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 12,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\ashby_jobs_ashbyhq_com_ambient_ai_e56b113b-69a1-4d38-8b9c-eb3460b9447e.png",
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/ambient.ai/e56b113b-69a1-4d38-8b9c-eb3460b9447e",
+      "elapsed_sec": 32.61
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 6,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\ashby_jobs_ashbyhq_com_anyone-ai_227d54fd-ef63-4aea-af01-c97e6ced64b6.png",
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/anyone-ai/227d54fd-ef63-4aea-af01-c97e6ced64b6",
+      "elapsed_sec": 50.74
+    },
+    {
+      "status": "SKIPPED_DEAD",
+      "reason": "No Ashby application form",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\ashby_jobs_ashbyhq_com_anyone-ai_e825df23-e721-465b-87d7-04a569f7269e.png",
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/anyone-ai/e825df23-e721-465b-87d7-04a569f7269e",
+      "elapsed_sec": 21.95
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 3,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\ashby_jobs_ashbyhq_com_ande_9b4b95ad-7ed1-481f-acc8-02480ec765a2.png",
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/ande/9b4b95ad-7ed1-481f-acc8-02480ec765a2",
+      "elapsed_sec": 17.66
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 9,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\ashby_jobs_ashbyhq_com_arena_d82adca7-5bd5-4c54-b201-3d027968764d.png",
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/arena/d82adca7-5bd5-4c54-b201-3d027968764d",
+      "elapsed_sec": 34.66
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 8,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\ashby_jobs_ashbyhq_com_avoca_ec05c135-ab26-437a-8fe9-f7a5c4da08e5.png",
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/avoca/ec05c135-ab26-437a-8fe9-f7a5c4da08e5",
+      "elapsed_sec": 30.44
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 16,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\ashby_jobs_ashbyhq_com_barnes_1881dbc0-846e-4805-968f-4e27d663f7b0.png",
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/barnes/1881dbc0-846e-4805-968f-4e27d663f7b0",
+      "elapsed_sec": 30.51
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 14,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\ashby_jobs_ashbyhq_com_allen-control-systems_a7831fef-7125-4c03-b828-5f0472989037.png",
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/allen-control-systems/a7831fef-7125-4c03-b828-5f0472989037",
+      "elapsed_sec": 159.96
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 11,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\ashby_jobs_ashbyhq_com_baseten_64181d8a-960d-4aa4-8d98-3cb22b1e0616.png",
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/baseten/64181d8a-960d-4aa4-8d98-3cb22b1e0616",
+      "elapsed_sec": 22.16
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 17,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\ashby_jobs_ashbyhq_com_applied_9cfb2e93-8f7c-449e-8d21-61e22fff075a.png",
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/applied/9cfb2e93-8f7c-449e-8d21-61e22fff075a",
+      "elapsed_sec": 154.32
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 13,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\ashby_jobs_ashbyhq_com_applied_2ffcb384-3729-450c-8363-25818c76f2c7.png",
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/applied/2ffcb384-3729-450c-8363-25818c76f2c7",
+      "elapsed_sec": 153.23
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 13,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\ashby_jobs_ashbyhq_com_applied_4cee3e2f-3fec-42fd-a700-d570798d815a.png",
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/applied/4cee3e2f-3fec-42fd-a700-d570798d815a",
+      "elapsed_sec": 150.44
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 7,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\ashby_jobs_ashbyhq_com_bio_80145424-4809-46b2-99b9-8aae501be616.png",
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/bio/80145424-4809-46b2-99b9-8aae501be616",
+      "elapsed_sec": 20.07
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 16,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\ashby_jobs_ashbyhq_com_bjakcareer_078a3570-7a48-4e41-98dd-97dc11b671ea.png",
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/bjakcareer/078a3570-7a48-4e41-98dd-97dc11b671ea",
+      "elapsed_sec": 25.18
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 7,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\ashby_jobs_ashbyhq_com_bio_515cd00c-c691-4082-8036-606ec1a47a2c.png",
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/bio/515cd00c-c691-4082-8036-606ec1a47a2c",
+      "elapsed_sec": 35.63
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 109,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\ashby_jobs_ashbyhq_com_barnes_fd87b2c0-dec0-4d54-8543-da70dd28a802.png",
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/barnes/fd87b2c0-dec0-4d54-8543-da70dd28a802",
+      "elapsed_sec": 105.45
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 7,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\ashby_jobs_ashbyhq_com_bio_a40c8d4d-c2e2-45eb-97a3-4d95f9846794.png",
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/bio/a40c8d4d-c2e2-45eb-97a3-4d95f9846794",
+      "elapsed_sec": 24.03
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 7,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\ashby_jobs_ashbyhq_com_bio_b79d687d-541b-425c-be29-143dc065da9b.png",
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/bio/b79d687d-541b-425c-be29-143dc065da9b",
+      "elapsed_sec": 20.49
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 11,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\ashby_jobs_ashbyhq_com_bjakcareer_10b34bc8-bdad-4650-a0eb-f3e2cb8a27cf.png",
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/bjakcareer/10b34bc8-bdad-4650-a0eb-f3e2cb8a27cf",
+      "elapsed_sec": 31.08
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 18,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\ashby_jobs_ashbyhq_com_applied_e015ce66-91c0-4361-a789-70ddbccc4e06.png",
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/applied/e015ce66-91c0-4361-a789-70ddbccc4e06",
+      "elapsed_sec": 162.37
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 11,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\ashby_jobs_ashbyhq_com_bjakcareer_08454ce3-a782-45b8-834e-a3c9452b1647.png",
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/bjakcareer/08454ce3-a782-45b8-834e-a3c9452b1647",
+      "elapsed_sec": 30.25
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 17,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\ashby_jobs_ashbyhq_com_applied_3137ff11-69ad-4a24-8086-36ef9249c611.png",
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/applied/3137ff11-69ad-4a24-8086-36ef9249c611",
+      "elapsed_sec": 157.0
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 16,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\ashby_jobs_ashbyhq_com_bjakcareer_8999725a-64ae-4645-adbc-b7e9e8806f4d.png",
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/bjakcareer/8999725a-64ae-4645-adbc-b7e9e8806f4d",
+      "elapsed_sec": 24.34
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 16,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\ashby_jobs_ashbyhq_com_bjakcareer_705d2156-d34f-4f2b-9266-f78de0e09c60.png",
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/bjakcareer/705d2156-d34f-4f2b-9266-f78de0e09c60",
+      "elapsed_sec": 29.07
+    }
+  ]
+}

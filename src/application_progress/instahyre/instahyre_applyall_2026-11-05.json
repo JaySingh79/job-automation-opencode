@@ -1,0 +1,105 @@
+{
+  "timestamp": "2026-11-05T19:48:00Z",
+  "local_timestamp": "2026-11-06T01:18:00+05:30",
+  "platform": "Instahyre",
+  "driver": "playwright-extention",
+  "sweep_duration_minutes": 79,
+  "experience_filter": "max 2 yrs (years=2)",
+  "initial_applied_count": 1891,
+  "final_applied_count": 2172,
+  "total_applications_submitted": 281,
+  "skills_processed": [
+    {
+      "skill": "Machine Learning",
+      "applied": 34,
+      "status": "completed"
+    },
+    {
+      "skill": "Generative AI",
+      "applied": 51,
+      "status": "completed"
+    },
+    {
+      "skill": "Data Science",
+      "applied": 25,
+      "status": "completed"
+    },
+    {
+      "skill": "AI",
+      "applied": 15,
+      "status": "completed"
+    },
+    {
+      "skill": "ML",
+      "applied": 7,
+      "status": "completed"
+    },
+    {
+      "skill": "Data Scientist",
+      "applied": 31,
+      "status": "completed"
+    },
+    {
+      "skill": "Deep Learning",
+      "applied": 18,
+      "status": "completed"
+    },
+    {
+      "skill": "NLP",
+      "applied": 0,
+      "status": "completed (0 results)"
+    },
+    {
+      "skill": "Computer Vision",
+      "applied": 15,
+      "status": "completed"
+    },
+    {
+      "skill": "GenAI",
+      "applied": 0,
+      "status": "completed (0 results)"
+    },
+    {
+      "skill": "RAG",
+      "applied": 2,
+      "status": "completed"
+    },
+    {
+      "skill": "LLMs",
+      "applied": 0,
+      "status": "completed (0 results)"
+    },
+    {
+      "skill": "Python",
+      "applied": 13,
+      "status": "completed"
+    },
+    {
+      "skill": "Backend Developer",
+      "applied": 30,
+      "status": "completed"
+    },
+    {
+      "skill": "Software Engineer",
+      "applied": 27,
+      "status": "completed"
+    },
+    {
+      "skill": "Backend",
+      "applied": 12,
+      "status": "completed"
+    },
+    {
+      "skill": "Full Stack Developer",
+      "applied": 10,
+      "status": "partial / sweep time elapsed"
+    }
+  ],
+  "rules_enforced": {
+    "zero_skips": true,
+    "experience_filter_frozen_2yrs": true,
+    "native_modal_1_click_applies": true,
+    "bypassed_external_redirects": true,
+    "tab_discipline_strict": true
+  }
+}

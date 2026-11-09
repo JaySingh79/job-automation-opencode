@@ -1,0 +1,132 @@
+{
+  "worker": 3,
+  "batch": 3,
+  "sprint": 5,
+  "sweep": "additional_200",
+  "target_applied": 12,
+  "applied_count": 7,
+  "parked_count": 10,
+  "already_applied_count": 0,
+  "failed_count": 0,
+  "all_results": [
+    {
+      "jobId": 1648811,
+      "title": "Data Scientist - Python",
+      "company": "Aspyra HR Services ",
+      "status": "parked_assessment",
+      "reason": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "jobId": 1645611,
+      "title": "Unico Connect - Senior AI Engineer - LangGraph/LangChain",
+      "company": "Unico Connect",
+      "status": "parked_assessment",
+      "reason": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "jobId": 1644393,
+      "title": "Machine Learning Engineer - PySpark/Python",
+      "company": "Gloify",
+      "status": "parked_assessment",
+      "reason": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "jobId": 1643320,
+      "title": "Data Scientist - Machine Learning/Python",
+      "company": "EXPEDITE HIRE",
+      "status": "parked_assessment",
+      "reason": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "jobId": 1682426,
+      "title": "Haptik - L2 Backend Engineer - Voice/Agentic AI",
+      "company": "Haptik",
+      "status": "applied",
+      "applicationId": 79305319
+    },
+    {
+      "jobId": 1682441,
+      "title": "Backend Software Development Engineer II",
+      "company": "Incanus Technologies",
+      "status": "applied",
+      "applicationId": 79305321
+    },
+    {
+      "jobId": 1680735,
+      "title": "Trendlyne - Backend Engineer - Python",
+      "company": "Giskard Datatech",
+      "status": "parked_assessment",
+      "reason": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "jobId": 1680736,
+      "title": "Trendlyne - Backend Engineer - Python",
+      "company": "Giskard Datatech",
+      "status": "parked_assessment",
+      "reason": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "jobId": 1678320,
+      "title": "Medi Assist - .Net Developer - C#",
+      "company": "Medibuddy",
+      "status": "applied",
+      "applicationId": 79305333
+    },
+    {
+      "jobId": 1678285,
+      "title": "Medi Assist - Senior Backend Developer - .Net Core",
+      "company": "Medibuddy",
+      "status": "applied",
+      "applicationId": 79305334
+    },
+    {
+      "jobId": 1682328,
+      "title": "iRage - Go Language Developer - Algorithmic Trading",
+      "company": "Irage Broking Services",
+      "status": "parked_assessment",
+      "reason": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "jobId": 1682160,
+      "title": "Senior Software Engineer - .Net",
+      "company": "Spectraforce Technologies",
+      "status": "parked_assessment",
+      "reason": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "jobId": 1681824,
+      "title": "TrueFan AI - Software Development Engineer II - Python Frameworks",
+      "company": "TrueFan",
+      "status": "parked_assessment",
+      "reason": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "jobId": 1679657,
+      "title": "Accion Labs - Senior .Net Developer - Microservices Architecture",
+      "company": "Accion Labs",
+      "status": "applied",
+      "applicationId": 79305348
+    },
+    {
+      "jobId": 1682416,
+      "title": "Software Developer - PHP/Laravel",
+      "company": "Caprion",
+      "status": "parked_assessment",
+      "reason": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "jobId": 1682373,
+      "title": "Software Development Engineer II - Backend Architecture",
+      "company": "HiringBlaze",
+      "status": "applied",
+      "applicationId": 79305351
+    },
+    {
+      "jobId": 1682376,
+      "title": "Software Development Engineer II - Python",
+      "company": "HiringBlaze",
+      "status": "applied",
+      "applicationId": 79305352
+    }
+  ]
+}

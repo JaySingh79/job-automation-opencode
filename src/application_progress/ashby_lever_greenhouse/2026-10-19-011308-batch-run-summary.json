@@ -1,0 +1,68 @@
+[
+  {
+    "status": "awaiting_human_captcha_submit",
+    "reason": "reCAPTCHA visual challenge presented on Ashby",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\supabase-captcha-challenge.png",
+    "url": "https://jobs.ashbyhq.com/supabase/3b5d54ca-741b-45ac-bd3f-31605a0d3541/application",
+    "job_url": "https://jobs.ashbyhq.com/supabase/3b5d54ca-741b-45ac-bd3f-31605a0d3541",
+    "company": "supabase",
+    "role": "AI Platform Engineer",
+    "platform": "ashby",
+    "duration_seconds": 17.9
+  },
+  {
+    "status": "awaiting_human_otp",
+    "reason": "Greenhouse email OTP challenge presented",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\hyreo-otp-challenge.png",
+    "url": "https://job-boards.greenhouse.io/hyreo/jobs/4892841004",
+    "job_url": "https://job-boards.greenhouse.io/hyreo/jobs/4892841004",
+    "company": "hyreo",
+    "role": "123 Devops Engineer - VAPT",
+    "platform": "greenhouse",
+    "duration_seconds": 18.8
+  },
+  {
+    "status": "awaiting_human_captcha_submit",
+    "reason": "hCaptcha challenge presented on Lever",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\kobie-captcha-challenge.png",
+    "url": "https://jobs.lever.co/kobie/c1563397-e50b-4e33-acec-d2f528722ae8/apply",
+    "job_url": "https://jobs.lever.co/kobie/c1563397-e50b-4e33-acec-d2f528722ae8",
+    "company": "kobie",
+    "role": "Software Engineer",
+    "platform": "lever",
+    "duration_seconds": 18.6
+  },
+  {
+    "status": "awaiting_human_captcha_submit",
+    "reason": "reCAPTCHA visual challenge presented on Ashby",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\genesis-captcha-challenge.png",
+    "url": "https://jobs.ashbyhq.com/genesis/dd38f3c3-de73-489b-bad7-2393fa2dfd24/application",
+    "job_url": "https://jobs.ashbyhq.com/genesis/dd38f3c3-de73-489b-bad7-2393fa2dfd24",
+    "company": "genesis",
+    "role": "ML Compiler & System",
+    "platform": "ashby",
+    "duration_seconds": 18.4
+  },
+  {
+    "status": "awaiting_human_otp",
+    "reason": "Greenhouse email OTP challenge presented",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\airbnb-otp-challenge.png",
+    "url": "https://job-boards.greenhouse.io/embed/job_app?for=airbnb&validityToken=GRm300o2nPAPgqp_mV6iJtcHDf16yGVxRlLajQh94nvWlClJ--gP_Rjcupq_q7nPSQxZFig66ph7jB1FMP6l8RE3JykAztSTW7Te7Sn4rkYd5CFMyw6H6SZzw23zVeG6UFdF8XCqu1Fz8cM5JBgNlofvkksOD_qd_Ez8sUjPpX0iOs8XqmKcN89VMWrRg1d4jLdJvdcfpjdP-fki8Ks59crtX5OGgoD0AVshXmIfeECDN39l9nRp47m1rXbQdxz8ikeiJaLfeela5ECxeFRio7UUxYk03c-NoIUTyWaQUx6HNDLdgA48j2Q3ijc1laUMkXKpFsrffMIlEQnc7RY86g%3D%3D&token=8031901",
+    "job_url": "https://careers.airbnb.com/positions/8031901?gh_jid=8031901",
+    "company": "airbnb",
+    "role": "Data Scientist - Algorithms, Community Support",
+    "platform": "greenhouse",
+    "duration_seconds": 38.7
+  },
+  {
+    "status": "awaiting_human_captcha_submit",
+    "reason": "hCaptcha challenge presented on Lever",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\jumpcloud-captcha-challenge.png",
+    "url": "https://jobs.lever.co/jumpcloud/9bfc9bfb-15f0-4984-85dc-d1adc90a415c/apply",
+    "job_url": "https://jobs.lever.co/jumpcloud/9bfc9bfb-15f0-4984-85dc-d1adc90a415c",
+    "company": "jumpcloud",
+    "role": "Site Reliability Engineer - India",
+    "platform": "lever",
+    "duration_seconds": 20.4
+  }
+]

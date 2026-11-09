@@ -1,0 +1,46 @@
+[
+  {
+    "status": "awaiting_human_captcha_submit",
+    "reason": "reCAPTCHA visual challenge presented on Ashby",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\bjakcareer-captcha-challenge.png",
+    "url": "https://jobs.ashbyhq.com/bjakcareer/705d2156-d34f-4f2b-9266-f78de0e09c60/application",
+    "job_url": "https://jobs.ashbyhq.com/bjakcareer/705d2156-d34f-4f2b-9266-f78de0e09c60",
+    "company": "bjakcareer",
+    "role": "Product Owner, AI Internal Systems",
+    "platform": "ashby",
+    "duration_seconds": 87.4
+  },
+  {
+    "status": "awaiting_human_otp",
+    "reason": "Greenhouse email OTP challenge presented",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\harnessinc-otp-challenge.png",
+    "url": "https://job-boards.greenhouse.io/embed/job_app?for=harnessinc&validityToken=lF7f6BFz4Vzb0EDLC9AZvZ2yom3aFAVl26F9QITIc99n5kteTZbV3XzN5Cg8mS1VUy4btm-WrmxJW-o41jOnF2joVNXO6P35JXBdimc_dy5u5GchIBWOOstMdIQAsjjEyU40bNLRlqiDn_KOrroXb-el-dJ8t268z0jRZi5jjESR5hCSloCf7IVfD839ha6klTo9X9RMN2coTeJYbnPJTmgS8lcmygpVH6qhCI0pEr3gyRuXjxtU7mjlfWcD0SP2FzvPKPddC2GWBgO7NVSFzCxz8h8UOa8wQ88jygMRjA4kBohBpKZ-upVMfv_KIKC53HA8nnPin4fW3mdU17t0WA%3D%3D&token=5239607007",
+    "job_url": "https://www.harness.io/company/jobs/apply?gh_jid=5239607007&gh_jid=5239607007",
+    "company": "harnessinc",
+    "role": "Security Engineer \u2013 Cloud & Infrastructure Security",
+    "platform": "greenhouse",
+    "duration_seconds": 98.0
+  },
+  {
+    "status": "awaiting_human_captcha_submit",
+    "reason": "hCaptcha challenge presented on Lever",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\lingarogroup-captcha-challenge.png",
+    "url": "https://jobs.lever.co/lingarogroup/18f8d2c5-b52a-4d9f-b4ff-3f71e0fee53d/apply",
+    "job_url": "https://jobs.lever.co/lingarogroup/18f8d2c5-b52a-4d9f-b4ff-3f71e0fee53d",
+    "company": "lingarogroup",
+    "role": "ML/AI Engineer - Adecco",
+    "platform": "lever",
+    "duration_seconds": 90.0
+  },
+  {
+    "status": "awaiting_human_captcha_submit",
+    "reason": "reCAPTCHA visual challenge presented on Ashby",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\bjakcareer-captcha-challenge.png",
+    "url": "https://jobs.ashbyhq.com/bjakcareer/4693af98-b7d4-47dd-a4c0-5d9ebdff081a/application",
+    "job_url": "https://jobs.ashbyhq.com/bjakcareer/4693af98-b7d4-47dd-a4c0-5d9ebdff081a",
+    "company": "bjakcareer",
+    "role": "Backend Engineer, AI Internal Systems",
+    "platform": "ashby",
+    "duration_seconds": 86.7
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1670445,
+    "title": "SCORELABS - Backend Engineer - Python/Golang",
+    "company": "SCORESOFTLABS(OPC)PRIVATE LIMITED    ",
+    "min": 3,
+    "max": 6,
+    "exp": "3-6 yrs",
+    "location": "Bangalore",
+    "tags": [
+      "Python",
+      "Golang",
+      "Backend Architecture",
+      "API Integration",
+      "AWS",
+      "OOPS",
+      "System Design"
+    ],
+    "createdTime": 1788978600000
+  },
+  {
+    "id": 1669887,
+    "title": "NielsenIQ - Software Engineer - PHP/Symfony",
+    "company": "NielsenIQ",
+    "min": 3,
+    "max": 5,
+    "exp": "3-5 yrs",
+    "location": "Mumbai",
+    "tags": [
+      "PHP",
+      "Symfony",
+      "MySQL",
+      "MariaDB",
+      "ElasticSearch",
+      "Javascript",
+      "TypeScript"
+    ],
+    "createdTime": 1788892200000
+  },
+  {
+    "id": 1670165,
+    "title": "Software Developer - Python/Java",
+    "company": "Skyleaf Consultants",
+    "min": 3,
+    "max": 8,
+    "exp": "3-8 yrs",
+    "location": "Gurgaon/Gurugram",
+    "tags": [
+      "Python",
+      "Java",
+      "C#",
+      "Backend Architecture",
+      "Design Patterns",
+      "Git"
+    ],
+    "createdTime": 1788892200000
+  },
+  {
+    "id": 1669826,
+    "title": "Backend Software Engineer - Ruby/Go",
+    "company": "HyrMe",
+    "min": 3,
+    "max": 6,
+    "exp": "3-6 yrs",
+    "location": "Bangalore",
+    "tags": [
+      "Ruby on Rails",
+      "Golang",
+      "Kubernetes",
+      "AWS",
+      "PostgreSQL",
+      "Cloud",
+      "Ruby Programming",
+      "API"
+    ],
+    "createdTime": 1788892200000
+  },
+  {
+    "id": 1669374,
+    "title": "System Engineer - Microservices Architecture",
+    "company": "BinaryStar SearchX",
+    "min": 3,
+    "max": 5,
+    "exp": "3-5 yrs",
+    "location": "Pune",
+    "tags": [
+      "Java",
+      "Spring Boot",
+      "Microservices Architecture",
+      "System Configuration",
+      "Monitoring Tools"
+    ],
+    "createdTime": 1788805800000
+  },
+  {
+    "id": 1669195,
+    "title": "AI Engineer - C++/Python",
+    "company": "QuickHyre",
+    "min": 3,
+    "max": 30,
+    "exp": "3-30 yrs",
+    "location": "Anywhere in India/Multiple Locations | Overseas/International",
+    "tags": [
+      "Artificial Intelligence",
+      "C++",
+      "Python",
+      "Golang",
+      "Data Structure",
+      "Algorithm",
+      "AI Integration"
+    ],
+    "createdTime": 1788719400000
+  }
+]

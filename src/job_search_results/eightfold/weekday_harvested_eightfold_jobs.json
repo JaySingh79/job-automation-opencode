@@ -1,0 +1,104 @@
+[
+  {
+    "id": "microsoft-software-engineering-ic2-awm3",
+    "title": "Software Engineering IC2",
+    "company": "Microsoft",
+    "location": [
+      "India"
+    ],
+    "experience": 1,
+    "salary": null,
+    "weekday_url": "https://jobs.weekday.works/microsoft-software-engineering-ic2-awm3",
+    "careers_url": "https://microsoft.eightfold.ai/careers/job/1970393557050388",
+    "ats_category": "eightfold",
+    "skills": [
+      "C",
+      "C++",
+      "C#",
+      "Java",
+      "JavaScript",
+      "Python"
+    ]
+  },
+  {
+    "id": "eaton-engineer---structural-dynamics-ohgf",
+    "title": "Engineer - Structural Dynamics",
+    "company": "Eaton",
+    "location": [
+      "Pune, Maharashtra, India"
+    ],
+    "experience": "",
+    "salary": null,
+    "weekday_url": "https://jobs.weekday.works/eaton-engineer---structural-dynamics-ohgf",
+    "careers_url": "https://eaton.eightfold.ai/careers/job/687239984593",
+    "ats_category": "eightfold",
+    "skills": [
+      "ADAMS",
+      "ANSYS Workbench"
+    ]
+  },
+  {
+    "id": "netapp-technical-support-engineer-pm9x",
+    "title": "Technical Support Engineer",
+    "company": "NetApp",
+    "location": [
+      "Bangalore, Karnataka, India"
+    ],
+    "experience": "",
+    "salary": null,
+    "weekday_url": "https://jobs.weekday.works/netapp-technical-support-engineer-pm9x",
+    "careers_url": "https://netapp.eightfold.ai/careers/job/45137883",
+    "ats_category": "eightfold",
+    "skills": [
+      "AWS",
+      "Azure",
+      "GCP",
+      "Windows",
+      "Linux",
+      "Unix"
+    ]
+  },
+  {
+    "id": "trinet-associate-data-analyst",
+    "title": "Associate Data Analyst",
+    "company": "TriNet",
+    "location": [
+      "Hyderabad, Telangana, India"
+    ],
+    "experience": 1,
+    "salary": null,
+    "weekday_url": "https://jobs.weekday.works/trinet-associate-data-analyst",
+    "careers_url": "https://trinet.eightfold.ai/careers/job/44968811",
+    "ats_category": "eightfold",
+    "skills": [
+      "Microsoft Office Suite",
+      "Microsoft Excel",
+      "SQL",
+      "Power BI",
+      "Tableau",
+      "Python",
+      "R"
+    ]
+  },
+  {
+    "id": "nvidia-verification-engineer%2C-pcie",
+    "title": "Verification Engineer, PCIE",
+    "company": "NVIDIA",
+    "location": [
+      "Bengaluru, Karnataka, India"
+    ],
+    "experience": 1,
+    "salary": null,
+    "weekday_url": "https://jobs.weekday.works/nvidia-verification-engineer%2C-pcie",
+    "careers_url": "https://nvidia.eightfold.ai/careers/job/893397988286",
+    "ats_category": "eightfold",
+    "skills": [
+      "Verilog",
+      "SystemVerilog",
+      "UVM",
+      "VMM",
+      "Perl",
+      "Python"
+    ]
+  }
+]

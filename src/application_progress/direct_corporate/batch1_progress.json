@@ -1,0 +1,92 @@
+[
+  {
+    "company": "Eulogik",
+    "title": "Full-Stack Engineer - AI Platforms",
+    "url": "https://eulogik.com/careers",
+    "status": "READY_FOR_HUMAN_SUBMISSION",
+    "timestamp": "2026-10-29 13:43:11",
+    "fields_filled": {
+      "job_selected": "Full-Stack Engineer \u2013 AI Platforms",
+      "name": "Jay Singh",
+      "email": "singhjay7100@gmail.com",
+      "phone": "+91 8651274328",
+      "linkedin": "https://linkedin.com/in/jay-singh-ds/",
+      "experience": "0\u20132 years",
+      "resume": "Jay Resume GenAI+DS 5th Aug.pdf",
+      "pitch_message": "I am an IIT Kharagpur graduate (2024) with 1.5 years of hands-on experience building scalable Full-Stack and AI/ML systems. I specialize in Python, FastAPI, React/Next.js, LLM orchestration, and RAG architectures. I have engineered production-grade LLM applications, multimodal pipelines, and resilient microservices. Enthusiastic to contribute high-impact engineering to Eulogik's AI Platforms."
+    },
+    "snapshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\Eulogik\\02_staged_for_review.png",
+    "notes": "All form fields accurately populated top-to-bottom. Honeypot check passed (0 honeypots). Halted right before final submission."
+  },
+  {
+    "company": "Fresh Gravity",
+    "title": "Databricks Data Engineer with AI Agent Experience",
+    "url": "https://orbit.freshgravity.net/apply/9CEE6CDED9",
+    "status": "READY_FOR_HUMAN_SUBMISSION",
+    "timestamp": "2026-10-29 13:45:09",
+    "fields_filled": {
+      "name": "Jay Singh",
+      "email": "singhjay7100@gmail.com",
+      "phone": "+91 8651274328",
+      "experience": "1.5",
+      "linkedin": "https://linkedin.com/in/jay-singh-ds/",
+      "current_company": "Pibit AI (YC W21)",
+      "current_role": "AI Engineer",
+      "key_skills": "Databricks, Python, AI Agents, LLM, PySpark, Machine Learning, RAG, SQL",
+      "resume": "Jay Resume GenAI+DS 5th Aug.pdf"
+    },
+    "snapshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\Fresh_Gravity\\02_staged_for_review.png",
+    "notes": "Direct Orbit ATS form filled top-to-bottom. Honeypot check passed. Halted at final submission stage."
+  },
+  {
+    "company": "Amlgo Labs",
+    "title": "Junior AI Engineer",
+    "url": "https://www.amlgolabs.com/careers/683ff392c0e090b5b03f63bb",
+    "status": "READY_FOR_HUMAN_SUBMISSION",
+    "timestamp": "2026-10-29 13:47:44",
+    "fields_filled": {
+      "name": "Jay Singh",
+      "email": "singhjay7100@gmail.com",
+      "phone": "+91 8651274328",
+      "cover_letter": "I am an IIT Kharagpur graduate (2024) with 1.5 years of industry experience specializing in Applied AI, Machine Learning, and generative models. At Pibit AI, I built production-grade RAG pipelines, vision-language systems, and LLM evaluation harnesses with Python and PyTorch. Excited to apply my AI engineering background to drive innovative business solutions at Amlgo Labs.",
+      "resume": "Jay Resume GenAI+DS 5th Aug.pdf",
+      "agreement": true
+    },
+    "snapshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\Amlgo_Labs\\02_staged_for_review.png",
+    "notes": "Direct bespoke corporate form filled top-to-bottom. Honeypot check passed. Halted at final submission stage."
+  },
+  {
+    "company": "Softdel Systems",
+    "title": "Software Engineer - Embedded Systems (Fresher)",
+    "url": "https://www.softdel.com/jobs/software-engineer-embedded-systems/",
+    "status": "READY_FOR_HUMAN_SUBMISSION",
+    "timestamp": "2026-10-29 13:48:37",
+    "fields_filled": {
+      "name": "Jay Singh",
+      "email": "singhjay7100@gmail.com",
+      "phone": "+91 8651274328",
+      "cover_letter": "I am an IIT Kharagpur graduate (2024) with a rigorous foundation in Computer Architecture, Algorithms, Linux systems, and Python/C systems programming. At Pibit AI and Pascal AI Labs, I engineered high-performance, low-latency computing workflows and data pipelines. Keen to contribute strong analytical and systems engineering skills to Softdel's embedded software team.",
+      "resume": "Jay Resume GenAI+DS 5th Aug.pdf",
+      "privacy_policy_accepted": true
+    },
+    "snapshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\Softdel_Systems\\02_staged_for_review.png",
+    "notes": "AWSM career portal form filled top-to-bottom. Honeypot check passed. Halted at final submission stage."
+  },
+  {
+    "company": "Appic Softwares",
+    "title": "Generative AI Engineer",
+    "url": "https://appicsoftwares.com/careers/",
+    "status": "READY_FOR_HUMAN_SUBMISSION",
+    "timestamp": "2026-10-29 13:50:40",
+    "fields_filled": {
+      "name": "Jay Singh",
+      "email": "singhjay7100@gmail.com",
+      "phone": "+91 8651274328",
+      "skills": "Generative AI, LLM, Python, PyTorch, RAG, LangChain, FastAPI, Prompt Engineering",
+      "message": "I am an IIT Kharagpur graduate (2024) with 1.5 years of industry experience specializing in Generative AI, Large Language Models, and RAG architectures. At Pibit AI, I engineered production LLM pipelines, agentic workflows, and multimodal systems using Python, PyTorch, and FastAPI. Excited to contribute to Appic Softwares' Generative AI team.",
+      "resume": "Jay Resume GenAI+DS 5th Aug.pdf"
+    },
+    "snapshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\Appic_Softwares\\02_staged_for_review.png",
+    "notes": "Direct corporate career form filled top-to-bottom. Honeypot check passed. Halted at final submission stage."
+  }
+]

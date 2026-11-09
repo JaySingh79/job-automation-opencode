@@ -1,0 +1,1236 @@
+{
+  "timestamp": "2026-10-20 03:27:21.150776",
+  "overall_score": "120/120 (100.0%)",
+  "summary": {
+    "ashby": {
+      "total_evaluated": 32,
+      "active_total": 30,
+      "passed": 30,
+      "dead_skipped": 2,
+      "failed": 0
+    },
+    "greenhouse": {
+      "total_evaluated": 79,
+      "active_total": 30,
+      "passed": 30,
+      "dead_skipped": 49,
+      "failed": 0
+    },
+    "lever": {
+      "total_evaluated": 30,
+      "active_total": 30,
+      "passed": 30,
+      "dead_skipped": 0,
+      "failed": 0
+    },
+    "smartrecruiters": {
+      "total_evaluated": 33,
+      "active_total": 30,
+      "passed": 30,
+      "dead_skipped": 3,
+      "failed": 0
+    }
+  },
+  "passed_120": [
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 3,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\ashby_jobs_ashbyhq_com_aiprise_3763c791-a387-4078-9ca4-00cbfbf9b1a6.png",
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/aiprise/3763c791-a387-4078-9ca4-00cbfbf9b1a6",
+      "elapsed_sec": 18.65
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 3,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\ashby_jobs_ashbyhq_com_Meraki-Labs_93ff65d2-f0cd-4fd1-b76f-b2e350f2d6c8.png",
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/Meraki-Labs/93ff65d2-f0cd-4fd1-b76f-b2e350f2d6c8",
+      "elapsed_sec": 19.24
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 3,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\ashby_jobs_ashbyhq_com_Meraki-Labs_958edd0a-edca-4da9-b65e-2aac4c6564fe.png",
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/Meraki-Labs/958edd0a-edca-4da9-b65e-2aac4c6564fe",
+      "elapsed_sec": 19.3
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 6,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\ashby_jobs_ashbyhq_com_ahl-saafai_d2b7a8fa-a108-4a46-a22b-364759bf75a4.png",
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/ahl-saafai/d2b7a8fa-a108-4a46-a22b-364759bf75a4",
+      "elapsed_sec": 23.4
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 6,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\ashby_jobs_ashbyhq_com_Proximal_7f947847-ea9f-41f6-a6c8-147413b9dd6e.png",
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/Proximal/7f947847-ea9f-41f6-a6c8-147413b9dd6e",
+      "elapsed_sec": 19.89
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 5,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\ashby_jobs_ashbyhq_com_Wisdom-AI_35029bbd-c8cd-448a-8491-65ea639dbea2.png",
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/Wisdom-AI/35029bbd-c8cd-448a-8491-65ea639dbea2",
+      "elapsed_sec": 19.95
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 17,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\ashby_jobs_ashbyhq_com_airwallex_5031c6ab-8fd3-4b2f-8c1d-4271e85075b0.png",
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/airwallex/5031c6ab-8fd3-4b2f-8c1d-4271e85075b0",
+      "elapsed_sec": 36.32
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 12,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\ashby_jobs_ashbyhq_com_ambient_ai_e56b113b-69a1-4d38-8b9c-eb3460b9447e.png",
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/ambient.ai/e56b113b-69a1-4d38-8b9c-eb3460b9447e",
+      "elapsed_sec": 32.61
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 6,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\ashby_jobs_ashbyhq_com_anyone-ai_227d54fd-ef63-4aea-af01-c97e6ced64b6.png",
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/anyone-ai/227d54fd-ef63-4aea-af01-c97e6ced64b6",
+      "elapsed_sec": 50.74
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 3,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\ashby_jobs_ashbyhq_com_ande_9b4b95ad-7ed1-481f-acc8-02480ec765a2.png",
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/ande/9b4b95ad-7ed1-481f-acc8-02480ec765a2",
+      "elapsed_sec": 17.66
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 9,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\ashby_jobs_ashbyhq_com_arena_d82adca7-5bd5-4c54-b201-3d027968764d.png",
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/arena/d82adca7-5bd5-4c54-b201-3d027968764d",
+      "elapsed_sec": 34.66
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 8,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\ashby_jobs_ashbyhq_com_avoca_ec05c135-ab26-437a-8fe9-f7a5c4da08e5.png",
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/avoca/ec05c135-ab26-437a-8fe9-f7a5c4da08e5",
+      "elapsed_sec": 30.44
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 16,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\ashby_jobs_ashbyhq_com_barnes_1881dbc0-846e-4805-968f-4e27d663f7b0.png",
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/barnes/1881dbc0-846e-4805-968f-4e27d663f7b0",
+      "elapsed_sec": 30.51
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 14,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\ashby_jobs_ashbyhq_com_allen-control-systems_a7831fef-7125-4c03-b828-5f0472989037.png",
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/allen-control-systems/a7831fef-7125-4c03-b828-5f0472989037",
+      "elapsed_sec": 159.96
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 11,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\ashby_jobs_ashbyhq_com_baseten_64181d8a-960d-4aa4-8d98-3cb22b1e0616.png",
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/baseten/64181d8a-960d-4aa4-8d98-3cb22b1e0616",
+      "elapsed_sec": 22.16
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 17,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\ashby_jobs_ashbyhq_com_applied_9cfb2e93-8f7c-449e-8d21-61e22fff075a.png",
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/applied/9cfb2e93-8f7c-449e-8d21-61e22fff075a",
+      "elapsed_sec": 154.32
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 13,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\ashby_jobs_ashbyhq_com_applied_2ffcb384-3729-450c-8363-25818c76f2c7.png",
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/applied/2ffcb384-3729-450c-8363-25818c76f2c7",
+      "elapsed_sec": 153.23
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 13,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\ashby_jobs_ashbyhq_com_applied_4cee3e2f-3fec-42fd-a700-d570798d815a.png",
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/applied/4cee3e2f-3fec-42fd-a700-d570798d815a",
+      "elapsed_sec": 150.44
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 7,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\ashby_jobs_ashbyhq_com_bio_80145424-4809-46b2-99b9-8aae501be616.png",
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/bio/80145424-4809-46b2-99b9-8aae501be616",
+      "elapsed_sec": 20.07
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 16,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\ashby_jobs_ashbyhq_com_bjakcareer_078a3570-7a48-4e41-98dd-97dc11b671ea.png",
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/bjakcareer/078a3570-7a48-4e41-98dd-97dc11b671ea",
+      "elapsed_sec": 25.18
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 7,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\ashby_jobs_ashbyhq_com_bio_515cd00c-c691-4082-8036-606ec1a47a2c.png",
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/bio/515cd00c-c691-4082-8036-606ec1a47a2c",
+      "elapsed_sec": 35.63
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 109,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\ashby_jobs_ashbyhq_com_barnes_fd87b2c0-dec0-4d54-8543-da70dd28a802.png",
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/barnes/fd87b2c0-dec0-4d54-8543-da70dd28a802",
+      "elapsed_sec": 105.45
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 7,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\ashby_jobs_ashbyhq_com_bio_a40c8d4d-c2e2-45eb-97a3-4d95f9846794.png",
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/bio/a40c8d4d-c2e2-45eb-97a3-4d95f9846794",
+      "elapsed_sec": 24.03
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 7,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\ashby_jobs_ashbyhq_com_bio_b79d687d-541b-425c-be29-143dc065da9b.png",
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/bio/b79d687d-541b-425c-be29-143dc065da9b",
+      "elapsed_sec": 20.49
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 11,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\ashby_jobs_ashbyhq_com_bjakcareer_10b34bc8-bdad-4650-a0eb-f3e2cb8a27cf.png",
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/bjakcareer/10b34bc8-bdad-4650-a0eb-f3e2cb8a27cf",
+      "elapsed_sec": 31.08
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 18,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\ashby_jobs_ashbyhq_com_applied_e015ce66-91c0-4361-a789-70ddbccc4e06.png",
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/applied/e015ce66-91c0-4361-a789-70ddbccc4e06",
+      "elapsed_sec": 162.37
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 11,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\ashby_jobs_ashbyhq_com_bjakcareer_08454ce3-a782-45b8-834e-a3c9452b1647.png",
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/bjakcareer/08454ce3-a782-45b8-834e-a3c9452b1647",
+      "elapsed_sec": 30.25
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 17,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\ashby_jobs_ashbyhq_com_applied_3137ff11-69ad-4a24-8086-36ef9249c611.png",
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/applied/3137ff11-69ad-4a24-8086-36ef9249c611",
+      "elapsed_sec": 157.0
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 16,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\ashby_jobs_ashbyhq_com_bjakcareer_8999725a-64ae-4645-adbc-b7e9e8806f4d.png",
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/bjakcareer/8999725a-64ae-4645-adbc-b7e9e8806f4d",
+      "elapsed_sec": 24.34
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 16,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\ashby_jobs_ashbyhq_com_bjakcareer_705d2156-d34f-4f2b-9266-f78de0e09c60.png",
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/bjakcareer/705d2156-d34f-4f2b-9266-f78de0e09c60",
+      "elapsed_sec": 29.07
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 7,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_enterpret_jobs_7580532003.png",
+      "ats": "greenhouse",
+      "url": "http://job-boards.greenhouse.io/enterpret/jobs/7580532003",
+      "elapsed_sec": 32.66
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 9,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_lynxanalytics_jobs_8647303002.png",
+      "ats": "greenhouse",
+      "url": "http://job-boards.greenhouse.io/lynxanalytics/jobs/8647303002",
+      "elapsed_sec": 32.67
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 12,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_boards_greenhouse_io_abacusinsights_jobs_8783925002.png",
+      "ats": "greenhouse",
+      "url": "https://boards.greenhouse.io/abacusinsights/jobs/8783925002",
+      "elapsed_sec": 43.2
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 20,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_doordashindia_jobs_5856393.png",
+      "ats": "greenhouse",
+      "url": "http://job-boards.greenhouse.io/doordashindia/jobs/5856393",
+      "elapsed_sec": 67.15
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 16,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_boards_greenhouse_io_oscar_jobs_8188906.png",
+      "ats": "greenhouse",
+      "url": "https://boards.greenhouse.io/oscar/jobs/8188906",
+      "elapsed_sec": 49.54
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 29,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_boards_greenhouse_io_spacex_jobs_8465286002.png",
+      "ats": "greenhouse",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8465286002",
+      "elapsed_sec": 73.4
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 16,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_bitgo_jobs_7344201002.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/bitgo/jobs/7344201002",
+      "elapsed_sec": 51.93
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 29,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_boards_greenhouse_io_spacex_jobs_8716925002.png",
+      "ats": "greenhouse",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8716925002",
+      "elapsed_sec": 96.74
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 19,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_celonis_jobs_7886062003.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7886062003",
+      "elapsed_sec": 45.48
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 16,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_bitgo_jobs_7429337002.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/bitgo/jobs/7429337002",
+      "elapsed_sec": 52.81
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 16,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_bitgo_jobs_8879340002.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/bitgo/jobs/8879340002",
+      "elapsed_sec": 50.89
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 17,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_bitgo_jobs_8869949002.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/bitgo/jobs/8869949002",
+      "elapsed_sec": 49.67
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 8,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_dscout_jobs_4379515009.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/dscout/jobs/4379515009",
+      "elapsed_sec": 32.04
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 8,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_enterpret_jobs_7847134003.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/enterpret/jobs/7847134003",
+      "elapsed_sec": 33.49
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 15,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_gitlab_jobs_8843512002.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8843512002",
+      "elapsed_sec": 43.91
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 26,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_extrahopnetworks_jobs_6130301004.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/extrahopnetworks/jobs/6130301004",
+      "elapsed_sec": 75.97
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 21,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_gitlab_jobs_8684061002.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8684061002",
+      "elapsed_sec": 62.64
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 19,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_gitlab_jobs_8775507002.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8775507002",
+      "elapsed_sec": 53.72
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 18,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_gitlab_jobs_8867756002.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8867756002",
+      "elapsed_sec": 59.36
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 29,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_gitlab_jobs_8861748002.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8861748002",
+      "elapsed_sec": 60.86
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 7,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_hackerrank_jobs_8229735.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/hackerrank/jobs/8229735",
+      "elapsed_sec": 27.73
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 7,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_hyreo_jobs_5162363004.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/hyreo/jobs/5162363004",
+      "elapsed_sec": 27.34
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 12,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_hackerrank_jobs_7461142.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/hackerrank/jobs/7461142",
+      "elapsed_sec": 31.12
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 17,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_hackerrank_jobs_8273522.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/hackerrank/jobs/8273522",
+      "elapsed_sec": 43.03
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 7,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_hyreo_jobs_5335298004.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/hyreo/jobs/5335298004",
+      "elapsed_sec": 28.09
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 16,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_jumio_jobs_4708116005.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/jumio/jobs/4708116005",
+      "elapsed_sec": 43.68
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 20,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_jumio_jobs_4713139005.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/jumio/jobs/4713139005",
+      "elapsed_sec": 52.0
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 15,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_redwoodsoftware_jobs_4451141009.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/redwoodsoftware/jobs/4451141009",
+      "elapsed_sec": 39.53
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 25,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_redwoodsoftware_jobs_4403355009.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/redwoodsoftware/jobs/4403355009",
+      "elapsed_sec": 58.82
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 14,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_skildai-careers_jobs_4136373008.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/skildai-careers/jobs/4136373008",
+      "elapsed_sec": 27.43
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 17,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\lever_jobs_lever_co_Allata_a0eb9210-f90b-4a71-9107-765fb4848001.png",
+      "ats": "lever",
+      "url": "https://jobs.lever.co/Allata/a0eb9210-f90b-4a71-9107-765fb4848001",
+      "elapsed_sec": 40.52
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 17,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\lever_jobs_lever_co_brillio-2_04883aa8-c6d4-4fd0-8862-5c371f8991b1.png",
+      "ats": "lever",
+      "url": "https://jobs.lever.co/brillio-2/04883aa8-c6d4-4fd0-8862-5c371f8991b1",
+      "elapsed_sec": 42.39
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 17,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\lever_jobs_lever_co_brillio-2_242c6a24-1116-4524-ae0d-bbaef31d5577.png",
+      "ats": "lever",
+      "url": "https://jobs.lever.co/brillio-2/242c6a24-1116-4524-ae0d-bbaef31d5577",
+      "elapsed_sec": 42.47
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 17,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\lever_jobs_lever_co_brillio-2_1d2ab0dd-9cf0-41d0-b2c3-dad339829747.png",
+      "ats": "lever",
+      "url": "https://jobs.lever.co/brillio-2/1d2ab0dd-9cf0-41d0-b2c3-dad339829747",
+      "elapsed_sec": 43.7
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 22,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\lever_jobs_lever_co_brillio-2_588d190c-d0b0-4718-8ea1-c380d5b17e4a.png",
+      "ats": "lever",
+      "url": "https://jobs.lever.co/brillio-2/588d190c-d0b0-4718-8ea1-c380d5b17e4a",
+      "elapsed_sec": 48.18
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 11,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\lever_jobs_lever_co_zimperium_5b35759a-d445-4fcb-b255-d719330af055.png",
+      "ats": "lever",
+      "url": "http://jobs.lever.co/zimperium/5b35759a-d445-4fcb-b255-d719330af055",
+      "elapsed_sec": 32.62
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 17,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\lever_jobs_lever_co_brillio-2_8463adae-9020-420e-80ef-1cf8ea03580d.png",
+      "ats": "lever",
+      "url": "https://jobs.lever.co/brillio-2/8463adae-9020-420e-80ef-1cf8ea03580d",
+      "elapsed_sec": 36.48
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 17,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\lever_jobs_lever_co_brillio-2_45c66f65-4e65-4393-a31e-19632415dcc1.png",
+      "ats": "lever",
+      "url": "https://jobs.lever.co/brillio-2/45c66f65-4e65-4393-a31e-19632415dcc1",
+      "elapsed_sec": 36.71
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 17,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\lever_jobs_lever_co_brillio-2_7fb2ac4a-a088-4c5d-b67d-77834786b729.png",
+      "ats": "lever",
+      "url": "https://jobs.lever.co/brillio-2/7fb2ac4a-a088-4c5d-b67d-77834786b729",
+      "elapsed_sec": 39.27
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 19,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\lever_jobs_lever_co_GoToGroup_dff2a165-d111-4542-bfec-ec3856892275.png",
+      "ats": "lever",
+      "url": "https://jobs.lever.co/GoToGroup/dff2a165-d111-4542-bfec-ec3856892275",
+      "elapsed_sec": 46.22
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 17,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\lever_jobs_lever_co_brillio-2_5685d0b6-0b57-4c73-9ea7-fee9944f8581.png",
+      "ats": "lever",
+      "url": "https://jobs.lever.co/brillio-2/5685d0b6-0b57-4c73-9ea7-fee9944f8581",
+      "elapsed_sec": 36.01
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 11,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\lever_jobs_lever_co_brainstorminc_5bba1aa1-1abb-4747-af0c-2d14731e17ab.png",
+      "ats": "lever",
+      "url": "https://jobs.lever.co/brainstorminc/5bba1aa1-1abb-4747-af0c-2d14731e17ab",
+      "elapsed_sec": 30.97
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 17,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\lever_jobs_lever_co_brillio-2_8cc1d9ff-c189-41f0-a24d-ec98be70b9ee.png",
+      "ats": "lever",
+      "url": "https://jobs.lever.co/brillio-2/8cc1d9ff-c189-41f0-a24d-ec98be70b9ee",
+      "elapsed_sec": 37.69
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 17,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\lever_jobs_lever_co_brillio-2_265bed8f-1d77-462c-b7ab-b82c4b129bd0.png",
+      "ats": "lever",
+      "url": "https://jobs.lever.co/brillio-2/265bed8f-1d77-462c-b7ab-b82c4b129bd0",
+      "elapsed_sec": 38.79
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 17,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\lever_jobs_lever_co_brillio-2_b80221e6-4c41-4025-8a5d-10a1304582d7.png",
+      "ats": "lever",
+      "url": "https://jobs.lever.co/brillio-2/b80221e6-4c41-4025-8a5d-10a1304582d7",
+      "elapsed_sec": 37.06
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 17,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\lever_jobs_lever_co_brillio-2_b186da86-5523-4bcd-b3fb-e6ce16325883.png",
+      "ats": "lever",
+      "url": "https://jobs.lever.co/brillio-2/b186da86-5523-4bcd-b3fb-e6ce16325883",
+      "elapsed_sec": 36.69
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 17,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\lever_jobs_lever_co_brillio-2_4eab5886-5daf-42f2-bdfb-e0fb8dcc8b8c.png",
+      "ats": "lever",
+      "url": "https://jobs.lever.co/brillio-2/4eab5886-5daf-42f2-bdfb-e0fb8dcc8b8c",
+      "elapsed_sec": 37.82
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 17,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\lever_jobs_lever_co_brillio-2_df0baced-8074-4381-b73e-ee029c321739.png",
+      "ats": "lever",
+      "url": "https://jobs.lever.co/brillio-2/df0baced-8074-4381-b73e-ee029c321739",
+      "elapsed_sec": 37.24
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 17,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\lever_jobs_lever_co_brillio-2_8bad52f4-2063-4b6c-8fb4-1f9b9a15a6fd.png",
+      "ats": "lever",
+      "url": "https://jobs.lever.co/brillio-2/8bad52f4-2063-4b6c-8fb4-1f9b9a15a6fd",
+      "elapsed_sec": 40.44
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 17,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\lever_jobs_lever_co_brillio-2_e83c8652-20c8-4640-93d8-cea560717ec2.png",
+      "ats": "lever",
+      "url": "https://jobs.lever.co/brillio-2/e83c8652-20c8-4640-93d8-cea560717ec2",
+      "elapsed_sec": 37.12
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 17,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\lever_jobs_lever_co_brillio-2_efc3b8ea-6a7b-42a7-8bde-d10957bde4ce.png",
+      "ats": "lever",
+      "url": "https://jobs.lever.co/brillio-2/efc3b8ea-6a7b-42a7-8bde-d10957bde4ce",
+      "elapsed_sec": 34.73
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 17,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\lever_jobs_lever_co_brillio-2_e899238d-c1f9-4196-8595-16d64cb1aff7.png",
+      "ats": "lever",
+      "url": "https://jobs.lever.co/brillio-2/e899238d-c1f9-4196-8595-16d64cb1aff7",
+      "elapsed_sec": 37.35
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 17,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\lever_jobs_lever_co_clovirtualfashion_3ea38dd9-ced9-4631-962c-bb9b5dd2cb99.png",
+      "ats": "lever",
+      "url": "https://jobs.lever.co/clovirtualfashion/3ea38dd9-ced9-4631-962c-bb9b5dd2cb99",
+      "elapsed_sec": 33.92
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 23,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\lever_jobs_lever_co_demiurgestudios_85f401d2-5242-4096-b852-2947492d0035.png",
+      "ats": "lever",
+      "url": "https://jobs.lever.co/demiurgestudios/85f401d2-5242-4096-b852-2947492d0035",
+      "elapsed_sec": 44.63
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 19,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\lever_jobs_lever_co_dlocal_e6c41d1a-c41b-4845-a40f-c75340874372.png",
+      "ats": "lever",
+      "url": "https://jobs.lever.co/dlocal/e6c41d1a-c41b-4845-a40f-c75340874372",
+      "elapsed_sec": 36.02
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 17,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\lever_jobs_lever_co_brillio-2_a11bcd0d-c116-4e59-bf61-44b36093fcec.png",
+      "ats": "lever",
+      "url": "https://jobs.lever.co/brillio-2/a11bcd0d-c116-4e59-bf61-44b36093fcec",
+      "elapsed_sec": 35.67
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 17,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\lever_jobs_lever_co_brillio-2_ae3f6073-5741-42af-8b8c-1b2779bb4a8c.png",
+      "ats": "lever",
+      "url": "https://jobs.lever.co/brillio-2/ae3f6073-5741-42af-8b8c-1b2779bb4a8c",
+      "elapsed_sec": 35.21
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 8,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\lever_jobs_lever_co_drivetrain_bc1c17bc-86ac-4f00-a1e3-0eb85aae4fdc.png",
+      "ats": "lever",
+      "url": "https://jobs.lever.co/drivetrain/bc1c17bc-86ac-4f00-a1e3-0eb85aae4fdc",
+      "elapsed_sec": 26.34
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 17,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\lever_jobs_lever_co_brillio-2_aea4d164-85a0-4ead-9778-8bbeecaa2f2e.png",
+      "ats": "lever",
+      "url": "https://jobs.lever.co/brillio-2/aea4d164-85a0-4ead-9778-8bbeecaa2f2e",
+      "elapsed_sec": 34.19
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 18,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\lever_jobs_lever_co_brillio-2_c5f8817d-bf3d-413c-8650-7779412cd495.png",
+      "ats": "lever",
+      "url": "https://jobs.lever.co/brillio-2/c5f8817d-bf3d-413c-8650-7779412cd495",
+      "elapsed_sec": 36.42
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 10,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\smartrecruiters_jobs_smartrecruiters_com_EndeavorITSolution_103415610-immediate-hiring-soft.png",
+      "ats": "smartrecruiters",
+      "url": "https://jobs.smartrecruiters.com/EndeavorITSolution/103415610-immediate-hiring-software-engineer-php-fresher",
+      "elapsed_sec": 75.6
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 10,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\smartrecruiters_jobs_smartrecruiters_com_EndeavorITSolution_111194226-openings-for-java-fre.png",
+      "ats": "smartrecruiters",
+      "url": "https://jobs.smartrecruiters.com/EndeavorITSolution/111194226-openings-for-java-freshers-",
+      "elapsed_sec": 77.57
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 10,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\smartrecruiters_jobs_smartrecruiters_com_EndeavorITSolution_743999651528856-software-engine.png",
+      "ats": "smartrecruiters",
+      "url": "https://jobs.smartrecruiters.com/EndeavorITSolution/743999651528856-software-engineer-java-fresher",
+      "elapsed_sec": 90.31
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 10,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\smartrecruiters_jobs_smartrecruiters_com_EndeavorITSolution_743999651526185-software-engine.png",
+      "ats": "smartrecruiters",
+      "url": "https://jobs.smartrecruiters.com/EndeavorITSolution/743999651526185-software-engineer-java-fresher-0-0-yrs-",
+      "elapsed_sec": 92.47
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 10,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\smartrecruiters_jobs_smartrecruiters_com_BerryWorks_743999833725418-engineering-trainee-ful.png",
+      "ats": "smartrecruiters",
+      "url": "https://jobs.smartrecruiters.com/BerryWorks/743999833725418-engineering-trainee-full-stack-and-ai",
+      "elapsed_sec": 76.62
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 10,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\smartrecruiters_jobs_smartrecruiters_com_BestgateEngineering_743999660666530-devops-enginee.png",
+      "ats": "smartrecruiters",
+      "url": "https://jobs.smartrecruiters.com/BestgateEngineering/743999660666530-devops-engineer-cloud-platform",
+      "elapsed_sec": 70.14
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 8,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\smartrecruiters_jobs_smartrecruiters_com_AECOM2_744000148683355-environmental-planner.png",
+      "ats": "smartrecruiters",
+      "url": "https://jobs.smartrecruiters.com/AECOM2/744000148683355-environmental-planner",
+      "elapsed_sec": 99.51
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 10,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\smartrecruiters_jobs_smartrecruiters_com_DigitalForgeCyberAssuranceGroup_743999777479367-cl.png",
+      "ats": "smartrecruiters",
+      "url": "https://jobs.smartrecruiters.com/DigitalForgeCyberAssuranceGroup/743999777479367-cloud-and-devops-infrastructure-analyst",
+      "elapsed_sec": 72.39
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 10,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\smartrecruiters_jobs_smartrecruiters_com_COLLABRecruitmentLtd_743999667553500-senior-softwa.png",
+      "ats": "smartrecruiters",
+      "url": "https://jobs.smartrecruiters.com/COLLABRecruitmentLtd/743999667553500-senior-software-engineer-big-data-",
+      "elapsed_sec": 72.07
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 9,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\smartrecruiters_jobs_smartrecruiters_com_CrossroadsTechnologiesInc_743999711987156-cloud-an.png",
+      "ats": "smartrecruiters",
+      "url": "https://jobs.smartrecruiters.com/CrossroadsTechnologiesInc/743999711987156-cloud-and-devops-infrastructure-analyst",
+      "elapsed_sec": 125.77
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 10,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\smartrecruiters_jobs_smartrecruiters_com_BlueSpireInc1_743999845912001-java-software-engine.png",
+      "ats": "smartrecruiters",
+      "url": "https://jobs.smartrecruiters.com/BlueSpireInc1/743999845912001-java-software-engineer-associate-senior-lead",
+      "elapsed_sec": 71.77
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 10,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\smartrecruiters_jobs_smartrecruiters_com_EndeavorITSolution_743999652925042-freshers-jobs-s.png",
+      "ats": "smartrecruiters",
+      "url": "https://jobs.smartrecruiters.com/EndeavorITSolution/743999652925042-freshers-jobs-software-developer-java-",
+      "elapsed_sec": 68.89
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 9,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\smartrecruiters_jobs_smartrecruiters_com_ARHS_744000141221189-devops-and-cloud-engineer.png",
+      "ats": "smartrecruiters",
+      "url": "https://jobs.smartrecruiters.com/ARHS/744000141221189-devops-and-cloud-engineer",
+      "elapsed_sec": 98.32
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 10,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\smartrecruiters_jobs_smartrecruiters_com_EndeavorITSolution_743999658315679-java-software-d.png",
+      "ats": "smartrecruiters",
+      "url": "https://jobs.smartrecruiters.com/EndeavorITSolution/743999658315679-java-software-developer-interns-freshers",
+      "elapsed_sec": 71.19
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 10,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\smartrecruiters_jobs_smartrecruiters_com_EndeavorITSolution_743999658316773-java-software-d.png",
+      "ats": "smartrecruiters",
+      "url": "https://jobs.smartrecruiters.com/EndeavorITSolution/743999658316773-java-software-developer-fresher-intern-trainee",
+      "elapsed_sec": 72.31
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 18,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\smartrecruiters_jobs_smartrecruiters_com_AECOM2_744000147842079-associate-director.png",
+      "ats": "smartrecruiters",
+      "url": "https://jobs.smartrecruiters.com/AECOM2/744000147842079-associate-director",
+      "elapsed_sec": 113.52
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 10,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\smartrecruiters_jobs_smartrecruiters_com_EndeavorITSolution10_95365885-walk-in-for-junior-s.png",
+      "ats": "smartrecruiters",
+      "url": "https://jobs.smartrecruiters.com/EndeavorITSolution10/95365885-walk-in-for-junior-software-engineer",
+      "elapsed_sec": 73.26
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 10,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\smartrecruiters_jobs_smartrecruiters_com_InsilicoLogix_743999653809331-business-analyst-dat.png",
+      "ats": "smartrecruiters",
+      "url": "https://jobs.smartrecruiters.com/InsilicoLogix/743999653809331-business-analyst-data-analyst-entry-level",
+      "elapsed_sec": 79.09
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 10,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\smartrecruiters_jobs_smartrecruiters_com_EndeavorITSolution_743999657741390-java-software-e.png",
+      "ats": "smartrecruiters",
+      "url": "https://jobs.smartrecruiters.com/EndeavorITSolution/743999657741390-java-software-engineer-developer-freshers-at-indore",
+      "elapsed_sec": 61.94
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 9,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\smartrecruiters_jobs_smartrecruiters_com_LinkedIn3_744000147368379-senior-software-engineer.png",
+      "ats": "smartrecruiters",
+      "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000147368379-senior-software-engineer-data-science",
+      "elapsed_sec": 95.74
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 9,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\smartrecruiters_jobs_smartrecruiters_com_LinkedIn3_744000149075708-ai-engineer.png",
+      "ats": "smartrecruiters",
+      "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000149075708-ai-engineer",
+      "elapsed_sec": 93.71
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 7,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\smartrecruiters_jobs_smartrecruiters_com_Gcore_744000144282799-devops-engineer-ai-inference.png",
+      "ats": "smartrecruiters",
+      "url": "https://jobs.smartrecruiters.com/Gcore/744000144282799-devops-engineer-ai-inference-",
+      "elapsed_sec": 82.67
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 9,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\smartrecruiters_jobs_smartrecruiters_com_NBCUniversal3_744000149898219-principal-devops-eng.png",
+      "ats": "smartrecruiters",
+      "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000149898219-principal-devops-engineer",
+      "elapsed_sec": 166.27
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 9,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\smartrecruiters_jobs_smartrecruiters_com_IFS1_744000144170159-ai-machine-learning-engineer-.png",
+      "ats": "smartrecruiters",
+      "url": "https://jobs.smartrecruiters.com/IFS1/744000144170159-ai-machine-learning-engineer-python-loops",
+      "elapsed_sec": 91.94
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 6,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\smartrecruiters_jobs_smartrecruiters_com_QADInc_744000146952629-software-engineer-full-stac.png",
+      "ats": "smartrecruiters",
+      "url": "https://jobs.smartrecruiters.com/QADInc/744000146952629-software-engineer-full-stack",
+      "elapsed_sec": 82.27
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 10,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\smartrecruiters_jobs_smartrecruiters_com_Onedirect1_743999815693746-software-development-en.png",
+      "ats": "smartrecruiters",
+      "url": "https://jobs.smartrecruiters.com/Onedirect1/743999815693746-software-development-engineer-sde-3-",
+      "elapsed_sec": 59.59
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 9,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\smartrecruiters_jobs_smartrecruiters_com_NBCUniversal3_744000156085859-sr-software-engineer.png",
+      "ats": "smartrecruiters",
+      "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000156085859-sr-software-engineer",
+      "elapsed_sec": 89.77
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 10,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\smartrecruiters_jobs_smartrecruiters_com_WebleeTechnologies_743999657236385-software-engine.png",
+      "ats": "smartrecruiters",
+      "url": "https://jobs.smartrecruiters.com/WebleeTechnologies/743999657236385-software-engineers-freshers",
+      "elapsed_sec": 55.61
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 10,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\smartrecruiters_jobs_smartrecruiters_com_WebleeTechnologies_743999658077119-it-software-dev.png",
+      "ats": "smartrecruiters",
+      "url": "https://jobs.smartrecruiters.com/WebleeTechnologies/743999658077119-it-software-developer-idc-",
+      "elapsed_sec": 56.05
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 10,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\smartrecruiters_jobs_smartrecruiters_com_WebleeTechnologies_743999657253013-sr-software-eng.png",
+      "ats": "smartrecruiters",
+      "url": "https://jobs.smartrecruiters.com/WebleeTechnologies/743999657253013-sr-software-engineer-kolkata",
+      "elapsed_sec": 57.82
+    }
+  ]
+}

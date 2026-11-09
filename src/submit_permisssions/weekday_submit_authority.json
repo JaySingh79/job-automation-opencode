@@ -1,0 +1,9 @@
+{
+  "platform": "weekday",
+  "granted_by_user": true,
+  "granted_at": "2026-10-29T16:41:00+05:30",
+  "scope": "weekday_fresher_jobs",
+  "batches": [1, 2, 3, 4],
+  "max_jobs": 100,
+  "user_selection": "Bro, you have full submit authority, thats the whole point of speed."
+}

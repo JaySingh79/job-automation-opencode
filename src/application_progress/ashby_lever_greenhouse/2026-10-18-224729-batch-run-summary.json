@@ -1,0 +1,71 @@
+[
+  {
+    "status": "VALIDATION_FAILED",
+    "url": "https://jobs.ashbyhq.com/tavus/08ba99c2-3cc2-4d7f-8c4c-b16a1900a88d/application",
+    "evidence": "Multimodal AI Model Optimization Research Engineer\nLocation\n\nRemote\n\nEmployment Type\n\nFull time\n\nLocation Type\n\nHybrid\n\nDepartment\n\nEngineering, Product, & Design\n\nOverview\nApplication\nAutofill from resume\n\nUpload your resume here to autofill key application fields.\n\nUpload file\nParsing your resume.",
+    "validation": {
+      "invalidCount": 1,
+      "emptyRequiredCount": 1,
+      "invalidFields": [
+        "_systemfield_resume"
+      ]
+    },
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\tavus-validation-failed.png",
+    "job_url": "https://jobs.ashbyhq.com/tavus/08ba99c2-3cc2-4d7f-8c4c-b16a1900a88d",
+    "company": "tavus",
+    "role": "Multimodal AI Model Optimization Research Engineer",
+    "platform": "ashby",
+    "duration_seconds": 12.8
+  },
+  {
+    "status": "VALIDATION_FAILED",
+    "url": "https://job-boards.eu.greenhouse.io/nice/jobs/4973857101?gh_jid=4973857101",
+    "evidence": "back to jobs\nspecialist software engineer, cx\nindia - pune\napply\n\nat nice, we don\u2019t limit our challenges. we challenge our limits. always. we\u2019re ambitious. we\u2019re game changers. and we play to win. we set the highest standards and execute beyond them. and if you\u2019re like us, we can offer you the ultim",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\nice-validation-failed.png",
+    "job_url": "https://boards.eu.greenhouse.io/nice/jobs/4973857101?gh_jid=4973857101",
+    "company": "nice",
+    "role": "Specialist Software Engineer, CX",
+    "platform": "greenhouse",
+    "duration_seconds": 20.3
+  },
+  {
+    "status": "awaiting_human_captcha_submit",
+    "reason": "hCaptcha challenge presented on Lever",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\kobie-captcha-challenge.png",
+    "url": "https://jobs.lever.co/kobie/daeaf606-d813-44f0-8a7b-8f7ae835b4fc/apply",
+    "job_url": "https://jobs.lever.co/kobie/daeaf606-d813-44f0-8a7b-8f7ae835b4fc",
+    "company": "kobie",
+    "role": "Campaign Engineer",
+    "platform": "lever",
+    "duration_seconds": 17.2
+  },
+  {
+    "status": "VALIDATION_FAILED",
+    "url": "https://jobs.ashbyhq.com/ambient.ai/e56b113b-69a1-4d38-8b9c-eb3460b9447e/application",
+    "evidence": "Software Engineer, AI Infrastructure - LVM Inference & Evaluation\nLocation\n\nRedwood City\n\nEmployment Type\n\nFull time\n\nLocation Type\n\nHybrid\n\nDepartment\n\nEngineering\n\nCompensation\n$168K \u2013 $205K \u2022 Offers Equity\n\nAt Ambient.ai, we take a market-based approach to compensation. Final offers are based on ",
+    "validation": {
+      "invalidCount": 1,
+      "emptyRequiredCount": 1,
+      "invalidFields": [
+        "_systemfield_resume"
+      ]
+    },
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\ambient.ai-validation-failed.png",
+    "job_url": "https://jobs.ashbyhq.com/ambient.ai/e56b113b-69a1-4d38-8b9c-eb3460b9447e",
+    "company": "ambient.ai",
+    "role": "Software Engineer, AI Infrastructure - LVM Inference & Evaluation",
+    "platform": "ashby",
+    "duration_seconds": 13.1
+  },
+  {
+    "status": "awaiting_human_otp",
+    "reason": "Greenhouse email OTP challenge presented",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\gleanwork-otp-challenge.png",
+    "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4739466005",
+    "job_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4739466005",
+    "company": "gleanwork",
+    "role": "Content Systems Engineer, Technical Documentation",
+    "platform": "greenhouse",
+    "duration_seconds": 20.2
+  }
+]

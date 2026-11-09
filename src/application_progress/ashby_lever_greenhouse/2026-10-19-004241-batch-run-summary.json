@@ -1,0 +1,68 @@
+[
+  {
+    "status": "awaiting_human_captcha_submit",
+    "reason": "reCAPTCHA visual challenge presented on Ashby",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\designworkstalent-captcha-challenge.png",
+    "url": "https://jobs.ashbyhq.com/designworkstalent/41bddeaf-efca-4ce6-b79b-1c159d05cee9/application",
+    "job_url": "https://jobs.ashbyhq.com/designworkstalent/41bddeaf-efca-4ce6-b79b-1c159d05cee9",
+    "company": "designworkstalent",
+    "role": "AI Training Infrastructure Engineer",
+    "platform": "ashby",
+    "duration_seconds": 20.5
+  },
+  {
+    "status": "awaiting_human_otp",
+    "reason": "Greenhouse email OTP challenge presented",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\ensono-otp-challenge.png",
+    "url": "https://job-boards.greenhouse.io/embed/job_app?for=ensono&validityToken=Wy2PqpRD3YxlxcC5ubPwoQNGT3CpWcrbEFc-rJowF5Yc_ITOOPmMuOtSxyojv0CPfJ1dSdPE4GuotVOr8omd8QMdaDI9yzvWGeFReNb7MI2Jefar5P7OsI05CzPfGKZSAmtpCCFaneklnu1U7rVdIqF0Od1522S2gDJxOi_UJtmbLN788AshJkRsue44rQuEcgmuMx-tLf83_s2IGXuIVGFJiYy5tl3Rb1j6dXXI0j_MBc04d6WpYFyfijXgP_abJRb2_y_vFyS6SifQvbwMakj75aiOJbvqHellKAQ8L7wuN2XZh0JMbWN-xmd4i2bnmdlp4vkp4U-uu1yroDN49w%3D%3D&token=4625506005",
+    "job_url": "https://ensono.com/company/careers/jobs-board/?gh_jid=4625506005",
+    "company": "ensono",
+    "role": "Application Developer \u2013 Commercial Apps",
+    "platform": "greenhouse",
+    "duration_seconds": 32.3
+  },
+  {
+    "status": "awaiting_human_captcha_submit",
+    "reason": "hCaptcha challenge presented on Lever",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\mactores-captcha-challenge.png",
+    "url": "https://jobs.lever.co/mactores/35e29122-3a7a-4851-a1f2-09e06457641d/apply",
+    "job_url": "https://jobs.lever.co/mactores/35e29122-3a7a-4851-a1f2-09e06457641d",
+    "company": "mactores",
+    "role": "AWS DevOps Engineer (Associate)",
+    "platform": "lever",
+    "duration_seconds": 18.8
+  },
+  {
+    "status": "awaiting_human_captcha_submit",
+    "reason": "reCAPTCHA visual challenge presented on Ashby",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\designworkstalent-captcha-challenge.png",
+    "url": "https://jobs.ashbyhq.com/designworkstalent/de4fa4c3-3ad2-492a-aba9-97ca3500f7df/application",
+    "job_url": "https://jobs.ashbyhq.com/designworkstalent/de4fa4c3-3ad2-492a-aba9-97ca3500f7df",
+    "company": "designworkstalent",
+    "role": "Applied Researcher \u2013 AI Expert",
+    "platform": "ashby",
+    "duration_seconds": 17.6
+  },
+  {
+    "status": "awaiting_human_otp",
+    "reason": "Greenhouse email OTP challenge presented",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\mongodb-otp-challenge.png",
+    "url": "https://job-boards.greenhouse.io/embed/job_app?for=mongodb&validityToken=mxqcKOr67VeMON2ljZh6vbcNg0OWNEdsRZRFef7qns_0X20o2FG9Q0aOcpzettcw6tnOgPuzs1mBltjlyePx072KgXFEDuXDrH5UYTaRIfpLeL7JsZdvM6T5Z5A9z4uuf1Pgrn76Q2z5VO3c6b3EBwC3LULTMh_vdHnIPQZKL3tY3siG5Ixxf4A7-3TBYbUp9dcwvs4ugluaISvpXpoEkypBkeOOB7wg9rXopg6WQO2Pnl5w2wsGZGxOGR1gcUveJ214hyQ8PDrup0Rhgg_mruW7ypvIOjVXPNhTjhHZS2DuvnNfeermB672SIFrxJ4XGtMEHCsKkyrJHbQyZ5SqMw%3D%3D&token=8143980",
+    "job_url": "https://www.mongodb.com/careers/job/?gh_jid=8143980",
+    "company": "mongodb",
+    "role": "Application Engineer",
+    "platform": "greenhouse",
+    "duration_seconds": 32.4
+  },
+  {
+    "status": "awaiting_human_captcha_submit",
+    "reason": "hCaptcha challenge presented on Lever",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\mactores-captcha-challenge.png",
+    "url": "https://jobs.lever.co/mactores/d237505f-5e6a-4eae-9b06-fa8dd0686236/apply",
+    "job_url": "https://jobs.lever.co/mactores/d237505f-5e6a-4eae-9b06-fa8dd0686236",
+    "company": "mactores",
+    "role": "Cloud Engineer (Intern)",
+    "platform": "lever",
+    "duration_seconds": 16.8
+  }
+]

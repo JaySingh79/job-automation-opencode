@@ -1,0 +1,10 @@
+{
+  "key": "greenhouse:bitgo:7344201002",
+  "org": "bitgo",
+  "title": "Backend Engineer E3 - Ecosystem",
+  "url": "https://job-boards.greenhouse.io/bitgo/jobs/7344201002",
+  "status": "skipped_senior_or_mismatch",
+  "reason": "JD_GATE_FAIL_EXPERIENCE: posting requires 'At least 6+ years of back-end, server-side software development' (Required section); profile truth = 18 months total experience. Gate rule: skip if 5+/senior. Also stack mismatch: strong TypeScript/Node.JS required, profile is Python/ML — cannot honestly claim required backend stack.",
+  "detail": "Recon done on live form (26 fields: name/email/country/phone, resume upload, education row, 6 custom screening questions incl. backend YoE, LinkedIn, Leetcode/GitHub link, reCAPTCHA). No fields filled, no submit clicked. E3 at BitGo is NOT entry-to-mid — their leveling maps E3 to 6+ yrs. Future BitGo E3/E4 postings should be pre-filtered by JD text, not title code.",
+  "datetime": "2026-10-17T15:39:23+05:30"
+}

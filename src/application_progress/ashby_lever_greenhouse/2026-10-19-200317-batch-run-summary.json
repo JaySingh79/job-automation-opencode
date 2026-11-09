@@ -1,0 +1,138 @@
+[
+  {
+    "status": "awaiting_human_captcha_submit",
+    "reason": "reCAPTCHA visual challenge presented on Ashby",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\bjakcareer-captcha-challenge.png",
+    "url": "https://jobs.ashbyhq.com/bjakcareer/705d2156-d34f-4f2b-9266-f78de0e09c60/application",
+    "job_url": "https://jobs.ashbyhq.com/bjakcareer/705d2156-d34f-4f2b-9266-f78de0e09c60",
+    "company": "bjakcareer",
+    "role": "Product Owner, AI Internal Systems",
+    "platform": "ashby",
+    "duration_seconds": 19.1
+  },
+  {
+    "status": "awaiting_human_otp",
+    "reason": "Greenhouse email OTP challenge presented",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\harnessinc-otp-challenge.png",
+    "url": "https://job-boards.greenhouse.io/embed/job_app?for=harnessinc&validityToken=P2dav98jAqVItGrSwJbUpRojxSN0t6QUtYydlQ-m0-uwpWH6MWwWPjC6_CiJ5TnR_ZiY9928LusWW7RT9eUjqVEc2wDtWM0zwymu2Kgbu7BHX5A86x58U_ui5Sz9N3RkuNxLk_xO_mV7baOZJix6kxo87n5pcf1SfnSu96wRmycp0PJF2mkxA8iwAJrC3pMdfSkHyTqpr7f2wCS9nNtWvGt_rszywtuiXB5rTEShW4xYvxBrO3lI3RxBenPFtm7emcOWjWaHjsl77-fzM7bLxhI1rWJ1CLvegQ78EAlW08-Vpl_Yi1nh28a034D7YzHMgoXsoRdnUYTd8ja3Q14NnQ%3D%3D&token=5239607007",
+    "job_url": "https://www.harness.io/company/jobs/apply?gh_jid=5239607007&gh_jid=5239607007",
+    "company": "harnessinc",
+    "role": "Security Engineer \u2013 Cloud & Infrastructure Security",
+    "platform": "greenhouse",
+    "duration_seconds": 48.9
+  },
+  {
+    "status": "awaiting_human_captcha_submit",
+    "reason": "hCaptcha challenge presented on Lever",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\lingarogroup-captcha-challenge.png",
+    "url": "https://jobs.lever.co/lingarogroup/18f8d2c5-b52a-4d9f-b4ff-3f71e0fee53d/apply",
+    "job_url": "https://jobs.lever.co/lingarogroup/18f8d2c5-b52a-4d9f-b4ff-3f71e0fee53d",
+    "company": "lingarogroup",
+    "role": "ML/AI Engineer - Adecco",
+    "platform": "lever",
+    "duration_seconds": 22.0
+  },
+  {
+    "status": "awaiting_human_captcha_submit",
+    "reason": "reCAPTCHA visual challenge presented on Ashby",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\bjakcareer-captcha-challenge.png",
+    "url": "https://jobs.ashbyhq.com/bjakcareer/4693af98-b7d4-47dd-a4c0-5d9ebdff081a/application",
+    "job_url": "https://jobs.ashbyhq.com/bjakcareer/4693af98-b7d4-47dd-a4c0-5d9ebdff081a",
+    "company": "bjakcareer",
+    "role": "Backend Engineer, AI Internal Systems",
+    "platform": "ashby",
+    "duration_seconds": 20.2
+  },
+  {
+    "status": "awaiting_human_otp",
+    "reason": "Greenhouse email OTP challenge presented",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\nice-otp-challenge.png",
+    "url": "https://job-boards.eu.greenhouse.io/nice/jobs/4973857101?gh_jid=4973857101",
+    "job_url": "https://boards.eu.greenhouse.io/nice/jobs/4973857101?gh_jid=4973857101",
+    "company": "nice",
+    "role": "Specialist Software Engineer, CX",
+    "platform": "greenhouse",
+    "duration_seconds": 38.7
+  },
+  {
+    "status": "awaiting_human_captcha_submit",
+    "reason": "hCaptcha challenge presented on Lever",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\lingarogroup-captcha-challenge.png",
+    "url": "https://jobs.lever.co/lingarogroup/6adf8593-2a35-44d0-9400-0ced651fd403/apply",
+    "job_url": "https://jobs.lever.co/lingarogroup/6adf8593-2a35-44d0-9400-0ced651fd403",
+    "company": "lingarogroup",
+    "role": "ML/AI Engineer - Peepal Consulting",
+    "platform": "lever",
+    "duration_seconds": 20.3
+  },
+  {
+    "status": "FAILED",
+    "reason": "No submit button found on Ashby",
+    "job_url": "https://jobs.ashbyhq.com/cursor/a6c00f7f-2288-4461-a64d-0f1cd9878909",
+    "company": "cursor",
+    "role": "Field Engineer - India ",
+    "platform": "ashby",
+    "duration_seconds": 47.0
+  },
+  {
+    "status": "VALIDATION_FAILED",
+    "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4739466005",
+    "evidence": "back to jobs\ncontent systems engineer, technical documentation\nbangalore, india\napply\nabout glean:\n\u00a0\nglean is the work ai platform that helps everyone work smarter with ai. what began as the industry\u2019s most advanced enterprise search has evolved into a full-scale work ai ecosystem, powering intellig",
+    "invalid_controls": [
+      {
+        "id": "",
+        "name": "",
+        "validationMessage": "Please fill out this field.",
+        "lbl": ""
+      }
+    ],
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\gleanwork-validation-failed.png",
+    "job_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4739466005",
+    "company": "gleanwork",
+    "role": "Content Systems Engineer, Technical Documentation",
+    "platform": "greenhouse",
+    "duration_seconds": 17.3
+  },
+  {
+    "status": "awaiting_human_captcha_submit",
+    "reason": "hCaptcha challenge presented on Lever",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\lingarogroup-captcha-challenge.png",
+    "url": "https://jobs.lever.co/lingarogroup/5b9bd5a9-5953-43cf-a7e5-fe9161ac0f21/apply",
+    "job_url": "https://jobs.lever.co/lingarogroup/5b9bd5a9-5953-43cf-a7e5-fe9161ac0f21",
+    "company": "lingarogroup",
+    "role": "ML/AI Engineer",
+    "platform": "lever",
+    "duration_seconds": 26.1
+  },
+  {
+    "status": "FAILED",
+    "reason": "No submit button found on Ashby",
+    "job_url": "https://jobs.ashbyhq.com/cursor/166c3951-1d2a-4e61-b79b-bedefe96073b",
+    "company": "cursor",
+    "role": "Forward Deployed Engineer - India",
+    "platform": "ashby",
+    "duration_seconds": 47.4
+  },
+  {
+    "status": "awaiting_human_otp",
+    "reason": "Greenhouse email OTP challenge presented",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\ensono-otp-challenge.png",
+    "url": "https://job-boards.greenhouse.io/embed/job_app?for=ensono&validityToken=cv-HONJMMXDHR1mx__YMF7tvvYgENSPLLhqqjKbxnAhGD8jLcSX9WD0U-QEd2B4UnYESrnzlFC8DVNznb45yBQGZs16fkfP2khbqz6UGJLLAuZIHChc-YosX5SXND0pwHMm5M5D8lvsR2TZTVA8p3uhGPdluAhM34MGBY5XQOop1j6hyVqtsbDzzemAjCRZiakOZezHLvUtNALnuuO_DIm5_HMGSx7OK_M_Bz5iW4Rjxz5-Fqkh8vZhqtEtnlYaE0wA_e88Wy4f1J6akAmqNfausmFgrTVHUsGAddKKtlIng5qZ-HqHxYKMkiTMsLSGMXJmmd071TcifNvMKem-2Zw%3D%3D&token=4625506005",
+    "job_url": "https://ensono.com/company/careers/jobs-board/?gh_jid=4625506005",
+    "company": "ensono",
+    "role": "Application Developer \u2013 Commercial Apps",
+    "platform": "greenhouse",
+    "duration_seconds": 62.5
+  },
+  {
+    "status": "awaiting_human_captcha_submit",
+    "reason": "hCaptcha challenge presented on Lever",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\zimperium-captcha-challenge.png",
+    "url": "https://jobs.lever.co/zimperium/5b35759a-d445-4fcb-b255-d719330af055/apply",
+    "job_url": "https://jobs.lever.co/zimperium/5b35759a-d445-4fcb-b255-d719330af055",
+    "company": "zimperium",
+    "role": "AI Software Engineer (DevOps) - Bangalore, India",
+    "platform": "lever",
+    "duration_seconds": 17.3
+  }
+]

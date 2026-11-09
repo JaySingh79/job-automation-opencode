@@ -1,0 +1,339 @@
+{
+  "timestamp": "2026-10-20 03:27:02.859353",
+  "mode": "test",
+  "summary": {
+    "smartrecruiters": {
+      "total_evaluated": 33,
+      "active_total": 30,
+      "passed": 30,
+      "dead_skipped": 3,
+      "failed": 0
+    }
+  },
+  "results": [
+    {
+      "status": "SKIPPED_DEAD",
+      "reason": "SmartRecruiters form did not mount",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\smartrecruiters_jobs_smartrecruiters_com_AECOM2_744000149674549-entry-level-biologist-hirin.png",
+      "ats": "smartrecruiters",
+      "url": "https://jobs.smartrecruiters.com/AECOM2/744000149674549-entry-level-biologist-hiring-event-with-aecom-raleigh",
+      "elapsed_sec": 44.28
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 10,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\smartrecruiters_jobs_smartrecruiters_com_EndeavorITSolution_103415610-immediate-hiring-soft.png",
+      "ats": "smartrecruiters",
+      "url": "https://jobs.smartrecruiters.com/EndeavorITSolution/103415610-immediate-hiring-software-engineer-php-fresher",
+      "elapsed_sec": 75.6
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 10,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\smartrecruiters_jobs_smartrecruiters_com_EndeavorITSolution_111194226-openings-for-java-fre.png",
+      "ats": "smartrecruiters",
+      "url": "https://jobs.smartrecruiters.com/EndeavorITSolution/111194226-openings-for-java-freshers-",
+      "elapsed_sec": 77.57
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 10,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\smartrecruiters_jobs_smartrecruiters_com_EndeavorITSolution_743999651528856-software-engine.png",
+      "ats": "smartrecruiters",
+      "url": "https://jobs.smartrecruiters.com/EndeavorITSolution/743999651528856-software-engineer-java-fresher",
+      "elapsed_sec": 90.31
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 10,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\smartrecruiters_jobs_smartrecruiters_com_EndeavorITSolution_743999651526185-software-engine.png",
+      "ats": "smartrecruiters",
+      "url": "https://jobs.smartrecruiters.com/EndeavorITSolution/743999651526185-software-engineer-java-fresher-0-0-yrs-",
+      "elapsed_sec": 92.47
+    },
+    {
+      "status": "SKIPPED_DEAD",
+      "reason": "SmartRecruiters form did not mount",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\smartrecruiters_jobs_smartrecruiters_com_BoschGroup_744000141850230.png",
+      "ats": "smartrecruiters",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000141850230",
+      "elapsed_sec": 43.77
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 10,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\smartrecruiters_jobs_smartrecruiters_com_BerryWorks_743999833725418-engineering-trainee-ful.png",
+      "ats": "smartrecruiters",
+      "url": "https://jobs.smartrecruiters.com/BerryWorks/743999833725418-engineering-trainee-full-stack-and-ai",
+      "elapsed_sec": 76.62
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 10,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\smartrecruiters_jobs_smartrecruiters_com_BestgateEngineering_743999660666530-devops-enginee.png",
+      "ats": "smartrecruiters",
+      "url": "https://jobs.smartrecruiters.com/BestgateEngineering/743999660666530-devops-engineer-cloud-platform",
+      "elapsed_sec": 70.14
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 8,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\smartrecruiters_jobs_smartrecruiters_com_AECOM2_744000148683355-environmental-planner.png",
+      "ats": "smartrecruiters",
+      "url": "https://jobs.smartrecruiters.com/AECOM2/744000148683355-environmental-planner",
+      "elapsed_sec": 99.51
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 10,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\smartrecruiters_jobs_smartrecruiters_com_DigitalForgeCyberAssuranceGroup_743999777479367-cl.png",
+      "ats": "smartrecruiters",
+      "url": "https://jobs.smartrecruiters.com/DigitalForgeCyberAssuranceGroup/743999777479367-cloud-and-devops-infrastructure-analyst",
+      "elapsed_sec": 72.39
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 10,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\smartrecruiters_jobs_smartrecruiters_com_COLLABRecruitmentLtd_743999667553500-senior-softwa.png",
+      "ats": "smartrecruiters",
+      "url": "https://jobs.smartrecruiters.com/COLLABRecruitmentLtd/743999667553500-senior-software-engineer-big-data-",
+      "elapsed_sec": 72.07
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 9,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\smartrecruiters_jobs_smartrecruiters_com_CrossroadsTechnologiesInc_743999711987156-cloud-an.png",
+      "ats": "smartrecruiters",
+      "url": "https://jobs.smartrecruiters.com/CrossroadsTechnologiesInc/743999711987156-cloud-and-devops-infrastructure-analyst",
+      "elapsed_sec": 125.77
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 10,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\smartrecruiters_jobs_smartrecruiters_com_BlueSpireInc1_743999845912001-java-software-engine.png",
+      "ats": "smartrecruiters",
+      "url": "https://jobs.smartrecruiters.com/BlueSpireInc1/743999845912001-java-software-engineer-associate-senior-lead",
+      "elapsed_sec": 71.77
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 10,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\smartrecruiters_jobs_smartrecruiters_com_EndeavorITSolution_743999652925042-freshers-jobs-s.png",
+      "ats": "smartrecruiters",
+      "url": "https://jobs.smartrecruiters.com/EndeavorITSolution/743999652925042-freshers-jobs-software-developer-java-",
+      "elapsed_sec": 68.89
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 9,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\smartrecruiters_jobs_smartrecruiters_com_ARHS_744000141221189-devops-and-cloud-engineer.png",
+      "ats": "smartrecruiters",
+      "url": "https://jobs.smartrecruiters.com/ARHS/744000141221189-devops-and-cloud-engineer",
+      "elapsed_sec": 98.32
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 10,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\smartrecruiters_jobs_smartrecruiters_com_EndeavorITSolution_743999658315679-java-software-d.png",
+      "ats": "smartrecruiters",
+      "url": "https://jobs.smartrecruiters.com/EndeavorITSolution/743999658315679-java-software-developer-interns-freshers",
+      "elapsed_sec": 71.19
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 10,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\smartrecruiters_jobs_smartrecruiters_com_EndeavorITSolution_743999658316773-java-software-d.png",
+      "ats": "smartrecruiters",
+      "url": "https://jobs.smartrecruiters.com/EndeavorITSolution/743999658316773-java-software-developer-fresher-intern-trainee",
+      "elapsed_sec": 72.31
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 18,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\smartrecruiters_jobs_smartrecruiters_com_AECOM2_744000147842079-associate-director.png",
+      "ats": "smartrecruiters",
+      "url": "https://jobs.smartrecruiters.com/AECOM2/744000147842079-associate-director",
+      "elapsed_sec": 113.52
+    },
+    {
+      "status": "SKIPPED_DEAD",
+      "reason": "SmartRecruiters form did not mount",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\smartrecruiters_jobs_smartrecruiters_com_LinkedIn3_744000150773589-senior-software-engineer.png",
+      "ats": "smartrecruiters",
+      "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000150773589-senior-software-engineer-applications-",
+      "elapsed_sec": 22.51
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 10,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\smartrecruiters_jobs_smartrecruiters_com_EndeavorITSolution10_95365885-walk-in-for-junior-s.png",
+      "ats": "smartrecruiters",
+      "url": "https://jobs.smartrecruiters.com/EndeavorITSolution10/95365885-walk-in-for-junior-software-engineer",
+      "elapsed_sec": 73.26
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 10,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\smartrecruiters_jobs_smartrecruiters_com_InsilicoLogix_743999653809331-business-analyst-dat.png",
+      "ats": "smartrecruiters",
+      "url": "https://jobs.smartrecruiters.com/InsilicoLogix/743999653809331-business-analyst-data-analyst-entry-level",
+      "elapsed_sec": 79.09
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 10,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\smartrecruiters_jobs_smartrecruiters_com_EndeavorITSolution_743999657741390-java-software-e.png",
+      "ats": "smartrecruiters",
+      "url": "https://jobs.smartrecruiters.com/EndeavorITSolution/743999657741390-java-software-engineer-developer-freshers-at-indore",
+      "elapsed_sec": 61.94
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 9,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\smartrecruiters_jobs_smartrecruiters_com_LinkedIn3_744000147368379-senior-software-engineer.png",
+      "ats": "smartrecruiters",
+      "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000147368379-senior-software-engineer-data-science",
+      "elapsed_sec": 95.74
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 9,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\smartrecruiters_jobs_smartrecruiters_com_LinkedIn3_744000149075708-ai-engineer.png",
+      "ats": "smartrecruiters",
+      "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000149075708-ai-engineer",
+      "elapsed_sec": 93.71
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 7,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\smartrecruiters_jobs_smartrecruiters_com_Gcore_744000144282799-devops-engineer-ai-inference.png",
+      "ats": "smartrecruiters",
+      "url": "https://jobs.smartrecruiters.com/Gcore/744000144282799-devops-engineer-ai-inference-",
+      "elapsed_sec": 82.67
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 9,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\smartrecruiters_jobs_smartrecruiters_com_NBCUniversal3_744000149898219-principal-devops-eng.png",
+      "ats": "smartrecruiters",
+      "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000149898219-principal-devops-engineer",
+      "elapsed_sec": 166.27
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 9,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\smartrecruiters_jobs_smartrecruiters_com_IFS1_744000144170159-ai-machine-learning-engineer-.png",
+      "ats": "smartrecruiters",
+      "url": "https://jobs.smartrecruiters.com/IFS1/744000144170159-ai-machine-learning-engineer-python-loops",
+      "elapsed_sec": 91.94
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 6,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\smartrecruiters_jobs_smartrecruiters_com_QADInc_744000146952629-software-engineer-full-stac.png",
+      "ats": "smartrecruiters",
+      "url": "https://jobs.smartrecruiters.com/QADInc/744000146952629-software-engineer-full-stack",
+      "elapsed_sec": 82.27
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 10,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\smartrecruiters_jobs_smartrecruiters_com_Onedirect1_743999815693746-software-development-en.png",
+      "ats": "smartrecruiters",
+      "url": "https://jobs.smartrecruiters.com/Onedirect1/743999815693746-software-development-engineer-sde-3-",
+      "elapsed_sec": 59.59
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 9,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\smartrecruiters_jobs_smartrecruiters_com_NBCUniversal3_744000156085859-sr-software-engineer.png",
+      "ats": "smartrecruiters",
+      "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000156085859-sr-software-engineer",
+      "elapsed_sec": 89.77
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 10,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\smartrecruiters_jobs_smartrecruiters_com_WebleeTechnologies_743999657236385-software-engine.png",
+      "ats": "smartrecruiters",
+      "url": "https://jobs.smartrecruiters.com/WebleeTechnologies/743999657236385-software-engineers-freshers",
+      "elapsed_sec": 55.61
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 10,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\smartrecruiters_jobs_smartrecruiters_com_WebleeTechnologies_743999658077119-it-software-dev.png",
+      "ats": "smartrecruiters",
+      "url": "https://jobs.smartrecruiters.com/WebleeTechnologies/743999658077119-it-software-developer-idc-",
+      "elapsed_sec": 56.05
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 10,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\smartrecruiters_jobs_smartrecruiters_com_WebleeTechnologies_743999657253013-sr-software-eng.png",
+      "ats": "smartrecruiters",
+      "url": "https://jobs.smartrecruiters.com/WebleeTechnologies/743999657253013-sr-software-engineer-kolkata",
+      "elapsed_sec": 57.82
+    }
+  ]
+}

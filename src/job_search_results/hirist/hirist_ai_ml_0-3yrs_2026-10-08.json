@@ -1,0 +1,195 @@
+{
+ "collected_at": "2026-10-08T06:30:00Z",
+ "source": "https://www.hirist.tech/c/ai-ml-jobs?ref=homepagecat",
+ "filter": "minexp=0&maxexp=3 (max<=3 enforced client-side)",
+ "count": 17,
+ "jobs": [
+  {
+   "company": "The United States Pharmacopeia",
+   "id": 1674857,
+   "loc": "Hyderabad",
+   "max": 3,
+   "min": 1,
+   "title": "United States Pharmacopeia - Data Scientist - Digital Products",
+   "url": "https://www.hirist.tech/j/united-states-pharmacopeia-data-scientist-digital-products-hyderabad-1-3-yrs-1674857.html",
+   "applied": true,
+   "applicationId": 77920410
+  },
+  {
+   "company": "NovoTree Minds Consulting",
+   "id": 1676228,
+   "loc": "Mumbai | Bangalore",
+   "max": 3,
+   "min": 2,
+   "title": "Data Scientist - NLP/Generative AI",
+   "url": "https://www.hirist.tech/j/data-scientist-nlp-generative-ai-mumbai-2-3-yrs-1676228.html",
+   "applied": true,
+   "applicationId": 77925672
+  },
+  {
+   "company": "EzDataMunch",
+   "id": 1675992,
+   "loc": "Bangalore",
+   "max": 3,
+   "min": 2,
+   "title": "Forward Deployed Applied AI Engineer - Generative AI",
+   "url": "https://www.hirist.tech/j/forward-deployed-applied-ai-engineer-generative-ai-bangalore-2-3-yrs-1675992.html",
+   "applied": false,
+   "blocked": "ASSESSMENT_REQUIRED"
+  },
+  {
+   "company": "HiringBlaze",
+   "id": 1675746,
+   "loc": "Agra | UP",
+   "max": 3,
+   "min": 1,
+   "title": "AI Engineer",
+   "url": "https://www.hirist.tech/j/ai-engineer-agra-1-3-yrs-1675746.html",
+   "applied": true,
+   "applicationId": 77925702
+  },
+  {
+   "company": "HiringBlaze",
+   "id": 1675747,
+   "loc": "Noida | Gurgaon/Gurugram",
+   "max": 2,
+   "min": 0,
+   "title": "AI Engineer - Enterprise Conversational Platform",
+   "url": "https://www.hirist.tech/j/ai-engineer-enterprise-conversational-platform-noida-0-2-yrs-1675747.html",
+   "applied": true,
+   "applicationId": 77925716
+  },
+  {
+   "company": "EKFRAZO TECHNOLOGIES PRIVATE LIMITED",
+   "id": 1674645,
+   "loc": "Noida",
+   "max": 3,
+   "min": 1,
+   "title": "Ekfrazo Technologies - Agentic AI Developer",
+   "url": "https://www.hirist.tech/j/ekfrazo-technologies-agentic-ai-developer-noida-1-3-yrs-1674645.html",
+   "applied": true,
+   "applicationId": 77925726
+  },
+  {
+   "company": "matriosh",
+   "id": 1673772,
+   "loc": "Mumbai",
+   "max": 3,
+   "min": 1,
+   "title": "AI Adoption Specialist - Generative AI",
+   "url": "https://www.hirist.tech/j/ai-adoption-specialist-generative-ai-mumbai-1-3-yrs-1673772.html",
+   "applied": false,
+   "blocked": "ASSESSMENT_REQUIRED"
+  },
+  {
+   "company": "Enphase Energy",
+   "id": 1673577,
+   "loc": "Bangalore",
+   "max": 1,
+   "min": 0,
+   "title": "Enphase Energy - AI/ML Engineer",
+   "url": "https://www.hirist.tech/j/enphase-energy-ai-ml-engineer-bangalore-0-1-yrs-1673577.html",
+   "applied": true,
+   "applicationId": 77925738
+  },
+  {
+   "company": "Fastcollab",
+   "id": 1673189,
+   "loc": "Hyderabad",
+   "max": 2,
+   "min": 1,
+   "title": "FastCollab - AI Engineer - IIT",
+   "url": "https://www.hirist.tech/j/fastcollab-ai-engineer-iit-hyderabad-1-2-yrs-1673189.html",
+   "applied": false,
+   "blocked": "ASSESSMENT_REQUIRED"
+  },
+  {
+   "company": "MCLAREN STRATEGIC VENTURES INDIA PRIVATE LIMITED",
+   "id": 1672680,
+   "loc": "Bangalore",
+   "max": 2,
+   "min": 1,
+   "title": "McLaren Strategic Solutions - AI/ML Engineer - GenAI",
+   "url": "https://www.hirist.tech/j/mclaren-strategic-solutions-ai-ml-engineer-genai-bangalore-1-2-yrs-1672680.html",
+   "applied": true,
+   "applicationId": 77925777
+  },
+  {
+   "company": "TresVista",
+   "id": 1672379,
+   "loc": "Pune | Maharashtra",
+   "max": 3,
+   "min": 1,
+   "title": "Junior AI Developer - Generative AI",
+   "url": "https://www.hirist.tech/j/junior-ai-developer-generative-ai-pune-1-3-yrs-1672379.html",
+   "applied": true,
+   "applicationId": 77925795
+  },
+  {
+   "company": "MCLAREN STRATEGIC VENTURES INDIA PRIVATE LIMITED",
+   "id": 1671520,
+   "loc": "Bangalore",
+   "max": 3,
+   "min": 2,
+   "title": "AI/ML Engineer - NLP & Speech Recognition",
+   "url": "https://www.hirist.tech/j/ai-ml-engineer-nlp-speech-recognition-bangalore-2-3-yrs-1671520.html",
+   "applied": true,
+   "applicationId": 77925839
+  },
+  {
+   "company": "Tech Grow Global",
+   "id": 1671567,
+   "loc": "Bangalore",
+   "max": 3,
+   "min": 1,
+   "title": "Software Development Engineer I - AI/ML",
+   "url": "https://www.hirist.tech/j/software-development-engineer-i-ai-ml-bangalore-1-3-yrs-1671567.html",
+   "applied": true,
+   "applicationId": 77925855
+  },
+  {
+   "company": "Bluecrux",
+   "id": 1670614,
+   "loc": "Bangalore",
+   "max": 1,
+   "min": 0,
+   "title": "Binocs - Forward Deployed Engineer - AI/LLM Powered Solutions",
+   "url": "https://www.hirist.tech/j/binocs-forward-deployed-engineer-ai-llm-powered-solutions-bangalore-0-1-yrs-1670614.html",
+   "applied": false,
+   "blocked": "ASSESSMENT_REQUIRED"
+  },
+  {
+   "company": "Sumanel Technology Ventures",
+   "id": 1669987,
+   "loc": "Pune",
+   "max": 1,
+   "min": 0,
+   "title": "Chat360 - Generative AI Engineer - Python/NLP",
+   "url": "https://www.hirist.tech/j/chat360-generative-ai-engineer-python-nlp-pune-0-1-yrs-1669987.html",
+   "applied": true,
+   "applicationId": 77925896
+  },
+  {
+   "company": "Smart Joules",
+   "id": 1669422,
+   "loc": "Delhi",
+   "max": 2,
+   "min": 0,
+   "title": "SmartJoules  - Software Engineer - Python/Machine Learning",
+   "url": "https://www.hirist.tech/j/smartjoules-software-engineer-python-machine-learning-delhi-0-2-yrs-1669422.html",
+   "applied": true,
+   "applicationId": 77925910
+  },
+  {
+   "company": "Medline Industries India Private Limited",
+   "id": 1668720,
+   "loc": "Pune",
+   "max": 3,
+   "min": 1,
+   "title": "Medline Industries - Data Scientist - Artificial Intelligence/Machine Learning",
+   "url": "https://www.hirist.tech/j/medline-industries-data-scientist-artificial-intelligence-machine-learning-pune-1-3-yrs-1668720.html",
+   "applied": true,
+   "applicationId": 77925924
+  }
+ ]
+}

@@ -1,0 +1,94 @@
+{
+  "platform": "darwinbox",
+  "total_jobs": 4,
+  "jobs": [
+    {
+      "job_id": "011026504418",
+      "title": "Software Developement Engineer III (JAVA+Rust)",
+      "company": "Upstox",
+      "platform": "darwinbox",
+      "company_site_url": "https://upstox.darwinbox.in/ms/candidatev2/main/careers/jobDetails/a6abb7810a31b9",
+      "ats_domain": "upstox.darwinbox.in",
+      "naukri_url": "https://www.naukri.com/job-listings-software-developement-engineer-iii-java-rust-upstox-bengaluru-0-to-5-years-011026504418",
+      "experience": "0-5 Yrs",
+      "location": "Bengaluru",
+      "posted_date": "3 weeks ago",
+      "skills": [
+        "algorithms",
+        "automated testing",
+        "cloud platforms",
+        "caching",
+        "backend architecture",
+        "broking",
+        "concurrency",
+        "docker"
+      ]
+    },
+    {
+      "job_id": "091026504125",
+      "title": "Project Research Scientist I (AI/ML)",
+      "company": "Ashoka University",
+      "platform": "darwinbox",
+      "company_site_url": "https://hrmsashoka.darwinbox.in/ms/candidatev2/main/careers/jobDetails/a6ac6330d2f4f5",
+      "ats_domain": "hrmsashoka.darwinbox.in",
+      "naukri_url": "https://www.naukri.com/job-listings-project-research-scientist-i-ai-ml-ashoka-university-sonipat-0-to-2-years-091026504125",
+      "experience": "0-2 Yrs",
+      "location": "Sonipat",
+      "posted_date": "2 weeks ago",
+      "skills": [
+        "biotechnology",
+        "biology",
+        "data analysis",
+        "ai",
+        "craft",
+        "academic research",
+        "biomedical",
+        "ehr"
+      ]
+    },
+    {
+      "job_id": "091026504095",
+      "title": "Project Research Scientist I (Human Immunology)",
+      "company": "Ashoka University",
+      "platform": "darwinbox",
+      "company_site_url": "https://hrmsashoka.darwinbox.in/ms/candidatev2/main/careers/jobDetails/a6ac62c9a84e30",
+      "ats_domain": "hrmsashoka.darwinbox.in",
+      "naukri_url": "https://www.naukri.com/job-listings-project-research-scientist-i-human-immunology-ashoka-university-sonipat-0-to-3-years-091026504095",
+      "experience": "0-3 Yrs",
+      "location": "Sonipat",
+      "posted_date": "2 weeks ago",
+      "skills": [
+        "biotechnology",
+        "biology",
+        "sample collection",
+        "craft",
+        "physiology",
+        "pedagogy",
+        "research",
+        "faculty"
+      ]
+    },
+    {
+      "job_id": "180626506365",
+      "title": "SDE 1",
+      "company": "Coding Ninjas",
+      "platform": "darwinbox",
+      "company_site_url": "https://codingninjas.darwinbox.in/ms/candidatev2/main/careers/jobDetails/a68c7fee0c6f61",
+      "ats_domain": "codingninjas.darwinbox.in",
+      "naukri_url": "https://www.naukri.com/job-listings-sde-1-coding-ninjas-india-gurugram-0-to-1-years-180626506365",
+      "experience": "0-1 Yrs",
+      "location": "Gurugram",
+      "posted_date": "3+ weeks ago",
+      "skills": [
+        "algorithms",
+        "rest",
+        "css",
+        "python",
+        "c++",
+        "software development",
+        "dbms",
+        "javascript"
+      ]
+    }
+  ]
+}

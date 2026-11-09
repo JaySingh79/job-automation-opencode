@@ -1,0 +1,1861 @@
+{
+  "metadata": {
+    "date": "2026-11-06",
+    "target_count": 200,
+    "backup_count": 30,
+    "ats_breakdown_target": {
+      "ashby": 80,
+      "lever": 80,
+      "greenhouse": 40
+    },
+    "ats_breakdown_backup": {
+      "ashby": 15,
+      "lever": 15,
+      "greenhouse": 0
+    }
+  },
+  "target": [
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/weave/2518c1b8-3ffc-40e5-a968-c013e760c3f5",
+      "title": "ML - GenAI Engineer, Voice & Speech",
+      "company": "",
+      "location": "India (Remote)",
+      "source": "2026-10-18-fresh-100-ashby-lever-greenhouse.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/lingarogroup/18f8d2c5-b52a-4d9f-b4ff-3f71e0fee53d",
+      "title": "ML/AI Engineer - Adecco",
+      "company": "",
+      "location": "India",
+      "source": "2026-10-18-fresh-100-ashby-lever-greenhouse.json"
+    },
+    {
+      "ats": "greenhouse",
+      "url": "https://boards.eu.greenhouse.io/nice/jobs/4982277101?gh_jid=4982277101",
+      "title": "Professional Services Engineer, Actimize",
+      "company": "",
+      "location": "India - Pune",
+      "source": "2026-10-18-fresh-100-ashby-lever-greenhouse.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/prosus/2723fb57-213f-429f-994c-697528223e2c",
+      "title": "AI Automation Intern, Communications",
+      "company": "",
+      "location": "Amsterdam (Remote)",
+      "source": "2026-10-18-fresh-100-ashby-lever-greenhouse.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/lingarogroup/6adf8593-2a35-44d0-9400-0ced651fd403",
+      "title": "ML/AI Engineer - Peepal Consulting",
+      "company": "",
+      "location": "India",
+      "source": "2026-10-18-fresh-100-ashby-lever-greenhouse.json"
+    },
+    {
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/cloudsek/jobs/6222340004",
+      "title": "SDE Intern - Backend   ",
+      "company": "",
+      "location": "Bengaluru, Karnataka, India",
+      "source": "2026-10-17-fresh-100-final.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/bjakcareer/8a1ac53b-279c-4fe7-b126-1fbe2b284e92",
+      "title": "Full Stack Engineer, AI Internal Systems",
+      "company": "",
+      "location": "China (Remote)",
+      "source": "2026-10-18-fresh-100-ashby-lever-greenhouse.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/lingarogroup/5b9bd5a9-5953-43cf-a7e5-fe9161ac0f21",
+      "title": "ML/AI Engineer",
+      "company": "",
+      "location": "India",
+      "source": "2026-10-18-fresh-100-ashby-lever-greenhouse.json"
+    },
+    {
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/doordashindia/jobs/8200625",
+      "title": "Software Engineer, Data Engineering",
+      "company": "",
+      "location": "Hyderabad, India",
+      "source": "2026-10-17-fresh-100-final.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/bjakcareer/4693af98-b7d4-47dd-a4c0-5d9ebdff081a",
+      "title": "Backend Engineer, AI Internal Systems",
+      "company": "",
+      "location": "China (Remote)",
+      "source": "2026-10-18-fresh-100-ashby-lever-greenhouse.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/zimperium/5b35759a-d445-4fcb-b255-d719330af055",
+      "title": "AI Software Engineer (DevOps) - Bangalore, India",
+      "company": "",
+      "location": "India (Remote)",
+      "source": "2026-10-18-fresh-100-ashby-lever-greenhouse.json"
+    },
+    {
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8894531002",
+      "title": "Intermediate Backend Engineer - Code Security",
+      "company": "",
+      "location": "Bangalore, India",
+      "source": "2026-10-17-fresh-100-final.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/cognition/1e47fa81-bfe3-436c-a6f7-fccd66a98b1e",
+      "title": "Partner Deployed Engineer - APAC",
+      "company": "",
+      "location": "India (Remote)",
+      "source": "2026-10-18-fresh-100-ashby-lever-greenhouse.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/kobie/daeaf606-d813-44f0-8a7b-8f7ae835b4fc",
+      "title": "Campaign Engineer",
+      "company": "",
+      "location": "Bengaluru, Karnataka",
+      "source": "2026-10-18-fresh-100-ashby-lever-greenhouse.json"
+    },
+    {
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/coherehealth/jobs/7980642003",
+      "title": "Software Engineer",
+      "company": "",
+      "location": "Hyderabad, Telangana, India",
+      "source": "2026-10-17-fresh-100-final.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/supa/2469490c-2025-4f67-8bc1-f75dbf75be68",
+      "title": "Product Engineer (Bangalore)",
+      "company": "",
+      "location": "Bangalore",
+      "source": "2026-10-18-fresh-100-ashby-lever-greenhouse.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/mactores/07c51b46-27fc-4400-a5ac-69bb0d335ce0",
+      "title": "Generative AI Forward Deployed Engineer",
+      "company": "",
+      "location": "Mumbai, MH",
+      "source": "2026-10-18-fresh-100-ashby-lever-greenhouse.json"
+    },
+    {
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/dscout/jobs/4370266009",
+      "title": "Software Engineer - India",
+      "company": "",
+      "location": "Remote - India",
+      "source": "2026-10-17-fresh-100-final.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/commure/b7f99d0b-e511-41ba-a585-ce636f454e99",
+      "title": "Software Engineer (India)",
+      "company": "",
+      "location": "Bengaluru, India",
+      "source": "2026-10-18-fresh-100-ashby-lever-greenhouse.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/mactores/35e29122-3a7a-4851-a1f2-09e06457641d",
+      "title": "AWS DevOps Engineer (Associate)",
+      "company": "",
+      "location": "Mumbai, MH",
+      "source": "2026-10-18-fresh-100-ashby-lever-greenhouse.json"
+    },
+    {
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/skildai-careers/jobs/5263541008",
+      "title": "Camera Systems Software Engineer - India ",
+      "company": "",
+      "location": "Bengaluru, India",
+      "source": "2026-10-17-fresh-100-final.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/cursor/a6c00f7f-2288-4461-a64d-0f1cd9878909",
+      "title": "Field Engineer - India ",
+      "company": "",
+      "location": "Bengaluru",
+      "source": "2026-10-18-fresh-100-ashby-lever-greenhouse.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/mactores/d237505f-5e6a-4eae-9b06-fa8dd0686236",
+      "title": "Cloud Engineer (Intern)",
+      "company": "",
+      "location": "Mumbai, MH",
+      "source": "2026-10-18-fresh-100-ashby-lever-greenhouse.json"
+    },
+    {
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/skildai-careers/jobs/5031480008",
+      "title": "Computer Vision AI & ML Engineer",
+      "company": "",
+      "location": "Bengaluru, India",
+      "source": "2026-10-17-fresh-100-final.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/cursor/166c3951-1d2a-4e61-b79b-bedefe96073b",
+      "title": "Forward Deployed Engineer - India",
+      "company": "",
+      "location": "Bengaluru",
+      "source": "2026-10-18-fresh-100-ashby-lever-greenhouse.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/wmg/23de721a-6770-4f63-8287-6b45c1719415",
+      "title": "Software Engineer",
+      "company": "",
+      "location": "Bangalore",
+      "source": "2026-10-18-fresh-100-ashby-lever-greenhouse.json"
+    },
+    {
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/tegnaindia/jobs/5049585007",
+      "title": "Cloud Engineer",
+      "company": "",
+      "location": "Bengaluru, Karnataka, India",
+      "source": "2026-10-17-fresh-100-final.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/tailor/991d4eb2-2271-46e6-91d9-4e51f12350ea",
+      "title": "AI Engineer",
+      "company": "",
+      "location": "Tokyo (Remote)",
+      "source": "2026-10-18-fresh-100-ashby-lever-greenhouse.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/paytm/fffdcfb1-fd6e-4401-b059-500838a6db0e",
+      "title": "Backend - TL/STL",
+      "company": "",
+      "location": "Bangalore, Karnataka",
+      "source": "2026-10-18-fresh-100-ashby-lever-greenhouse.json"
+    },
+    {
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/singlestore/jobs/8267309",
+      "title": "Support Engineer",
+      "company": "",
+      "location": "India",
+      "source": "2026-10-17-harvest-pool-2.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/tailor/fa073afa-c0fc-4e2d-b11a-aef19bd5f2f0",
+      "title": "AI Engineer",
+      "company": "",
+      "location": "Tokyo (Remote)",
+      "source": "2026-10-18-fresh-100-ashby-lever-greenhouse.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/entrata/661bbcc5-3514-4ba3-b616-8838da6c53ec",
+      "title": "Software Engineer",
+      "company": "",
+      "location": "Pune, India",
+      "source": "2026-10-18-fresh-100-ashby-lever-greenhouse.json"
+    },
+    {
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/datacor/jobs/5257433007",
+      "title": "Software Engineer",
+      "company": "",
+      "location": "Remote, US",
+      "source": "2026-10-17-harvest-pool.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/tailor/ae09629a-afa0-480e-abec-9f8f88b2b76c",
+      "title": "AI Platform Engineer",
+      "company": "",
+      "location": "Tokyo (Remote)",
+      "source": "2026-10-18-fresh-100-ashby-lever-greenhouse.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/extremenetworks/31c2e5ec-febe-4123-a96b-b2013f0f51ea",
+      "title": "Full-Stack Software Engineer \u2013 GoLang- Flutter-UI  --10532",
+      "company": "",
+      "location": "Bangalore",
+      "source": "2026-10-18-fresh-100-ashby-lever-greenhouse.json"
+    },
+    {
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/datacor/jobs/5242412007",
+      "title": "Summer 2027 AI Engineer Intern",
+      "company": "",
+      "location": "Remote, US",
+      "source": "2026-10-17-harvest-pool.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/tavus/08ba99c2-3cc2-4d7f-8c4c-b16a1900a88d",
+      "title": "Multimodal AI Model Optimization Research Engineer",
+      "company": "",
+      "location": "Remote (Remote)",
+      "source": "2026-10-18-fresh-100-ashby-lever-greenhouse.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/extremenetworks/bba6f316-655f-4b36-b108-2a3d661547c5",
+      "title": "Premier Resident Engineer",
+      "company": "",
+      "location": "Indiana, United States",
+      "source": "2026-10-18-fresh-100-ashby-lever-greenhouse.json"
+    },
+    {
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8604630002",
+      "title": "Strategic Account Executive, AI - San Francisco ",
+      "company": "",
+      "location": "Remote, US",
+      "source": "2026-10-17-harvest-pool.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/designworkstalent/41bddeaf-efca-4ce6-b79b-1c159d05cee9",
+      "title": "AI Training Infrastructure Engineer",
+      "company": "",
+      "location": "Bellevue (Remote)",
+      "source": "2026-10-18-fresh-100-ashby-lever-greenhouse.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/extremenetworks/8bf87d77-a14f-4c33-b6f6-98448fd67866",
+      "title": "SW SYSTEMS ENGINEER 10139 - Layer2 & Layer 3 Forwarding Development- BCM Chipset",
+      "company": "",
+      "location": "Bangalore",
+      "source": "2026-10-18-fresh-100-ashby-lever-greenhouse.json"
+    },
+    {
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8867649002",
+      "title": "Threat Research Engineer",
+      "company": "",
+      "location": "Bangalore, India",
+      "source": "2026-10-17-harvest-pool.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/designworkstalent/de4fa4c3-3ad2-492a-aba9-97ca3500f7df",
+      "title": "Applied Researcher \u2013 AI Expert",
+      "company": "",
+      "location": "Bellevue (Remote)",
+      "source": "2026-10-18-fresh-100-ashby-lever-greenhouse.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/kobie/c1563397-e50b-4e33-acec-d2f528722ae8",
+      "title": "Software Engineer",
+      "company": "",
+      "location": "Bengaluru, Karnataka",
+      "source": "2026-10-18-fresh-100-ashby-lever-greenhouse.json"
+    },
+    {
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/rzr/jobs/4422350009",
+      "title": "Software Engineer - Playable Ads (Creative Engineering)",
+      "company": "",
+      "location": "Bangalore, India",
+      "source": "2026-10-17-harvest-pool.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/harvey/7ef2c12e-dd17-4d8c-a445-bd4ebf559484",
+      "title": "Privacy and AI Counsel, EMEA",
+      "company": "",
+      "location": "Dublin (Remote)",
+      "source": "2026-10-18-fresh-100-ashby-lever-greenhouse.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/jumpcloud/9bfc9bfb-15f0-4984-85dc-d1adc90a415c",
+      "title": "Site Reliability Engineer - India",
+      "company": "",
+      "location": "Bangalore, India - Remote",
+      "source": "2026-10-18-fresh-100-ashby-lever-greenhouse.json"
+    },
+    {
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/skildai-careers/jobs/4483966008",
+      "title": "Hardware Engineer - Bengaluru",
+      "company": "",
+      "location": "Bengaluru, India",
+      "source": "2026-10-17-harvest-pool.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/cognition/8e4c141b-ca44-459d-a842-474f6e090da1",
+      "title": "Applied AI Engineer - ANZ",
+      "company": "",
+      "location": "Sydney (Remote)",
+      "source": "2026-10-18-fresh-100-ashby-lever-greenhouse.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/hevodata/993a3ed3-3014-432f-b0f4-28d300d58d9a",
+      "title": "Associate Software Development Engineer (SDE)",
+      "company": "",
+      "location": "Bangalore, India",
+      "source": "2026-10-17-fresh-100-final.json"
+    },
+    {
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/skildai-careers/jobs/4483863008",
+      "title": "React Native Developer",
+      "company": "",
+      "location": " Bengaluru",
+      "source": "2026-10-17-harvest-pool.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/cohere/556467eb-3dc8-46e2-b015-277872210997",
+      "title": "Forward Deployed Engineer, Sovereign AI",
+      "company": "",
+      "location": "Ottawa (Remote)",
+      "source": "2026-10-18-fresh-100-ashby-lever-greenhouse.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/jobgether/ce9486f9-533a-475f-8240-5aef4c45b814",
+      "title": "Associate Systems Engineer",
+      "company": "",
+      "location": "India",
+      "source": "2026-10-17-fresh-100-final.json"
+    },
+    {
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/skildai-careers/jobs/4483954008",
+      "title": "Robotics Engineer, Deployment & Testing - Bengaluru",
+      "company": "",
+      "location": "Bengaluru",
+      "source": "2026-10-17-harvest-pool.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/broccoli/dad66a1f-e7e0-4d08-962f-33286478269f",
+      "title": "AI Tech Support (Early Shift)",
+      "company": "",
+      "location": "Lehi, Utah (Remote)",
+      "source": "2026-10-18-fresh-100-ashby-lever-greenhouse.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/weloglobal/7903f79a-fe0f-46e3-ac8b-83b607574453",
+      "title": "Associate Technical Publication Engineer",
+      "company": "",
+      "location": "Gurgaon, India",
+      "source": "2026-10-17-fresh-100-final.json"
+    },
+    {
+      "ats": "greenhouse",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8465286002?gh_jid=8465286002",
+      "title": "Data Center Specialist (Starlink)",
+      "company": "",
+      "location": "Remote - WA",
+      "source": "2026-10-17-harvest-pool.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/neuralconcept/aa1301d4-ab37-46f5-bdb8-c59eb97a5547",
+      "title": "EV Powertrain: Applied AI Engineer",
+      "company": "",
+      "location": "Lausanne (Remote)",
+      "source": "2026-10-18-fresh-100-ashby-lever-greenhouse.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/hevodata/6cbbe304-e065-4711-bf3e-756795d2bc2a",
+      "title": "SDE I",
+      "company": "",
+      "location": "Bangalore, India",
+      "source": "2026-10-17-fresh-100-final.json"
+    },
+    {
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/togetherai/jobs/4840844007",
+      "title": "Technical Support Engineer (GPU Cluster), India ",
+      "company": "",
+      "location": "Pune or Bangalore, India",
+      "source": "2026-10-17-harvest-pool.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/neuralconcept/542981f4-1c6b-4e03-bfb9-cea8f0d74485",
+      "title": "AI Workflows Engineer - UK",
+      "company": "",
+      "location": "Cambridge (Remote)",
+      "source": "2026-10-18-fresh-100-ashby-lever-greenhouse.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/jobgether/248e4baf-c4c8-4094-a0ac-8c358689a645",
+      "title": "Software Development Engineer 1",
+      "company": "",
+      "location": "India",
+      "source": "2026-10-17-fresh-100-final.json"
+    },
+    {
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5069532007",
+      "title": "Technical Support Engineer (Inference) - India Weekends",
+      "company": "",
+      "location": "Pune or Bangalore, India",
+      "source": "2026-10-17-harvest-pool.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/helm-ai/1e14146a-a343-4e58-b8d0-7552e334b3a6",
+      "title": "Machine Learning Engineer",
+      "company": "",
+      "location": "Remote - US",
+      "source": "2026-10-18-fresh-100-ashby-lever-greenhouse.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/jobgether/9a29fed2-9055-43c1-9e76-746de3d31de1",
+      "title": "Software Development Engineer I",
+      "company": "",
+      "location": "India",
+      "source": "2026-10-17-fresh-100-final.json"
+    },
+    {
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5233125007",
+      "title": "Technical Support Engineer - India",
+      "company": "",
+      "location": "Pune or Bangalore, India",
+      "source": "2026-10-17-harvest-pool.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/canals/e8b48781-447e-4564-9870-e108fcfc899c",
+      "title": "Machine Learning Engineer",
+      "company": "",
+      "location": "Bogota (Remote)",
+      "source": "2026-10-18-fresh-100-ashby-lever-greenhouse.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/netomi/02b45afd-5a49-41b2-a244-b0ca76306692",
+      "title": "Data Engineer I",
+      "company": "",
+      "location": "Remote - India",
+      "source": "2026-10-17-fresh-100-final.json"
+    },
+    {
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/coherehealth/jobs/7741530003",
+      "title": "Software / AI Engineer",
+      "company": "",
+      "location": "India / Remote",
+      "source": "ats_120_eval_dataset.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/supabase/3b5d54ca-741b-45ac-bd3f-31605a0d3541",
+      "title": "AI Platform Engineer",
+      "company": "",
+      "location": "Remote, Global",
+      "source": "2026-10-18-fresh-100-ashby-lever-greenhouse.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/smart-working-solutions/5ef858da-c3ca-4158-8d93-309bb4e964dc",
+      "title": "Mobile Developer - .NET MAUI & C# (Remote, Full-Time) [AS338]",
+      "company": "",
+      "location": "India",
+      "source": "2026-10-17-fresh-100-final.json"
+    },
+    {
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/coherehealth/jobs/7763561003",
+      "title": "Software / AI Engineer",
+      "company": "",
+      "location": "India / Remote",
+      "source": "ats_120_eval_dataset.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/genesis/dd38f3c3-de73-489b-bad7-2393fa2dfd24",
+      "title": "ML Compiler & System",
+      "company": "",
+      "location": "Paris (Remote)",
+      "source": "2026-10-18-fresh-100-ashby-lever-greenhouse.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/endpointclinical/98889651-3d5e-48cc-9dc7-0b4248fd547f",
+      "title": "Software Developer, Product",
+      "company": "",
+      "location": "Bengaluru, India",
+      "source": "2026-10-17-fresh-100-final.json"
+    },
+    {
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/coherehealth/jobs/7805761003",
+      "title": "Software / AI Engineer",
+      "company": "",
+      "location": "India / Remote",
+      "source": "ats_120_eval_dataset.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/genesis/b9ce5163-c4e1-4395-814b-358e3aea04f2",
+      "title": "Training / AI Infrastructure",
+      "company": "",
+      "location": "Paris (Remote)",
+      "source": "2026-10-18-fresh-100-ashby-lever-greenhouse.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/hevodata/a7f26742-f965-4a59-840d-f7afa0a28176",
+      "title": "AI Solution Engineer",
+      "company": "",
+      "location": "Bangalore, India",
+      "source": "2026-10-17-fresh-100-final.json"
+    },
+    {
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/conga/jobs/5195218007",
+      "title": "Software / AI Engineer",
+      "company": "",
+      "location": "India / Remote",
+      "source": "ats_120_eval_dataset.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/genesis/84cc3576-68e3-4d2d-850b-b5998c3ca6c5",
+      "title": "Recruiter, AI Research & Engineering",
+      "company": "",
+      "location": "Paris (Remote)",
+      "source": "2026-10-18-fresh-100-ashby-lever-greenhouse.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/jobgether/0526ea67-c4ef-4362-9043-5783e11ca58a",
+      "title": ".NET Developer",
+      "company": "",
+      "location": "India",
+      "source": "2026-10-17-fresh-100-final.json"
+    },
+    {
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/turing/jobs/6192725004",
+      "title": "Software / AI Engineer",
+      "company": "",
+      "location": "India / Remote",
+      "source": "ats_120_eval_dataset.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/tessera-labs/eb150714-eeb2-44b4-8a23-c893be972bed",
+      "title": "AI Engineer",
+      "company": "",
+      "location": "San Jose Office (HQ) (Remote)",
+      "source": "2026-10-18-fresh-100-ashby-lever-greenhouse.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/jobgether/9a308f4a-109a-4a10-9cf6-fca94afa8a99",
+      "title": "AI Evaluation Engineer",
+      "company": "",
+      "location": "India",
+      "source": "2026-10-17-fresh-100-final.json"
+    },
+    {
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/turing/jobs/6192729004",
+      "title": "Software / AI Engineer",
+      "company": "",
+      "location": "India / Remote",
+      "source": "ats_120_eval_dataset.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/hirehangar/83dc7a2b-12f7-4416-a570-c52eeeeded1b",
+      "title": "LLM Infrastructure Engineer",
+      "company": "",
+      "location": "Argentina - Buenos Aires (Remote)",
+      "source": "2026-10-18-fresh-100-ashby-lever-greenhouse.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/jobgether/4c7b8f27-180b-4db8-b6e9-7643486626fe",
+      "title": "Cloud Engineer",
+      "company": "",
+      "location": "India",
+      "source": "2026-10-17-fresh-100-final.json"
+    },
+    {
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/enterpret/jobs/7723230003",
+      "title": "Machine Learning Intern",
+      "company": "Enterpret",
+      "location": "Bengaluru, India (Onsite)",
+      "source": "2026-10-13-ashby-lever-greenhouse-3yr-india-remote.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/pencil/5b7acbb1-39d8-4eb8-8162-579bbc09ba75",
+      "title": "GenAI Creator",
+      "company": "",
+      "location": "LATAM (Remote)",
+      "source": "2026-10-18-fresh-100-ashby-lever-greenhouse.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/jobgether/ef8f74b7-e5b0-4680-959f-e0ffb6bf4547",
+      "title": "Compiler Performance Engineer",
+      "company": "",
+      "location": "India",
+      "source": "2026-10-17-fresh-100-final.json"
+    },
+    {
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/databricks/jobs/8560319002",
+      "title": "Current job openings at Databricks",
+      "company": "Current job openings at Databricks",
+      "location": "verify JD",
+      "source": "2026-10-13-ashby-lever-greenhouse-3yr-india-remote.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/pencil/e57994f3-9fda-4026-83c1-d424d2869d17",
+      "title": "GenAI Creator",
+      "company": "",
+      "location": "LATAM - Argentina (Remote)",
+      "source": "2026-10-18-fresh-100-ashby-lever-greenhouse.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/jobgether/fe692a0b-1876-446b-9e39-d66e03b1edc3",
+      "title": "Data Analyst",
+      "company": "",
+      "location": "India",
+      "source": "2026-10-17-fresh-100-final.json"
+    },
+    {
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/rubrik/jobs/7310028",
+      "title": "Careers at Rubrik | Discover The Power of You",
+      "company": "Careers at Rubrik | Discover The Power of You",
+      "location": "verify JD",
+      "source": "2026-10-13-ashby-lever-greenhouse-3yr-india-remote.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/lavendo/5c17713c-a644-4c4a-a702-c9e854c714e2",
+      "title": "Forward Deployed Engineer, AI Training Data (San Mateo, CA)",
+      "company": "",
+      "location": "San Mateo (Remote)",
+      "source": "2026-10-18-fresh-100-ashby-lever-greenhouse.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/jobgether/3f1a3d3a-f5fe-48f9-9654-a4cb27e48e49",
+      "title": "Data Developer",
+      "company": "",
+      "location": "India",
+      "source": "2026-10-17-fresh-100-final.json"
+    },
+    {
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/harnessinc",
+      "title": "Careers at Harness: Open Positions & Job Opportunities",
+      "company": "Careers at Harness: Open Positions & Job Opportunities",
+      "location": "verify JD",
+      "source": "2026-10-13-ashby-lever-greenhouse-3yr-india-remote.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/openai/be7b1bf5-37ab-40f7-9ec1-e9732244f12a",
+      "title": "Applied AI Engineer, Cyber, Government",
+      "company": "",
+      "location": "Washington, DC (Remote)",
+      "source": "2026-10-18-fresh-100-ashby-lever-greenhouse.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/jobgether/b0aedca3-3f00-4ba8-8897-c25bd10a28c3",
+      "title": "Engineer, Computer Software Assurance",
+      "company": "",
+      "location": "India",
+      "source": "2026-10-17-fresh-100-final.json"
+    },
+    {
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/pinterest/jobs/7494612",
+      "title": "Explore career opportunities at Pinterest",
+      "company": "Explore career opportunities at Pinterest",
+      "location": "verify JD",
+      "source": "2026-10-13-ashby-lever-greenhouse-3yr-india-remote.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/interview-kickstart/bf2a4802-4180-440b-b5bf-5f8058e69846",
+      "title": "Intern - Software Development Engineer ( Backend )",
+      "company": "",
+      "location": "Remote - India",
+      "source": "2026-10-17-fresh-100-final.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/levelai/498dfb1d-2f80-4a74-8d08-ecadccd8a221",
+      "title": "Forward Deployed Engineer - Agents(Remote)",
+      "company": "",
+      "location": "India",
+      "source": "2026-10-17-fresh-100-final.json"
+    },
+    {
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/c3iot?error=true",
+      "title": "Careers - C3 AI",
+      "company": "Careers - C3 AI",
+      "location": "verify JD",
+      "source": "2026-10-13-ashby-lever-greenhouse-3yr-india-remote.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/meraki-labs/38e05386-b0ac-4c63-9780-5ec391a116be",
+      "title": "Research Associate - SparX",
+      "company": "",
+      "location": "Bangalore, India",
+      "source": "2026-10-17-fresh-100-final.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/veeva/872bb725-148e-4c57-875c-52b157ec7183",
+      "title": "Software Engineer - Automation Platform",
+      "company": "",
+      "location": "India - Hyderabad",
+      "source": "2026-10-17-fresh-100-final.json"
+    },
+    {
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/Roku/jobs/7743965",
+      "title": "Search Page | Roku Jobs",
+      "company": "Search Page | Roku Jobs",
+      "location": "verify JD",
+      "source": "2026-10-13-ashby-lever-greenhouse-3yr-india-remote.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/handshake/f632f0c3-0b9c-49a7-984b-de92e18e6d0b",
+      "title": "Forward Deployed Engineer I",
+      "company": "",
+      "location": "India",
+      "source": "2026-10-17-fresh-100-final.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/veeva/79256ab7-1862-4195-9f8b-87735247d017",
+      "title": "Software Engineer - Infra",
+      "company": "",
+      "location": "India - Hyderabad",
+      "source": "2026-10-17-fresh-100-final.json"
+    },
+    {
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/coreweave/jobs/4453307006",
+      "title": "Explore Our Open Positions - CoreWeave",
+      "company": "Explore Our Open Positions - CoreWeave",
+      "location": "verify JD",
+      "source": "2026-10-13-ashby-lever-greenhouse-3yr-india-remote.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/handshake/607e1d72-e7e8-4476-938f-b74dbe7ac9ef",
+      "title": "Forward Deployed Engineer I",
+      "company": "",
+      "location": "India",
+      "source": "2026-10-17-fresh-100-final.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/veeva/361ccc4a-7175-43d8-8e1c-bd442f77b9fe",
+      "title": "Software Engineer - Test Automation",
+      "company": "",
+      "location": "India - Hyderabad",
+      "source": "2026-10-17-fresh-100-final.json"
+    },
+    {
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/duolingo/jobs/7301173002?gh_src=81b1e41f2us",
+      "title": "Duolingo Careers",
+      "company": "Duolingo Careers",
+      "location": "verify JD",
+      "source": "2026-10-13-ashby-lever-greenhouse-3yr-india-remote.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/interview-kickstart/178e3e0d-1a58-4715-87f5-8ddb14a87f88",
+      "title": "Software Engineer 1 (Backend)",
+      "company": "",
+      "location": "India",
+      "source": "2026-10-17-fresh-100-final.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/zimperium/62345dc6-5179-4e47-8736-0fb3530f4211",
+      "title": "Python Developer - Bangalore, India",
+      "company": "",
+      "location": "Bangalore, India",
+      "source": "2026-10-17-fresh-100-final.json"
+    },
+    {
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/feedzai/jobs/7962213",
+      "title": "All Jobs - Feedzai Careers",
+      "company": "All Jobs - Feedzai Careers",
+      "location": "verify JD",
+      "source": "2026-10-13-ashby-lever-greenhouse-3yr-india-remote.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/bjakcareer/6f616052-0ca8-4f2e-a5cf-8c73731f2d9b",
+      "title": "Android Developer",
+      "company": "",
+      "location": "India",
+      "source": "2026-10-17-fresh-100-final.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/zimperium/29aff3bb-b00f-457c-9ebb-70f3804c3fa6",
+      "title": "Site Reliability Engineer - India",
+      "company": "",
+      "location": "India (Remote)",
+      "source": "2026-10-17-fresh-100-final.json"
+    },
+    {
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/roblox/jobs/8031014",
+      "title": "View Jobs - Roblox Careers",
+      "company": "View Jobs - Roblox Careers",
+      "location": "verify JD",
+      "source": "2026-10-13-ashby-lever-greenhouse-3yr-india-remote.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/bjakcareer/4dce95e8-aceb-4bd8-bf02-1d7f4f212ce6",
+      "title": "Android Developer - AI Finance Agent",
+      "company": "",
+      "location": "India",
+      "source": "2026-10-17-fresh-100-final.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/thinkahead/9bb45260-8225-4175-972e-a15c3213bf30",
+      "title": "AI Platform Engineer",
+      "company": "",
+      "location": "India",
+      "source": "2026-10-17-fresh-100-final.json"
+    },
+    {
+      "ats": "greenhouse",
+      "url": "https://boards.greenhouse.io/gravitonresearchcapital/jobs/8425398002",
+      "title": "Work with us - Graviton",
+      "company": "Work with us - Graviton",
+      "location": "verify JD",
+      "source": "2026-10-13-ashby-lever-greenhouse-3yr-india-remote.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/bjakcareer/763c619d-c688-41e0-bf11-155220e86c03",
+      "title": "Android Software Engineer",
+      "company": "",
+      "location": "India",
+      "source": "2026-10-17-fresh-100-final.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/thinkahead/6d62e87c-292e-4be1-b329-3e3c7cf47369",
+      "title": "Operational Technology Engineer",
+      "company": "",
+      "location": "India",
+      "source": "2026-10-17-fresh-100-final.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/bjakcareer/8ae8267f-b14a-4762-af95-0a933eea9fcf",
+      "title": "Android Software Engineer - AI Finance Agent ",
+      "company": "",
+      "location": "India",
+      "source": "2026-10-17-fresh-100-final.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/ion/e6a91d37-660c-4d3f-8560-0e236bcabd76",
+      "title": "iOS Swift Developer, Noida",
+      "company": "",
+      "location": "Noida",
+      "source": "2026-10-17-harvest-pool-2.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/bjakcareer/82349fdc-fc80-4da1-a39e-1f70dee09ba5",
+      "title": "Android Software Engineer - AI Neobank App",
+      "company": "",
+      "location": "India",
+      "source": "2026-10-17-fresh-100-final.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/ion/180594ca-f7d7-4b81-be75-3be893fdd949",
+      "title": "Software Development Engineering in Test (SDET), Noida",
+      "company": "",
+      "location": "Noida",
+      "source": "2026-10-17-harvest-pool-2.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/bjakcareer/e8406b78-3cb3-436c-8a22-6e1d44cf8816",
+      "title": "Applied AI Engineer - AI Finance Agent",
+      "company": "",
+      "location": "India",
+      "source": "2026-10-17-fresh-100-final.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/paytm/426a6834-1397-4e65-94af-69874c790805",
+      "title": "Intern - Talent Acquisition",
+      "company": "",
+      "location": "Gurugram, Haryana",
+      "source": "2026-10-17-harvest-pool-2.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/bjakcareer/91d1eff2-5941-4842-be80-568701debc16",
+      "title": "Backend Developer",
+      "company": "",
+      "location": "India",
+      "source": "2026-10-17-fresh-100-final.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/paytm/0ecd9d93-e4f3-4dd0-a22e-852fec9b6e02",
+      "title": "Intern- HR Onboarding",
+      "company": "",
+      "location": "Noida, Uttar Pradesh",
+      "source": "2026-10-17-harvest-pool-2.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/bjakcareer/7f6692fb-eed1-4134-9baa-76cb68850037",
+      "title": "Backend Software Engineer - AI Finance Agent",
+      "company": "",
+      "location": "India",
+      "source": "2026-10-17-fresh-100-final.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/paytm/9d497980-2032-440c-8bac-63fb53938acc",
+      "title": "Intern-Talent Acquisition",
+      "company": "",
+      "location": "Bangalore, Karnataka",
+      "source": "2026-10-17-harvest-pool-2.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/certa/da4d5879-d94d-4f8c-ada4-24bd955520e3",
+      "title": "AI Engineer",
+      "company": "",
+      "location": "India",
+      "source": "2026-10-17-fresh-100-final.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/paytm/26a6a342-55db-4262-8e75-648bd8338fd0",
+      "title": "Product Management - Data Product | Experience : 5-8 yrs",
+      "company": "",
+      "location": "Bengaluru, Karnataka",
+      "source": "2026-10-17-harvest-pool-2.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/certa/0b101c4d-6e2e-4711-9a70-6302d0c094e1",
+      "title": "Forward Deployed Engineer",
+      "company": "",
+      "location": "India",
+      "source": "2026-10-17-fresh-100-final.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/paytm/88e8b698-8f03-4e09-9581-168f831fb3af",
+      "title": "Talent Acquisition Intern - Bangalore",
+      "company": "",
+      "location": "Bangalore, Karnataka",
+      "source": "2026-10-17-harvest-pool-2.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/certa/f526ed60-d978-46a6-b44a-a0bdb17ce7ea",
+      "title": "Solution Engineer - Post Implementation",
+      "company": "",
+      "location": "India",
+      "source": "2026-10-17-fresh-100-final.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/paytm/36f0fe45-a771-4f97-aac1-0a9ca1d73f18",
+      "title": "Talent Acquisition Intern - Noida",
+      "company": "",
+      "location": "Noida, Uttar Pradesh",
+      "source": "2026-10-17-harvest-pool-2.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/certifyos/4be4bd2f-0ebf-41a4-937b-21290aae4878",
+      "title": "Software Engineer",
+      "company": "",
+      "location": "Bengaluru, India",
+      "source": "2026-10-17-fresh-100-final.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/saviynt/5e6c1380-3bd7-49bb-bb6b-7514b89925ba",
+      "title": "AI Detection Engineer - SOC Analyst IV",
+      "company": "",
+      "location": "Bengaluru, India",
+      "source": "2026-10-17-harvest-pool-2.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/ema/748c829c-cb1d-48cf-90da-780593e89bea",
+      "title": "Platform Engineer",
+      "company": "",
+      "location": "India - Bengaluru",
+      "source": "2026-10-17-fresh-100-final.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/saviynt/bcefdeeb-2c34-45c0-8169-7af82984fafe",
+      "title": "Platform Support Engineer -",
+      "company": "",
+      "location": "Bengaluru, India",
+      "source": "2026-10-17-harvest-pool-2.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/ema/6d5f59a2-68c0-49ea-b575-478f0ae3b75c",
+      "title": "Site Reliability Engineer",
+      "company": "",
+      "location": "India - Bengaluru",
+      "source": "2026-10-17-fresh-100-final.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/saviynt/93eabf01-25e3-452a-97b6-686274f600c1",
+      "title": "Technical Support Engineer",
+      "company": "",
+      "location": "Bengaluru, India",
+      "source": "2026-10-17-harvest-pool-2.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/gradera/0635c034-c61f-459c-a3dc-4ef3ae8a7cb3",
+      "title": "Data Engineer",
+      "company": "",
+      "location": "Hyderabad, India Office ",
+      "source": "2026-10-17-fresh-100-final.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/thinkahead/77117feb-61fa-4195-9097-e34663d0eff8",
+      "title": "Cloud Engineer - Azure",
+      "company": "",
+      "location": "Gurugram, Haryana",
+      "source": "2026-10-17-harvest-pool-2.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/hirehangar/d512bb18-424b-4312-9c6c-e303d4b6c477",
+      "title": "Windows Endpoint Security Developer",
+      "company": "",
+      "location": "India - Mumbai",
+      "source": "2026-10-17-fresh-100-final.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/thinkahead/0ad80cf7-617f-492e-ab9a-2f545db72cb6",
+      "title": "Engineer, Storage and Data Protection",
+      "company": "",
+      "location": "Gurugram, Haryana",
+      "source": "2026-10-17-harvest-pool-2.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/kantiv/02fa27cf-29e5-4995-89d2-24247cccfd86",
+      "title": "Data Scientist",
+      "company": "",
+      "location": "Remote - India",
+      "source": "2026-10-17-fresh-100-final.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/thinkahead/c75ca13e-535b-4da2-8389-16d7819b095c",
+      "title": "Full Stack Engineer",
+      "company": "",
+      "location": "Gurugram, Haryana",
+      "source": "2026-10-17-harvest-pool-2.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/level-ai/a71f73a6-5964-4420-a789-107dd6b3d66a",
+      "title": "Forward Deployed Engineer - Agents(Remote)",
+      "company": "",
+      "location": "India, Remote",
+      "source": "2026-10-17-fresh-100-final.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/thinkahead/e0710e7d-2179-4c4b-84ab-6096162e5378",
+      "title": "Technical Consultant - ServiceNow AI",
+      "company": "",
+      "location": "Gurugram, Haryana",
+      "source": "2026-10-17-harvest-pool-2.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/meraki-labs/02a8eecd-af9d-4231-8988-6f91f53dca35",
+      "title": "AI Evaluation Engineer - Proofline",
+      "company": "",
+      "location": "Bangalore, India",
+      "source": "2026-10-17-fresh-100-final.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/thinkahead/f0072a9c-bdb4-47e5-9fc9-49bd6f35b1e7",
+      "title": "Technical Consultant | Cloud & AI | Platform Engineering",
+      "company": "",
+      "location": "Gurugram, Haryana",
+      "source": "2026-10-17-harvest-pool-2.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/meraki-labs/57817c37-f0d4-4332-84d0-14b1d2cf2792",
+      "title": "Founding AI Engineer - Proofline",
+      "company": "",
+      "location": "Bangalore, India",
+      "source": "2026-10-17-fresh-100-final.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/brillio-2/fbeb1776-9c39-4225-a211-b4e0e307b140",
+      "title": "AI Builders",
+      "company": "",
+      "location": "Bangalore, Karnataka, India",
+      "source": "2026-10-17-harvest-pool.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/outmarket/d9eab5ed-5911-4c3a-abcf-1a224fdb703d",
+      "title": "DevOps Engineer",
+      "company": "",
+      "location": "Remote India",
+      "source": "2026-10-17-fresh-100-final.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/brillio-2/e4a4be2d-48cb-4d7e-b912-79d0ac8076a5",
+      "title": "Data Scientist - R01571773",
+      "company": "",
+      "location": "Pune, Maharashtra, India",
+      "source": "2026-10-17-harvest-pool.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/plane/188f905e-3f6f-4569-9a32-d8ec48dfe656",
+      "title": "Software Engineer, Backend (Node.js)",
+      "company": "",
+      "location": "India",
+      "source": "2026-10-17-fresh-100-final.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/endpointclinical/f16ac3ae-eb44-4b4d-ae87-047ced76f362",
+      "title": "Data Tester",
+      "company": "",
+      "location": "Bengaluru, India",
+      "source": "2026-10-17-harvest-pool.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/plane/00beeb42-56c0-48ce-9082-9fba93836b54",
+      "title": "Software Engineer, Backend (Python)",
+      "company": "",
+      "location": "India",
+      "source": "2026-10-17-fresh-100-final.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/endpointclinical/b36d9226-fdfa-40a9-b269-ec9281148f70",
+      "title": "Product Test Engineer",
+      "company": "",
+      "location": "Bengaluru, India",
+      "source": "2026-10-17-harvest-pool.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/sciencelogic/2c829057-fab9-4707-9c1f-467023404ef1",
+      "title": "Data Scientist",
+      "company": "",
+      "location": "India",
+      "source": "2026-10-17-fresh-100-final.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/endpointclinical/7cfe0d10-e1be-4819-9e27-34e7532b495f",
+      "title": "Test Engineer",
+      "company": "",
+      "location": "Hyderabad, India",
+      "source": "2026-10-17-harvest-pool.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/notion/79c18580-c927-456c-9d5f-72efbc6c43cb",
+      "title": "Forward Deployed Engineer, India",
+      "company": "",
+      "location": "Hyderabad, India",
+      "source": "2026-10-17-fresh-100-final.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/endpointclinical/f6d73ecb-7b57-4e4d-a9db-a36f31db32b9",
+      "title": "Test Engineer - Sr",
+      "company": "",
+      "location": "Hyderabad, India",
+      "source": "2026-10-17-harvest-pool.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/notion/49bdf081-6e20-4323-8c73-6d6b19544ff5",
+      "title": "Software Engineer, Developer Experience",
+      "company": "",
+      "location": "Hyderabad, India",
+      "source": "2026-10-17-fresh-100-final.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/fampay/23dd18f9-a331-4115-98e9-e98c404c47c6",
+      "title": "Copy Intern",
+      "company": "",
+      "location": "Bengaluru",
+      "source": "2026-10-17-harvest-pool.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/fal-ai/0acf2909-a4c4-4ad5-a0fb-61fba66eb89e",
+      "title": "Software Engineer, Distributed Systems ",
+      "company": "",
+      "location": "Remote - Global",
+      "source": "2026-10-17-fresh-100-final.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/fampay/bbbbbfd2-1855-4991-82d5-84ef57607c24",
+      "title": "Security Engineer Intern",
+      "company": "",
+      "location": "Bengaluru",
+      "source": "2026-10-17-harvest-pool.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/runpod/25e7d414-e338-42dc-a206-ca4727f3f98f",
+      "title": "Forward Deployed Engineer APAC",
+      "company": "",
+      "location": "Remote - APAC",
+      "source": "2026-10-17-fresh-100-final.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/hevodata/ee02ca24-94ec-415b-ab36-7dec4d62099b",
+      "title": "Solutions Engineer",
+      "company": "",
+      "location": "Bangalore, India",
+      "source": "2026-10-17-harvest-pool.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/cynlr/f87863a4-5c5b-49fa-807e-a8bd9f6de18b",
+      "title": "Algorithm Research",
+      "company": "",
+      "location": "Bengaluru",
+      "source": "2026-10-17-harvest-pool-2.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/jobgether/7bb7140a-ed3c-4bfa-a073-98ad19147eb8",
+      "title": "AI Trainers Network - Afrikaans",
+      "company": "",
+      "location": "India",
+      "source": "2026-10-17-harvest-pool.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/cynlr/76eb6619-4f32-4800-923f-c50c3144528c",
+      "title": "Mechanical Engineer Roles",
+      "company": "",
+      "location": "Bengaluru",
+      "source": "2026-10-17-harvest-pool-2.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/jobgether/b06fde92-2cd6-4701-bd6e-b94896c7dfe6",
+      "title": "AI Trainers Network - Arabic",
+      "company": "",
+      "location": "India",
+      "source": "2026-10-17-harvest-pool.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/cynlr/770171cb-9407-4903-b87a-99f39b620710",
+      "title": "Software Engineering Roles",
+      "company": "",
+      "location": "Bengaluru",
+      "source": "2026-10-17-harvest-pool-2.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/jobgether/08f0a6a5-c26e-4bc5-b6b9-808ffd99d66c",
+      "title": "AI Trainers Network - Basque",
+      "company": "",
+      "location": "India",
+      "source": "2026-10-17-harvest-pool.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/cynlr/d0eeff10-6a1b-4be3-a4f1-eddb39511575",
+      "title": "Web Developer",
+      "company": "",
+      "location": "Bengaluru",
+      "source": "2026-10-17-harvest-pool-2.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/jobgether/4a8ab940-5839-4b77-97fd-24f0c0e8d459",
+      "title": "AI Trainers Network - Basque",
+      "company": "",
+      "location": "India",
+      "source": "2026-10-17-harvest-pool.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/skylo/f3d1ad18-1845-4811-b69f-65d3cc8a545e",
+      "title": "Solutions Engineer (IoT)",
+      "company": "",
+      "location": "Remote, US",
+      "source": "2026-10-17-harvest-pool-2.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/jobgether/e64ad417-ef56-41ae-aa38-41e43c690e36",
+      "title": "AI Trainers Network - Bosnian",
+      "company": "",
+      "location": "India",
+      "source": "2026-10-17-harvest-pool.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/bjakcareer/60def69d-14bc-44e9-af57-2f87fb3a827e",
+      "title": "AI Security Engineer",
+      "company": "",
+      "location": "Global",
+      "source": "2026-10-17-harvest-pool.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/jobgether/8c877d4f-dba3-4701-9a35-f1750d041162",
+      "title": "AI Trainers Network - Bulgarian",
+      "company": "",
+      "location": "India",
+      "source": "2026-10-17-harvest-pool.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/bjakcareer/7e1b725f-c1a3-43e3-87a0-ebdc62eab301",
+      "title": "Android Software Engineer - AI Finance Agent ",
+      "company": "",
+      "location": "India",
+      "source": "2026-10-17-harvest-pool.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/jobgether/625612b5-fb2d-4643-bdb2-e8c4ff9c3b06",
+      "title": "AI Trainers Network - Cantonese",
+      "company": "",
+      "location": "India",
+      "source": "2026-10-17-harvest-pool.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/bjakcareer/b25dfd2e-b875-4a5a-8c33-77e522cb0d2f",
+      "title": "Application Security Engineer AppSec",
+      "company": "",
+      "location": "Global",
+      "source": "2026-10-17-harvest-pool.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/jobgether/ee54dc36-f62c-4692-862b-4f78ceb669d7",
+      "title": "Analytical Chemistry Specialist - Freelance AI Trainer Project",
+      "company": "",
+      "location": "India",
+      "source": "2026-10-17-harvest-pool.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/bjakcareer/4e7b3e1f-4f8a-49f5-b89a-5bc70ed7576b",
+      "title": "Data Privacy Security Engineer",
+      "company": "",
+      "location": "Global",
+      "source": "2026-10-17-harvest-pool.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/jobgether/1549d068-ef37-4031-8cb6-87843865dd15",
+      "title": "Arabic (Gulf) Language Expert - Freelance AI Trainer Project",
+      "company": "",
+      "location": "India",
+      "source": "2026-10-17-harvest-pool.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/bjakcareer/543e1620-c9d5-453b-8103-2ddc17e93bc7",
+      "title": "DevSecOps Engineer",
+      "company": "",
+      "location": "Global",
+      "source": "2026-10-17-harvest-pool.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/jobgether/12cddb06-c29c-4ae2-b356-c02ea84b5957",
+      "title": "Azure Data Engineer- Freelancer",
+      "company": "",
+      "location": "India",
+      "source": "2026-10-17-harvest-pool.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/bjakcareer/a8d3ceec-9bd1-450b-8e25-a2ff8fa36630",
+      "title": "iOS Developer",
+      "company": "",
+      "location": "India",
+      "source": "2026-10-17-harvest-pool.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/jobgether/1c3ca90d-035b-4e14-9417-c0c654a1953f",
+      "title": "C# Coding Specialist - Freelance AI Trainer Project",
+      "company": "",
+      "location": "India",
+      "source": "2026-10-17-harvest-pool.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/bjakcareer/3a04559c-3700-429b-b2d2-1e144dc27611",
+      "title": "iOS Developer - AI Finance Agent",
+      "company": "",
+      "location": "India",
+      "source": "2026-10-17-harvest-pool.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/jobgether/fe235a5e-3062-4ede-9092-ccc94cc15590",
+      "title": "Data Client Support Analyst",
+      "company": "",
+      "location": "India",
+      "source": "2026-10-17-harvest-pool.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/bjakcareer/99aee288-831b-459f-af68-cc50ef6f7b6f",
+      "title": "Mobile Application Developer",
+      "company": "",
+      "location": "India",
+      "source": "2026-10-17-harvest-pool.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/jobgether/14a74819-0259-44dd-b4c6-4483420f3184",
+      "title": "Epic BI Report Developer",
+      "company": "",
+      "location": "India",
+      "source": "2026-10-17-harvest-pool.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/bjakcareer/533686dd-7dfd-4290-a279-c424f4654b8e",
+      "title": "Mobile Developer",
+      "company": "",
+      "location": "India",
+      "source": "2026-10-17-harvest-pool.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/jobgether/c4debeb6-6ddd-46bd-a0ac-07c9d8df3ba2",
+      "title": "Finance Data Analyst",
+      "company": "",
+      "location": "India",
+      "source": "2026-10-17-harvest-pool.json"
+    }
+  ],
+  "backup": [
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/bjakcareer/ed731a5c-4614-4c9e-94fb-be8bbfd3ad54",
+      "title": "Mobile Engineer - AI Finance Agent",
+      "company": "",
+      "location": "India",
+      "source": "2026-10-17-harvest-pool.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/jobgether/87c82ae5-4889-4b79-b6d7-97260d3a0ba9",
+      "title": "Forward Deployed Agile Software Engineer",
+      "company": "",
+      "location": "India",
+      "source": "2026-10-17-harvest-pool.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/bjakcareer/80b042e4-0dca-4c7f-a177-3ef8ee9e22b2",
+      "title": "Mobile Engineer - AI Finance Agent",
+      "company": "",
+      "location": "India",
+      "source": "2026-10-17-harvest-pool.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/jobgether/b16109d8-469a-4a63-baa5-dd6336d08021",
+      "title": "Forward Deployed Systems Engineer",
+      "company": "",
+      "location": "India",
+      "source": "2026-10-17-harvest-pool.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/bjakcareer/fa035076-9a56-47e1-bb03-c3d2f5a0c149",
+      "title": "UI Designer - AI Neobank App",
+      "company": "",
+      "location": "India",
+      "source": "2026-10-17-harvest-pool.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/jobgether/f342a1f9-3045-4c5e-815b-3601f948853e",
+      "title": "Freelance Packaging Designer \u2013 AI-Assisted Concept Development",
+      "company": "",
+      "location": "India",
+      "source": "2026-10-17-harvest-pool.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/cartesia/6d860f5a-b9d9-4df2-b5e5-b12ac80632a4",
+      "title": "Forward Deployed Engineer (India)",
+      "company": "",
+      "location": "Bangalore",
+      "source": "2026-10-17-harvest-pool.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/jobgether/26d4aaeb-6a9e-47e7-aa6c-54feb646217c",
+      "title": "Fulah Language Specialist - Freelance AI Trainer Project",
+      "company": "",
+      "location": "India",
+      "source": "2026-10-17-harvest-pool.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/cartesia/980ee31c-9dd7-476c-b3bc-bc8c26eb94b2",
+      "title": "Product Support Engineer, India",
+      "company": "",
+      "location": "Bangalore",
+      "source": "2026-10-17-harvest-pool.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/jobgether/3c2715cc-624f-403d-bc26-f1aff2325947",
+      "title": "Full Stack Developer",
+      "company": "",
+      "location": "India",
+      "source": "2026-10-17-harvest-pool.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/composio/a536fbf3-29ea-4805-a134-733d8157a724",
+      "title": "Technical Support Engineer",
+      "company": "",
+      "location": "Remote (US: PST or EST)",
+      "source": "2026-10-17-harvest-pool.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/jobgether/c53f3af4-0b27-47d8-bc50-ad5babf8c274",
+      "title": "Full Stack Platform Engineer",
+      "company": "",
+      "location": "India",
+      "source": "2026-10-17-harvest-pool.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/designworkstalent/050135ac-5d5d-40f5-95be-11cc89fa3dfe",
+      "title": "Infrastructure Systems Engineer",
+      "company": "",
+      "location": "Indianapolis",
+      "source": "2026-10-17-harvest-pool.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/jobgether/069f6249-f4f3-44c5-b808-b708c5631946",
+      "title": "Full Stack Software Engineer",
+      "company": "",
+      "location": "India",
+      "source": "2026-10-17-harvest-pool.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/ema/4524951e-f795-49d8-b147-8bcbc46ef534",
+      "title": " Devops Engineer",
+      "company": "",
+      "location": "Bengaluru office",
+      "source": "2026-10-17-harvest-pool.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/jobgether/07cbcd3f-910a-44ac-88c0-628555533e14",
+      "title": "Full Stack Web Developer",
+      "company": "",
+      "location": "India",
+      "source": "2026-10-17-harvest-pool.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/ema/c6ec72b0-dce1-422c-895f-9f22c4762a76",
+      "title": "AI Resident UK/EMEA",
+      "company": "",
+      "location": "United Kingdom (Remote)",
+      "source": "2026-10-17-harvest-pool.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/jobgether/78ceb785-bc52-4c9f-a2e2-fa95567a2b3b",
+      "title": "gtm engineer",
+      "company": "",
+      "location": "India",
+      "source": "2026-10-17-harvest-pool.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/ema/b4d1709b-f33a-4eb4-b3ec-f5509be8069d",
+      "title": "AI Strategist - UK",
+      "company": "",
+      "location": "United Kingdom (Remote)",
+      "source": "2026-10-17-harvest-pool.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/jobgether/e441a8c6-6e9d-4db9-a788-a851db4d44f4",
+      "title": "Infrastructure Engineer",
+      "company": "",
+      "location": "India",
+      "source": "2026-10-17-harvest-pool.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/ema/eb62df31-0370-447f-8cc6-707e79cbc9fa",
+      "title": "Software Engineer, Backend - India",
+      "company": "",
+      "location": "Bengaluru office",
+      "source": "2026-10-17-harvest-pool.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/jobgether/4e096859-136c-4780-9187-ec452baa11b4",
+      "title": "Insurance Expert - AI Training & Evaluation",
+      "company": "",
+      "location": "India",
+      "source": "2026-10-17-harvest-pool.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/ema/8207a75e-2762-4f5f-bb40-1fa168b918e0",
+      "title": "Software Engineer, Full Stack - UK",
+      "company": "",
+      "location": "United Kingdom (Remote)",
+      "source": "2026-10-17-harvest-pool.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/jobgether/9636456d-9c15-4184-b3d2-5ddb3ba51e2c",
+      "title": "iOS Developer - Contract Role",
+      "company": "",
+      "location": "India",
+      "source": "2026-10-17-harvest-pool.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/ema/88d004d9-50a9-41ee-a618-03855001a9be",
+      "title": "Software Engineer, Machine Learning",
+      "company": "",
+      "location": "Bengaluru office",
+      "source": "2026-10-17-harvest-pool.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/jobgether/9a666e93-ce71-4311-8439-1d472c4f0f29",
+      "title": "Junior Support Engineer",
+      "company": "",
+      "location": "India",
+      "source": "2026-10-17-harvest-pool.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/espa/6fa2d441-971f-44c4-9a4e-3304ea041cc8",
+      "title": "Software Engineer INTERN",
+      "company": "",
+      "location": "Hybrid / Remote first",
+      "source": "2026-10-17-harvest-pool.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/jobgether/ca1c9aad-e3de-46b4-8cdd-a65854bb81d1",
+      "title": "Language Alignment & Resource Partner (Belarusian) - Freelance AI Trainer Project",
+      "company": "",
+      "location": "India",
+      "source": "2026-10-17-harvest-pool.json"
+    },
+    {
+      "ats": "ashby",
+      "url": "https://jobs.ashbyhq.com/fal-ai/7fbe1d25-29fb-41bb-bd52-4c8f7f277201",
+      "title": "Software Engineer, Site Reliability",
+      "company": "",
+      "location": "Remote - Global",
+      "source": "2026-10-17-harvest-pool.json"
+    },
+    {
+      "ats": "lever",
+      "url": "https://jobs.lever.co/jobgether/45f3d4ea-6563-4418-9770-00b13251ab58",
+      "title": "Mobile Engineer - React Native",
+      "company": "",
+      "location": "India",
+      "source": "2026-10-17-harvest-pool.json"
+    }
+  ]
+}

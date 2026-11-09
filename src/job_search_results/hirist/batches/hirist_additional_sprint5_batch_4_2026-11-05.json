@@ -1,0 +1,349 @@
+{
+  "worker": 4,
+  "sprint": 5,
+  "target_applied": 12,
+  "total_jobs": 17,
+  "jobs": [
+    {
+      "id": 1681955,
+      "title": "Falcon - Senior Software Developer - Java",
+      "company": "Falcon India",
+      "min": 3,
+      "max": 7,
+      "exp": "3-7 yrs",
+      "location": "Gurgaon/Gurugram",
+      "tags": [
+        "Java",
+        "Spring Boot",
+        "PostgreSQL",
+        "Kafka",
+        "RESTful API",
+        "Microservices Architecture",
+        "Hibernate",
+        "JPA"
+      ],
+      "createdTime": 1793644200000
+    },
+    {
+      "id": 1681672,
+      "title": "Java Microservices Engineer - Agentic AI Integration",
+      "company": "HiringBlaze",
+      "min": 3,
+      "max": 7,
+      "exp": "3-7 yrs",
+      "location": "Remote",
+      "tags": [
+        "Java",
+        "Spring Boot",
+        "Kafka",
+        "PostgreSQL",
+        "LangChain",
+        "Python",
+        "Git",
+        "Microservices Architecture",
+        "Agentic AI"
+      ],
+      "createdTime": 1793557800000
+    },
+    {
+      "id": 1681391,
+      "title": "TechRAQ - Python Developer - Django/Flask",
+      "company": "TechRAQ Info Solutions",
+      "min": 3,
+      "max": 4,
+      "exp": "3-4 yrs",
+      "location": "Navi Mumbai | Mumbai",
+      "tags": [
+        "Python",
+        "Django",
+        "Flask",
+        "FastAPI",
+        "RESTful API",
+        "MySQL",
+        "MongoDB"
+      ],
+      "createdTime": 1793298600000
+    },
+    {
+      "id": 1680259,
+      "title": "Tradl AI - Senior Backend Developer - Golang/Java/Rust",
+      "company": "Tradl AI",
+      "min": 3,
+      "max": 6,
+      "exp": "3-6 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "Backend Architecture",
+        "Golang",
+        "C++",
+        "Java",
+        "Distributed Systems",
+        "Microservices Architecture",
+        "PostgreSQL",
+        "AWS",
+        "Rest Webservices",
+        "WebSockets",
+        "Rust"
+      ],
+      "createdTime": 1792953000000
+    },
+    {
+      "id": 1679385,
+      "title": "Euphoric Thought - Python Developer - Azure",
+      "company": "Euphoric Thought Technologies",
+      "min": 3,
+      "max": 5,
+      "exp": "3-5 yrs",
+      "location": "Noida | Greater Noida | UP",
+      "tags": [
+        "Python",
+        "Azure",
+        "Django",
+        "Azure SQL",
+        "CI/CD",
+        "Solution Architect"
+      ],
+      "createdTime": 1792521000000
+    },
+    {
+      "id": 1678631,
+      "title": "InfoBeans Technologies - Java Developer - AI Assisted Development",
+      "company": "InfoBeans",
+      "min": 3,
+      "max": 6,
+      "exp": "3-6 yrs",
+      "location": "Remote | Anywhere in India/Multiple Locations",
+      "tags": [
+        "Java",
+        "Artificial Intelligence",
+        "RESTful",
+        "Generative AI",
+        "Microservices Architecture",
+        "OOAD",
+        "Data Structure",
+        "Algorithm",
+        "Claude"
+      ],
+      "createdTime": 1792002600000
+    },
+    {
+      "id": 1678277,
+      "title": "BotLab Dynamics - Unreal Engine Developer - C++",
+      "company": "BotLab Dynamics",
+      "min": 3,
+      "max": 6,
+      "exp": "3-6 yrs",
+      "location": "Noida",
+      "tags": [
+        "Unreal Engine",
+        "C++",
+        "Virtual Reality",
+        "Game Design",
+        "Augmented Reality",
+        "Game Engine"
+      ],
+      "createdTime": 1791916200000
+    },
+    {
+      "id": 1678180,
+      "title": "K4 Mobility India - Backend Engineer - Node.js Framework",
+      "company": "K4 Mobility",
+      "min": 3,
+      "max": 6,
+      "exp": "3-6 yrs",
+      "location": "Remote",
+      "tags": [
+        "Backend Architecture",
+        "Node.js",
+        "RESTful API",
+        "Server Side Component",
+        "Express.js",
+        "SQL",
+        "NoSQL",
+        "Python",
+        "Git"
+      ],
+      "createdTime": 1791829800000
+    },
+    {
+      "id": 1678110,
+      "title": "C++ Developer",
+      "company": "Programming.Com",
+      "min": 3,
+      "max": 5,
+      "exp": "3-5 yrs",
+      "location": "Mumbai | Bangalore | Hyderabad | Chennai | Pune | Chandigarh | Gurgaon/Gurugram | Noida",
+      "tags": [
+        "C++",
+        "Solution Design",
+        "C",
+        "OOAD",
+        "SQL Server",
+        "Multithreading",
+        "Visual Studio"
+      ],
+      "createdTime": 1791829800000
+    },
+    {
+      "id": 1678005,
+      "title": "Sciative Solutions - Full Stack Developer - Python/Django",
+      "company": "Sciative - We Price Right",
+      "min": 3,
+      "max": 5,
+      "exp": "3-5 yrs",
+      "location": "Navi Mumbai",
+      "tags": [
+        "Python",
+        "Solution Architect",
+        "Full Stack",
+        "Django",
+        "MySQL",
+        "MongoDB",
+        "Ruby on Rails",
+        "IT Project Delivery",
+        "Terraform"
+      ],
+      "createdTime": 1791829800000
+    },
+    {
+      "id": 1677894,
+      "title": "True Credits - Software Engineer - Java/J2EE",
+      "company": "TRUE CREDITS PRIVATE LIMITED",
+      "min": 3,
+      "max": 6,
+      "exp": "3-6 yrs",
+      "location": "Gurgaon/Gurugram",
+      "tags": [
+        "Java",
+        "J2EE",
+        "Backend Architecture",
+        "Spring Boot",
+        "Microservices Architecture",
+        "Server Side Component",
+        "RESTful API",
+        "MySQL",
+        "ORM",
+        "Hibernate"
+      ],
+      "createdTime": 1791743400000
+    },
+    {
+      "id": 1677809,
+      "title": "Solution Architect",
+      "company": "Axnode Immigration",
+      "min": 3,
+      "max": 13,
+      "exp": "3-13 yrs",
+      "location": "Anywhere in India/Multiple Locations | Overseas/International",
+      "tags": [
+        "Solution Architect",
+        "System Architecture",
+        "Solution Design",
+        "Integration Architecture",
+        "Technical Architect",
+        "Distributed Systems",
+        "System Design",
+        "API",
+        "SDLC"
+      ],
+      "createdTime": 1791570600000
+    },
+    {
+      "id": 1677802,
+      "title": "Software Programmer - Java/Python",
+      "company": "Axnode Immigration",
+      "min": 3,
+      "max": 12,
+      "exp": "3-12 yrs",
+      "location": "Overseas/International | Anywhere in India/Multiple Locations",
+      "tags": [
+        "Java",
+        "Python",
+        "Data Structure",
+        "SQL",
+        "System Integration",
+        "SDLC",
+        "OOPS"
+      ],
+      "createdTime": 1791570600000
+    },
+    {
+      "id": 1677810,
+      "title": "Backend Developer - Node.js/Spring Boot",
+      "company": "Axnode Immigration",
+      "min": 3,
+      "max": 12,
+      "exp": "3-12 yrs",
+      "location": "Anywhere in India/Multiple Locations | Overseas/International",
+      "tags": [
+        "Backend Architecture",
+        "RESTful Webservices",
+        "Microservices Architecture",
+        "Server Side Component",
+        "Spring Boot",
+        "Node.js",
+        "AWS"
+      ],
+      "createdTime": 1791570600000
+    },
+    {
+      "id": 1677740,
+      "title": "6D Technologies - Senior Backend Developer - Java",
+      "company": "6D Technologies",
+      "min": 3,
+      "max": 5,
+      "exp": "3-5 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "Java",
+        "Multithreading",
+        "Spring Boot",
+        "Microservices Architecture",
+        "Data Structure",
+        "Algorithm",
+        "Spring",
+        "Hibernate"
+      ],
+      "createdTime": 1791484200000
+    },
+    {
+      "id": 1677405,
+      "title": "Sav - Senior Backend Engineer - Node.js/Next.js",
+      "company": "Sav Technologies",
+      "min": 3,
+      "max": 9,
+      "exp": "3-9 yrs",
+      "location": "Gurgaon/Gurugram",
+      "tags": [
+        "Backend Architecture",
+        "Node.js",
+        "Next.js",
+        "Microservices Architecture",
+        "RESTful API",
+        "SQL",
+        "PostgreSQL",
+        "Redis",
+        "Express.js"
+      ],
+      "createdTime": 1791397800000
+    },
+    {
+      "id": 1672761,
+      "title": "OZI - Backend Engineer - Node.js/Java",
+      "company": "OZI Technologies",
+      "min": 3,
+      "max": 6,
+      "exp": "3-6 yrs",
+      "location": "Gurgaon/Gurugram",
+      "tags": [
+        "Node.js",
+        "Java",
+        "MongoDB",
+        "WMS",
+        "API",
+        "Backend Architecture"
+      ],
+      "createdTime": 1789669800000
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "worker": 5,
+  "sprint": 2,
+  "batch": 5,
+  "total_jobs": 6,
+  "applied_count": 4,
+  "parked_count": 2,
+  "already_applied_count": 0,
+  "failed_count": 0,
+  "all_results": [
+    { "jobId": 1680253, "title": "Full Stack AI Engineer - TypeScript/NestJS (3-7 yrs)", "company": "Unico Talent", "status": "parked_assessment", "reason": "Assessment/ screening is required to apply for this Job" },
+    { "jobId": 1680259, "title": "Tradl AI - Senior Backend Developer - Golang/Java/Rust (3-6 yrs)", "company": "Tradl AI", "status": "parked_assessment", "reason": "Assessment/ screening is required to apply for this Job" },
+    { "jobId": 1680359, "title": "Python Data & Automation Engineer (3-8 yrs)", "company": "CRESCENDO GLOBAL LEADERSHIP HIRING INDIA PRIVATE L", "status": "applied", "applicationId": 79293901 },
+    { "jobId": 1680364, "title": "Python Developer - Data Engineering (3-8 yrs)", "company": "CRESCENDO GLOBAL LEADERSHIP HIRING INDIA PRIVATE L", "status": "applied", "applicationId": 79293904 },
+    { "jobId": 1678854, "title": "Jupiter Money - Software Development Engineer II - DevOps (3-6 yrs)", "company": "Jupiter Money", "status": "applied", "applicationId": 79293909 },
+    { "jobId": 1678517, "title": "Intel - Software Application Development Engineer - Python/Java/C++ (3-10 yrs)", "company": "Intel", "status": "applied", "applicationId": 79293911 }
+  ]
+}

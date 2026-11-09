@@ -1,0 +1,28 @@
+{
+  "platform": "eightfold",
+  "total_jobs": 1,
+  "jobs": [
+    {
+      "job_id": "051026504641",
+      "title": "Engineer Tapeout Engineering",
+      "company": "Globalfoundries",
+      "platform": "eightfold",
+      "company_site_url": "https://globalfoundries.eightfold.ai/careers/job/563980770744348",
+      "ats_domain": "globalfoundries.eightfold.ai",
+      "naukri_url": "https://www.naukri.com/job-listings-engineer-tapeout-engineering-global-foundries-inc-bengaluru-0-to-2-years-051026504641",
+      "experience": "0-2 Yrs",
+      "location": "Bengaluru",
+      "posted_date": "3 weeks ago",
+      "skills": [
+        "debug",
+        "eda",
+        "microelectronics",
+        "ai",
+        "logistics",
+        "graphics",
+        "cadence",
+        "data preparation"
+      ]
+    }
+  ]
+}

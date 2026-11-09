@@ -28,7 +28,7 @@
         "--extension"
       ],
       "env":{
-        "PLAYWRIGHT_MCP_EXTENSION_TOKEN": "zse8LU4TdA0oWJd6zW6hEoDiulMg3qB4Sxw6hzeXikQ"
+        "PLAYWRIGHT_MCP_EXTENSION_TOKEN": "YOUR_PLAYWRIGHT_MCP_EXTENSION_TOKEN"
       },
       "enabled": true
     },

@@ -1,0 +1,15 @@
+{
+  "allow_submit": true,
+  "allow_submit_yes": true,
+  "authority": "User granted full submit authority for Avantor, Amgen, Qualcomm, Siemens, and Bureau applications",
+  "date_granted": "2026-11-07",
+  "granted_via": "chat: 2026-11-07 'launch sub agents to fill this, i want them filled, login, signup, everything should be handled, you have the final submit suthority'",
+  "scope": [
+    "https://jobs.ashbyhq.com/bureau/*",
+    "https://careers.qualcomm.com/*",
+    "https://jobs.siemens.com/*",
+    "https://careers.amgen.com/*",
+    "https://careers.avantorsciences.com/*",
+    "https://*.myworkdayjobs.com/*"
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "batch_id": 4,
+  "sprint": 2,
+  "total_jobs": 6,
+  "jobs": [
+    {
+      "id": 1680383,
+      "title": "Full Stack Developer - Python/React.js/AngularJS (3-6 yrs)",
+      "company": "The Reliable Jobs",
+      "min": 3,
+      "max": 6,
+      "exp": "3-6 yrs",
+      "location": "Mumbai",
+      "tags": [
+        "Full Stack",
+        "Python",
+        "React.js",
+        "AngularJS",
+        "TypeScript",
+        "FastAPI",
+        "Django",
+        "AI Tools"
+      ],
+      "url": "https://www.hirist.tech/j/the-reliable-jobs-full-stack-developer-python-react-js-angularjs-3-6-yrs-1680383?ref=cl_br",
+      "applied": 0,
+      "createdTime": 1793039400000,
+      "sourceFeed": "2-3"
+    },
+    {
+      "id": 1680473,
+      "title": "Embedded Software Engineer - C/C++ (3-5 yrs)",
+      "company": "Hirezy.ai",
+      "min": 3,
+      "max": 5,
+      "exp": "3-5 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "Embedded System",
+        "C",
+        "C++",
+        "RTOS",
+        "FreeRTOS",
+        "ARM",
+        "Firmware",
+        "Device Driver",
+        "Microcontroller"
+      ],
+      "url": "https://www.hirist.tech/j/hirezy-ai-embedded-software-engineer-c-c-3-5-yrs-1680473?ref=cl_br",
+      "applied": 0,
+      "createdTime": 1793039400000,
+      "sourceFeed": "2-3"
+    },
+    {
+      "id": 1680600,
+      "title": "Tata Elxsi - Embedded Firmware Lead - Medical Devices (3-10 yrs)",
+      "company": "Tata Elxsi",
+      "min": 3,
+      "max": 10,
+      "exp": "3-10 yrs",
+      "location": "Pune",
+      "tags": [
+        "Embedded System",
+        "Firmware",
+        "Board Support Package",
+        "RTOS",
+        "C",
+        "C++",
+        "Microcontroller",
+        "ARM",
+        "Embedded System Design"
+      ],
+      "url": "https://www.hirist.tech/j/tata-elxsi-tata-elxsi-embedded-firmware-lead-medical-devices-3-10-yrs-1680600?ref=cl_br",
+      "applied": 0,
+      "createdTime": 1793039400000,
+      "sourceFeed": "2-3"
+    },
+    {
+      "id": 1679088,
+      "title": "StatusNeo - Backend Engineer - Python/Azure (3-5 yrs)",
+      "company": "StatusNeo Technology Consulting",
+      "min": 3,
+      "max": 5,
+      "exp": "3-5 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "Backend Architecture",
+        "Python",
+        "Azure",
+        "REST API",
+        "FastAPI",
+        "PostgreSQL",
+        "Django",
+        "Flask",
+        "RDBMS"
+      ],
+      "url": "https://www.hirist.tech/j/statusneo-technology-consulting-statusneo-backend-engineer-python-azure-3-5-yrs-1679088?ref=cl_br",
+      "applied": 0,
+      "createdTime": 1792175400000,
+      "sourceFeed": "2-3"
+    },
+    {
+      "id": 1679127,
+      "title": "Blink Health - Senior/Staff Software Engineer - AI & Product Engineering (3-10 yrs)",
+      "company": "BlinkRx ",
+      "min": 3,
+      "max": 10,
+      "exp": "3-10 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "Python",
+        "Javascript",
+        "React.js",
+        "MySQL",
+        "PostgreSQL",
+        "Linux",
+        "AI Integration",
+        "LLM",
+        "LangChain",
+        "Full Stack"
+      ],
+      "url": "https://www.hirist.tech/j/blinkrx-blink-health-senior-staff-software-engineer-ai-product-engineering-3-10-yrs-1679127?ref=cl_br",
+      "applied": 0,
+      "createdTime": 1792175400000,
+      "sourceFeed": "2-3"
+    },
+    {
+      "id": 1680242,
+      "title": "Trendlyne - Senior QA Automation Engineer - Mobile & Web Testing (3-6 yrs)",
+      "company": "Giskard Datatech",
+      "min": 3,
+      "max": 6,
+      "exp": "3-6 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "Automation Testing",
+        "Software Quality Assurance",
+        "Appium",
+        "Python",
+        "Selenium",
+        "API Testing",
+        "POSTMAN",
+        "Playwright Testing",
+        "Mobile App Testing"
+      ],
+      "url": "https://www.hirist.tech/j/giskard-datatech-trendlyne-senior-qa-automation-engineer-mobile-web-testing-3-6-yrs-1680242?ref=cl_br",
+      "applied": 0,
+      "createdTime": 1792953000000,
+      "sourceFeed": "2-3"
+    }
+  ]
+}

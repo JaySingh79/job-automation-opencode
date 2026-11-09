@@ -1,0 +1,4747 @@
+{
+  "platform": "hirist",
+  "date": "2026-11-05",
+  "total_applied": 650,
+  "total_parked_assessments": 110,
+  "total_already_applied": 0,
+  "batch_breakdown": {
+    "batch_1_sprint_1": {
+      "applied": 14,
+      "parked": 12,
+      "already_applied": 0,
+      "total_processed": 26
+    },
+    "batch_1_sprint_2": {
+      "applied": 5,
+      "parked": 1,
+      "already_applied": 0,
+      "total_processed": 6
+    },
+    "batch_1_sprint_3": {
+      "applied": 24,
+      "parked": 8,
+      "already_applied": 0,
+      "total_processed": 32
+    },
+    "batch_2_sprint_1": {
+      "applied": 18,
+      "parked": 8,
+      "already_applied": 0,
+      "total_processed": 26
+    },
+    "batch_2_sprint_2": {
+      "applied": 4,
+      "parked": 2,
+      "already_applied": 0,
+      "total_processed": 6
+    },
+    "batch_2_sprint_3": {
+      "applied": 22,
+      "parked": 10,
+      "already_applied": 0,
+      "total_processed": 32
+    },
+    "batch_3_sprint_1": {
+      "applied": 17,
+      "parked": 9,
+      "already_applied": 0,
+      "total_processed": 26
+    },
+    "batch_3_sprint_2": {
+      "applied": 2,
+      "parked": 4,
+      "already_applied": 0,
+      "total_processed": 6
+    },
+    "batch_3_sprint_3": {
+      "applied": 22,
+      "parked": 10,
+      "already_applied": 0,
+      "total_processed": 32
+    },
+    "batch_4_sprint_1": {
+      "applied": 17,
+      "parked": 9,
+      "already_applied": 0,
+      "total_processed": 26
+    },
+    "batch_4_sprint_2": {
+      "applied": 3,
+      "parked": 3,
+      "already_applied": 0,
+      "total_processed": 6
+    },
+    "batch_4_sprint_3": {
+      "applied": 17,
+      "parked": 15,
+      "already_applied": 0,
+      "total_processed": 32
+    },
+    "batch_5_sprint_1": {
+      "applied": 17,
+      "parked": 9,
+      "already_applied": 0,
+      "total_processed": 26
+    },
+    "batch_5_sprint_2": {
+      "applied": 4,
+      "parked": 2,
+      "already_applied": 0,
+      "total_processed": 6
+    },
+    "batch_5_sprint_3": {
+      "applied": 22,
+      "parked": 8,
+      "already_applied": 0,
+      "total_processed": 30
+    }
+  },
+  "applied": [
+    {
+      "jobId": 1681776,
+      "title": "AI Engineer - LLM/RAG - Fintech Domain (0-2 yrs)",
+      "company": "HiringBlaze",
+      "status": "applied",
+      "applicationId": 79292882
+    },
+    {
+      "jobId": 1675781,
+      "title": "AI Platform Operations Engineer (0-2 yrs)",
+      "company": "Client of Innovistors",
+      "status": "applied",
+      "applicationId": 79293121
+    },
+    {
+      "jobId": 1677365,
+      "title": "Data Scientist - Python/SQL (1-6 yrs)",
+      "company": "GREAT LEARNING EDUCATION SERVICES PRIVATE LIMITED",
+      "status": "applied",
+      "applicationId": 79293141
+    },
+    {
+      "jobId": 1678611,
+      "title": "Netradyne - Database Engineer - PostgreSQL/AWS (1-2 yrs)",
+      "company": "NetraDyne Technology",
+      "status": "applied",
+      "applicationId": 79293171
+    },
+    {
+      "jobId": 1680025,
+      "title": "Firmware Embedded Engineer - C/C++ (1-5 yrs)",
+      "company": "IIT Hyderabad-5G Project",
+      "status": "applied",
+      "applicationId": 79293176
+    },
+    {
+      "jobId": 1678189,
+      "title": "Full Stack Developer - Node.js/React.js (1-4 yrs)",
+      "company": "Xomiro Technologies",
+      "status": "applied",
+      "applicationId": 79293219
+    },
+    {
+      "jobId": 1675108,
+      "title": "Exotel - Integration & Customization Engineer I - PHP/React.js (1-3 yrs)",
+      "company": "EXOTEL TECHCOM PRIVATE LIMITED",
+      "status": "applied",
+      "applicationId": 79293261
+    },
+    {
+      "jobId": 1674308,
+      "title": "Lendingkart - Software Engineer - Backend Development (1-3 yrs)",
+      "company": "LendingKart",
+      "status": "applied",
+      "applicationId": 79293287
+    },
+    {
+      "jobId": 1674334,
+      "title": "Graphics Software Validation Engineer (1-2 yrs)",
+      "company": "Tech Grow Global",
+      "status": "applied",
+      "applicationId": 79293291
+    },
+    {
+      "jobId": 1674341,
+      "title": "QClairvoyance Quantum Labs - Cryptography Expert - Python/Algorithm (1-4 yrs)",
+      "company": "QClairvoyance Quantum Labs",
+      "status": "applied",
+      "applicationId": 79293294
+    },
+    {
+      "jobId": 1674467,
+      "title": "Full Stack AI Developer (1-4 yrs)",
+      "company": "Mesitus",
+      "status": "applied",
+      "applicationId": 79293317
+    },
+    {
+      "jobId": 1681932,
+      "title": "AI/ML Engineer - Telecom Domain (2-12 yrs)",
+      "company": "LANCESOFT INDIA PRIVATE LIMITED",
+      "status": "applied",
+      "applicationId": 79293321
+    },
+    {
+      "jobId": 1682342,
+      "title": "AI/ML Engineer - Risk & Fraud (2-5 yrs)",
+      "company": "Laksh Consultants",
+      "status": "applied",
+      "applicationId": 79293334
+    },
+    {
+      "jobId": 1682250,
+      "title": "Forward Deployed Engineer - AI Agents (2-8 yrs)",
+      "company": "Zorba Consulting",
+      "status": "applied",
+      "applicationId": 79293340
+    },
+    {
+      "jobId": 1680663,
+      "title": "Kuku FM - AI Engineer (2-5 yrs)",
+      "company": "Kuku FM",
+      "status": "applied",
+      "applicationId": 79293015,
+      "timestamp": "2026-11-05T18:19:34.329Z"
+    },
+    {
+      "jobId": 1681461,
+      "title": "Mobifly - AI Programmer - Large Language Model & Document Parsing (2-5 yrs)",
+      "company": "Moonshine Food Ventures",
+      "status": "applied",
+      "applicationId": 79293043,
+      "message": null,
+      "timestamp": "2026-11-05T12:50:00.910Z"
+    },
+    {
+      "jobId": 1679204,
+      "title": "Hind Industec - Full Stack AI Engineer (2-5 yrs)",
+      "company": "Hind Industec Pvt Ltd",
+      "status": "applied",
+      "applicationId": 79293046,
+      "message": null,
+      "timestamp": "2026-11-05T12:50:02.889Z"
+    },
+    {
+      "jobId": 1682369,
+      "title": "Backend Software Engineer - Platform APIs (2-4 yrs)",
+      "company": "Laksh Consultants",
+      "status": "applied",
+      "applicationId": 79293108,
+      "message": null,
+      "timestamp": "2026-11-05T12:50:59.698Z"
+    },
+    {
+      "jobId": 1680850,
+      "title": "AI Consultant - Solution Implementation (2-5 yrs)",
+      "company": "Grizmo Labs",
+      "status": "applied",
+      "applicationId": 79293110,
+      "message": null,
+      "timestamp": "2026-11-05T12:51:01.775Z"
+    },
+    {
+      "jobId": 1681873,
+      "title": "PHP Developer - Laravel/Symfony (2-8 yrs)",
+      "company": "The Job Sphere",
+      "status": "applied",
+      "applicationId": 79293119,
+      "message": null,
+      "timestamp": "2026-11-05T12:51:09.844Z"
+    },
+    {
+      "jobId": 1681885,
+      "title": "Zenith - ITO Service Delivery Consultant II - Python/Automation (2-5 yrs)",
+      "company": "Zenith Services Inc.",
+      "status": "applied",
+      "applicationId": 79293122,
+      "message": null,
+      "timestamp": "2026-11-05T12:51:11.367Z"
+    },
+    {
+      "jobId": 1681674,
+      "title": "Backend Software Engineer - Java/Node.js - Fintech Domain (2-5 yrs)",
+      "company": "HiringBlaze",
+      "status": "applied",
+      "applicationId": 79293125,
+      "message": null,
+      "timestamp": "2026-11-05T12:51:15.144Z"
+    },
+    {
+      "jobId": 1681243,
+      "title": "Backend Engineer - Golang (2-5 yrs)",
+      "company": "Consulting Pandits",
+      "status": "applied",
+      "applicationId": 79293148,
+      "message": null,
+      "timestamp": "2026-11-05T12:51:31.370Z"
+    },
+    {
+      "jobId": 1681460,
+      "title": "Mobifly - DevOps Engineer - CI/CD Pipeline (2-4 yrs)",
+      "company": "Moonshine Food Ventures",
+      "status": "applied",
+      "applicationId": 79293151,
+      "message": null,
+      "timestamp": "2026-11-05T12:51:33.531Z"
+    },
+    {
+      "jobId": 1681464,
+      "title": "Mobifly - DevOps Engineer - Cloud Infrastructure (2-4 yrs)",
+      "company": "Moonshine Food Ventures",
+      "status": "applied",
+      "applicationId": 79293156,
+      "message": null,
+      "timestamp": "2026-11-05T12:51:35.762Z"
+    },
+    {
+      "jobId": 1680823,
+      "title": "Extreme Networks - Software Quality Assurance Engineer - Automation Testing (2-4 yrs)",
+      "company": "Extreme Networks",
+      "status": "applied",
+      "applicationId": 79293159,
+      "message": null,
+      "timestamp": "2026-11-05T12:51:37.684Z"
+    },
+    {
+      "jobId": 1680445,
+      "title": "Infosys - SAS Programmer - Statistical Analysis (2-5 yrs)",
+      "company": "Infosys Limited",
+      "status": "applied",
+      "applicationId": 79293162,
+      "message": null,
+      "timestamp": "2026-11-05T12:51:39.547Z"
+    },
+    {
+      "jobId": 1680480,
+      "title": "Senior Software Engineer - Java & API Integration (2-4 yrs)",
+      "company": "Talent Leads HR Solutions",
+      "status": "applied",
+      "applicationId": 79293166,
+      "message": null,
+      "timestamp": "2026-11-05T12:51:41.561Z"
+    },
+    {
+      "jobId": 1680149,
+      "title": "Application Security Engineer (2-5 yrs)",
+      "company": "HiringBlaze",
+      "status": "applied",
+      "applicationId": 79293168,
+      "message": null,
+      "timestamp": "2026-11-05T12:51:43.161Z"
+    },
+    {
+      "jobId": 1678686,
+      "title": "LeadSquared - Product Manager I (2-4 yrs)",
+      "company": "Leadsquared",
+      "status": "applied",
+      "applicationId": 79293174,
+      "message": null,
+      "timestamp": "2026-11-05T12:51:45.140Z"
+    },
+    {
+      "jobId": 1680003,
+      "title": "DSP Software Engineer - LIDAR/FreeRTOS (2-6 yrs)",
+      "company": "IIT Hyderabad-5G Project",
+      "status": "applied",
+      "applicationId": 79293177,
+      "message": null,
+      "timestamp": "2026-11-05T12:51:47.041Z"
+    },
+    {
+      "jobId": 1679842,
+      "title": "Exotel - Member of Technical Staff II - Billing Platform (2-5 yrs)",
+      "company": "EXOTEL TECHCOM PRIVATE LIMITED",
+      "status": "applied",
+      "applicationId": 79293182,
+      "message": null,
+      "timestamp": "2026-11-05T12:51:48.593Z"
+    },
+    {
+      "jobId": 1679962,
+      "title": "Aliaxis - Data Engineer - Data Lake & AI Enablement (2-5 yrs)",
+      "company": "Aliaxis",
+      "status": "applied",
+      "applicationId": 79293101
+    },
+    {
+      "jobId": 1679971,
+      "title": "Aditya Birla Group - Data Analyst (2-6 yrs)",
+      "company": "UltraTech Cement",
+      "status": "applied",
+      "applicationId": 79293130,
+      "message": null
+    },
+    {
+      "jobId": 1679307,
+      "title": "Tracxn - Backend Developer (2-4 yrs)",
+      "company": "Tracxn Technologies Ltd",
+      "status": "applied",
+      "applicationId": 79293133,
+      "message": null
+    },
+    {
+      "jobId": 1679348,
+      "title": "Volody - PHP Developer - Laravel (2-5 yrs)",
+      "company": "Volody",
+      "status": "applied",
+      "applicationId": 79293136,
+      "message": null
+    },
+    {
+      "jobId": 1679446,
+      "title": "Akamai Technologies - Cloud Support Engineer - AWS/Azure (2-4 yrs)",
+      "company": "Akamai Technologies",
+      "status": "applied",
+      "applicationId": 79293138,
+      "message": null
+    },
+    {
+      "jobId": 1678890,
+      "title": "Zebra Technologies - Senior Test Automation Engineer (2-6 yrs)",
+      "company": "Zebra Technologies",
+      "status": "applied",
+      "applicationId": 79293164,
+      "message": null
+    },
+    {
+      "jobId": 1678991,
+      "title": "Data Engineer - Python/Django (2-5 yrs)",
+      "company": "Harmony Data Integration Technologies",
+      "status": "applied",
+      "applicationId": 79293167,
+      "message": null
+    },
+    {
+      "jobId": 1678043,
+      "title": "Python Test Automation Engineer (2-5 yrs)",
+      "company": "GenZS Recruitment Solutions",
+      "status": "applied",
+      "applicationId": 79293181,
+      "message": null
+    },
+    {
+      "jobId": 1677640,
+      "title": "Ennoventure - Product Manager - Roadmap & Strategy (2-4 yrs)",
+      "company": "Ennoventure Technologies",
+      "status": "applied",
+      "applicationId": 79293228,
+      "message": null
+    },
+    {
+      "jobId": 1677532,
+      "title": "Infosys - PySpark Developer - ETL Pipelines (2-9 yrs)",
+      "company": "Infosys Limited",
+      "status": "applied",
+      "applicationId": 79293230,
+      "message": null
+    },
+    {
+      "jobId": 1677378,
+      "title": "Site Reliability Engineer - Cloud Infrastructure (2-4 yrs)",
+      "company": "Scaling Theory Technologies",
+      "status": "applied",
+      "applicationId": 79293234,
+      "message": null
+    },
+    {
+      "jobId": 1677171,
+      "title": "Embitel Technologies - Software Development Engineer - Linux/Embedded System (2-7 yrs)",
+      "company": "Embitel Technologies",
+      "status": "applied",
+      "applicationId": 79293239,
+      "message": null
+    },
+    {
+      "jobId": 1677217,
+      "title": "Coverfox Insurance - Backend Developer - Python/Django (2-6 yrs)",
+      "company": "CoverStack",
+      "status": "applied",
+      "applicationId": 79293241,
+      "message": null
+    },
+    {
+      "jobId": 1677134,
+      "title": "Business Analyst (2-5 yrs)",
+      "company": "HireSource.ai",
+      "status": "applied",
+      "applicationId": 79293281,
+      "message": null
+    },
+    {
+      "jobId": 1677206,
+      "title": "Cloverleaf Developer - Healthcare Integration (2-4 yrs)",
+      "company": "Wilco Source",
+      "status": "applied",
+      "applicationId": 79293286,
+      "message": null
+    },
+    {
+      "jobId": 1677010,
+      "title": "Full Stack Engineer - Node.js/React.js (2-6 yrs)",
+      "company": "Whitetable",
+      "status": "applied",
+      "applicationId": 79293290,
+      "message": null
+    },
+    {
+      "jobId": 1675050,
+      "title": "Mindtickle - Software Engineer - Business Systems (2-4 yrs)",
+      "company": "MindTickle",
+      "status": "applied",
+      "applicationId": 79293292,
+      "message": null
+    },
+    {
+      "jobId": 1675906,
+      "title": "Senior Consultant - Site Reliability (2-5 yrs)",
+      "company": "Scaling Theory Technologies",
+      "status": "applied",
+      "applicationId": 79292998,
+      "timestamp": "2026-11-05T18:19:20.278Z"
+    },
+    {
+      "jobId": 1675920,
+      "title": "Site Reliability Engineer - Cloud Infrastructure (2-4 yrs)",
+      "company": "Scaling Theory Technologies",
+      "status": "applied",
+      "applicationId": 79293016,
+      "timestamp": "2026-11-05T18:19:35.824Z"
+    },
+    {
+      "jobId": 1675960,
+      "title": "Forward Deployed Engineer - Python (2-5 yrs)",
+      "company": "Scaling Theory Technologies",
+      "status": "applied",
+      "applicationId": 79293019,
+      "timestamp": "2026-11-05T18:19:38.022Z"
+    },
+    {
+      "jobId": 1676111,
+      "title": "Sony - Automation & AI Specialist - Ad Sales Domain (2-6 yrs)",
+      "company": "Culver Max Entertainment",
+      "status": "applied",
+      "applicationId": 79293055,
+      "timestamp": "2026-11-05T18:20:16.451Z"
+    },
+    {
+      "jobId": 1675666,
+      "title": "Software Development Engineer III - Backend Development (2-8 yrs)",
+      "company": "Hyrhub",
+      "status": "applied",
+      "applicationId": 79293056,
+      "timestamp": "2026-11-05T18:20:18.135Z"
+    },
+    {
+      "jobId": 1675201,
+      "title": "Coffeebeans.io - Generative AI Engineer (2-5 yrs)",
+      "company": "Coffeebeans Consulting",
+      "status": "applied",
+      "applicationId": 79293062,
+      "timestamp": "2026-11-05T18:20:19.892Z"
+    },
+    {
+      "jobId": 1675322,
+      "title": "Senior AI Engineer (2-7 yrs)",
+      "company": "Lagrange Point International",
+      "status": "applied",
+      "applicationId": 79293088,
+      "timestamp": "2026-11-05T18:20:46.525Z"
+    },
+    {
+      "jobId": 1673748,
+      "title": "SOC II Compliance Analyst (2-4 yrs)",
+      "company": "HyrMe",
+      "status": "applied",
+      "applicationId": 79293090,
+      "timestamp": "2026-11-05T18:20:49.729Z"
+    },
+    {
+      "jobId": 1673800,
+      "title": "Syniverse - Operations Engineer - Technical Support (2-10 yrs)",
+      "company": "Syniverse Technologies",
+      "status": "applied",
+      "applicationId": 79293096,
+      "timestamp": "2026-11-05T18:20:51.779Z"
+    },
+    {
+      "jobId": 1673973,
+      "title": "Enphase Energy - Security Test Engineer (2-4 yrs)",
+      "company": "Enphase Energy",
+      "status": "applied",
+      "applicationId": 79293131,
+      "timestamp": "2026-11-05T18:21:19.756Z"
+    },
+    {
+      "jobId": 1674090,
+      "title": "In Time Tec - Development Support Analyst - Telecom Domain (2-6 yrs)",
+      "company": "In Time Tec Visionsoft",
+      "status": "applied",
+      "applicationId": 79293134,
+      "timestamp": "2026-11-05T18:21:23.159Z"
+    },
+    {
+      "jobId": 1673619,
+      "title": "Algoleap Technologies - Junior Site Reliability Engineer - DevOps (2-4 yrs)",
+      "company": "AlgoLeap Technologies",
+      "status": "applied",
+      "applicationId": 79293184,
+      "timestamp": "2026-11-05T18:21:50.668Z"
+    },
+    {
+      "jobId": 1682199,
+      "title": "KreditBee - AI/ML Engineer - Document Intelligence (3-5 yrs)",
+      "company": "KreditBee",
+      "status": "applied",
+      "applicationId": 79293192,
+      "timestamp": "2026-11-05T18:21:52.257Z"
+    },
+    {
+      "jobId": 1680414,
+      "title": "Material+ - Agentic AI Engineer (3-6 yrs)",
+      "company": "Srijan Technologies",
+      "status": "applied",
+      "applicationId": 79293197,
+      "timestamp": "2026-11-05T18:21:55.636Z"
+    },
+    {
+      "jobId": 1681483,
+      "title": "Coffeebeans.io - Data Scientist - LLM/Generative AI (3-8 yrs)",
+      "company": "Coffeebeans Consulting",
+      "status": "applied",
+      "applicationId": 79293262,
+      "timestamp": "2026-11-05T18:22:33.392Z"
+    },
+    {
+      "jobId": 1680740,
+      "title": "Machine Learning Engineer - Python/PyTorch (3-7 yrs)",
+      "company": "Bulwark Software Research",
+      "status": "applied",
+      "applicationId": 79293263,
+      "timestamp": "2026-11-05T18:22:34.911Z"
+    },
+    {
+      "jobId": 1681677,
+      "title": "Data Scientist - Agentic AI (3-10 yrs)",
+      "company": "Spectraforce Technologies",
+      "status": "applied",
+      "applicationId": 79293270,
+      "timestamp": "2026-11-05T18:22:36.771Z"
+    },
+    {
+      "jobId": 1681915,
+      "title": "Wits Innovation Lab - MLOps Engineer (3-10 yrs)",
+      "company": "WITS Innovation Lab",
+      "status": "applied",
+      "applicationId": 79293001
+    },
+    {
+      "jobId": 1680976,
+      "title": "AI Engineer - Python/Django (3-8 yrs)",
+      "company": "NovoTree Minds Consulting",
+      "status": "applied",
+      "applicationId": 79293079
+    },
+    {
+      "jobId": 1680868,
+      "title": "Arrive - Data Scientist - AI & Analytics (3-5 yrs)",
+      "company": "Arrive",
+      "status": "applied",
+      "applicationId": 79293081
+    },
+    {
+      "jobId": 1678727,
+      "title": "Machine Learning Engineer - Sensor Fusion/Signal Processing (3-5 yrs)",
+      "company": "Hiring Infinity",
+      "status": "applied",
+      "applicationId": 79293084
+    },
+    {
+      "jobId": 1677731,
+      "title": "Grid Dynamics - Generative AI Engineer - Prompt Engineering (3-6 yrs)",
+      "company": "GRID DYNAMICS PRIVATE LIMITED",
+      "status": "applied",
+      "applicationId": 79293086
+    },
+    {
+      "jobId": 1681093,
+      "title": "Codvo.ai - AI/Copilot Engineer - LLM Apps (3-10 yrs)",
+      "company": "Codvo",
+      "status": "applied",
+      "applicationId": 79293109
+    },
+    {
+      "jobId": 1677261,
+      "title": "Auxo AI - Senior AI Engineer (3-8 yrs)",
+      "company": "AuxoAI",
+      "status": "applied",
+      "applicationId": 79293114
+    },
+    {
+      "jobId": 1680954,
+      "title": "Applied Data Finance - Senior Data Scientist - Fraud Risk Strategy (3-6 yrs)",
+      "company": "Applied Data Finance",
+      "status": "applied",
+      "applicationId": 79293117
+    },
+    {
+      "jobId": 1668922,
+      "title": "ScienceLogic - Data Scientist - LLM System (3-8 yrs)",
+      "company": "ScienceLogic",
+      "status": "applied",
+      "applicationId": 79293135
+    },
+    {
+      "jobId": 1668650,
+      "title": "Netcore Cloud - Senior Data Scientist - Machine Learning (3-7 yrs)",
+      "company": "Netcore Cloud ",
+      "status": "applied",
+      "applicationId": 79293137
+    },
+    {
+      "jobId": 1668369,
+      "title": "Data Scientist (3-4 yrs)",
+      "company": "Wealth India Financial Services Pvt. Ltd.",
+      "status": "applied",
+      "applicationId": 79293140
+    },
+    {
+      "jobId": 1681726,
+      "title": "Quality Assurance Automation Engineer - Java/Selenium (3-11 yrs)",
+      "company": "Varite",
+      "status": "applied",
+      "applicationId": 79293146
+    },
+    {
+      "jobId": 1681729,
+      "title": "AppZime - Quality Assurance Automation Engineer (3-4 yrs)",
+      "company": "AppZime Technologies",
+      "status": "applied",
+      "applicationId": 79293169
+    },
+    {
+      "jobId": 1681730,
+      "title": "AppZime - Quality Assurance Automation Engineer - Playwright/Appium (3-5 yrs)",
+      "company": "AppZime Technologies",
+      "status": "applied",
+      "applicationId": 79293175
+    },
+    {
+      "jobId": 1681659,
+      "title": "Senior Software Engineer - Full Stack Development (3-10 yrs)",
+      "company": "Starvoke Consultancy Services",
+      "status": "applied",
+      "applicationId": 79293180
+    },
+    {
+      "jobId": 1681836,
+      "title": "DevOps Engineer (3-6 yrs)",
+      "company": "HFT Talent",
+      "status": "applied",
+      "applicationId": 79293191
+    },
+    {
+      "jobId": 1681597,
+      "title": "Planon Consultant - Planon Platform/IWMS (3-8 yrs)",
+      "company": "Anlage Infotech",
+      "status": "applied",
+      "applicationId": 79293221
+    },
+    {
+      "jobId": 1681033,
+      "title": "Site Reliability Engineer - Cloud Infrastructure (3-5 yrs)",
+      "company": "HyrMe",
+      "status": "applied",
+      "applicationId": 79293862,
+      "timestamp": "2026-11-05T13:00:33.662Z"
+    },
+    {
+      "jobId": 1681076,
+      "title": "Allstate - Senior Software Engineer - Full Stack Development (3-5 yrs)",
+      "company": "Allstate",
+      "status": "applied",
+      "applicationId": 79293865,
+      "timestamp": "2026-11-05T13:00:35.277Z"
+    },
+    {
+      "jobId": 1681121,
+      "title": "InfoCepts - Business Intelligence Developer (3-5 yrs)",
+      "company": "Infocepts Technologies",
+      "status": "applied",
+      "applicationId": 79293872,
+      "timestamp": "2026-11-05T13:00:39.113Z"
+    },
+    {
+      "jobId": 1681152,
+      "title": "Allstate - Senior Software Engineer - Kong/API Gateway (3-9 yrs)",
+      "company": "Allstate",
+      "status": "applied",
+      "applicationId": 79293874,
+      "timestamp": "2026-11-05T13:00:40.951Z"
+    },
+    {
+      "jobId": 1681526,
+      "title": "Exotel - Software Development Engineer II - AI & Speech Platform (3-5 yrs)",
+      "company": "EXOTEL TECHCOM PRIVATE LIMITED",
+      "status": "applied",
+      "applicationId": 79293826
+    },
+    {
+      "jobId": 1681454,
+      "title": "Mobifly - Senior Python Developer - FastAPI (3-5 yrs)",
+      "company": "Moonshine Food Ventures",
+      "status": "applied",
+      "applicationId": 79293832
+    },
+    {
+      "jobId": 1681477,
+      "title": "Backend Python Lead (3-9 yrs)",
+      "company": "Mytech Global",
+      "status": "applied",
+      "applicationId": 79293834
+    },
+    {
+      "jobId": 1680884,
+      "title": "Ascendion - Quality Assurance Engineer - Healthcare Application Testing (3-5 yrs)",
+      "company": "Ascendion",
+      "status": "applied",
+      "applicationId": 79293836
+    },
+    {
+      "jobId": 1680946,
+      "title": "SymphonyAI - Application Support Engineer (3-5 yrs)",
+      "company": "Symphonyincubator Business Services",
+      "status": "applied",
+      "applicationId": 79293839
+    },
+    {
+      "jobId": 1680647,
+      "title": "Embark Group - Senior Site Reliability Engineer - Azure Infrastructure (3-7 yrs)",
+      "company": "Embark Group",
+      "status": "applied",
+      "applicationId": 79293847,
+      "message": null
+    },
+    {
+      "jobId": 1680714,
+      "title": "Full Stack Engineer - Node.js/React.js - Fintech Domain (3-10 yrs)",
+      "company": "margo",
+      "status": "applied",
+      "applicationId": 79293851,
+      "message": null
+    },
+    {
+      "jobId": 1680473,
+      "title": "Embedded Software Engineer - C/C++ (3-5 yrs)",
+      "company": "Hirezy.ai",
+      "status": "applied",
+      "applicationId": 79293884,
+      "timestamp": "2026-11-05T18:30:54.755Z"
+    },
+    {
+      "jobId": 1680600,
+      "title": "Tata Elxsi - Embedded Firmware Lead - Medical Devices (3-10 yrs)",
+      "company": "Tata Elxsi",
+      "status": "applied",
+      "applicationId": 79293885,
+      "timestamp": "2026-11-05T18:30:56.475Z"
+    },
+    {
+      "jobId": 1679088,
+      "title": "StatusNeo - Backend Engineer - Python/Azure (3-5 yrs)",
+      "company": "StatusNeo Technology Consulting",
+      "status": "applied",
+      "applicationId": 79293888,
+      "timestamp": "2026-11-05T18:30:59.409Z"
+    },
+    {
+      "jobId": 1680359,
+      "title": "Python Data & Automation Engineer (3-8 yrs)",
+      "company": "CRESCENDO GLOBAL LEADERSHIP HIRING INDIA PRIVATE L",
+      "status": "applied",
+      "applicationId": 79293901
+    },
+    {
+      "jobId": 1680364,
+      "title": "Python Developer - Data Engineering (3-8 yrs)",
+      "company": "CRESCENDO GLOBAL LEADERSHIP HIRING INDIA PRIVATE L",
+      "status": "applied",
+      "applicationId": 79293904
+    },
+    {
+      "jobId": 1678854,
+      "title": "Jupiter Money - Software Development Engineer II - DevOps (3-6 yrs)",
+      "company": "Jupiter Money",
+      "status": "applied",
+      "applicationId": 79293909
+    },
+    {
+      "jobId": 1678517,
+      "title": "Intel - Software Application Development Engineer - Python/Java/C++ (3-10 yrs)",
+      "company": "Intel",
+      "status": "applied",
+      "applicationId": 79293911
+    },
+    {
+      "jobId": 1680138,
+      "title": "Embedded Software Engineer (3-6 yrs)",
+      "company": "KBD Talent Forge India Pvt Ltd",
+      "status": "applied",
+      "applicationId": 79302335
+    },
+    {
+      "jobId": 1678775,
+      "title": "HealthifyMe - DevOps Engineer (3-5 yrs)",
+      "company": "HealthifyMe",
+      "status": "applied",
+      "applicationId": 79302345
+    },
+    {
+      "jobId": 1678778,
+      "title": "HealthifyMe - Full Stack Engineer (3-5 yrs)",
+      "company": "HealthifyMe",
+      "status": "applied",
+      "applicationId": 79302347
+    },
+    {
+      "jobId": 1679940,
+      "title": "AppSierra Solutions - DevOps Engineer - CI/CD Pipeline (3-6 yrs)",
+      "company": "Appsierra",
+      "status": "applied",
+      "applicationId": 79302350
+    },
+    {
+      "jobId": 1679794,
+      "title": "Generative AI Software Lead - Python/LLM (3-6 yrs)",
+      "company": "Wohlig Transformations",
+      "status": "applied",
+      "applicationId": 79302352
+    },
+    {
+      "jobId": 1679934,
+      "title": "Infor - Senior Software Engineer (3-5 yrs)",
+      "company": "Infor",
+      "status": "applied",
+      "applicationId": 79302354
+    },
+    {
+      "jobId": 1679591,
+      "title": "Zoop.One - Software Development Engineer II - Backend Architecture (3-7 yrs)",
+      "company": "ZOOP",
+      "status": "applied",
+      "applicationId": 79302375
+    },
+    {
+      "jobId": 1679597,
+      "title": "Zoop.One - Software Development Engineer II - Full Stack Development (3-7 yrs)",
+      "company": "ZOOP",
+      "status": "applied",
+      "applicationId": 79302381
+    },
+    {
+      "jobId": 1679357,
+      "title": "Flutter Entertainment - Data Engineer - GCP/BigQuery (3-5 yrs)",
+      "company": "Flutter",
+      "status": "applied",
+      "applicationId": 79302385
+    },
+    {
+      "jobId": 1679438,
+      "title": "Backend Developer - Python (3-6 yrs)",
+      "company": "Whitetable",
+      "status": "applied",
+      "applicationId": 79302405
+    },
+    {
+      "jobId": 1679471,
+      "title": "Delta Capita - Application Support Engineer - L2/L3 Support (3-6 yrs)",
+      "company": "DEL CAP MANAGED SERVICES",
+      "status": "applied",
+      "applicationId": 79302409
+    },
+    {
+      "jobId": 1679497,
+      "title": "Full Stack Developer - Golang/React.js (3-6 yrs)",
+      "company": "BrandMyHR",
+      "status": "applied",
+      "applicationId": 79302410
+    },
+    {
+      "jobId": 1677083,
+      "title": "Magna - Cloud Engineer - Azure Infrastructure (3-6 yrs)",
+      "company": "Magna International",
+      "status": "applied",
+      "applicationId": 79302436
+    },
+    {
+      "jobId": 1677036,
+      "title": "Hitachi - Cloud Security SRE (3-6 yrs)",
+      "company": "Hitachi Digital",
+      "status": "applied",
+      "applicationId": 79302440
+    },
+    {
+      "jobId": 1678985,
+      "title": "Expleo - Mobile Automation Tester - Appium/Selenium (3-5 yrs)",
+      "company": "Expleo Solutions",
+      "status": "applied",
+      "applicationId": 79302444
+    },
+    {
+      "jobId": 1678963,
+      "title": "Banyan Software - Senior Full Stack Developer (3-6 yrs)",
+      "company": "Bnyn Softtech",
+      "status": "applied",
+      "applicationId": 79302447
+    },
+    {
+      "jobId": 1678829,
+      "title": "Software Engineer II - Backend Development (3-6 yrs)",
+      "company": "Isolved",
+      "status": "applied",
+      "applicationId": 79302450
+    },
+    {
+      "jobId": 1679041,
+      "title": "Sail Analytics - Power BI Developer - DAX/Data Modeling (3-5 yrs)",
+      "company": "Sail Analytics",
+      "status": "applied",
+      "applicationId": 79302452
+    },
+    {
+      "jobId": 1678645,
+      "title": "InfoBeans - Backend Engineer - Python/FastAPI (3-7 yrs)",
+      "company": "InfoBeans",
+      "status": "applied",
+      "applicationId": 79302471
+    },
+    {
+      "jobId": 1678687,
+      "title": "Wissen Technology - Full Stack Developer - Java/Angular (3-6 yrs)",
+      "company": "Wissen Technology",
+      "status": "applied",
+      "applicationId": 79302472
+    },
+    {
+      "jobId": 1678705,
+      "title": "Quality Assurance Test Engineer (3-6 yrs)",
+      "company": "Volto Consulting",
+      "status": "applied",
+      "applicationId": 79302475
+    },
+    {
+      "jobId": 1678764,
+      "title": "Saint-Gobain - Data Engineer - Azure/Databricks (3-6 yrs)",
+      "company": "Saint-Gobain",
+      "status": "applied",
+      "applicationId": 79302478
+    },
+    {
+      "jobId": 1678540,
+      "title": "Creospan - Java Developer (3-6 yrs)",
+      "company": "Creospan",
+      "status": "applied",
+      "applicationId": 79302486
+    },
+    {
+      "jobId": 1678246,
+      "title": "Azure Networking Engineer - Terraform/Ansible (3-8 yrs)",
+      "company": "Sampoorna Computer People",
+      "status": "applied",
+      "applicationId": 79302489
+    },
+    {
+      "jobId": 1677371,
+      "title": "Senior AWS DevOps Engineer & Architect (3-8 yrs)",
+      "company": "Skillventory",
+      "status": "applied",
+      "applicationId": 79302451
+    },
+    {
+      "jobId": 1677524,
+      "title": "NeST Digital - CUDA Software Engineer - GPU Programming (3-7 yrs)",
+      "company": "NeST Digital",
+      "status": "applied",
+      "applicationId": 79302453
+    },
+    {
+      "jobId": 1677172,
+      "title": "Embitel Technologies - Java Software Engineer - Diagnostic Systems (3-7 yrs)",
+      "company": "Embitel Technologies",
+      "status": "applied",
+      "applicationId": 79302454
+    },
+    {
+      "jobId": 1677056,
+      "title": "AI Solution Engineer - NLP/Conversational AI (3-5 yrs)",
+      "company": "HyrMe",
+      "status": "applied",
+      "applicationId": 79302457
+    },
+    {
+      "jobId": 1677114,
+      "title": "Product Support Manager (3-5 yrs)",
+      "company": "Navya Care Network",
+      "status": "applied",
+      "applicationId": 79302459
+    },
+    {
+      "jobId": 1677228,
+      "title": "Leuwint Technologies - DELMIA Developer - Quill Programming (3-4 yrs)",
+      "company": "Leuwint Technologies",
+      "status": "applied",
+      "applicationId": 79302461
+    },
+    {
+      "jobId": 1677240,
+      "title": "Python Full Stack Developer (3-7 yrs)",
+      "company": "Hashone Careers",
+      "status": "applied",
+      "applicationId": 79302482
+    },
+    {
+      "jobId": 1676815,
+      "title": "AppSierra - Data Engineer - PySpark/SQL (3-5 yrs)",
+      "company": "Appsierra",
+      "status": "applied",
+      "applicationId": 79302487
+    },
+    {
+      "jobId": 1676758,
+      "title": "IBM ACE Developer (3-9 yrs)",
+      "company": "Arting Digital",
+      "status": "applied",
+      "applicationId": 79302490
+    },
+    {
+      "jobId": 1676948,
+      "title": "Senior React Native Engineer - Mobile Frontend Infrastructure (3-10 yrs)",
+      "company": "Recro",
+      "status": "applied",
+      "applicationId": 79302492
+    },
+    {
+      "jobId": 1676976,
+      "title": "Sailpoint Technologies  - Forward Deployed/Agentic Operations Engineer (3-8 yrs)",
+      "company": "SailPoint Technologies",
+      "status": "applied",
+      "applicationId": 79302493
+    },
+    {
+      "jobId": 1674500,
+      "title": "Mindtickle - L2 Technical Support Engineer (3-6 yrs)",
+      "company": "MindTickle",
+      "status": "applied",
+      "applicationId": 79302495
+    },
+    {
+      "jobId": 1673595,
+      "title": "NetApp - Software Development Engineer - Test (3-5 yrs)",
+      "company": "Netapp",
+      "status": "applied",
+      "applicationId": 79302496
+    },
+    {
+      "jobId": 1673671,
+      "title": "BMC Software - Full Stack Developer - Java/Angular 2+ (3-10 yrs)",
+      "company": "BMC Software",
+      "status": "applied",
+      "applicationId": 79302508
+    },
+    {
+      "jobId": 1676428,
+      "title": "Senior AI/ML Engineer - LLM/Python (3-5 yrs)",
+      "company": "WorkCrew",
+      "status": "applied",
+      "applicationId": 79302509
+    },
+    {
+      "jobId": 1676473,
+      "title": "C G Vak Softwares & Exports - Senior AI/ML Engineer - LLM/Python (3-5 yrs)",
+      "company": "CG-VAK Software & Exports",
+      "status": "applied",
+      "applicationId": 79302510
+    },
+    {
+      "jobId": 1676500,
+      "title": "Cloud Support Engineer - GCP (3-4 yrs)",
+      "company": "Arting Digital",
+      "status": "applied",
+      "applicationId": 79302511
+    },
+    {
+      "jobId": 1676270,
+      "title": "BMC Firmware Developer (3-6 yrs)",
+      "company": "Nilasu Consulting Services",
+      "status": "applied",
+      "applicationId": 79302518
+    },
+    {
+      "jobId": 1676282,
+      "title": "Data QA Engineer - Microsoft Fabric & Power BI (3-8 yrs)",
+      "company": "Volto Consulting",
+      "status": "applied",
+      "applicationId": 79302519
+    },
+    {
+      "jobId": 1676315,
+      "title": "ML Research Engineer - Speech/Audio (3-6 yrs)",
+      "company": "Eliteeye Consulting",
+      "status": "applied",
+      "applicationId": 79302522
+    },
+    {
+      "jobId": 1676360,
+      "title": "United States Pharmacopeia  - Quality Assurance Engineer - Digital Products (3-5 yrs)",
+      "company": "The United States Pharmacopeia",
+      "status": "applied",
+      "applicationId": 79302524
+    },
+    {
+      "jobId": 1676365,
+      "title": "Avanse Financial Services - Senior Data Engineer (3-6 yrs)",
+      "company": "Avanse Financial Services",
+      "status": "applied",
+      "applicationId": 79302526
+    },
+    {
+      "id": 1676004,
+      "title": "Way4 Developer - Payment Processing (3-12 yrs)",
+      "company": "xTag Services",
+      "status": "applied",
+      "timestamp": "2026-11-05T16:44:59.674Z",
+      "applicationId": 79302498
+    },
+    {
+      "id": 1675842,
+      "title": "Zelis - Engineer II - Analytics & Insights (3-7 yrs)",
+      "company": "Zelis",
+      "status": "applied",
+      "timestamp": "2026-11-05T16:45:03.753Z",
+      "applicationId": 79302500
+    },
+    {
+      "id": 1675851,
+      "title": "GlobalLogic - Senior Test Engineer - Manual Testing (3-5 yrs)",
+      "company": "GlobalLogic",
+      "status": "applied",
+      "timestamp": "2026-11-05T16:45:05.824Z",
+      "applicationId": 79302503
+    },
+    {
+      "id": 1675871,
+      "title": "Zelis - Senior DevOps Engineer - AWS Services (3-5 yrs)",
+      "company": "Zelis",
+      "status": "applied",
+      "timestamp": "2026-11-05T16:45:08.120Z",
+      "applicationId": 79302504
+    },
+    {
+      "id": 1675930,
+      "title": "Algoleap Technologies - ETL Tester (3-10 yrs)",
+      "company": "AlgoLeap Technologies",
+      "status": "applied",
+      "timestamp": "2026-11-05T16:45:39.291Z",
+      "applicationId": 79302517
+    },
+    {
+      "id": 1675956,
+      "title": "Algoleap Technologies - Guidewire DataHub Developer (3-5 yrs)",
+      "company": "AlgoLeap Technologies",
+      "status": "applied",
+      "timestamp": "2026-11-05T16:45:41.473Z",
+      "applicationId": 79302520
+    },
+    {
+      "id": 1676007,
+      "title": "Tessolve - WLAN Testing & Development Engineer - WiFi (3-8 yrs)",
+      "company": "Tessolve",
+      "status": "applied",
+      "timestamp": "2026-11-05T16:45:45.280Z",
+      "applicationId": 79302523
+    },
+    {
+      "id": 1676008,
+      "title": "Pre Silicon Validation Engineer - C/C++ Programming (3-9 yrs)",
+      "company": "Tessolve",
+      "status": "applied",
+      "timestamp": "2026-11-05T16:45:47.001Z",
+      "applicationId": 79302525
+    },
+    {
+      "id": 1676065,
+      "title": "Software Development Engineer - Backend Architecture (3-8 yrs)",
+      "company": "PeopleX Ventures",
+      "status": "applied",
+      "timestamp": "2026-11-05T16:45:49.066Z",
+      "applicationId": 79302528
+    },
+    {
+      "id": 1676068,
+      "title": "Everise - Assistant Manager - ServiceNow Platform (3-7 yrs)",
+      "company": "Everise",
+      "status": "applied",
+      "timestamp": "2026-11-05T16:45:50.767Z",
+      "applicationId": 79302530
+    },
+    {
+      "id": 1675386,
+      "title": "MediaMint - Product Analyst - (3-7 yrs)",
+      "company": "VUCHI MEDIA",
+      "status": "applied",
+      "timestamp": "2026-11-05T16:46:13.355Z",
+      "applicationId": 79302547
+    },
+    {
+      "id": 1675427,
+      "title": "Full Stack Developer - Java/React.js (3-6 yrs)",
+      "company": "Core Edge Solutions",
+      "status": "applied",
+      "timestamp": "2026-11-05T16:46:15.267Z",
+      "applicationId": 79302550
+    },
+    {
+      "id": 1675452,
+      "title": "Travash - AWS Solutions Architect - Generative AI & Agentic AI (3-5 yrs)",
+      "company": "Travash Software Solutions",
+      "status": "applied",
+      "timestamp": "2026-11-05T16:46:16.975Z",
+      "applicationId": 79302552
+    },
+    {
+      "id": 1675638,
+      "title": "Alegeus Technologies - Senior Quality Assurance Engineer - Automation (3-6 yrs)",
+      "company": "Alegeus",
+      "status": "applied",
+      "timestamp": "2026-11-05T16:46:26.898Z",
+      "applicationId": 79302557
+    },
+    {
+      "id": 1675213,
+      "title": "Coffeebeans.io - Senior Data Engineer - Python (3-10 yrs)",
+      "company": "Coffeebeans Consulting",
+      "status": "applied",
+      "timestamp": "2026-11-05T16:46:46.875Z",
+      "applicationId": 79302562
+    },
+    {
+      "id": 1675243,
+      "title": "SAP AI Engineer - Generative AI/LLM (3-8 yrs)",
+      "company": "Orcapod Consulting Services",
+      "status": "applied",
+      "timestamp": "2026-11-05T16:46:48.857Z",
+      "applicationId": 79302564
+    },
+    {
+      "id": 1675329,
+      "title": "Creditsafe - Backend Software Development Engineer - Python & AWS (3-8 yrs)",
+      "company": "CREDITSAFE TECHNOLOGY",
+      "status": "applied",
+      "timestamp": "2026-11-05T16:46:53.966Z",
+      "applicationId": 79302567
+    },
+    {
+      "jobId": 1675109,
+      "title": "Exotel - Integration & Customisation Engineer - Python/Django (3-5 yrs)",
+      "company": "EXOTEL TECHCOM PRIVATE LIMITED",
+      "status": "applied",
+      "applicationId": 79302369
+    },
+    {
+      "jobId": 1675120,
+      "title": "Database Administrator (3-7 yrs)",
+      "company": "IntraEdge",
+      "status": "applied",
+      "applicationId": 79302371
+    },
+    {
+      "jobId": 1674938,
+      "title": "Data Scientist - Generative AI/LLM (3-7 yrs)",
+      "company": "TechnoGen",
+      "status": "applied",
+      "applicationId": 79302372
+    },
+    {
+      "jobId": 1674974,
+      "title": "Applied AI Engineer - Healthcare Domain (3-6 yrs)",
+      "company": "Mesitus",
+      "status": "applied",
+      "applicationId": 79302379
+    },
+    {
+      "jobId": 1674593,
+      "title": "Addepar - Software Engineer - Java/Python (3-6 yrs)",
+      "company": "Addepar",
+      "status": "applied",
+      "applicationId": 79302382
+    },
+    {
+      "jobId": 1674626,
+      "title": "66degrees - Cloud Engineer (3-6 yrs)",
+      "company": "66degrees",
+      "status": "applied",
+      "applicationId": 79302384
+    },
+    {
+      "jobId": 1674638,
+      "title": "66degrees - Associate Delivery Manager (3-6 yrs)",
+      "company": "66degrees",
+      "status": "applied",
+      "applicationId": 79302387
+    },
+    {
+      "jobId": 1674849,
+      "title": "The Seo Byte - AI/ML Developer - Generative AI/LLM (3-7 yrs)",
+      "company": "The Seo Byte",
+      "status": "applied",
+      "applicationId": 79302390
+    },
+    {
+      "jobId": 1674855,
+      "title": "United States Pharmacopeia - Senior Data Engineer - Python/SQL/ETL (3-6 yrs)",
+      "company": "The United States Pharmacopeia",
+      "status": "applied",
+      "applicationId": 79302391
+    },
+    {
+      "jobId": 1674885,
+      "title": "Automation Test Engineer - Playwright/API Testing (3-8 yrs)",
+      "company": "LeitMotif Solutions",
+      "status": "applied",
+      "applicationId": 79302393
+    },
+    {
+      "jobId": 1674193,
+      "title": "Auxo AI - Data Engineer - Microsoft Fabric (3-6 yrs)",
+      "company": "AuxoAI",
+      "status": "applied",
+      "applicationId": 79302397
+    },
+    {
+      "jobId": 1674327,
+      "title": "apree health - Full Stack Developer - Java (3-5 yrs)",
+      "company": "Castlight Health",
+      "status": "applied",
+      "applicationId": 79302399
+    },
+    {
+      "jobId": 1673851,
+      "title": "Snowflake Developer - Data Engineering (3-5 yrs)",
+      "company": "NS Global Corporation",
+      "status": "applied",
+      "applicationId": 79302401
+    },
+    {
+      "jobId": 1673888,
+      "title": "Senior Data Engineer - Snowflake/ETL (3-7 yrs)",
+      "company": "Teamware Solutions",
+      "status": "applied",
+      "applicationId": 79302406
+    },
+    {
+      "jobId": 1674105,
+      "title": "Agentic AI Engineer - Healthcare EcoSystem (3-8 yrs)",
+      "company": "Ace Recruit",
+      "status": "applied",
+      "applicationId": 79302411
+    },
+    {
+      "jobId": 1673295,
+      "title": "Marketplace Platform Engineer - Python (3-5 yrs)",
+      "company": "Orangemint Technologies",
+      "status": "applied",
+      "applicationId": 79302414
+    },
+    {
+      "jobId": 1673395,
+      "title": "Platform Engineer - HPC & AI Infrastructure (3-10 yrs)",
+      "company": "Square Root Consulting",
+      "status": "applied",
+      "applicationId": 79302419
+    },
+    {
+      "jobId": 1673479,
+      "title": "Aggne - Duck Creek Claims Developer (3-8 yrs)",
+      "company": "Aggne Global IT Services",
+      "status": "applied",
+      "applicationId": 79302423
+    },
+    {
+      "jobId": 1673636,
+      "title": "Helfie - Technical Support Engineer (3-6 yrs)",
+      "company": "helfie",
+      "status": "applied",
+      "applicationId": 79302428
+    },
+    {
+      "jobId": 1673668,
+      "title": "NTT - Java Backend Developer (3-5 yrs)",
+      "company": "NTT DATA",
+      "status": "applied",
+      "applicationId": 79302433
+    },
+    {
+      "jobId": 1673679,
+      "title": "Senior Software Engineer - Embedded Systems (3-6 yrs)",
+      "company": "Tekskills",
+      "status": "applied",
+      "applicationId": 79302439
+    },
+    {
+      "jobId": 1673700,
+      "title": "Full Stack Engineer - .Net/React.js (3-5 yrs)",
+      "company": "GlobalLogic",
+      "status": "applied",
+      "applicationId": 79302443
+    },
+    {
+      "jobId": 1678296,
+      "title": "BrightChamps - Senior Full Stack Engineer - WebRTC/AI (3-7 yrs)",
+      "company": "BrightCHAMPS",
+      "status": "applied",
+      "applicationId": 79302358
+    },
+    {
+      "jobId": 1678364,
+      "title": "Equifax - Product Support Engineer - Google Cloud (3-5 yrs)",
+      "company": "Equifax",
+      "status": "applied",
+      "applicationId": 79302360
+    },
+    {
+      "jobId": 1678034,
+      "title": "Wits Innovation Lab - MLOps Engineer (3-10 yrs)",
+      "company": "WITS Innovation Lab",
+      "status": "applied",
+      "applicationId": 79302361
+    },
+    {
+      "jobId": 1678047,
+      "title": "Design Verification Engineer - UVM/System Verilog (3-6 yrs)",
+      "company": "The Growth Hive",
+      "status": "applied",
+      "applicationId": 79302363
+    },
+    {
+      "jobId": 1678118,
+      "title": "Tableau Developer (3-6 yrs)",
+      "company": "Programming.Com",
+      "status": "applied",
+      "applicationId": 79302366
+    },
+    {
+      "jobId": 1678139,
+      "title": "Leuwint Technologies - CATIA CAA Developer/Services Software Consultant - C++ Programming (3-5 yrs)",
+      "company": "Leuwint Technologies",
+      "status": "applied",
+      "applicationId": 79302367
+    },
+    {
+      "jobId": 1678174,
+      "title": "Majesco - Product Support Engineer (3-7 yrs)",
+      "company": "Majesco",
+      "status": "applied",
+      "applicationId": 79302389
+    },
+    {
+      "jobId": 1677841,
+      "title": "Sail-Analytics - Data Engineer - Azure Synapse Analytics (3-4 yrs)",
+      "company": "Sail Analytics",
+      "status": "applied",
+      "applicationId": 79302395
+    },
+    {
+      "jobId": 1677852,
+      "title": "Moveworks Chatbot Developer - Generative AI (3-5 yrs)",
+      "company": "Hirezy.ai",
+      "status": "applied",
+      "applicationId": 79302398
+    },
+    {
+      "jobId": 1677892,
+      "title": "Hiver - DevOps Engineer II - Kubernetes (3-5 yrs)",
+      "company": "Hiver",
+      "status": "applied",
+      "applicationId": 79302400
+    },
+    {
+      "jobId": 1677926,
+      "title": "Nice Software Solutions - Informatica PowerCenter Developer - IICS (3-7 yrs)",
+      "company": "Nice Software Solutions",
+      "status": "applied",
+      "applicationId": 79302429
+    },
+    {
+      "jobId": 1677784,
+      "title": "Data Engineer - PySpark (3-6 yrs)",
+      "company": "MantriAI   ",
+      "status": "applied",
+      "applicationId": 79302431
+    },
+    {
+      "jobId": 1677341,
+      "title": "Joveo - Software Engineer - Java/Python/AWS (3-5 yrs)",
+      "company": "Joveo Technologies",
+      "status": "applied",
+      "applicationId": 79302434
+    },
+    {
+      "jobId": 1677574,
+      "title": "Data Engineer - CDC Pipelines (3-6 yrs)",
+      "company": "Dhruv Compusoft Consultancy",
+      "status": "applied",
+      "applicationId": 79302446
+    },
+    {
+      "jobId": 1677622,
+      "title": "Alithya - Oracle Cloud Reporting Consultant (3-10 yrs)",
+      "company": " Datum Cybertech India ",
+      "status": "applied",
+      "applicationId": 79302449
+    },
+    {
+      "jobId": 1677663,
+      "title": "PwC - Senior Associate - Delinea Implementation (3-8 yrs)",
+      "company": "Pricewater House Coopers Service Delivery Center",
+      "status": "applied",
+      "applicationId": 79302468
+    },
+    {
+      "jobId": 1677693,
+      "title": "Data Engineer - Palantir Foundry (3-7 yrs)",
+      "company": "Zorba Consulting",
+      "status": "applied",
+      "applicationId": 79302469
+    },
+    {
+      "jobId": 1677725,
+      "title": "Alithya - Senior Consultant - Oracle Enterprise Analytics (3-10 yrs)",
+      "company": " Datum Cybertech India ",
+      "status": "applied",
+      "applicationId": 79302470
+    },
+    {
+      "jobId": 1677730,
+      "title": "Grid Dynamics - Senior Python Developer - Apache Airflow (3-6 yrs)",
+      "company": "GRID DYNAMICS PRIVATE LIMITED",
+      "status": "applied",
+      "applicationId": 79302473
+    },
+    {
+      "jobId": 1677449,
+      "title": "SatSure - Product Manager - AI/ML Platform (3-5 yrs)",
+      "company": "SatSure",
+      "status": "applied",
+      "applicationId": 79302477
+    },
+    {
+      "jobId": 1677069,
+      "title": "Joveo - Cloud Engineer (3-5 yrs)",
+      "company": "Joveo Technologies",
+      "status": "applied",
+      "applicationId": 79302481
+    },
+    {
+      "jobId": 1677208,
+      "title": "Joveo - Senior Software Engineer - Python/Node.js (3-5 yrs)",
+      "company": "Joveo Technologies",
+      "status": "applied",
+      "applicationId": 79302484
+    },
+    {
+      "job_id": 1668404,
+      "application_id": 79305042,
+      "title": "Software Development Engineer I - Backend Technologies",
+      "company": "Incanus Technologies",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1671890,
+      "application_id": 79305043,
+      "title": "HFT Developer - C++ - IIT",
+      "company": "Callisto Talent Solutions",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1666381,
+      "application_id": 79305048,
+      "title": "Junior Backend Developer - Python/Django",
+      "company": "Talent Quest Technologies",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1658227,
+      "application_id": 79305056,
+      "title": "Backend Developer - Server Side Programming",
+      "company": "HireSource.ai",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1653491,
+      "application_id": 79305059,
+      "title": "PHP Developer",
+      "company": "Peoplite",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1647815,
+      "application_id": 79305061,
+      "title": "Software Engineer I - Artificial Intelligence",
+      "company": "Getaight.ai",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1681878,
+      "application_id": 79305065,
+      "title": "AI Engineer - LLM Agents & Workflow Automation",
+      "company": "HiringBlaze",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1681679,
+      "application_id": 79305067,
+      "title": "AI Engineer - LLM/RAG - Supply Chain Intelligence Domain",
+      "company": "HiringBlaze",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1678002,
+      "application_id": 79305109,
+      "title": "Sciative Solutions - Software Developer - Python/Django/Flask",
+      "company": "Sciative - We Price Right",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1669122,
+      "application_id": 79305111,
+      "title": "StashFin - Software Engineer - Backend Architecture",
+      "company": "Stashfin",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1673138,
+      "application_id": 79305144,
+      "title": "Java Backend Developer - Spring Boot/Microservices Architecture",
+      "company": "Techno Comp",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1672848,
+      "application_id": 79305145,
+      "title": "Technical/Application Support Engineer - Java",
+      "company": "Neemtree",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1672549,
+      "application_id": 79305148,
+      "title": "SplashLearn - Backend Developer - Java/Ruby on Rails",
+      "company": "SplashLearn",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1671983,
+      "application_id": 79305149,
+      "title": "PHP Developer - CodeIgniter Framework",
+      "company": "Mesitus",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1670707,
+      "application_id": 79305150,
+      "title": "Quant Developer - Rust/C++",
+      "company": "White Squire Technologies",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1665240,
+      "application_id": 79305151,
+      "title": "Java Backend Engineer - Golang/Microservices Architecture",
+      "company": "heyaura",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1665284,
+      "application_id": 79305163,
+      "title": "heyaura - Backend Engineer - Voice AI Platform",
+      "company": "heyaura",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1662224,
+      "application_id": 79305167,
+      "title": "Aristocrat - Game Mathematician",
+      "company": "Aristocrat",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1656305,
+      "application_id": 79305169,
+      "title": "Software Development Engineer I - Java/Python",
+      "company": "HackCulture",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1653763,
+      "application_id": 79305172,
+      "title": "WheelsEye - Software Backend Engineer",
+      "company": "Wheelseye Technology",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1651419,
+      "application_id": 79305175,
+      "title": "Game Developer - Java/LibGDX",
+      "company": "YO IT CONSULTING",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1651423,
+      "application_id": 79305178,
+      "title": "Software Engineer - Backend Development",
+      "company": "YO IT CONSULTING",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1651413,
+      "application_id": 79305180,
+      "title": "Junior Python Game Developer - Panda3D",
+      "company": "YO IT CONSULTING",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1651445,
+      "application_id": 79305182,
+      "title": "Python Developer",
+      "company": "YO IT CONSULTING",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1651382,
+      "application_id": 79305211,
+      "title": "Game Developer - Graphics Programming",
+      "company": "YO IT CONSULTING",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1659558,
+      "application_id": 79305218,
+      "title": "Software Development Engineer - Java/Python",
+      "company": "HackCulture",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1658105,
+      "application_id": 79305223,
+      "title": "NCR Voyix - Software Engineer II - Golang",
+      "company": "Terafina",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1657117,
+      "application_id": 79305226,
+      "title": "QClairvoyance Quantum Labs - Python Backend Developer - Flask/FastAPI",
+      "company": "QClairvoyance Quantum Labs",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1653515,
+      "application_id": 79305229,
+      "title": "Java Developer - Spring/Hibernate",
+      "company": "Jobato HR Consultancy",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1651537,
+      "application_id": 79305236,
+      "title": "Java Technical Lead - Spring Boot/Multithreading",
+      "company": "AJM Talentrix",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1651492,
+      "application_id": 79305239,
+      "title": "Junior Python Game Developer - Panda3D",
+      "company": "Yo Hr Consultancy",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1651496,
+      "application_id": 79305241,
+      "title": "Game Developer - Java/LibGDX",
+      "company": "Yo Hr Consultancy",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1651497,
+      "application_id": 79305243,
+      "title": "Python Game Developer - Panda3D",
+      "company": "Yo Hr Consultancy",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1650243,
+      "application_id": 79305245,
+      "title": "Software Development Engineer I - Server Side Component",
+      "company": "NPrep",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1645044,
+      "application_id": 79305038,
+      "title": "Software Development Engineer I - Python/Node.js",
+      "company": "Talhive",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1680508,
+      "application_id": 79305063,
+      "title": "CarDekho Group - AI Engineer",
+      "company": "CarDekho",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1681078,
+      "application_id": 79305064,
+      "title": "Solution Intelligence Analyst II - AI/ML",
+      "company": "MantriAI   ",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1679867,
+      "application_id": 79305069,
+      "title": "True Credits - Machine Learning Engineer - MLOps",
+      "company": "TRUE CREDITS PRIVATE LIMITED",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1682377,
+      "application_id": 79305071,
+      "title": "Data Scientist",
+      "company": "HiringBlaze",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1682008,
+      "application_id": 79305075,
+      "title": "Data Scientist - Credit Risk/Model Risk Domain",
+      "company": "Vintronics Consulting",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1680650,
+      "application_id": 79305077,
+      "title": "Forward Deployed Engineer - AI/ML",
+      "company": "Anzy Global",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1668808,
+      "application_id": 79305119,
+      "title": "HealthPlix - Data Scientist - Healthcare Domain",
+      "company": "HealthPlix",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1672849,
+      "application_id": 79305122,
+      "title": "Exotel - Forward Deployed Engineer II - Voicebot Delivery",
+      "company": "EXOTEL TECHCOM PRIVATE LIMITED",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1671408,
+      "application_id": 79305129,
+      "title": "Focalworks - AI Engineer - Large Language Models",
+      "company": "Focalworks Solutions",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1671507,
+      "application_id": 79305134,
+      "title": "PubMatic - Senior Software Engineer - GenAI/AI Agents Development",
+      "company": "PubMatic",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1674463,
+      "application_id": 79305141,
+      "title": "AI Engineer - Machine Learning/Generative AI",
+      "company": "SK HR Consultants",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1658116,
+      "application_id": 79305193,
+      "title": "Hybrid AI Engineer",
+      "company": "Hawk Sense Business Solution pvt. ltd.",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1653547,
+      "application_id": 79305198,
+      "title": "Generative AI Engineer - NLP/LLM",
+      "company": "NovoTree Minds Consulting",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1653671,
+      "application_id": 79305213,
+      "title": "Data Scientist - Machine Learning",
+      "company": "Nexionpro Services",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1652805,
+      "application_id": 79305215,
+      "title": "OneClick.ai - Generative AI Engineer - LLM/Python",
+      "company": "One Click AI",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1651766,
+      "application_id": 79305222,
+      "title": "Process Nine Technologies - Generative AI Engineer",
+      "company": "PROCESS NINE TECHNOLOGIES PVT.LTD.",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1651031,
+      "application_id": 79305228,
+      "title": "Trinity - Associate Data Scientist - LLM/RAG",
+      "company": "Trinity Partners",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1681825,
+      "application_id": 79305246,
+      "title": "GreyOrange - Senior Software Developer II - Backend Applications",
+      "company": "Grey Orange",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1681724,
+      "application_id": 79305251,
+      "title": "Java Developer - Microservices Architecture",
+      "company": "Varite",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1678905,
+      "application_id": 79305254,
+      "title": "PTC Software - Software Specialist - Java",
+      "company": "PTC",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1682106,
+      "application_id": 79305256,
+      "title": "Backend Developer - Golang",
+      "company": "Vcommission Media Private",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1682230,
+      "application_id": 79305257,
+      "title": "Volody - PHP Laravel Developer",
+      "company": "Volody",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1681457,
+      "application_id": 79305078,
+      "title": "Mobifly - Senior .Net Developer",
+      "company": "Moonshine Food Ventures",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1681458,
+      "application_id": 79305079,
+      "title": "Mobifly - PHP Developer - Server Side Component",
+      "company": "Moonshine Food Ventures",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1681543,
+      "application_id": 79305081,
+      "title": "Software Engineer - Backend Developement",
+      "company": "HyrMe",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1679262,
+      "application_id": 79305083,
+      "title": "Volody - PHP Developer - MySQL/jQuery",
+      "company": "Volody",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1678257,
+      "application_id": 79305092,
+      "title": "Software Engineer - Backend Architecture'",
+      "company": "QuickHyre",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1677836,
+      "application_id": 79305093,
+      "title": "Software Engineer - Backend Development",
+      "company": "QuickHyre",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1675621,
+      "application_id": 79305095,
+      "title": "Senior Software Development Engineer - C#/.Net Core",
+      "company": "Leadsquared",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1671164,
+      "application_id": 79305096,
+      "title": "Siemens - Golang Developer - Backend Services",
+      "company": "Siemens",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1668615,
+      "application_id": 79305110,
+      "title": "PTC Software - Senior Software Specialist - Java",
+      "company": "PTC",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1671936,
+      "application_id": 79305114,
+      "title": "Focalworks - Python Developer - Django",
+      "company": "Focalworks Solutions",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1671407,
+      "application_id": 79305116,
+      "title": "FocalWorks - Software Engineer - Python & AI Applications",
+      "company": "Focalworks Solutions",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1666419,
+      "application_id": 79305117,
+      "title": "Amtech Software - Java Developer",
+      "company": "Amtech Software India Pvt Ltd",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1676152,
+      "application_id": 79305156,
+      "title": "Ekfrazo Technologies - Software Development Engineer III - Golang",
+      "company": "EKFRAZO TECHNOLOGIES PRIVATE LIMITED",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1675261,
+      "application_id": 79305176,
+      "title": "WhatsApp Automation Engineer - Node.js/Python",
+      "company": "Sumanel Technology Ventures",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1673709,
+      "application_id": 79305183,
+      "title": "Software Developer - Backend Architecture",
+      "company": "Skyleaf Consultants",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1673618,
+      "application_id": 79305187,
+      "title": "BlackLight Studio Works - Unity Developer - Game Development",
+      "company": "BlackLight Studio Works",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1673040,
+      "application_id": 79305195,
+      "title": "Software Engineer - Backend Technologies",
+      "company": "Northeast Recruitment Solution ",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1672987,
+      "application_id": 79305196,
+      "title": "Backend Software Engineer - Python",
+      "company": "DevFyndr",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1672985,
+      "application_id": 79305197,
+      "title": "Software Engineer - Backend Development",
+      "company": "DevFyndr",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1672923,
+      "application_id": 79305199,
+      "title": "Junior Azure Integration Support Engineer",
+      "company": "Promaynov Advisory Services",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1671085,
+      "application_id": 79305201,
+      "title": "Python Developer - Django/Flask",
+      "company": "HFT Talent",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1670611,
+      "application_id": 79305214,
+      "title": "Merchant Integration & Solutions Engineer - Payment Domain",
+      "company": "Employee Forums",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1670672,
+      "application_id": 79305217,
+      "title": "Josys - Senior Software Engineer - Backend Technologies",
+      "company": "Josys",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1670645,
+      "application_id": 79305219,
+      "title": "Software Development Engineer I - Backend Architecture",
+      "company": "Supersourcing",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1669056,
+      "application_id": 79305225,
+      "title": "Backend & Microservices Developer",
+      "company": "Forward Eye Technologies",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1669268,
+      "application_id": 79305227,
+      "title": "IFTAS - Python Developer - Backend Development",
+      "company": "Indian Financial Technology And Alliedservices",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1668957,
+      "application_id": 79305235,
+      "title": "Backend Microservices Developer",
+      "company": "Forward Eye Technologies",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1668397,
+      "application_id": 79305237,
+      "title": "Backend Software Engineer - Core Java",
+      "company": "HumanWiz",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1668466,
+      "application_id": 79305238,
+      "title": "Backend Engineer - Java Technologies",
+      "company": "HR Works Consultancy",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1668051,
+      "application_id": 79305242,
+      "title": "Software Engineer - Java",
+      "company": "TalentSyker",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1666985,
+      "application_id": 79305259,
+      "title": "Vehant Technologies - C++ Developer - CUDA Programming",
+      "company": "Vehant Technologies",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1666377,
+      "application_id": 79305262,
+      "title": "Senior Backend Developer - Python/Django",
+      "company": "Talent Quest Technologies",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1662725,
+      "application_id": 79305267,
+      "title": "Senior Software Engineer - Backend Technologies",
+      "company": "Uniq You",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1659102,
+      "application_id": 79305268,
+      "title": "Python Developer - Django/Flask",
+      "company": "Supertal Tech",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1656145,
+      "application_id": 79305276,
+      "title": "Volopay - Senior Ruby on Rails Developer",
+      "company": "Volopay",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1653719,
+      "application_id": 79305281,
+      "title": "Altinvest Online Platform - Laravel Developer - PHP/MySQL",
+      "company": "Altinvest",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1647437,
+      "application_id": 79305291,
+      "title": "Senior Software Engineer - C#/.Net",
+      "company": "UST",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1652908,
+      "application_id": 79305293,
+      "title": "Itilite Technologies - Senior Software Engineer - Python",
+      "company": "ITILITE",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1652978,
+      "application_id": 79305295,
+      "title": "Java Developer - Microservices Architecture",
+      "company": "Appzlogic Mobility Solutions",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1651862,
+      "application_id": 79305296,
+      "title": "Ripik AI - Backend Engineer - Java/Spring Boot",
+      "company": "Ripik Technology",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1660961,
+      "application_id": 79305066,
+      "title": "Technical Lead - Python Automation",
+      "company": "Interface Consultancy Services",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1660724,
+      "application_id": 79305068,
+      "title": "Amgen - Associate System Analyst - LIMS",
+      "company": "Amgen",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1660583,
+      "application_id": 79305076,
+      "title": "Software Development Engineer II - Python/Golang",
+      "company": "Hyrhub",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1659872,
+      "application_id": 79305080,
+      "title": "Software Developer - Java",
+      "company": "Nexus Point",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1658575,
+      "application_id": 79305084,
+      "title": "Backend Developer - Server Side Applications",
+      "company": "TAP AI PRIVATE LIMITED",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1658308,
+      "application_id": 79305085,
+      "title": "Advantal Technologies - Software Developer - Java",
+      "company": "ADVANTAL TECHNOLOGIES LIMITED",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1655541,
+      "application_id": 79305087,
+      "title": "Indium Software - Python Automation Developer",
+      "company": "INDIUM",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1655264,
+      "application_id": 79305090,
+      "title": "Java Developer",
+      "company": "Square Root Consulting",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1654550,
+      "application_id": 79305098,
+      "title": "Software Engineer - Java",
+      "company": "FxConsulting",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1653125,
+      "application_id": 79305100,
+      "title": "Software Engineer - Python",
+      "company": "Lightstorm Telecom Ventures",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1651311,
+      "application_id": 79305104,
+      "title": "Senior Software Engineer",
+      "company": "TopDev",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1650664,
+      "application_id": 79305107,
+      "title": "Node.js Developer",
+      "company": "Creative Frenzy",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1650319,
+      "application_id": 79305108,
+      "title": "Java Developer - Spring Boot",
+      "company": "Patch Infotech",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1649847,
+      "application_id": 79305112,
+      "title": "Python Developer - Django",
+      "company": "Shorthills AI",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1649801,
+      "application_id": 79305113,
+      "title": "Primathon - Data Engineer - Python",
+      "company": "Primathon Technology Ventures",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1649678,
+      "application_id": 79305125,
+      "title": "Java Developer - Spring Boot/Microservices",
+      "company": "Varite India",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1649933,
+      "application_id": 79305127,
+      "title": "Falcon - Software Developer - Backend Architecture",
+      "company": "Falcon India",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1649975,
+      "application_id": 79305131,
+      "title": "Falcon - Backend Software Developer - Backend",
+      "company": "Falcon India",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1649320,
+      "application_id": 79305135,
+      "title": "Backend Developer - Node.js/Express.js",
+      "company": "Armour Corporate Services",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1649164,
+      "application_id": 79305137,
+      "title": "SDE I - Backend Technologies",
+      "company": "Nexus Point",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1648243,
+      "application_id": 79305140,
+      "title": "AEM Backend Engineer",
+      "company": "Code and Theory",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1646935,
+      "application_id": 79305143,
+      "title": "Backend Developer - Node.js",
+      "company": "Arting Digital",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1644964,
+      "application_id": 79305147,
+      "title": "Open Source Application Developer",
+      "company": "Hawk Sense Business Solution",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1644908,
+      "application_id": 79305162,
+      "title": "Backend Developer - Python",
+      "company": "Hiring Infinity",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1644640,
+      "application_id": 79305165,
+      "title": "Backend Engineer - Systems Architecture",
+      "company": "Arting Digital",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1644649,
+      "application_id": 79305168,
+      "title": "Backend Developer - Python Technologies",
+      "company": "Arting Digital",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1643666,
+      "application_id": 79305170,
+      "title": ".Net Developer - ASP/C#",
+      "company": "First Career Center",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1643430,
+      "application_id": 79305177,
+      "title": "SDE II - Java/Python",
+      "company": "Whitetable",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1643515,
+      "application_id": 79305179,
+      "title": "Senior Software Engineer - Python",
+      "company": "SLO Technologies",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1643432,
+      "application_id": 79305184,
+      "title": "Backend Developer - FastAPI/Flask",
+      "company": "Whitetable",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1681393,
+      "application_id": 79305186,
+      "title": "Moody's - Analytics & Modeling Analyst",
+      "company": "Moody's",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1681268,
+      "application_id": 79305188,
+      "title": "Coforge - AI Developer - Python/LLM",
+      "company": "Coforge",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1680105,
+      "application_id": 79305189,
+      "title": "KiE Square Analytics - Data Science Consultant",
+      "company": "KIE Square Consulting",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1682355,
+      "application_id": 79305204,
+      "title": "Senior GenAI Engineer - LLM/RAG",
+      "company": "ResourceTree Global Services",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1682378,
+      "application_id": 79305205,
+      "title": "Machine Learning Engineer - Demand Forecasting",
+      "company": "HiringBlaze",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1681673,
+      "application_id": 79305209,
+      "title": "Data Scientist - AI/ML",
+      "company": "HiringBlaze",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1681435,
+      "application_id": 79305212,
+      "title": "Mathematics & Scientific Computing SME",
+      "company": "Innodata India",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1681138,
+      "application_id": 79305216,
+      "title": "AI Engineer - NLP/LLM",
+      "company": "YipitData",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1680903,
+      "application_id": 79305233,
+      "title": "Forward Deployed Engineer - LLM Applications",
+      "company": "Top of Mind Labs",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1680770,
+      "application_id": 79305234,
+      "title": "Machine Learning Engineer - Python/PySpark",
+      "company": "Zorba Consulting",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1677800,
+      "application_id": 79305088,
+      "title": "Machine Learning Engineer - Python",
+      "company": "Axnode Immigration",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1677759,
+      "application_id": 79305094,
+      "title": "Generative AI Engineer - LLM/RAG",
+      "company": "NovoTree Minds Consulting",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1671445,
+      "application_id": 79305123,
+      "title": "SatSure - Machine Learning Researcher - Deep Learning Models",
+      "company": "SatSure",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1670628,
+      "application_id": 79305124,
+      "title": "Senior AI/ML Engineer - LLM/Python",
+      "company": "AB INFOTECH",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1665637,
+      "application_id": 79305126,
+      "title": "AI Engineer II",
+      "company": "Ensemble Health Partners",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1677204,
+      "application_id": 79305154,
+      "title": "Eucloid - Data Scientist - Machine Learning",
+      "company": "Eucloid Data Solutions",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1676771,
+      "application_id": 79305161,
+      "title": "Associate Data Scientist - R/Python/SQL",
+      "company": "Career Click",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1676241,
+      "application_id": 79305166,
+      "title": "Data Scientist - Pharma Domain",
+      "company": "Success Jobs Organization",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1674333,
+      "application_id": 79305181,
+      "title": "Generative AI & Computer Vision Engineer",
+      "company": "Auriga IT Consulting Private Limited",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1671659,
+      "application_id": 79305203,
+      "title": "AI Product Manager",
+      "company": "Tekee",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1654119,
+      "application_id": 79305309,
+      "title": "Senior AI/ML Researcher - LLM",
+      "company": "IAI Solution",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1653512,
+      "application_id": 79305320,
+      "title": "Data Scientist",
+      "company": "Impetus Career Consultants",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1653511,
+      "application_id": 79305322,
+      "title": "AI/ML Engineer",
+      "company": "Impetus Career Consultants",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1653503,
+      "application_id": 79305324,
+      "title": "Senior Data Scientist - Machine Learning Solutions",
+      "company": "Jubilant HR Consultants",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1653118,
+      "application_id": 79305327,
+      "title": "Data Scientist - Python/Machine Learning",
+      "company": "Aspyra HR Services ",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1652770,
+      "application_id": 79305329,
+      "title": "Fast Track Construction - AIOps Engineer",
+      "company": "Fast Track Projects & Services",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1652644,
+      "application_id": 79305310,
+      "title": "AI Product Manager",
+      "company": "Hashone Careers",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1652418,
+      "application_id": 79305312,
+      "title": "Senior AI/ML Developer",
+      "company": "Jubilant HR Consultants",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1652295,
+      "application_id": 79305313,
+      "title": "Python Engineer - Agentic AI",
+      "company": "MLOPS SOLUTIONS PVT LTD",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1652119,
+      "application_id": 79305314,
+      "title": "Predikly Technologies - Generative AI Developer",
+      "company": "Predikly Technologies",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1651902,
+      "application_id": 79305316,
+      "title": "Trianz - Agentic AI Engineer",
+      "company": "Trianz",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1652115,
+      "application_id": 79305317,
+      "title": "Predikly Technologies - Data Scientist - Time Series Forecasting",
+      "company": "Predikly Technologies",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1651230,
+      "application_id": 79305318,
+      "title": "Amgen - Data Scientist - Patient Finding",
+      "company": "Amgen",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1651308,
+      "application_id": 79305323,
+      "title": "Python Engineer - Agentic AI",
+      "company": "MLOPS SOLUTIONS PVT LTD",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1650995,
+      "application_id": 79305325,
+      "title": "Founding AI Engineer",
+      "company": "Orangemint Technologies",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1682426,
+      "application_id": 79305319,
+      "title": "Haptik - L2 Backend Engineer - Voice/Agentic AI",
+      "company": "Haptik",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1682441,
+      "application_id": 79305321,
+      "title": "Backend Software Development Engineer II",
+      "company": "Incanus Technologies",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1678320,
+      "application_id": 79305333,
+      "title": "Medi Assist - .Net Developer - C#",
+      "company": "Medibuddy",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1678285,
+      "application_id": 79305334,
+      "title": "Medi Assist - Senior Backend Developer - .Net Core",
+      "company": "Medibuddy",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1679657,
+      "application_id": 79305348,
+      "title": "Accion Labs - Senior .Net Developer - Microservices Architecture",
+      "company": "Accion Labs",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1682373,
+      "application_id": 79305351,
+      "title": "Software Development Engineer II - Backend Architecture",
+      "company": "HiringBlaze",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1682376,
+      "application_id": 79305352,
+      "title": "Software Development Engineer II - Python",
+      "company": "HiringBlaze",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1681955,
+      "application_id": 79305337,
+      "title": "Falcon - Senior Software Developer - Java",
+      "company": "Falcon India",
+      "applied_at": "2026-11-05T18:41:51Z"
+    },
+    {
+      "job_id": 1681672,
+      "application_id": 79305339,
+      "title": "Java Microservices Engineer - Agentic AI Integration",
+      "company": "HiringBlaze",
+      "applied_at": "2026-11-05T18:41:52Z"
+    },
+    {
+      "job_id": 1678631,
+      "application_id": 79305342,
+      "title": "InfoBeans Technologies - Java Developer - AI Assisted Development",
+      "company": "InfoBeans",
+      "applied_at": "2026-11-05T18:41:59Z"
+    },
+    {
+      "job_id": 1678277,
+      "application_id": 79305345,
+      "title": "BotLab Dynamics - Unreal Engine Developer - C++",
+      "company": "BotLab Dynamics",
+      "applied_at": "2026-11-05T18:42:01Z"
+    },
+    {
+      "job_id": 1678180,
+      "application_id": 79305346,
+      "title": "K4 Mobility India - Backend Engineer - Node.js Framework",
+      "company": "K4 Mobility",
+      "applied_at": "2026-11-05T18:42:02Z"
+    },
+    {
+      "job_id": 1678005,
+      "application_id": 79305354,
+      "title": "Sciative Solutions - Full Stack Developer - Python/Django",
+      "company": "Sciative - We Price Right",
+      "applied_at": "2026-11-05T18:42:20Z"
+    },
+    {
+      "job_id": 1677894,
+      "application_id": 79305356,
+      "title": "True Credits - Software Engineer - Java/J2EE",
+      "company": "TRUE CREDITS PRIVATE LIMITED",
+      "applied_at": "2026-11-05T18:42:22Z"
+    },
+    {
+      "job_id": 1677809,
+      "application_id": 79305359,
+      "title": "Solution Architect",
+      "company": "Axnode Immigration",
+      "applied_at": "2026-11-05T18:42:24Z"
+    },
+    {
+      "job_id": 1677802,
+      "application_id": 79305360,
+      "title": "Software Programmer - Java/Python",
+      "company": "Axnode Immigration",
+      "applied_at": "2026-11-05T18:42:25Z"
+    },
+    {
+      "job_id": 1677810,
+      "application_id": 79305363,
+      "title": "Backend Developer - Node.js/Spring Boot",
+      "company": "Axnode Immigration",
+      "applied_at": "2026-11-05T18:42:27Z"
+    },
+    {
+      "job_id": 1672761,
+      "application_id": 79305368,
+      "title": "OZI - Backend Engineer - Node.js/Java",
+      "company": "OZI Technologies",
+      "applied_at": "2026-11-05T18:42:32Z"
+    },
+    {
+      "job_id": 1665631,
+      "application_id": 79305335,
+      "title": "Software Development Engineer II - Python",
+      "company": "Ensemble Health Partners",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1670331,
+      "application_id": 79305336,
+      "title": "SatSure - Software Development Engineer II - Java/Python",
+      "company": "SatSure",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1669079,
+      "application_id": 79305338,
+      "title": "C++ Developer - Multiprocessing & Multithreading",
+      "company": "VASINFOTEC ",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1666184,
+      "application_id": 79305340,
+      "title": "OZI - Backend Engineer - Java/Node.js",
+      "company": "OZI Technologies",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1662143,
+      "application_id": 79305343,
+      "title": "Garmin - Software Development Engineer - Python/Node.js",
+      "company": "Garmin Technologies",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1676768,
+      "application_id": 79305364,
+      "title": "Senior Software Engineer - Java",
+      "company": "TalentGen Advisory LLP",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1676682,
+      "application_id": 79305365,
+      "title": "Circular Angle - Software Developer - .Net Technologies",
+      "company": "Circular Angle",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1675962,
+      "application_id": 79305370,
+      "title": "Java/Niagara Consultant",
+      "company": "Xohani Solutions Pvt. Ltd.",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1675662,
+      "application_id": 79305371,
+      "title": "Josys - Senior Software Engineer - Node.js/Ruby on Rails",
+      "company": "Josys",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1674452,
+      "application_id": 79305439,
+      "title": "Software Developer - C#/BizTalk",
+      "company": "NS Global Corporation",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1673801,
+      "application_id": 79305443,
+      "title": "Syniverse - Software Development Engineer II - Backend Technologies",
+      "company": "Syniverse Technologies",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1673725,
+      "application_id": 79305434,
+      "title": "Software Developer",
+      "company": "Axnode Immigration",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1673727,
+      "application_id": 79305437,
+      "title": "Software Engineer",
+      "company": "Axnode Immigration",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1672185,
+      "application_id": 79305449,
+      "title": "Senior Java Developer - Spring Boot/Hibernate",
+      "company": "Employee Forums",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1671371,
+      "application_id": 79305450,
+      "title": "Software Engineer - C++/Windows OS",
+      "company": "Unicornhead Online Ventures India",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1671314,
+      "application_id": 79305425,
+      "title": "Software Engineer - Rust",
+      "company": "Career Click",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1671169,
+      "application_id": 79305426,
+      "title": "Process Nine Technologies - .Net Core Backend Developer",
+      "company": "PROCESS NINE TECHNOLOGIES PVT.LTD.",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1671082,
+      "application_id": 79305427,
+      "title": "Zoop.One - Golang Developer - Backend Technologies",
+      "company": "ZOOP",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1671094,
+      "application_id": 79305429,
+      "title": "Level AI - Senior Backend Engineer - Python/Django",
+      "company": "Level AI",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1670627,
+      "application_id": 79305432,
+      "title": "DriveX - Software Engineer - Python",
+      "company": "DriveX Mobility Private Limited",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1670445,
+      "application_id": 79305428,
+      "title": "SCORELABS - Backend Engineer - Python/Golang",
+      "company": "SCORESOFTLABS(OPC)PRIVATE LIMITED",
+      "applied_at": "2026-11-05T18:46:40Z"
+    },
+    {
+      "job_id": 1669887,
+      "application_id": 79305430,
+      "title": "NielsenIQ - Software Engineer - PHP/Symfony",
+      "company": "NielsenIQ",
+      "applied_at": "2026-11-05T18:46:42Z"
+    },
+    {
+      "job_id": 1670165,
+      "application_id": 79305431,
+      "title": "Software Developer - Python/Java",
+      "company": "Skyleaf Consultants",
+      "applied_at": "2026-11-05T18:46:44Z"
+    },
+    {
+      "job_id": 1669826,
+      "application_id": 79305435,
+      "title": "Backend Software Engineer - Ruby/Go",
+      "company": "HyrMe",
+      "applied_at": "2026-11-05T18:46:45Z"
+    },
+    {
+      "job_id": 1669374,
+      "application_id": 79305438,
+      "title": "System Engineer - Microservices Architecture",
+      "company": "BinaryStar SearchX",
+      "applied_at": "2026-11-05T18:46:47Z"
+    },
+    {
+      "job_id": 1669195,
+      "application_id": 79305442,
+      "title": "AI Engineer - C++/Python",
+      "company": "QuickHyre",
+      "applied_at": "2026-11-05T18:46:49Z"
+    },
+    {
+      "job_id": 1669316,
+      "application_id": 79305433,
+      "title": "Quadient Inspire Developer - Document Composition Tools",
+      "company": "Upcruit",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1668919,
+      "application_id": 79305440,
+      "title": "C# Developer - .Net/ASP",
+      "company": "Code Vyasa",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1668723,
+      "application_id": 79305444,
+      "title": "MediaMint - Python Desktop Automation Engineer",
+      "company": "VUCHI MEDIA",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1668245,
+      "application_id": 79305446,
+      "title": ".Net Developer - WebForms",
+      "company": "Programming.Com",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1668206,
+      "application_id": 79305448,
+      "title": "Senior C++ Developer - Trading Systems",
+      "company": "Break into bfsi",
+      "applied_at": "2026-11-05T18:45:00Z"
+    },
+    {
+      "job_id": 1679369,
+      "title": "Senior Data Analyst - R/Python (3-6 yrs)",
+      "company": "Ciper Analytics Pvt Ltd",
+      "applied_at": "2026-11-06T15:35:00Z",
+      "flow": "screening_form"
+    },
+    {
+      "job_id": 1678650,
+      "title": "Anthropic Product & Platform Expert/Technical Specialist",
+      "company": "ArdbergAI",
+      "applied_at": "2026-11-06T15:35:00Z",
+      "flow": "screening_form"
+    },
+    {
+      "job_id": 1677833,
+      "title": "Principal Machine Learning Engineer - Rust & AI Infrastructure",
+      "company": "SHAIL.AI",
+      "applied_at": "2026-11-06T15:35:00Z",
+      "flow": "screening_form"
+    },
+    {
+      "job_id": 1677314,
+      "title": "Software Development Engineer - Test - Python (3-9 yrs)",
+      "company": "CRESCENDO GLOBAL LEADERSHIP HIRING INDIA PRIVATE L",
+      "applied_at": "2026-11-06T15:35:00Z",
+      "flow": "screening_form"
+    },
+    {
+      "job_id": 1665678,
+      "title": "Antino Labs - Backend Developer - Node.js",
+      "company": "Antino",
+      "applied_at": "2026-11-06T15:35:00Z",
+      "flow": "screening_form"
+    },
+    {
+      "job_id": 1668696,
+      "title": "AI Vibe Coding Engineer - Prototyping",
+      "company": "K-Logix Partnering Solutions",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1657066,
+      "title": "ML/AI Engineer - Foundation Model Engineering",
+      "company": "Scaling Theory Technologies",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1653242,
+      "title": "Senior AI/ML Researcher",
+      "company": "IAI Solution",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1674507,
+      "title": "Binocs - Software Development Engineer I - Backend Architecture",
+      "company": "Bluecrux",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1670052,
+      "title": "PACE - Backend Developer - Python",
+      "company": "Pace Stock Broking Services",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1681085,
+      "title": "PurpleTalk - Principal AI Scientist",
+      "company": "PurpleTalk",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1680581,
+      "title": "AI Engineer - Python/Machine Learning",
+      "company": "Bulwark Software Research",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1677546,
+      "title": "LLM Trainer - Code Security",
+      "company": "The Reliable Jobs",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1667632,
+      "title": "AI/ML Engineer",
+      "company": "Unico Talent",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1667144,
+      "title": "AI/ML Engineer - GEO",
+      "company": "Rivet HR",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1666256,
+      "title": "AI/ML Engineer - Generative AI",
+      "company": "Hire Global",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1663813,
+      "title": "TechRAQ - AI/ML Engineer",
+      "company": "TechRAQ Info Solutions",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1659332,
+      "title": "Data & AI Engineer",
+      "company": "Neovara",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1658924,
+      "title": "Valiance Solutions - Computer Vision Engineer",
+      "company": "Valiance Analytics",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1654256,
+      "title": "Navtech - AI/ML Engineer",
+      "company": "Navaratan Technologies",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1653612,
+      "title": "LLM Trainer",
+      "company": "The Reliable Jobs",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1651397,
+      "title": "TymeX - Scorecard Developer - Machine Learning",
+      "company": "Tyme",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1648674,
+      "title": "i2V Systems - Computer Vision Engineer",
+      "company": "i2V Systems",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1647334,
+      "title": "AI Solutions Engineer",
+      "company": "Talent Pro",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1682085,
+      "title": "Software Engineer - Node.js Platform",
+      "company": "Seventh Contact Hiring Solutions",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1663034,
+      "title": "Zaggle - Senior Software Engineer - Java Technologies",
+      "company": "Zaggle Prepaid Ocean Services",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1670868,
+      "title": "C Developer -",
+      "company": "Aanet Talent Global Solutions",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1650702,
+      "title": "Miko.ai - Junior Java Developer - Spring Boot",
+      "company": "RN Chidakashi Technologies",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1649515,
+      "title": "Trendlyne - Backend Engineer - Python",
+      "company": "Giskard Datatech",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1658376,
+      "title": "Forward Deployed Engineer - Python",
+      "company": "Scaling Theory Technologies",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1649612,
+      "title": "EY - Application Backend Engineer - Java/Python",
+      "company": "Ernsy",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1645012,
+      "title": "Node.js Developer",
+      "company": "Rainclouds Global Solutions LLP",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1682455,
+      "title": "Machine Learning Engineer - Time Series Forecasting",
+      "company": "Axionix Technologies",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1681596,
+      "title": "Wobot AI - Computer Vision Engineer - C++",
+      "company": "Wobot Intelligence Pvt. Ltd.",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1681028,
+      "title": "Data Scientist - Python/Pandas",
+      "company": "D Square Consulting Services",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1680432,
+      "title": "Data Scientist - Forecasting & Predictive Analysis",
+      "company": "D Square Consulting Services",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1680438,
+      "title": "Streamlit Developer/Junior Data Scientist",
+      "company": "D Square Consulting Services",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1680430,
+      "title": "Data Scientist - Python/Power BI",
+      "company": "D Square Consulting Services",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1680386,
+      "title": "Nomiso - Generative AI Engineer",
+      "company": "NOMISO INDIA PRIVATE LIMITED",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1678926,
+      "title": "Conversational AI Designer/Engineer - Prompt Engineering",
+      "company": "SUPPORTEX PRIVATE LIMITED",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1677493,
+      "title": "AI/ML Engineer",
+      "company": "Aspire Talent Innovations",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1672462,
+      "title": "Generative AI/Agentic AI Engineer - Python/LangChain",
+      "company": "USIL Technologies",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1671913,
+      "title": "AU Small Finance Bank - AI Engineer - Conversational AI",
+      "company": "AU SMALL FINANCE BANK Limited",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1662124,
+      "title": "Univest - Artificial Intelligence Engineer - Python/LLM",
+      "company": "Univest",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1675221,
+      "title": "Junior Member of Technical Staff - AI/ML",
+      "company": "Scaling Theory Technologies",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1673343,
+      "title": "AI Automation Developer - Python/Generative AI",
+      "company": "Risosu Consulting",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1672872,
+      "title": "Data Science/BI Strategy Consultant",
+      "company": "Totl Rpo Solutions",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1672149,
+      "title": "Data Scientist - Time Series Forecasting",
+      "company": "Yo Hr Consultancy",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1671772,
+      "title": "Data Scientist - Time Series Forecasting",
+      "company": "Bluglint Solutions",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1670187,
+      "title": "Data Scientist - Artificial Intelligence/Machine Learning",
+      "company": "Nash HR Consultants",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1669106,
+      "title": "Senior Computer Vision Engineer - Python",
+      "company": "JMJ Consultants",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1669045,
+      "title": "Forward Deployed AI Engineer - Generative AI/LLM",
+      "company": "ElementSkill",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1669081,
+      "title": "Founding ML Engineer - Computer Vision",
+      "company": "Aretius Advisory",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1668571,
+      "title": "Calpion - Software Development Engineer - Agentic AI",
+      "company": "Calpion Software Technologies Pvt. Ltd",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1668430,
+      "title": "Applied AI/ML Engineer",
+      "company": "The Reliable Jobs",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1661230,
+      "title": "Optum - AI/ML Engineer",
+      "company": "Optum Global Solutions",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1657331,
+      "title": "AI-Native Systems Builder",
+      "company": "Darwinbox",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1644768,
+      "title": "Optum - Associate AI/ML Engineer - Python/PyTorch",
+      "company": "Optum Global Solutions",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1656260,
+      "title": "Senior Machine Learning Engineer",
+      "company": "TAAS Partners",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1651980,
+      "title": "AI/ML Engineer",
+      "company": "Unico Talent",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1651067,
+      "title": "Forward Deployed AI Engineer - Python/RAG",
+      "company": "The Reliable Jobs",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1648698,
+      "title": "Artificial Intelligence Engineer",
+      "company": "The Reliable Jobs",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1647656,
+      "title": "Apptware Solutions - GenAI Developer - Machine Learning/NLP",
+      "company": "Apptware",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1646639,
+      "title": "McLaren Strategic Solutions - Generative AI Engineer - LLM/RAG",
+      "company": "MCLAREN STRATEGIC VENTURES INDIA PRIVATE LIMITED",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1646642,
+      "title": "McLaren Strategic Solutions - NLP Engineer",
+      "company": "MCLAREN STRATEGIC VENTURES INDIA PRIVATE LIMITED",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1646632,
+      "title": "McLaren Strategic Solutions - Computer Vision Engineer - Machine Learning/Deep Learning",
+      "company": "MCLAREN STRATEGIC VENTURES INDIA PRIVATE LIMITED",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1645925,
+      "title": "Data Scientist",
+      "company": "ConsultBae",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1645503,
+      "title": "AI/ML Engineer",
+      "company": "Unico Talent",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1682287,
+      "title": "Playlist - Software Engineer I - C#/.Net",
+      "company": "Playlist",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1682017,
+      "title": "Wobot AI - Backend Developer - Golang",
+      "company": "Wobot Intelligence Pvt. Ltd.",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1678421,
+      "title": "VoloHealth - Senior Software Developer - Java",
+      "company": "Volo Health Insurance TPA",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1676086,
+      "title": "Vedantu Innovations - Product Engineer - Java",
+      "company": "Vedantu Innovations",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1672907,
+      "title": "Practo - Software Engineer II - Backend Development",
+      "company": "Practo",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1665225,
+      "title": "Infosec Ventures - Laravel Developer - PHP",
+      "company": "INFOSEC VENTURES",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1661944,
+      "title": "Fibr.ai - Backend Product Engineer - Python",
+      "company": "Fibr.Ai",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1661878,
+      "title": "JForce Solutions - Java Developer - Spring Framework",
+      "company": "Jforce Solutions",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1674424,
+      "title": "Python Developer",
+      "company": "Value Lane Consulting",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1674020,
+      "title": "Java Developer",
+      "company": "Nextloop Technologies",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1668367,
+      "title": "Software Developer - Backend Architecture - Python/Django",
+      "company": "QuickSync",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1666907,
+      "title": "Liquiloans - Software Developer - PHP/Laravel",
+      "company": "LiquiLoans",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1666647,
+      "title": "The Card Company - Software Development Engineer I/II - Backend Technologies",
+      "company": "The Card Company",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1665722,
+      "title": "Senior Backend Engineer",
+      "company": "Scaling Theory Technologies",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1662959,
+      "title": "Chat360 - Forward Deployed Engineer - Python",
+      "company": "Sumanel Technology Ventures",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1662660,
+      "title": "Software Engineer - Backend Technologies",
+      "company": "Tarlan",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1656184,
+      "title": "Cumulations Technologies - .Net Developer - C#/ASP/Entity Framework",
+      "company": "Cumulations Technologies",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1655901,
+      "title": "OneStream Developer - VB/.Net",
+      "company": "Anlage Infotech",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1654594,
+      "title": "Groundtruth - Software Engineer - Java & Scala",
+      "company": "GroundTruth",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1649286,
+      "title": "AIonOS - Software Engineer - AI Agent Platform",
+      "company": "IndiGo",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1650462,
+      "title": "Cumulations Technologies - Golang Developer",
+      "company": "Cumulations",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1647215,
+      "title": "NeoGrowth - .Net Core Developer - C#/ASP",
+      "company": "NeoGrowth",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1661281,
+      "title": "Hula Global - Backend Engineer - Distributed Systems",
+      "company": "Hula Global",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1659870,
+      "title": "bsbservices.in - Backend Java Developer",
+      "company": "bsbservices",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1659798,
+      "title": "Recruitment Hub 365 - Backend Developer - Java",
+      "company": "Recruitment Hub",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1659176,
+      "title": "Recruitment Hub 365 - Backend Developer - Java",
+      "company": "Recruitment Hub",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1657042,
+      "title": "Sport for Life - Sports For Life - Backend Node.js Developer",
+      "company": "Sports for Life",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1651719,
+      "title": "YTPS HR India Pvt Ltd - ERPnext Technical Consultant",
+      "company": "YTPS",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1651383,
+      "title": "Gloify - PHP Developer - Laravel/CodeIgniter",
+      "company": "Gloify",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1650087,
+      "title": "Talent Pro - .Net Full Stack Developer",
+      "company": "Talent Pro",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1648897,
+      "title": "WITS Innovation Lab - Golang Developer - Backend Systems",
+      "company": "WITS",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1645210,
+      "title": "Black Panda Enterprises - Backend Engineer - Java",
+      "company": "Black Panda",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1677552,
+      "title": "QubeLabs - QubeLabs Systems - LLM/AI Model Engineer",
+      "company": "QubeLabs",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1682060,
+      "title": "Spectraforce Technologies - Data Scientist",
+      "company": "Spectraforce",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1679758,
+      "title": "TrueFan - TrueFan AI - Applied AI Engineer - Content Systems",
+      "company": "TrueFan",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1681580,
+      "title": "Sutra Services - Machine Learning Engineer - Computer Vision",
+      "company": "Sutra Services",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1681304,
+      "title": "Big Ideas Social Media Recruitment - AI Engineer - LLM/RAG",
+      "company": "Big Ideas",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1659266,
+      "title": "Associate Lead/Engineer - AI/ML",
+      "company": "Talent Pro",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1658525,
+      "title": "Senior AI Engineer - Python",
+      "company": "Tristone Strategic Partners LLP",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1657897,
+      "title": "Hexalog - Artificial Intelligence Engineer - LangGraph",
+      "company": "Hexalog",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1657943,
+      "title": "LLM Engineer",
+      "company": "ANP HR Consultancy",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1656666,
+      "title": "Straive - Senior Data Scientist - Machine Learning Models",
+      "company": "SPI TECHNOLOGIES INDIA PRIVATE LIMITED",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1656729,
+      "title": "Machine Learning Engineer",
+      "company": "Recruit Me",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1654533,
+      "title": "Senior Software Engineer - Legacy Modernization & AI",
+      "company": "Geek Technologies",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1654174,
+      "title": "CDM Smith - Data Science Specialist",
+      "company": "CDM Smith",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1653499,
+      "title": "Data Scientist - Machine Learning",
+      "company": "D Square Consulting Services",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1652913,
+      "title": "Data Scientist - Machine Learning & Predictive Modeling",
+      "company": "Aspyra HR Services ",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1653001,
+      "title": "Data Scientist - Python",
+      "company": "Mount Talent Consulting",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1652153,
+      "title": "LLM/Generative AI Engineer",
+      "company": "Softomatic Technology Services",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1650634,
+      "title": "AI Engineer",
+      "company": "Bulwark Software Research",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1650386,
+      "title": "AI Engineer - LLM Models",
+      "company": "Bulwark Software Research",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1650337,
+      "title": "Prowess Publishing - Data Scientist - Predictive Analytics",
+      "company": "Prowess Publishing & Software Solutions",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1650170,
+      "title": "Quantiphi - Machine Learning Engineer - Artificial Intelligence",
+      "company": "Quantiphi Analytics Solutions Private Limited",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1649523,
+      "title": "AI/Applied ML Engineer",
+      "company": "Risk Resources",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1649293,
+      "title": "Netcore Cloud - Artificial Intelligence Engineer - Machine Learning",
+      "company": "NETCORE CLOUD PRIVATE LIMITED",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1648811,
+      "title": "Data Scientist - Python",
+      "company": "Aspyra HR Services ",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1645611,
+      "title": "Unico Connect - Senior AI Engineer - LangGraph/LangChain",
+      "company": "Unico Connect",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1644393,
+      "title": "Machine Learning Engineer - PySpark/Python",
+      "company": "Gloify",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1643320,
+      "title": "Data Scientist - Machine Learning/Python",
+      "company": "EXPEDITE HIRE",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1680735,
+      "title": "Trendlyne - Backend Engineer - Python",
+      "company": "Giskard Datatech",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1680736,
+      "title": "Trendlyne - Backend Engineer - Python",
+      "company": "Giskard Datatech",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1682328,
+      "title": "iRage - Go Language Developer - Algorithmic Trading",
+      "company": "Irage Broking Services",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1682160,
+      "title": "Senior Software Engineer - .Net",
+      "company": "Spectraforce Technologies",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1681824,
+      "title": "TrueFan AI - Software Development Engineer II - Python Frameworks",
+      "company": "TrueFan",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1682416,
+      "title": "Software Developer - PHP/Laravel",
+      "company": "Caprion",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1681391,
+      "title": "TechRAQ - Python Developer - Django/Flask",
+      "company": "TechRAQ Info Solutions",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1680259,
+      "title": "Tradl AI - Senior Backend Developer - Golang/Java/Rust",
+      "company": "Tradl AI",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1678110,
+      "title": "C++ Developer",
+      "company": "Programming.Com",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1677740,
+      "title": "6D Technologies - Senior Backend Developer - Java",
+      "company": "6D Technologies",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1677405,
+      "title": "Sav - Senior Backend Engineer - Node.js/Next.js",
+      "company": "Sav Technologies",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1666551,
+      "title": "Haptik - Software Development Engineer II - Backend Architecture",
+      "company": "Haptik",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1662835,
+      "title": "Trendlyne - Senior Python Developer - Django/Flask",
+      "company": "Giskard Datatech",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1661997,
+      "title": "Antino Labs - Backend Developer - Node.js",
+      "company": "Antino",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1677186,
+      "title": "Verona Matchmaking - Senior Backend Engineer - Node.js/Rust",
+      "company": "VERONA JUPITER PRIVATE LIMITED",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1676905,
+      "title": "Software Development Engineer - Backend Architecture - Node.js/TypeScript ",
+      "company": "ConsultBae",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1676493,
+      "title": "Software Developer - .Net/C# ",
+      "company": "Jobs & Ladder",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1675973,
+      "title": "Auroville Investment Management - Software Development Engineer - Full Stack ",
+      "company": "Auro Digital INC",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1675921,
+      "title": "Creditsafe - Backend Engineer - Python/AWS ",
+      "company": "CREDITSAFE TECHNOLOGY",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1675524,
+      "title": "Software Development Engineer - Golang Technologies ",
+      "company": "SRP Advisors",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1675324,
+      "title": "MishiPay - Senior Python Developer ",
+      "company": "MishiPay",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1675148,
+      "title": "Associate .Net Developer - C#/ASP/WebAPI ",
+      "company": "ElementSkill",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1674392,
+      "title": "cplace Technical Developer - Java ",
+      "company": "VERSENT SYSTEMS PRIVATE LIMITED",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1673134,
+      "title": "PHP Engineer ",
+      "company": "TechGrit",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1672265,
+      "title": "PayRup - Tech Lead - Golang ",
+      "company": "PayRup",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1670269,
+      "title": "Software Development Engineer II - Backend Technologies ",
+      "company": "Human Touch",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1669211,
+      "title": "Java Developer - Backend Architecture ",
+      "company": "Terralogic Software Solutions Private Limited.",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1679914,
+      "title": "Generali Central Insurance - Data Engineer ",
+      "company": "Generali Central Life Insurance",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1681872,
+      "title": "C Developer - Linux/Windows Platform ",
+      "company": "Scaling Theory Technologies",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1682061,
+      "title": "ZenTrades - Quality Assurance Engineer - Manual/Automation Testing ",
+      "company": "ZenTrades India Pvt Ltd",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1679315,
+      "title": "Practo - Platform Engineer I - Cloud Infrastructure ",
+      "company": "Practo",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1679174,
+      "title": "Incanus Technologies - Data Analyst - Python/Numpy ",
+      "company": "Incanus Technologies",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1675779,
+      "title": "Rebel Foods - Associate Product Manager ",
+      "company": "Rebel Foods",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1675532,
+      "title": "Associate Product Manager - Consumer Tech Domain ",
+      "company": "SRP Advisors",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1673565,
+      "title": "Data Analyst - SQL/ETL ",
+      "company": "FourthPointer Services",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1679824,
+      "title": "CDK Global - Platform Security Engineer ",
+      "company": "CDK Global (India) Private Limited",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1679310,
+      "title": "Data Engineer - Python/ETL ",
+      "company": "Kalpavruksh",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1679370,
+      "title": "PayRup - Senior Software Engineer - Full Stack ",
+      "company": "PayRup",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1679164,
+      "title": "Senior Full Stack Developer - MERN/MEAN Stack ",
+      "company": "Unico Talent",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1679171,
+      "title": "Fulfillment IQ - Linux System & Hardware Administrator ",
+      "company": "Fulfillment IQ",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1679191,
+      "title": "Rohde&Schwarz - NR PHY Developer - Telecom/Wireless Communications ",
+      "company": "Rohde & Schwarz",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1678795,
+      "title": "Workato Integration Specialist ",
+      "company": "Unloadbox",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1681755,
+      "title": "LoveLocal - Product Manager ",
+      "company": "MPaani Solutions",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1681684,
+      "title": "Data Engineer - ETL/PySpark ",
+      "company": "Geektrust",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1681031,
+      "title": "Flipspaces - Product Manager ",
+      "company": "Flipspaces",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1680627,
+      "title": "Implementation Engineer - Cloud Deployment ",
+      "company": "ComplyDP",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1678171,
+      "title": "I2B - Database Platform Engineer ",
+      "company": "I2b technologies",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1677930,
+      "title": "Qentelli - Data Governance Analyst ",
+      "company": "Qentelli",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1677867,
+      "title": "Trendlyne - Senior QA Engineer - Automation Testing ",
+      "company": "Giskard Datatech",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1677898,
+      "title": "Moonshine Technology - DevOps Engineer II - Cloud Infrastructure ",
+      "company": "Moonshine Technology",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1677914,
+      "title": "Business Analyst - SQL ",
+      "company": "Quess",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1677814,
+      "title": "Data Platform Consultant/Senior Consultant ",
+      "company": "Hireginie",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1677549,
+      "title": "Evnek - Data & AI/ML QA Engineer ",
+      "company": "Evnek",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1677555,
+      "title": "Straive - Senior Consultant - ClickHouse ",
+      "company": "SPI TECHNOLOGIES INDIA PRIVATE LIMITED",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1679487,
+      "title": "Crompton - Delivery Manager - Analytics ",
+      "company": "Crompton Greaves Consumer Electricals",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1679153,
+      "title": "Tuco AI - Founding Engineer - Production Support ",
+      "company": "Tuco AI",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1677043,
+      "title": "Hevo Data - Solution Engineer ",
+      "company": "Heva Data",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1677196,
+      "title": "Android Stack Developer - AOSP ",
+      "company": "Hire Global",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1676548,
+      "title": "Junior Full Stack Developer - Backend & Frontend Architecture ",
+      "company": "BXP Support And Solutions",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1676463,
+      "title": "Data Analyst ",
+      "company": "GCC Nexus",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1680681,
+      "title": "Python Test Automation Engineer ",
+      "company": "Terralogic Software Solutions Private Limited.",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1680802,
+      "title": "Product Manager - AI/ML Marketplace",
+      "company": "BrandMyHR",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1677315,
+      "title": "Senior Software Engineer - AI Native/Data Platform",
+      "company": "Walt AI",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1677366,
+      "title": "Data Engineer - Scala/Spark",
+      "company": "Natalie Consultants",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1677187,
+      "title": "Full Stack Engineer - React.js/Python",
+      "company": "Scaling Theory Technologies",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1676564,
+      "title": "Software Developer - Python/Java/AngularJS",
+      "company": "Tidyhire",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1676459,
+      "title": "Onsite - Flutter Developer - iOS/Android Apps",
+      "company": "Onsite Construction Management Software",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1676275,
+      "title": "Innovapptive - Site Reliability Engineer - Cloud Infrastructure",
+      "company": "Innovapptive",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1676209,
+      "title": "CDM Smith - Data Analytics Engineer",
+      "company": "CDM Smith",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1676394,
+      "title": "Evnek - Data Quality Engineer",
+      "company": "Evnek",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1676398,
+      "title": "Linux System & Python Automation Engineer",
+      "company": "Terralogic Software Solutions Private Limited.",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1675989,
+      "title": "Ascendion - Junior Quality Engineer - Automation Testing",
+      "company": "Ascendion",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1674076,
+      "title": "Test Engineer - LiveOps",
+      "company": "Blueberry Unicorn Services",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1679163,
+      "title": "Senior AI/ML Engineer - LLM/Generative AI",
+      "company": "Unico Talent",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1679624,
+      "title": "Artificial Intelligence Engineer - LangChain/LangGraph",
+      "company": "GrowthsphereAI",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1677556,
+      "title": "AI Engineer - Generative AI",
+      "company": "Big Ideas Social Media Recruitment",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1680383,
+      "title": "Full Stack Developer - Python/React.js/AngularJS",
+      "company": "The Reliable Jobs",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1679127,
+      "title": "Blink Health - Senior/Staff Software Engineer - AI & Product Engineering",
+      "company": "BlinkRx",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1680242,
+      "title": "Trendlyne - Senior QA Automation Engineer - Mobile & Web Testing",
+      "company": "Giskard Datatech",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1675795,
+      "title": "Exponentia.ai - Machine Learning Engineer - MLOps",
+      "company": "Exponentia.ai",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1675797,
+      "title": "Exponentia.ai - Data Analyst/Business Analyst - Customer Analytics",
+      "company": "Exponentia.ai",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1675790,
+      "title": "Straive - Senior Consultant - Splunk & ClickHouse",
+      "company": "SPI TECHNOLOGIES INDIA PRIVATE LIMITED",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1675919,
+      "title": "Creditsafe - Quality Assurance Automation Engineer - Playwright/Cypress/Python",
+      "company": "CREDITSAFE TECHNOLOGY",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1675487,
+      "title": "Zoop.One - Product Manager - Data Sourcing & Engineering",
+      "company": "ZOOP",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1675545,
+      "title": "Machine Learning Engineer",
+      "company": "Hula Global",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1675556,
+      "title": "React Native Engineer - TypeScript",
+      "company": "Hula Global",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1675693,
+      "title": "Automation Engineer - Data Governance",
+      "company": "WowJobs",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1675248,
+      "title": "Vouchagram - Data Engineering Manager",
+      "company": "GyFTR",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1675331,
+      "title": "SQL Developer - Oracle DB/MySQL/PostgreSQL",
+      "company": "SMC Group of Companies",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1672627,
+      "title": "Data Scientist - AI/ML",
+      "company": "Workplace",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1681692,
+      "title": "Vouchagram - DevOps Engineer - Cloud Infrastructure",
+      "company": "GyFTR",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1681641,
+      "title": "Full Stack Engineer",
+      "company": "HR LOBBY",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1681557,
+      "title": "CDM Smith - Intermediate IT Infrastructure Specialist",
+      "company": "CDM Smith",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1681588,
+      "title": "Indexnine Technologies - Full Stack Developer - React.js/Node.js",
+      "company": "Indexnine Technologies",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1681620,
+      "title": "Data Engineer - Azure/Microsoft Fabric",
+      "company": "Recruitment Hub 365",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1680253,
+      "title": "Full Stack AI Engineer - TypeScript/NestJS",
+      "company": "Unico Talent",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1675334,
+      "title": "Auxo AI - Senior Applied AI Engineer - AI Agents",
+      "company": "AuxoAI",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1674802,
+      "title": "Kaidoko - DevOps Engineer - AWS",
+      "company": "kaidoko Automation Solutions Pvt",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1673839,
+      "title": "Pi-labs - MLOps Engineer",
+      "company": "Pi-labs",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1673986,
+      "title": "RattanIndia - Artificial Intelligence/Machine Learning Engineer - Data Modeling",
+      "company": "RattanIndia Enterprises",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1673564,
+      "title": "BI Engineer - Data Analytics",
+      "company": "Terralogic Software Solutions Private Limited.",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1673623,
+      "title": "Data Engineer - Microsoft Azure/Microsoft Fabric",
+      "company": "Recruitment Hub 365",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1673660,
+      "title": "Senior Frontend Engineer - React.js/React Native",
+      "company": "Clinvvo",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    },
+    {
+      "job_id": 1673670,
+      "title": "Quadrant IT Services - IBM ACE Developer",
+      "company": "Quadrant IT Services",
+      "applied_at": "2026-11-06T11:00:00Z",
+      "flow": "screening_assessment_completed"
+    }
+  ],
+  "additional_applied_sprints_4_to_6": 211,
+  "assessment_sweep_applied_2026-11-06": 43
+}

@@ -1,0 +1,200 @@
+{
+ "batch": "fresher AI/ML/DS/GenAI on Indeed India",
+ "date": "2026-09-18",
+ "login": "Indeed session active (Welcome, Jay), no credentials needed",
+ "filled_pending_human_submit": [
+  {
+   "company": "Trinity Soft Solutions",
+   "role": "Generative and Agentic AI Engineer",
+   "location": "Hybrid Bengaluru",
+   "salary": "Rs.18-30L/yr",
+   "exp": "4+y (stretch, exact RAG/agentic/LangChain/eval identity)",
+   "url": "https://in.indeed.com/jobs?q=Generative+and+Agentic+AI+Engineer&l=Bengaluru%2C+Karnataka&vjk=949ff68293f48d40",
+   "resume_attached": "ML_Vision_RL_PPO (GenAI_DS swap blocked 3x Not allowed)",
+   "verification": "Review page 100pct, reCAPTCHA checkbox present, Submit disabled until CAPTCHA",
+   "human_next": "solve CAPTCHA, optionally swap to GenAI_DS resume, click Submit"
+  },
+  {
+   "company": "NucleusTeq",
+   "role": "Gen AI Engineer",
+   "location": "Bengaluru",
+   "salary": "Undisclosed (allowed: exact RAG/agentic/LangChain/LlamaIndex/MCP identity)",
+   "exp": "3-6y (stretch at lower bound, exact identity)",
+   "url": "https://in.indeed.com/viewjob?jk=57a7403e5c7a4c8c",
+   "resume_attached": "ML_Vision_RL_PPO (GenAI_DS swap blocked, same platform issue)",
+   "verification": "Review page 100pct, Submit enabled, no screening questions",
+   "human_next": "optionally swap to GenAI_DS resume, click Submit (note: company rating 1.3/5)",
+   "note": "company rating 1.3/5 observed - human call"
+  }
+ ],
+ "external_deferred": [
+  {
+   "company": "Ascent HR",
+   "role": "Data Scientist with LLM and ML",
+   "location": "Bengaluru",
+   "salary": "Up to Rs.18L",
+   "exp": "3+y, exact LLM/NLP/Python/SQL/TF/FastAPI/cloud/K8s identity",
+   "url": "https://in.indeed.com/viewjob?jk=273ccfcb7c92129e",
+   "reason": "EXTERNAL_FLOW: no Easily apply, external apply markers"
+  }
+ ],
+ "skipped": [
+  {
+   "company": "Prodigal",
+   "role": "Applied AI Engineer",
+   "reason": "5Y_GAP: needs 5y hands-on eng"
+  },
+  {
+   "company": "Indeed",
+   "role": "Data Scientist III (Remote, Rs.49.8-79.8L)",
+   "reason": "SENIOR_TITLE: needs 8y/6y/3y-PhD"
+  },
+  {
+   "company": "Level AI",
+   "role": "Senior MLE NLP",
+   "reason": "SENIOR_TITLE"
+  },
+  {
+   "company": "Bazaarvoice",
+   "role": "Staff MLE",
+   "reason": "SENIOR_TITLE"
+  },
+  {
+   "company": "Agara",
+   "role": "Lead/Staff ML Scientist NLP",
+   "reason": "SENIOR_TITLE"
+  },
+  {
+   "company": "Nagarro",
+   "role": "Staff Engineer ML",
+   "reason": "SENIOR_TITLE"
+  },
+  {
+   "company": "Tibil",
+   "role": "Data Scientist Rs.7-14L",
+   "reason": "SALARY_FLOOR top 14 < 18"
+  },
+  {
+   "company": "Giniminds",
+   "role": "LLM Data Scientist Rs.10-15L",
+   "reason": "SALARY_FLOOR top 15 < 18"
+  },
+  {
+   "company": "Better Analytics",
+   "role": "AI/ML Engineer Rs.8-10L",
+   "reason": "SALARY_FLOOR"
+  },
+  {
+   "company": "Onelab",
+   "role": "AI Native Engineer Rs.6-10L",
+   "reason": "SALARY_FLOOR"
+  },
+  {
+   "company": "Apto Solutions",
+   "role": "DS AI Rs.4-18/hr",
+   "reason": "SALARY_FLOOR gig-pattern"
+  },
+  {
+   "company": "Intellistream",
+   "role": "MLE GenAI Rs.58k-1.25L/mo (~7-15L ann)",
+   "reason": "SALARY_FLOOR top ~15 < 18"
+  },
+  {
+   "company": "Aminno Soft",
+   "role": "AI Engineer Agentic AI up to Rs.15L",
+   "reason": "SALARY_FLOOR top 15 < 18"
+  },
+  {
+   "company": "MyAdvice",
+   "role": "AI Engineer GenAI Remote Rs.12-15L",
+   "reason": "SALARY_FLOOR top 15 < 18"
+  },
+  {
+   "company": "TekFrameworks",
+   "role": "GenAI Agentic Rs.4.7-17.8L",
+   "reason": "SALARY_FLOOR top 17.8 < 18"
+  },
+  {
+   "company": "Two95",
+   "role": "Statistician/Data Analyst Rs.12-20L",
+   "reason": "SALARY_FLOOR top 20 < 22, non-exact"
+  },
+  {
+   "company": "Amro Data Labs",
+   "role": "Data Engineer Rs.18-20L",
+   "reason": "SALARY_FLOOR + DOMAIN_MISMATCH generic DE"
+  },
+  {
+   "company": "CLANX",
+   "role": "Voice AI Engineer Rs.20-30L",
+   "reason": "VOICE_CORE_GAP"
+  },
+  {
+   "company": "100MS",
+   "role": "AI Engineer Agents Healthcare Rs.20-50L",
+   "reason": "SAME_COMPANY_2ND: applied on Wellfound 2026-09-18, needs approval"
+  },
+  {
+   "company": "Trinity Soft Solutions",
+   "role": "Senior Data Analyst Rs.18-30L",
+   "reason": "SENIOR_TITLE + analyst"
+  },
+  {
+   "company": "BerryWorks/Cami.AI/Crossroad",
+   "role": "Trainee roles",
+   "reason": "LEVEL_MISMATCH trainee/intern"
+  },
+  {
+   "company": "Substance",
+   "role": "Agentic AI Engineer Fractional",
+   "reason": "LEVEL_MISMATCH fractional/gig"
+  },
+  {
+   "company": "Logikwerk",
+   "role": "Associate AI Engineer Intern Agentic",
+   "reason": "LEVEL_MISMATCH intern"
+  },
+  {
+   "company": "DataAnnotation/TECHOLAS",
+   "role": "Trainer/gig roles",
+   "reason": "LEVEL_MISMATCH gig/trainer"
+  }
+ ],
+ "queued_next_run": [
+  "Origin AI Research Engineer Bengaluru (jk 75a7874390e8d625)",
+  "Skylark Drones AI Engineer Spectra (jk 9e169ab092d9d882)",
+  "Saarthee AI Research Scientist (jk 6025fab6bf085249)",
+  "RDAlabs AI Research Scientist (jk 9314fde9d664456e)",
+  "SAI Group AI Engineer LLM/VLM Kolkata",
+  "Zocket Applied AI Engineer Chennai",
+  "Newspace Engineer I AI Bengaluru",
+  "Meraki-Labs AI Engineer Bengaluru",
+  "Reflective AI/ML Engineer Chennai",
+  "Fuku Data Scientist Bengaluru",
+  "IMI Process Automation Data Scientist",
+  "Knack Consulting Data Scientist",
+  "Slate Technologies Data Scientist",
+  "India Health Link Data Scientist",
+  "Cellworks DS / CoffeeBeans DS / Mango NLP DS (no Easily marker - likely external)"
+ ],
+ "queued_fields": [
+  {
+   "field": "Indeed contact city",
+   "value_shown": "Kharagpur, West Bengal",
+   "profile_truth": "Gaya, Bihar",
+   "action": "QUEUED: do not mutate location prefs mid-batch without human confirmation"
+  },
+  {
+   "field": "Resume variant on both applications",
+   "value_shown": "ML_Vision_RL_PPO",
+   "needed": "GenAI_DS per JD match",
+   "action": "QUEUED: file_upload setFiles Not allowed 3x; human swaps in 1 click or retries later"
+  },
+  {
+   "field": "Indeed pay preference",
+   "value_shown": "Rs.20L/yr",
+   "profile_truth": "22-26 LPA floor 22",
+   "action": "QUEUED: do not mutate prefs mid-batch"
+  }
+ ]
+}

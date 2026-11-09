@@ -1,0 +1,47 @@
+{
+  "worker": 5,
+  "sprint": 6,
+  "batch": 5,
+  "target_applied": 3,
+  "total_batch_jobs": 6,
+  "applied_count": 5,
+  "parked_count": 1,
+  "already_applied_count": 0,
+  "failed_count": 0,
+  "status": "BATCH_EXHAUSTED",
+  "applied_jobs": [
+    {
+      "id": 1669316,
+      "applicationId": 79305433,
+      "title": "Quadient Inspire Developer - Document Composition Tools",
+      "company": "Upcruit"
+    },
+    {
+      "id": 1668919,
+      "applicationId": 79305440,
+      "title": "C# Developer - .Net/ASP",
+      "company": "Code Vyasa"
+    },
+    {
+      "id": 1668723,
+      "applicationId": 79305444,
+      "title": "MediaMint - Python Desktop Automation Engineer",
+      "company": "VUCHI MEDIA"
+    },
+    {
+      "id": 1668245,
+      "applicationId": 79305446,
+      "title": ".Net Developer - WebForms",
+      "company": "Programming.Com"
+    },
+    {
+      "id": 1668206,
+      "applicationId": 79305448,
+      "title": "Senior C++ Developer - Trading Systems",
+      "company": "Break into bfsi"
+    }
+  ],
+  "parked_job_ids": [
+    1669211
+  ]
+}

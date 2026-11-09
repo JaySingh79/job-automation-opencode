@@ -43,7 +43,8 @@ orchestrator's context window.
    `job-application-roadmap.md` (§2 Wellfound map, §3 filter, §4 loop, §6 checklist). Read `ats/ashby/observation_importance.md` only when necessary.
 2. Drive the live browser via Playwright MCP ONLY. Prefer direct job URLs
    (`https://wellfound.com/jobs/<id>-<slug>`) over feed modals. RECON ONCE → DECIDE
-   ONCE → ACT IN BATCHES → VERIFY ONCE per step. Never snapshot a job you would skip —
+   ONCE → ACT IN BATCHES → VERIFY ONCE per step.
+   - FAST 1-SECOND BAILOUT & EXCLUSION (ZERO TIME WASTE): Immediately close within <= 1s (	abs(close)) and exclude any application that shows already applied (✓ Applied), posting no longer available/closed/expired/404, experience requirement >3 years, location beyond India (non-remote), or posting date MORE THAN 2 MONTHS OLD (e.g. POSTED 2+ MONTHS AGO or YEARS AGO). Do not click Apply, do not open modals, do not snapshot, do not waste time. Never snapshot a job you would skip —
    evaluate-recon first, snapshot only to get the Apply ref.
 4. Submit authority: GRANTED (APPLY ALL)
 5. On finish: no file writes of any kind — no checkpoints, no ledgers, no count updates in any
@@ -54,3 +55,5 @@ orchestrator's context window.
    `RECON (counts) → PLAN (field|action|source table) → FILL → VERIFY (pass/fail)`,
    plus filled/queued counts, the exact Applied evidence (`✓ Applied` innerText), and what
    the human must do next.
+
+- SDE FRESHER & MULTIPLE ROLES: Fresher SDE / Software Engineer / Backend / Python Developer roles are explicitly welcomed. If a company has multiple postings (AI/ML, Data Science, SDE), apply to all of them. Do not skip second postings at the same company.

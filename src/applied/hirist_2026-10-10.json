@@ -1,0 +1,113 @@
+{
+ "applied": [
+  {
+   "appliedAt": "2026-10-10T16:37:00Z",
+   "applicationId": 78050873,
+   "company": "Astrotalk",
+   "jobId": 1677459,
+   "title": "Data Scientist - Product (Growth & Recommendation Systems)",
+   "url": "https://www.hirist.tech/j/data-scientist-product-growth-recommendation-systems-noida-1-2-yrs-1677459.html"
+  },
+  {
+   "appliedAt": "2026-10-10T16:37:00Z",
+   "applicationId": 78050875,
+   "company": "FirstHive",
+   "jobId": 1677433,
+   "title": "Data Science Engineer - Python/ML",
+   "url": "https://www.hirist.tech/j/data-science-engineer-python-ml-bangalore-0-1-yrs-1677433.html"
+  },
+  {
+   "appliedAt": "2026-10-10T16:38:00Z",
+   "applicationId": 78050880,
+   "company": "",
+   "jobId": 1669014,
+   "title": "Generative AI Engineer - Catalog Imaging",
+   "url": "https://www.hirist.tech/j/generative-ai-engineer-catalog-imaging-noida-1-2-yrs-1669014.html"
+  },
+  {
+   "appliedAt": "2026-10-10T16:42:00Z",
+   "applicationId": 78050898,
+   "company": "GoDigit",
+   "jobId": 1647696,
+   "title": "GoDigit - Junior AI Engineer - GenAI & Automation",
+   "url": "https://www.hirist.tech/j/godigit-junior-ai-engineer-genai-automation-bangalore-0-2-yrs-1647696.html"
+  },
+  {
+   "appliedAt": "2026-10-10T16:42:00Z",
+   "applicationId": 78050900,
+   "company": "TensorGo",
+   "jobId": 1650751,
+   "title": "TensorGo - Prompt Engineer - LLM",
+   "url": "https://www.hirist.tech/j/tensorgo-prompt-engineer-llm-hyderabad-0-1-yrs-1650751.html"
+  },
+  {
+   "appliedAt": "2026-10-10T16:44:00Z",
+   "applicationId": 78050918,
+   "company": "Ideal Tech Labs",
+   "jobId": 1650197,
+   "title": "Ideal Tech Labs - AI Vibe Coder - Python",
+   "url": "https://www.hirist.tech/j/ideal-tech-labs-ai-vibe-coder-python-chennai-1-2-yrs-1650197.html"
+  },
+  {
+   "appliedAt": "2026-10-10T17:51:30Z",
+   "applicationId": null,
+   "company": "Fastcollab",
+   "jobId": 1673189,
+   "title": "FastCollab - AI Engineer - IIT",
+   "url": "https://www.hirist.tech/j/fastcollab-ai-engineer-iit-hyderabad-1-2-yrs-1673189.html",
+   "mode": "screening-form",
+   "verify": "detail applied==1"
+  },
+  {
+   "appliedAt": "2026-10-10T17:53:00Z",
+   "applicationId": null,
+   "company": "Bluecrux",
+   "jobId": 1670614,
+   "title": "Binocs - Forward Deployed Engineer - AI/LLM Powered Solutions",
+   "url": "https://www.hirist.tech/j/binocs-forward-deployed-engineer-ai-llm-powered-solutions-bangalore-0-1-yrs-1670614.html",
+   "mode": "screening-form",
+   "verify": "detail applied==1"
+  },
+  {
+   "appliedAt": "2026-10-10T17:56:00Z",
+   "applicationId": null,
+   "company": "TensorGo",
+   "jobId": 1636656,
+   "title": "TensorGo - Deep Learning Engineer - Computer Vision",
+   "url": "https://www.hirist.tech/j/tensorgo-deep-learning-engineer-computer-vision-hyderabad-0-1-yrs-1636656.html",
+   "mode": "screening-form",
+   "verify": "/job/applied navigation"
+  },
+  {
+   "appliedAt": "2026-10-10T17:57:30Z",
+   "applicationId": null,
+   "company": "Talent Pro",
+   "jobId": 1648374,
+   "title": "AI/ML Engineer",
+   "url": "https://www.hirist.tech/j/ai-ml-engineer-bangalore-1-2-yrs-1648374.html",
+   "mode": "screening-form",
+   "verify": "/job/applied navigation"
+  },
+  {
+   "company": "Infinity Learn",
+   "jobId": 1665996,
+   "questions": [
+    "Which IIT are you from ?",
+    "What was your rank in JEE ?"
+   ],
+   "note": "Questions changed since 16:45 run; JEE rank unknown \u00e2\u20ac\u201d needs human; Q1 pre-filled 'IIT Kharagpur', NOT submitted (2026-10-10 ~17:54Z)",
+   "title": "Infinity Learn - Software Engineer - AI Native",
+   "url": "https://www.hirist.tech/j/infinity-learn-software-engineer-ai-native-hyderabad-0-1-yrs-1665996.html",
+   "applied": true,
+   "appliedAt": "2026-10-10T18:36:00Z",
+   "jee_rank": "9431"
+  }
+ ],
+ "date": "2026-10-10",
+ "discovery_probes_used": 2,
+ "filter": "AI-ML categoryId=14, max<=2 enforced client-side",
+ "pending_assessment": [],
+ "platform": "hirist",
+ "runEndedAt": "2026-10-10T17:59:00Z",
+ "runStartedAt": "2026-10-10T16:36:00Z"
+}

@@ -1,0 +1,10 @@
+{
+  "key": "greenhouse:rubrik:8220011",
+  "org": "rubrik",
+  "title": "Security Engineer - Identity and Access",
+  "url": "https://www.rubrik.com/company/careers/departments/job.8220011?gh_jid=8220011",
+  "status": "skipped_senior_or_mismatch",
+  "reason": "JD-gate fail: requires minimum 6 years IAM experience (SailPoint/Okta/CyberArk, PAM/IGA/NHI specialist role). Candidate has 18 months total experience — far outside 0-3yr fresher filter.",
+  "detail": "Rubrik custom-domain Greenhouse embed loaded fine (job-boards.greenhouse.io/rubrik/jobs/8220011 redirects to rubrik.com job.8220011). JD 'Experience you'll need' bullet 1: 'Minimum of 6 years of experience in Identity and Access Management (IAM), with deep hands-on experience implementing and managing IAM solutions within leading cloud environments'. Also demands regulated-environment (SOX) experience and technical leadership track record. No form fields were filled; no application submitted. Location: Bangalore, India Office.",
+  "datetime": "2026-10-17T15:05:00+05:30"
+}

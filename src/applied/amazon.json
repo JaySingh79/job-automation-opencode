@@ -1,0 +1,98 @@
+﻿{
+    "platform":  "Amazon Jobs",
+    "updated_at":  "2026-10-21T13:37:00Z",
+    "total_applied_today":  10,
+    "account_active_applications_count":  10,
+    "applications":  [
+                         {
+                             "job_id":  "10578605",
+                             "title":  "Applied Scientist, Alexa Sensitive Content Intelligence (ASCI)",
+                             "url":  "https://amazon.jobs/en/jobs/10578605/applied-scientist-alexa-sensitive-content-intelligence-asci",
+                             "resume_variant":  "Resume ML_Vision_RL_PPO 7th Aug.pdf",
+                             "date_time":  "2026-10-21T13:28:00Z",
+                             "status":  "applied",
+                             "confirmation":  "result=success"
+                         },
+                         {
+                             "job_id":  "10578603",
+                             "title":  "Applied Scientist, Alexa Sensitive Content Intelligence (ASCI)",
+                             "url":  "https://amazon.jobs/en/jobs/10578603/applied-scientist-alexa-sensitive-content-intelligence-asci",
+                             "resume_variant":  "Resume ML_Vision_RL_PPO 7th Aug.pdf",
+                             "date_time":  "2026-10-21T13:28:00Z",
+                             "status":  "applied",
+                             "confirmation":  "result=success"
+                         },
+                         {
+                             "job_id":  "10575107",
+                             "title":  "Applied Scientist, Alexa Edge AI",
+                             "url":  "https://amazon.jobs/en/jobs/10575107/applied-scientist-alexa-edge-ai",
+                             "resume_variant":  "Resume ML_Vision 5th Aug.pdf",
+                             "date_time":  "2026-10-21T13:28:00Z",
+                             "status":  "applied",
+                             "confirmation":  "result=success"
+                         },
+                         {
+                             "job_id":  "10539787",
+                             "title":  "Applied Scientist, Traffic Quality",
+                             "url":  "https://amazon.jobs/en/jobs/10539787/applied-scientist-traffic-quality",
+                             "resume_variant":  "Resume ML_Vision 5th Aug.pdf",
+                             "date_time":  "2026-10-21T13:31:20Z",
+                             "status":  "applied",
+                             "confirmation":  "result=success"
+                         },
+                         {
+                             "job_id":  "10432009",
+                             "title":  "Applied Scientist, Alexa Edge AI",
+                             "url":  "https://amazon.jobs/en/jobs/10432009/applied-scientist-alexa-edge-ai",
+                             "resume_variant":  "Resume ML_Vision 5th Aug.pdf",
+                             "date_time":  "2026-10-21T13:32:04Z",
+                             "status":  "applied",
+                             "confirmation":  "result=success"
+                         },
+                         {
+                             "job_id":  "10555817",
+                             "title":  "Applied Scientist, International Machine Learning",
+                             "url":  "https://amazon.jobs/en/jobs/10555817/applied-scientist-international-machine-learning",
+                             "resume_variant":  "Resume ML_Vision 5th Aug.pdf",
+                             "date_time":  "2026-10-21T13:33:01Z",
+                             "status":  "applied",
+                             "confirmation":  "result=success"
+                         },
+                         {
+                             "job_id":  "10557374",
+                             "title":  "Applied Scientist I, Amazon Shipping",
+                             "url":  "https://amazon.jobs/en/jobs/10557374/applied-scientist-i-amazon-shipping",
+                             "resume_variant":  "Resume ML_Vision_RL_PPO 7th Aug.pdf",
+                             "date_time":  "2026-10-21T13:33:50Z",
+                             "status":  "applied",
+                             "confirmation":  "result=success"
+                         },
+                         {
+                             "job_id":  "10432006",
+                             "title":  "Applied Scientist, Alexa Edge AI",
+                             "url":  "https://amazon.jobs/en/jobs/10432006/applied-scientist-alexa-edge-ai",
+                             "resume_variant":  "Resume ML_Vision 5th Aug.pdf",
+                             "date_time":  "2026-10-21T13:34:44Z",
+                             "status":  "applied",
+                             "confirmation":  "result=success"
+                         },
+                         {
+                             "job_id":  "10498825",
+                             "title":  "Applied Scientist, Alexa Edge AI",
+                             "url":  "https://amazon.jobs/en/jobs/10498825/applied-scientist-alexa-edge-ai",
+                             "resume_variant":  "Resume ML_Vision 5th Aug.pdf",
+                             "date_time":  "2026-10-21T13:35:42Z",
+                             "status":  "applied",
+                             "confirmation":  "result=success"
+                         },
+                         {
+                             "job_id":  "10510882",
+                             "title":  "Applied Scientist, Amazon Music - Catalog Quality",
+                             "url":  "https://amazon.jobs/en/jobs/10510882/applied-scientist-amazon-music-catalog-quality",
+                             "resume_variant":  "Resume ML_Vision_RL_PPO 7th Aug.pdf",
+                             "date_time":  "2026-10-21T13:57:25Z",
+                             "status":  "applied",
+                             "confirmation":  "result=success"
+                         }
+                     ]
+}

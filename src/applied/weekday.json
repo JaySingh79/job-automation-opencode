@@ -1,0 +1,449 @@
+[
+  {
+    "job_id": "weekday-partner-network-backend-engineer-bw29j7",
+    "title": "Backend Engineer",
+    "company": "Weekday Partner Network",
+    "url": "https://jobs.weekday.works/weekday-partner-network-backend-engineer-bw29j7",
+    "applied_at": "2026-10-29T16:49:00+05:30",
+    "status": "applied",
+    "verification": "Button transitioned to Already applied (disabled: true)",
+    "worker": "test-runner-subagent-1"
+  },
+  {
+    "job_id": "the-thinkschool-product-marketing-associate-[flytbase]",
+    "title": "Product Marketing Associate [FlytBase]",
+    "company": "The Thinkschool",
+    "url": "https://jobs.weekday.works/the-thinkschool-product-marketing-associate-%5Bflytbase%5D",
+    "applied_at": "2026-10-29T11:22:00.528Z",
+    "status": "applied",
+    "details": "Button changed to Already applied",
+    "worker": "Subagent-1"
+  },
+  {
+    "job_id": "weekday-partner-network-founding-engineer-1ql2rj",
+    "title": "Founding Engineer",
+    "company": "Weekday Partner Network",
+    "url": "https://jobs.weekday.works/weekday-partner-network-founding-engineer-1ql2rj",
+    "applied_at": "2026-10-29T11:22:11.175Z",
+    "status": "applied",
+    "details": "Button changed to Already applied",
+    "worker": "Subagent-1"
+  },
+  {
+    "job_id": "keensemi-it-&-business-applications-engineer",
+    "title": "IT & Business Applications Engineer",
+    "company": "KeenSemi",
+    "url": "https://jobs.weekday.works/keensemi-it-%26-business-applications-engineer",
+    "applied_at": "2026-10-29T11:22:20.657Z",
+    "status": "submitted_unconfirmed",
+    "details": "Submitted, pending verification",
+    "worker": "Subagent-1"
+  },
+  {
+    "job_id": "increff-marketing-executive",
+    "title": "Marketing Executive",
+    "company": "Increff",
+    "url": "https://jobs.weekday.works/increff-marketing-executive",
+    "applied_at": "2026-10-29T11:22:30.266Z",
+    "status": "applied",
+    "details": "Button changed to Already applied",
+    "worker": "Subagent-1"
+  },
+  {
+    "job_id": "toolergy-ai-engineer",
+    "title": "AI Engineer",
+    "company": "Toolergy",
+    "url": "https://jobs.weekday.works/toolergy-ai-engineer",
+    "applied_at": "2026-10-29T11:22:38.328Z",
+    "status": "applied",
+    "details": "Button changed to Already applied",
+    "worker": "Subagent-1"
+  },
+  {
+    "job_id": "the-thinkschool-account-executive-(enterprise)-[flytbase]",
+    "title": "Account Executive (Enterprise) [FlytBase]",
+    "company": "The Thinkschool",
+    "url": "https://jobs.weekday.works/the-thinkschool-account-executive-(enterprise)-%5Bflytbase%5D",
+    "applied_at": "2026-10-29T11:22:00.529Z",
+    "status": "applied",
+    "details": "Button changed to Already applied",
+    "worker": "Subagent-2"
+  },
+  {
+    "job_id": "prismforce-data-scientist-5bqg",
+    "title": "Data Scientist",
+    "company": "Prismforce",
+    "url": "https://jobs.weekday.works/prismforce-data-scientist-5bqg",
+    "applied_at": "2026-10-29T11:22:11.800Z",
+    "status": "applied",
+    "details": "Button changed to Already applied",
+    "worker": "Subagent-2"
+  },
+  {
+    "job_id": "wheelforge-ai-engineer",
+    "title": "AI Engineer",
+    "company": "Wheelforge",
+    "url": "https://jobs.weekday.works/wheelforge-ai-engineer",
+    "applied_at": "2026-10-29T11:22:20.704Z",
+    "status": "applied",
+    "details": "Button changed to Already applied",
+    "worker": "Subagent-2"
+  },
+  {
+    "job_id": "neemtree-junior-qa-+-devops-engineer",
+    "title": "Junior QA + Devops Engineer",
+    "company": "Neemtree",
+    "url": "https://jobs.weekday.works/neemtree-junior-qa-%2B-devops-engineer",
+    "applied_at": "2026-10-29T11:22:30.214Z",
+    "status": "applied",
+    "details": "Button changed to Already applied",
+    "worker": "Subagent-2"
+  },
+  {
+    "job_id": "b2b-sales-arrow-market-research-executive",
+    "title": "Market Research Executive",
+    "company": "B2B Sales Arrow",
+    "url": "https://jobs.weekday.works/b2b-sales-arrow-market-research-executive",
+    "applied_at": "2026-10-29T11:22:38.531Z",
+    "status": "applied",
+    "details": "Button changed to Already applied",
+    "worker": "Subagent-2"
+  },
+  {
+    "job_id": "newjaisa-technologies-limited-business-analyst-intern",
+    "title": "Business Analyst Intern",
+    "company": "NewJaisa Technologies Limited",
+    "url": "https://jobs.weekday.works/newjaisa-technologies-limited-business-analyst-intern",
+    "applied_at": "2026-10-29T11:22:00.530Z",
+    "status": "applied",
+    "details": "Button changed to Already applied",
+    "worker": "Subagent-3"
+  },
+  {
+    "job_id": "doubletick-solution-engineer-lhhd",
+    "title": "Solution Engineer",
+    "company": "DoubleTick",
+    "url": "https://jobs.weekday.works/doubletick-solution-engineer-lhhd",
+    "applied_at": "2026-10-29T11:22:11.935Z",
+    "status": "applied",
+    "details": "Button changed to Already applied",
+    "worker": "Subagent-3"
+  },
+  {
+    "job_id": "indiefolio-ai-content-generation-artist-(static-&-video)",
+    "title": "AI Content Generation Artist (Static & Video)",
+    "company": "IndieFolio",
+    "url": "https://jobs.weekday.works/indiefolio-ai-content-generation-artist-(static-%26-video)",
+    "applied_at": "2026-10-29T11:22:21.527Z",
+    "status": "submitted_unconfirmed",
+    "details": "Submitted, pending verification",
+    "worker": "Subagent-3"
+  },
+  {
+    "job_id": "b2b-sales-arrow-market-research-executive-jsxr",
+    "title": "Market Research Executive",
+    "company": "B2B Sales Arrow",
+    "url": "https://jobs.weekday.works/b2b-sales-arrow-market-research-executive-jsxr",
+    "applied_at": "2026-10-29T11:22:30.960Z",
+    "status": "applied",
+    "details": "Button changed to Already applied",
+    "worker": "Subagent-3"
+  },
+  {
+    "job_id": "weekday-partner-network-ai-engineer-eec6zg",
+    "title": "AI Engineer",
+    "company": "Weekday Partner Network",
+    "url": "https://jobs.weekday.works/weekday-partner-network-ai-engineer-eec6zg",
+    "applied_at": "2026-10-29T11:22:39.155Z",
+    "status": "applied",
+    "details": "Button changed to Already applied",
+    "worker": "Subagent-3"
+  },
+  {
+    "job_id": "newjaisa-technologies-limited-business-systems-analyst-intern",
+    "title": "Business Systems Analyst Intern",
+    "company": "NewJaisa Technologies Limited",
+    "url": "https://jobs.weekday.works/newjaisa-technologies-limited-business-systems-analyst-intern",
+    "applied_at": "2026-10-29T11:22:00.530Z",
+    "status": "applied",
+    "details": "Button changed to Already applied",
+    "worker": "Subagent-4"
+  },
+  {
+    "job_id": "weekday-partner-network-founding-computer-vision-engineer-bfqgji",
+    "title": "Founding Computer Vision Engineer",
+    "company": "Weekday Partner Network",
+    "url": "https://jobs.weekday.works/weekday-partner-network-founding-computer-vision-engineer-bfqgji",
+    "applied_at": "2026-10-29T11:22:13.313Z",
+    "status": "applied",
+    "details": "Button changed to Already applied",
+    "worker": "Subagent-4"
+  },
+  {
+    "job_id": "humanbit.ai-annotation-analyst---gujarati",
+    "title": "Annotation Analyst - Gujarati",
+    "company": "humanbit.ai",
+    "url": "https://jobs.weekday.works/humanbit.ai-annotation-analyst---gujarati",
+    "applied_at": "2026-10-29T11:22:21.038Z",
+    "status": "applied",
+    "details": "Button changed to Already applied",
+    "worker": "Subagent-4"
+  },
+  {
+    "job_id": "cubiktech-growth-intern",
+    "title": "Growth Intern",
+    "company": "Cubiktech",
+    "url": "https://jobs.weekday.works/cubiktech-growth-intern",
+    "applied_at": "2026-10-29T11:22:29.304Z",
+    "status": "applied",
+    "details": "Button changed to Already applied",
+    "worker": "Subagent-4"
+  },
+  {
+    "job_id": "indiefolio-motion-designer",
+    "title": "Motion Designer",
+    "company": "IndieFolio",
+    "url": "https://jobs.weekday.works/indiefolio-motion-designer",
+    "applied_at": "2026-10-29T12:12:41.354Z",
+    "status": "submitted_unconfirmed",
+    "details": "Submitted, pending verification",
+    "worker": "Subagent-1"
+  },
+  {
+    "job_id": "clientell-solutions-consultant",
+    "title": "Solutions Consultant",
+    "company": "Clientell",
+    "url": "https://jobs.weekday.works/clientell-solutions-consultant",
+    "applied_at": "2026-10-29T12:12:52.108Z",
+    "status": "applied",
+    "details": "Button changed to Already applied",
+    "worker": "Subagent-1"
+  },
+  {
+    "job_id": "hireft-growth-associate",
+    "title": "Growth Associate",
+    "company": "Hireft",
+    "url": "https://jobs.weekday.works/hireft-growth-associate",
+    "applied_at": "2026-10-29T12:13:00.645Z",
+    "status": "applied",
+    "details": "Button changed to Already applied",
+    "worker": "Subagent-1"
+  },
+  {
+    "job_id": "skinfinity-derma-skin,-hair-and-laser-clinic-social-media-intern",
+    "title": "Social media intern",
+    "company": "Skinfinity Derma Skin, Hair and Laser clinic",
+    "url": "https://jobs.weekday.works/skinfinity-derma-skin%2C-hair-and-laser-clinic-social-media-intern",
+    "applied_at": "2026-10-29T12:13:09.048Z",
+    "status": "applied",
+    "details": "Button changed to Already applied",
+    "worker": "Subagent-1"
+  },
+  {
+    "job_id": "aistetic-growth-hacker",
+    "title": "Growth Hacker",
+    "company": "Aistetic",
+    "url": "https://jobs.weekday.works/aistetic-growth-hacker",
+    "applied_at": "2026-10-29T12:13:17.880Z",
+    "status": "applied",
+    "details": "Button changed to Already applied",
+    "worker": "Subagent-1"
+  },
+  {
+    "job_id": "fletch-full-stack-developer",
+    "title": "Full-stack Developer",
+    "company": "Fletch",
+    "url": "https://jobs.weekday.works/fletch-full-stack-developer",
+    "applied_at": "2026-10-29T12:13:25.440Z",
+    "status": "applied",
+    "details": "Button changed to Already applied",
+    "worker": "Subagent-1"
+  },
+  {
+    "job_id": "incruiter-hr-coordinator",
+    "title": "HR Coordinator",
+    "company": "InCruiter",
+    "url": "https://jobs.weekday.works/incruiter-hr-coordinator",
+    "applied_at": "2026-10-29T12:12:28.462Z",
+    "status": "applied",
+    "details": "Button changed to Already applied",
+    "worker": "Subagent-2"
+  },
+  {
+    "job_id": "ellow.io-software-development-engineer",
+    "title": "Software development Engineer",
+    "company": "ellow.io",
+    "url": "https://jobs.weekday.works/ellow.io-software-development-engineer",
+    "applied_at": "2026-10-29T12:12:50.302Z",
+    "status": "applied",
+    "details": "Button changed to Already applied",
+    "worker": "Subagent-2"
+  },
+  {
+    "job_id": "time-hack-consulting-qa-tester",
+    "title": "QA Tester",
+    "company": "Time Hack Consulting",
+    "url": "https://jobs.weekday.works/time-hack-consulting-qa-tester",
+    "applied_at": "2026-10-29T12:13:06.725Z",
+    "status": "applied",
+    "details": "Button changed to Already applied",
+    "worker": "Subagent-2"
+  },
+  {
+    "job_id": "affluense-data-scientist",
+    "title": "Data Scientist",
+    "company": "Affluense",
+    "url": "https://jobs.weekday.works/affluense-data-scientist",
+    "applied_at": "2026-10-29T12:13:14.422Z",
+    "status": "applied",
+    "details": "Button changed to Already applied",
+    "worker": "Subagent-2"
+  },
+  {
+    "job_id": "icem-engineering-co.-(india)-pvt.-ltd.-quality-assurance-engineer",
+    "title": "Quality Assurance Engineer",
+    "company": "ICEM Engineering Co. (India) Pvt. Ltd.",
+    "url": "https://jobs.weekday.works/icem-engineering-co.-(india)-pvt.-ltd.-quality-assurance-engineer",
+    "applied_at": "2026-10-29T12:13:24.902Z",
+    "status": "applied",
+    "details": "Button changed to Already applied",
+    "worker": "Subagent-2"
+  },
+  {
+    "job_id": "weekday-partner-network-founding-frontend-engineer-dl8t8e",
+    "title": "Founding Frontend Engineer",
+    "company": "Weekday Partner Network",
+    "url": "https://jobs.weekday.works/weekday-partner-network-founding-frontend-engineer-dl8t8e",
+    "applied_at": "2026-10-29T12:12:28.463Z",
+    "status": "applied",
+    "details": "Button changed to Already applied",
+    "worker": "Subagent-3"
+  },
+  {
+    "job_id": "coreloop-growth-consultant",
+    "title": "Growth Consultant",
+    "company": "Coreloop",
+    "url": "https://jobs.weekday.works/coreloop-growth-consultant",
+    "applied_at": "2026-10-29T12:12:50.005Z",
+    "status": "submitted_unconfirmed",
+    "details": "Submitted, pending verification",
+    "worker": "Subagent-3"
+  },
+  {
+    "job_id": "newzenalpha-video-intern",
+    "title": "video intern",
+    "company": "NewzenAlpha",
+    "url": "https://jobs.weekday.works/newzenalpha-video-intern",
+    "applied_at": "2026-10-29T12:12:59.997Z",
+    "status": "applied",
+    "details": "Button changed to Already applied",
+    "worker": "Subagent-3"
+  },
+  {
+    "job_id": "anlight-consulting-services-private-limited-associate-software-engineer-(backend)",
+    "title": "Associate Software Engineer (Backend)",
+    "company": "Anlight Consulting Services Private Limited",
+    "url": "https://jobs.weekday.works/anlight-consulting-services-private-limited-associate-software-engineer-(backend)",
+    "applied_at": "2026-10-29T12:13:12.836Z",
+    "status": "applied",
+    "details": "Button changed to Already applied",
+    "worker": "Subagent-3"
+  },
+  {
+    "job_id": "indiefolio-social-media-marketer",
+    "title": "Social Media Marketer",
+    "company": "IndieFolio",
+    "url": "https://jobs.weekday.works/indiefolio-social-media-marketer",
+    "applied_at": "2026-10-29T12:13:21.510Z",
+    "status": "applied",
+    "details": "Button changed to Already applied",
+    "worker": "Subagent-3"
+  },
+  {
+    "job_id": "human-capitalists-customer-success-(csm)",
+    "title": "Customer Success (CSM)",
+    "company": "Human Capitalists",
+    "url": "https://jobs.weekday.works/human-capitalists-customer-success-(csm)",
+    "applied_at": "2026-10-29T12:13:28.584Z",
+    "status": "applied",
+    "details": "Button changed to Already applied",
+    "worker": "Subagent-3"
+  },
+  {
+    "job_id": "ozi-technologies-pvt-ltd-data-analyst-wk42",
+    "title": "Data Analyst",
+    "company": "OZi Technologies Pvt Ltd",
+    "url": "https://jobs.weekday.works/ozi-technologies-pvt-ltd-data-analyst-wk42",
+    "applied_at": "2026-10-29T12:13:35.698Z",
+    "status": "submitted_unconfirmed",
+    "details": "Submitted, pending verification",
+    "worker": "Subagent-3"
+  },
+  {
+    "job_id": "purechase-india-it-helpdesk-analyst",
+    "title": "IT Helpdesk Analyst",
+    "company": "PURECHASE INDIA",
+    "url": "https://jobs.weekday.works/purechase-india-it-helpdesk-analyst",
+    "applied_at": "2026-10-29T12:12:42.834Z",
+    "status": "applied",
+    "details": "Button changed to Already applied",
+    "worker": "Subagent-4"
+  },
+  {
+    "job_id": "huvo-ai-forward-deployed-engineer",
+    "title": "Forward deployed engineer",
+    "company": "Huvo AI",
+    "url": "https://jobs.weekday.works/huvo-ai-forward-deployed-engineer",
+    "applied_at": "2026-10-29T12:12:50.630Z",
+    "status": "applied",
+    "details": "Button changed to Already applied",
+    "worker": "Subagent-4"
+  },
+  {
+    "job_id": "woven-talent-embedded-software-engineer",
+    "title": "Embedded Software Engineer",
+    "company": "Woven Talent",
+    "url": "https://jobs.weekday.works/woven-talent-embedded-software-engineer",
+    "applied_at": "2026-10-29T12:13:02.410Z",
+    "status": "applied",
+    "details": "Button changed to Already applied",
+    "worker": "Subagent-4"
+  },
+  {
+    "job_id": "weekday-partner-network-engineering-newsletter-93ruer",
+    "title": "Engineering Newsletter",
+    "company": "Weekday Partner Network",
+    "url": "https://jobs.weekday.works/weekday-partner-network-engineering-newsletter-93ruer",
+    "applied_at": "2026-10-29T12:13:10.005Z",
+    "status": "applied",
+    "details": "Button changed to Already applied",
+    "worker": "Subagent-4"
+  },
+  {
+    "job_id": "kukufm-ai-engineer",
+    "title": "AI Engineer",
+    "company": "Kukufm",
+    "url": "https://jobs.weekday.works/kukufm-ai-engineer",
+    "applied_at": "2026-10-29T16:00:00+05:30",
+    "status": "already_applied",
+    "details": "Verified already applied in prior session"
+  },
+  {
+    "job_id": "weekday-partner-network-competitive-data-scientist-s5gequ",
+    "title": "Competitive Data Scientist",
+    "company": "Weekday Partner Network",
+    "url": "https://jobs.weekday.works/weekday-partner-network-competitive-data-scientist-s5gequ",
+    "applied_at": "2026-10-29T16:00:00+05:30",
+    "status": "already_applied",
+    "details": "Verified already applied in prior session"
+  },
+  {
+    "job_id": "weekday-partner-network-backend-engineer-hpduus",
+    "title": "Backend Engineer",
+    "company": "Weekday Partner Network",
+    "url": "https://jobs.weekday.works/weekday-partner-network-backend-engineer-hpduus",
+    "applied_at": "2026-10-29T16:12:00+05:30",
+    "status": "already_applied",
+    "details": "Applied in user initial workflow"
+  }
+]

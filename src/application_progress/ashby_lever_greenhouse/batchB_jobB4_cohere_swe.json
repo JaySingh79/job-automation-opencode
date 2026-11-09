@@ -1,0 +1,10 @@
+{
+  "key": "greenhouse:coherehealth:7980642003",
+  "org": "coherehealth",
+  "title": "Software Engineer",
+  "url": "https://job-boards.greenhouse.io/coherehealth/jobs/7980642003",
+  "status": "skipped_senior_or_mismatch",
+  "reason": "JD gate failed: posting requires 'Minimum of 4 - 6 years of full time experience in software development lifecycle, required'. Candidate holds 18 months total (mostly internships). Primary stack Java/Groovy + React full-stack; candidate is Python/GenAI. Orchestrator gate 'skip if 4+ yrs / senior; eligible if <=3 yrs or unlisted level' evaluates FALSE (level explicitly listed at 4-6 yrs required). Required form question 'How many years of experience in Java and Groovy' would truthfully be 0 -> guaranteed mismatch.",
+  "detail": "Recon-only: page loaded on isolated playwright-extention instance (shared browser was being hijacked by parallel agents). Full a11y snapshot captured, JD read; NO form fields filled, NO resume uploaded, NO submit attempted. Nice-to-have agentic-AI clause matched candidate identity, but required 4-6 yrs full-time SDLC exceeds the user's 0-3yr batch filter and the standing 'skip 2+ yrs demand' rule; stretch-exception in greenhouse-fill AGENTS.md applies to imperfect-checklist JDs, not hard minimum-YoE requirements.",
+  "datetime": "2026-10-17T15:42:16+05:30"
+}

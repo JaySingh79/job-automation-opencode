@@ -1,0 +1,36 @@
+{
+  "timestamp": "2026-10-28T14:48:00Z",
+  "total_processed": 3,
+  "applied_count": 0,
+  "staged_count": 0,
+  "skipped_count": 3,
+  "jobs": [
+    {
+      "job_id": "020926501748",
+      "company": "Graviton Research Capital",
+      "title": "Software Engineer (2027 Graduate)",
+      "url": "https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8764240002",
+      "platform": "greenhouse",
+      "status": "skipped",
+      "reason": "TARGET_AUDIENCE_MISMATCH: Posting explicitly targets 2027 college graduates (candidate graduated 2024 with 1.5 yrs experience). Tech stack requires core C++ low-latency systems (no Python). Hard filter requires CGPA 8.5+ (candidate CGPA 7.42)."
+    },
+    {
+      "job_id": "030223502511",
+      "company": "Glean",
+      "title": "Software Engineer, Backend",
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4006731005",
+      "platform": "greenhouse",
+      "status": "skipped",
+      "reason": "EXPERIENCE_REQUIREMENT_MISMATCH: Greenhouse posting mandates 'Minimum 6+ years of experience working on infrastructure for distributed systems or cloud-native applications' (Naukri scraper incorrectly indexed as 0-1 Yrs). Exceeds 2 YoE maximum fresher threshold."
+    },
+    {
+      "job_id": "200426504137",
+      "company": "Tide Software",
+      "title": "Staff Software Engineer, Agentic Platform",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7703991003",
+      "platform": "greenhouse",
+      "status": "skipped",
+      "reason": "STAFF_LEVEL_SENIOR_TITLE: Posting is for a Staff-level Backend Engineer (AI) leading platform architecture and standards across microservices (Java/Spring Boot). Exceeds fresher <= 2 YoE threshold per explicit subagent instructions."
+    }
+  ]
+}

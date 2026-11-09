@@ -1,0 +1,68 @@
+[
+  {
+    "status": "awaiting_human_captcha_submit",
+    "reason": "reCAPTCHA visual challenge presented on Ashby",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\neuralconcept-captcha-challenge.png",
+    "url": "https://jobs.ashbyhq.com/neuralconcept/aa1301d4-ab37-46f5-bdb8-c59eb97a5547/application",
+    "job_url": "https://jobs.ashbyhq.com/neuralconcept/aa1301d4-ab37-46f5-bdb8-c59eb97a5547",
+    "company": "neuralconcept",
+    "role": "EV Powertrain: Applied AI Engineer",
+    "platform": "ashby",
+    "duration_seconds": 24.7
+  },
+  {
+    "status": "awaiting_human_otp",
+    "reason": "Greenhouse email OTP challenge presented",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\nice-otp-challenge.png",
+    "url": "https://job-boards.eu.greenhouse.io/nice/jobs/4982277101?gh_jid=4982277101",
+    "job_url": "https://boards.eu.greenhouse.io/nice/jobs/4982277101?gh_jid=4982277101",
+    "company": "nice",
+    "role": "Professional Services Engineer, Actimize",
+    "platform": "greenhouse",
+    "duration_seconds": 22.6
+  },
+  {
+    "status": "awaiting_human_captcha_submit",
+    "reason": "hCaptcha challenge presented on Lever",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\extremenetworks-captcha-challenge.png",
+    "url": "https://jobs.lever.co/extremenetworks/31c2e5ec-febe-4123-a96b-b2013f0f51ea/apply",
+    "job_url": "https://jobs.lever.co/extremenetworks/31c2e5ec-febe-4123-a96b-b2013f0f51ea",
+    "company": "extremenetworks",
+    "role": "Full-Stack Software Engineer \u2013 GoLang- Flutter-UI  --10532",
+    "platform": "lever",
+    "duration_seconds": 21.6
+  },
+  {
+    "status": "awaiting_human_captcha_submit",
+    "reason": "reCAPTCHA visual challenge presented on Ashby",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\neuralconcept-captcha-challenge.png",
+    "url": "https://jobs.ashbyhq.com/neuralconcept/542981f4-1c6b-4e03-bfb9-cea8f0d74485/application",
+    "job_url": "https://jobs.ashbyhq.com/neuralconcept/542981f4-1c6b-4e03-bfb9-cea8f0d74485",
+    "company": "neuralconcept",
+    "role": "AI Workflows Engineer - UK",
+    "platform": "ashby",
+    "duration_seconds": 16.3
+  },
+  {
+    "status": "awaiting_human_otp",
+    "reason": "Greenhouse email OTP challenge presented",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\karat-otp-challenge.png",
+    "url": "https://job-boards.greenhouse.io/karat/jobs/8672663002",
+    "job_url": "https://job-boards.greenhouse.io/karat/jobs/8672663002",
+    "company": "karat",
+    "role": "Technical Content Development Engineer (India)",
+    "platform": "greenhouse",
+    "duration_seconds": 29.0
+  },
+  {
+    "status": "awaiting_human_captcha_submit",
+    "reason": "hCaptcha challenge presented on Lever",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\extremenetworks-captcha-challenge.png",
+    "url": "https://jobs.lever.co/extremenetworks/bba6f316-655f-4b36-b108-2a3d661547c5/apply",
+    "job_url": "https://jobs.lever.co/extremenetworks/bba6f316-655f-4b36-b108-2a3d661547c5",
+    "company": "extremenetworks",
+    "role": "Premier Resident Engineer",
+    "platform": "lever",
+    "duration_seconds": 20.8
+  }
+]

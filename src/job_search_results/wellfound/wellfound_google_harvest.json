@@ -1,0 +1,12 @@
+{
+  "harvest_method": "Google Dorking via SerpApi",
+  "queries_used": [
+    "site:wellfound.com inurl:jobs \"India\" \"AI Engineer\"",
+    "site:wellfound.com inurl:jobs \"India\" \"Data Scientist\"",
+    "site:wellfound.com inurl:jobs \"India\" \"Machine Learning\"",
+    "site:wellfound.com inurl:jobs \"Bengaluru\" \"AI\"",
+    "site:wellfound.com inurl:jobs \"Remote\" \"India\" \"AI Engineer\""
+  ],
+  "count": 0,
+  "jobs": []
+}

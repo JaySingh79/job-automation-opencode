@@ -1,0 +1,68 @@
+[
+  {
+    "status": "awaiting_human_captcha_submit",
+    "reason": "reCAPTCHA visual challenge presented on Ashby",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\genesis-captcha-challenge.png",
+    "url": "https://jobs.ashbyhq.com/genesis/b9ce5163-c4e1-4395-814b-358e3aea04f2/application",
+    "job_url": "https://jobs.ashbyhq.com/genesis/b9ce5163-c4e1-4395-814b-358e3aea04f2",
+    "company": "genesis",
+    "role": "Training / AI Infrastructure",
+    "platform": "ashby",
+    "duration_seconds": 21.2
+  },
+  {
+    "status": "awaiting_human_otp",
+    "reason": "Greenhouse email OTP challenge presented",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\cognite-otp-challenge.png",
+    "url": "https://job-boards.eu.greenhouse.io/cognite/jobs/4941489101",
+    "job_url": "https://job-boards.eu.greenhouse.io/cognite/jobs/4941489101",
+    "company": "cognite",
+    "role": "Data Engineer",
+    "platform": "greenhouse",
+    "duration_seconds": 24.5
+  },
+  {
+    "status": "awaiting_human_captcha_submit",
+    "reason": "reCAPTCHA visual challenge presented on Ashby",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\genesis-captcha-challenge.png",
+    "url": "https://jobs.ashbyhq.com/genesis/84cc3576-68e3-4d2d-850b-b5998c3ca6c5/application",
+    "job_url": "https://jobs.ashbyhq.com/genesis/84cc3576-68e3-4d2d-850b-b5998c3ca6c5",
+    "company": "genesis",
+    "role": "Recruiter, AI Research & Engineering",
+    "platform": "ashby",
+    "duration_seconds": 15.1
+  },
+  {
+    "status": "awaiting_human_otp",
+    "reason": "Greenhouse email OTP challenge presented",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\cognite-otp-challenge.png",
+    "url": "https://job-boards.eu.greenhouse.io/cognite/jobs/4986309101",
+    "job_url": "https://job-boards.eu.greenhouse.io/cognite/jobs/4986309101",
+    "company": "cognite",
+    "role": "Software Engineer",
+    "platform": "greenhouse",
+    "duration_seconds": 24.3
+  },
+  {
+    "status": "awaiting_human_captcha_submit",
+    "reason": "reCAPTCHA visual challenge presented on Ashby",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\hirehangar-captcha-challenge.png",
+    "url": "https://jobs.ashbyhq.com/hirehangar/83dc7a2b-12f7-4416-a570-c52eeeeded1b/application",
+    "job_url": "https://jobs.ashbyhq.com/hirehangar/83dc7a2b-12f7-4416-a570-c52eeeeded1b",
+    "company": "hirehangar",
+    "role": "LLM Infrastructure Engineer",
+    "platform": "ashby",
+    "duration_seconds": 20.8
+  },
+  {
+    "status": "awaiting_human_otp",
+    "reason": "Greenhouse email OTP challenge presented",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\valtech-otp-challenge.png",
+    "url": "https://job-boards.eu.greenhouse.io/valtech/jobs/4918559101",
+    "job_url": "https://job-boards.eu.greenhouse.io/valtech/jobs/4918559101",
+    "company": "valtech",
+    "role": "Fluent Commerce Developer",
+    "platform": "greenhouse",
+    "duration_seconds": 34.2
+  }
+]

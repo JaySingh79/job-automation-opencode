@@ -1,0 +1,108 @@
+{
+  "checkpoint": false,
+  "collected_at": "2026-10-10T16:35:00Z",
+  "count": 11,
+  "filter": "minexp=0&maxexp=2, max<=2 enforced client-side",
+  "jobs": [
+    {
+      "company": "Astrotalk",
+      "id": 1677459,
+      "loc": "Noida",
+      "max": 2,
+      "min": 1,
+      "status": "applied",
+      "title": "Data Scientist - Product (Growth & Recommendation Systems)"
+    },
+    {
+      "company": "FirstHive",
+      "id": 1677433,
+      "loc": "Bangalore",
+      "max": 1,
+      "min": 0,
+      "status": "applied",
+      "title": "Data Science Engineer - Python/ML"
+    },
+    {
+      "company": "Fastcollab",
+      "id": 1673189,
+      "loc": "Hyderabad",
+      "max": 2,
+      "min": 1,
+      "status": "pending_assessment",
+      "title": "FastCollab - AI Engineer - IIT"
+    },
+    {
+      "company": "Bluecrux",
+      "id": 1670614,
+      "loc": "Bangalore",
+      "max": 1,
+      "min": 0,
+      "status": "pending_assessment",
+      "title": "Binocs - Forward Deployed Engineer - AI/LLM Powered Solutions"
+    },
+    {
+      "company": "",
+      "id": 1669014,
+      "loc": "Noida",
+      "max": 2,
+      "min": 1,
+      "status": "applied",
+      "title": "Generative AI Engineer - Catalog Imaging"
+    },
+    {
+      "company": "Infinity Learn",
+      "id": 1665996,
+      "loc": "Hyderabad|Bangalore",
+      "max": 1,
+      "min": 0,
+      "status": "pending_assessment",
+      "title": "Infinity Learn - Software Engineer - AI Native"
+    },
+    {
+      "company": "GoDigit",
+      "id": 1647696,
+      "loc": "Bangalore",
+      "max": 2,
+      "min": 0,
+      "status": "applied",
+      "title": "GoDigit - Junior AI Engineer - GenAI & Automation"
+    },
+    {
+      "company": "TensorGo",
+      "id": 1650751,
+      "loc": "Hyderabad",
+      "max": 1,
+      "min": 0,
+      "status": "applied",
+      "title": "TensorGo - Prompt Engineer - LLM"
+    },
+    {
+      "company": "TensorGo",
+      "id": 1636656,
+      "loc": "Hyderabad",
+      "max": 1,
+      "min": 0,
+      "status": "pending_assessment",
+      "title": "TensorGo - Deep Learning Engineer - Computer Vision"
+    },
+    {
+      "company": "Ideal Tech Labs",
+      "id": 1650197,
+      "loc": "Chennai",
+      "max": 2,
+      "min": 1,
+      "status": "applied",
+      "title": "Ideal Tech Labs - AI Vibe Coder - Python"
+    },
+    {
+      "company": "Talent Pro",
+      "id": 1648374,
+      "loc": "Bangalore",
+      "max": 2,
+      "min": 1,
+      "status": "pending_assessment",
+      "title": "AI/ML Engineer"
+    }
+  ],
+  "source": "gladiator.hirist.tech/job/category (categoryId=14, pages 0-3, total pool 217)"
+}

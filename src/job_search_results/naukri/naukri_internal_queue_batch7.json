@@ -1,0 +1,323 @@
+{
+  "batch_id": 7,
+  "subagent": "naukri-fill-7",
+  "total_jobs": 16,
+  "jobs": [
+    {
+      "job_id": "241026000304",
+      "title": "AI Automation Engineer",
+      "company": "Vroom Media Group",
+      "experience": "0-6 Yrs",
+      "salary": "17-27.5 Lacs PA",
+      "location": "Remote",
+      "tags": [
+        "Automation engineering",
+        "Automation",
+        "Artificial Intelligence",
+        "Workflow",
+        "Python",
+        "Workflow Automation",
+        "Integration",
+        "Zapier"
+      ],
+      "posted_date": "3 days ago",
+      "url": "https://www.naukri.com/job-listings-ai-automation-engineer-vroom-media-group-delhi-ncr-0-to-6-years-241026000304"
+    },
+    {
+      "job_id": "081026036215",
+      "title": "Forward Deployed AI Solutions Engineer",
+      "company": "Blubridge",
+      "experience": "0-1 Yrs",
+      "salary": "8-12 Lacs PA",
+      "location": "Chennai",
+      "tags": [
+        "Forward deployed engineer",
+        "Ai Solutions",
+        "Technical consultant",
+        "AI presales",
+        "AI Consultant",
+        "Ai Research",
+        "Market Research",
+        "Consulting"
+      ],
+      "posted_date": "2 weeks ago",
+      "url": "https://www.naukri.com/job-listings-forward-deployed-ai-solutions-engineer-blubridge-chennai-0-to-1-years-081026036215"
+    },
+    {
+      "job_id": "140726017155",
+      "title": "Applied Research & Innovation - Carbon Capture, Utilization & Storage",
+      "company": "Tata Power",
+      "experience": "0-6 Yrs",
+      "salary": "10-50+ LPA (Applied Filter)",
+      "location": "Mumbai (All Areas)",
+      "tags": [
+        "Decarbonisation",
+        "Carbon Capture",
+        "Circular Economy",
+        "Technology Commercialization",
+        "Carbon Storage",
+        "Green Hydrogen",
+        "Sustainability",
+        "Clean Energy Technologies"
+      ],
+      "posted_date": "1 week ago",
+      "url": "https://www.naukri.com/job-listings-applied-research-innovation-carbon-capture-utilization-storage-tata-power-mumbai-all-areas-0-to-6-years-140726017155"
+    },
+    {
+      "job_id": "140726029490",
+      "title": "Applied Research & Innovation-Advanced Battery & Energy Storage System",
+      "company": "Tata Power",
+      "experience": "0-5 Yrs",
+      "salary": "10-50+ LPA (Applied Filter)",
+      "location": "Mumbai (All Areas)",
+      "tags": [
+        "Electrochemistry",
+        "Battery management system",
+        "Material Science",
+        "Energy storage system",
+        "Electrical Power System",
+        "Battery Pack Design",
+        "Battery Materials Science",
+        "Lithium Ion Battery"
+      ],
+      "posted_date": "1 week ago",
+      "url": "https://www.naukri.com/job-listings-applied-research-innovation-advanced-battery-energy-storage-system-tata-power-mumbai-all-areas-0-to-5-years-140726029490"
+    },
+    {
+      "job_id": "300926027589",
+      "title": "Security Engineer Ai security",
+      "company": "Leading Client of The Glove",
+      "experience": "0-1 Yrs",
+      "salary": "10-50+ LPA (Applied Filter)",
+      "location": "Hybrid - Bengaluru",
+      "tags": [
+        "cloud",
+        "python",
+        "Cyber Security",
+        "AI Security",
+        "gcp",
+        "Cloud Security",
+        "Prompt Engineering",
+        "Energy Management"
+      ],
+      "posted_date": "3 weeks ago",
+      "url": "https://www.naukri.com/job-listings-security-engineer-ai-security-the-glove-bengaluru-0-to-1-years-300926027589"
+    },
+    {
+      "job_id": "241026005967",
+      "title": "ADMINISTRATOR L3",
+      "company": "Wipro",
+      "experience": "0-5 Yrs",
+      "salary": "10-50+ LPA (Applied Filter)",
+      "location": "Chennai",
+      "tags": [
+        "Servicenow",
+        "Administration",
+        "L3",
+        "SAAS"
+      ],
+      "posted_date": "3 days ago",
+      "url": "https://www.naukri.com/job-listings-administrator-l3-wipro-limited-chennai-0-to-5-years-241026005967"
+    },
+    {
+      "job_id": "120826501479",
+      "title": "Digital Marketing & AI Executive (Fresher)",
+      "company": "Gnxt Systems",
+      "experience": "0-3 Yrs",
+      "salary": "10-50+ LPA (Applied Filter)",
+      "location": "Noida",
+      "tags": [
+        "Computer science",
+        "Google Analytics",
+        "Senior Executive",
+        "Social media",
+        "Analytical",
+        "Competitor analysis",
+        "Marketing campaigns",
+        "SEO"
+      ],
+      "posted_date": "3+ weeks ago",
+      "url": "https://www.naukri.com/job-listings-digital-marketing-ai-executive-fresher-gnxt-systems-noida-0-to-3-years-120826501479"
+    },
+    {
+      "job_id": "131026032581",
+      "title": "FP&A Consultant",
+      "company": "CGI",
+      "experience": "0-1 Yrs",
+      "salary": "8-10 Lacs PA",
+      "location": "Hybrid - Bengaluru",
+      "tags": [
+        "Financial Planning and Analysis",
+        "Budgeting",
+        "Variance Analysis",
+        "Forecasting",
+        "Consulting",
+        "Analysis",
+        "FPA",
+        "Financial planning"
+      ],
+      "posted_date": "2 weeks ago",
+      "url": "https://www.naukri.com/job-listings-fp-a-consultant-cgi-bengaluru-0-to-1-years-131026032581"
+    },
+    {
+      "job_id": "151026031582",
+      "title": "Financial Analyst III _ CA Fresher's cleared in 1st Attempt",
+      "company": "Morneau Shepell",
+      "experience": "0-4 Yrs",
+      "salary": "10-15 Lacs PA",
+      "location": "Hybrid - Bengaluru",
+      "tags": [
+        "GST Filing",
+        "TDS",
+        "Form 16",
+        "TDS Calculation",
+        "GST",
+        "Taxation",
+        "TDS Filing",
+        "III"
+      ],
+      "posted_date": "1 week ago",
+      "url": "https://www.naukri.com/job-listings-financial-analyst-iii-ca-fresher-s-cleared-in-1st-attempt-morneau-shepell-bengaluru-0-to-4-years-151026031582"
+    },
+    {
+      "job_id": "011026017534",
+      "title": "Business Technology Solutions Associate",
+      "company": "ZS",
+      "experience": "0-3 Yrs",
+      "salary": "10-50+ LPA (Applied Filter)",
+      "location": "Noida, Gurugram",
+      "tags": [
+        "SQL",
+        "AWS",
+        "Python",
+        "Pyspark",
+        "generative ai",
+        "GPM",
+        "Artificial Intelligence",
+        "Claude"
+      ],
+      "posted_date": "3 weeks ago",
+      "url": "https://www.naukri.com/job-listings-business-technology-solutions-associate-zs-noida-gurugram-0-to-3-years-011026017534"
+    },
+    {
+      "job_id": "071026033758",
+      "title": "Assistant Professor (M.tech Computer Science)",
+      "company": "Vd Consultants Chandigarh",
+      "experience": "0-6 Yrs",
+      "salary": "10-50+ LPA (Applied Filter)",
+      "location": "Rajkot",
+      "tags": [
+        "CSE",
+        "Artificial Intelligence",
+        "Computer Science",
+        "Aiml",
+        "Computer Vision",
+        "Machine Learning",
+        "Python",
+        "Computer"
+      ],
+      "posted_date": "2 weeks ago",
+      "url": "https://www.naukri.com/job-listings-assistant-professor-m-tech-computer-science-vd-consultants-chandigarh-rajkot-0-to-6-years-071026033758"
+    },
+    {
+      "job_id": "141026914244",
+      "title": "Principal Data Scientist/Sr Data Scientist - NLP/Machine Learning",
+      "company": "Benovymed Healthcare Private Limited",
+      "experience": "0-5 Yrs",
+      "salary": "Filtered >= 12-15 LPA",
+      "location": "Pune",
+      "tags": [
+        "Deep Learning",
+        "Data Science",
+        "Tensorflow",
+        "NLP",
+        "Data Scientist",
+        "Artificial Intelligence",
+        "Data Modeling",
+        "Machine Learning"
+      ],
+      "posted_date": "1 week ago",
+      "url": "https://www.naukri.com/job-listings-principal-data-scientist-sr-data-scientist-nlp-machine-learning-benovymed-healthcare-private-limited-pune-0-to-5-years-141026914244"
+    },
+    {
+      "job_id": "090426021631",
+      "title": "Hiring: Software Development Manager - For Canada, Australia, & Europe",
+      "company": "Independent Recruitment Consultant (freelancer)",
+      "experience": "0-7 Yrs",
+      "salary": "35-45 Lacs PA",
+      "location": "Australia, Canada, Other International",
+      "tags": [
+        "Project Engineering Management",
+        "Software Development",
+        "Software Engineering",
+        "Engineering Management",
+        "Engineering Projects",
+        "Software Services",
+        "Software Solutions",
+        "Software"
+      ],
+      "posted_date": "Few hours ago",
+      "url": "https://www.naukri.com/job-listings-hiring-software-development-manager-for-canada-australia-europe-rajeev-tripathi-australia-canada-other-international-0-to-7-years-090426021631"
+    },
+    {
+      "job_id": "261026001726",
+      "title": "Software-Java Developer",
+      "company": "Creative Hands HR",
+      "experience": "0-5 Yrs",
+      "salary": "Filtered >= 12-15 LPA",
+      "location": "Hyderabad, Chennai, Bengaluru",
+      "tags": [
+        "Web API Services",
+        "Spring Boot",
+        "Multithreading",
+        "Java",
+        "Rest Web API",
+        "Bootstrap",
+        "Docker",
+        "Restful Web"
+      ],
+      "posted_date": "1 day ago",
+      "url": "https://www.naukri.com/job-listings-software-java-developer-creative-hands-hr-hyderabad-chennai-bengaluru-0-to-5-years-261026001726"
+    },
+    {
+      "job_id": "011026012196",
+      "title": "Software Engineer",
+      "company": "Ibrowsejobs Technologies",
+      "experience": "0-5 Yrs",
+      "salary": "5-14 Lacs PA",
+      "location": "Remote",
+      "tags": [
+        "Communication Skills",
+        "python basics",
+        "Python",
+        "Soft Skills",
+        "Analytical Skills",
+        "SQL",
+        "Analytical",
+        "Basic"
+      ],
+      "posted_date": "3 weeks ago",
+      "url": "https://www.naukri.com/job-listings-software-engineer-ibrowsejobs-technologies-bengaluru-0-to-5-years-011026012196"
+    },
+    {
+      "job_id": "300926504385",
+      "title": "Software Engineer",
+      "company": "Unthinkable Solutions",
+      "experience": "0-2 Yrs",
+      "salary": "Filtered >= 12-15 LPA",
+      "location": "Gurugram",
+      "tags": [
+        "Campus hiring",
+        "Languages",
+        "Program",
+        "Ruby rails",
+        "Quality",
+        "Backend",
+        "Rail",
+        "Software development"
+      ],
+      "posted_date": "3 weeks ago",
+      "url": "https://www.naukri.com/job-listings-software-engineer-unthinkable-solutions-gurugram-0-to-2-years-300926504385"
+    }
+  ]
+}

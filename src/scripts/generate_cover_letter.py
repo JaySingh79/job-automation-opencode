@@ -81,21 +81,27 @@ def sanitize_filename(name: str) -> str:
 def customize_cover_letter_markdown(md_text: str, company_name: str, job_role: str) -> str:
     """
     Substitutes company_name and job_role into the markdown text template.
-    Handles placeholders as well as natural language phrasing in the template.
+    Ensures company name in the salutation is capitalised (e.g. 'Dear GOOGLE Hiring Team,').
     """
     text = md_text
 
-    # 1. Replace explicit template placeholders if present
-    text = re.sub(r"\[Company\]|\{company\}|\{company_name\}", company_name, text, flags=re.IGNORECASE)
-    text = re.sub(r"\[Role\]|\{job_role\}|\{role\}", job_role, text, flags=re.IGNORECASE)
+    # Normalize company name (for body, maintain proper casing if provided in lower-case)
+    clean_company = company_name.strip()
+    body_company = clean_company.title() if clean_company.islower() else clean_company
+    salutation_company = clean_company.upper()
 
-    # 2. Tailor Salutation: "Dear Hiring Team," -> "Dear {company_name} Hiring Team,"
+    # 1. Tailor Salutation: "Dear [COMPANY] Hiring Team," or "Dear Hiring Team," -> "Dear {salutation_company} Hiring Team,"
     text = re.sub(
-        r"Dear\s+Hiring\s+Team,",
-        f"Dear {company_name} Hiring Team,",
+        r"Dear\s+(?:\[?COMPANY\]?\s+)?Hiring\s+Team,",
+        f"Dear {salutation_company} Hiring Team,",
         text,
-        count=1
+        count=1,
+        flags=re.IGNORECASE
     )
+
+    # 2. Replace remaining explicit template placeholders if present
+    text = re.sub(r"\[Company\]|\{company\}|\{company_name\}", body_company, text, flags=re.IGNORECASE)
+    text = re.sub(r"\[Role\]|\{job_role\}|\{role\}", job_role, text, flags=re.IGNORECASE)
 
     # 3. Tailor Position & Company opening statement
     # Matches: "I am excited to apply for the **Software Engineer, Machine Learning / AI Engineer** position."
@@ -103,7 +109,7 @@ def customize_cover_letter_markdown(md_text: str, company_name: str, job_role: s
     if re.search(opening_pattern, text):
         text = re.sub(
             opening_pattern,
-            rf"\1**{job_role}** position at **{company_name}**.",
+            rf"\1**{job_role}** position at **{body_company}**.",
             text,
             count=1
         )
@@ -111,16 +117,16 @@ def customize_cover_letter_markdown(md_text: str, company_name: str, job_role: s
         # Fallback if pattern was modified
         text = re.sub(
             r"(I am excited to apply for the\s+)(.*?)(\s+position)",
-            rf"\1**{job_role}** position at **{company_name}**",
+            rf"\1**{job_role}** position at **{body_company}**",
             text,
             count=1
         )
 
     # 4. Tailor Closing sentence
-    # Matches: "contribute to your team." -> "contribute to your team at {company_name}."
+    # Matches: "contribute to your team." -> "contribute to your team at {body_company}."
     text = re.sub(
         r"could contribute to your team\.",
-        f"could contribute to your team at {company_name}.",
+        f"could contribute to your team at {body_company}.",
         text,
         count=1
     )

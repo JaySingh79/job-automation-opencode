@@ -97,7 +97,31 @@ function(){ var o=[]; document.querySelectorAll('main [role=alert],main [class*=
 - Step 2 screening: "Have you ever worked for a DP World company in the past?" -> **No**.
 - Languages: **English** (the imported "Unnamed Language" row had a required blank Language field ->
   "Fields to fix: 1"; Edit -> set Language = English -> Save. Proficiency/Native are optional).
-- Work Preferences: from `user_profile.json.work_preferences` — Travel Domestically Yes, Travel
+### 2026-10-29 — Deep Reconnaissance Benchmark (Amex, TI, IBS Software, JPMorgan Chase, Citco)
+
+- **Driver**: Local Playwright headless runner with anti-bot arguments (`--disable-blink-features=AutomationControlled`).
+- **Telemetry & Ground Truth Captured**:
+  1. **Dead / Stale Requisition Detection**:
+     - Modern Oracle Cloud CX tenants (`*.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX...`) inject a `<job-expired>` custom element when a requisition has been pulled or filled.
+     - Fast bailout check:
+       ```javascript
+       if (document.querySelector('job-expired, [class*="job-expired"], [data-test-id="job-expired"]')) return 'POSTING_EXPIRED';
+       ```
+     - Expired jobs lack the `Apply Now` button and only display "Job expired" or general search navigation. Immediately bail out within <= 1s.
+  2. **The "honey-pot-1" Anti-Bot Trap**:
+     - When clicking `Apply Now`, Oracle JET opens a pre-application drawer.
+     - Visible controls include `primary-email-0` (`type="email"`), `legal-disclaimer-checkbox` (`type="checkbox"`), and an invisible trap field:
+       - `<input type="text" id="honey-pot-1" name="honey-pot">`
+       - **MANDATORY**: Any automated filler MUST exclude `input[name="honey-pot"]` or `input[id*="honey-pot"]`. Filling this input silently aborts or blocks the candidate profile.
+  3. **Embedded Bot Challenges (reCAPTCHA / hCaptcha)**:
+     - Enterprise tenants (JPMorgan Chase `jpmc.fa`) inject token containers:
+       - `input[id*="g-recaptcha-response"]`
+       - `input[id*="h-captcha-response"]`
+     - If triggered, stage application and flag for human review rather than attempting synthetic OCR bypass.
+  4. **Oracle JET / Knockout Observable Value Setting**:
+     - Oracle JET inputs (`oj-input-text`, `oj-select-one`) wrap native HTML inputs inside custom elements.
+     - Native `.value = "..."` will not notify Knockout observables.
+     - Best practice: use Playwright native `page.locator('oj-input-text input').fill(val)` followed by `page.keyboard.press('Tab')`, or dispatch synthetic `input`, `change`, and `blur` events.
   Internationally No, Willing to Relocate Yes, All Locations Yes, Length "2", Reason "Work from office
   preferred, hybrid would be great", Comments "By 2 it means 2 years".
 - Minimum Pay `20`, Currency `Indian Rupee`, Pay Frequency `Yearly` (LPA = per annum).

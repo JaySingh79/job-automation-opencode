@@ -1,0 +1,204 @@
+{
+  "platform": "keka",
+  "total_jobs": 9,
+  "jobs": [
+    {
+      "job_id": "280926501490",
+      "title": "AI and Automation Engineer -Founders Office",
+      "company": "Skylark Drones",
+      "platform": "keka",
+      "company_site_url": "https://skylarkdrones.keka.com/careers/jobdetails/117611",
+      "ats_domain": "skylarkdrones.keka.com",
+      "naukri_url": "https://www.naukri.com/job-listings-ai-and-automation-engineer-founders-office-skylark-drones-bengaluru-0-to-5-years-280926501490",
+      "experience": "0-5 Yrs",
+      "location": "Bengaluru",
+      "posted_date": "3+ weeks ago",
+      "skills": [
+        "Automation",
+        "Usage",
+        "Prototype",
+        "orchestration",
+        "Machine learning",
+        "Cloud",
+        "Workflow",
+        "Research"
+      ]
+    },
+    {
+      "job_id": "170425501323",
+      "title": "Python Developer",
+      "company": "Coditation Systems",
+      "platform": "keka",
+      "company_site_url": "https://coditation.keka.com/careers/jobdetails/62801",
+      "ats_domain": "coditation.keka.com",
+      "naukri_url": "https://www.naukri.com/job-listings-python-developer-coditation-systems-pune-0-to-3-years-170425501323",
+      "experience": "0-3 Yrs",
+      "location": "Pune",
+      "posted_date": "3+ weeks ago",
+      "skills": [
+        "Computer science",
+        "Backend",
+        "Front end",
+        "Web services",
+        "HP data protector",
+        "Django",
+        "Debugging",
+        "Machine learning"
+      ]
+    },
+    {
+      "job_id": "130326502966",
+      "title": "Software Developer",
+      "company": "SmartDocs Business Solutions",
+      "platform": "keka",
+      "company_site_url": "https://smartdocs.keka.com/careers/jobdetails/122766",
+      "ats_domain": "smartdocs.keka.com",
+      "naukri_url": "https://www.naukri.com/job-listings-software-developer-smartdocs-inc-hyderabad-0-to-2-years-130326502966",
+      "experience": "0-2 Yrs",
+      "location": "Hyderabad",
+      "posted_date": "3+ weeks ago",
+      "skills": [
+        "Computer science",
+        "Backend",
+        "Version control",
+        "GIT",
+        "Postgresql",
+        "MySQL",
+        "HTML",
+        "MongoDB"
+      ]
+    },
+    {
+      "job_id": "110926503290",
+      "title": "Data Curation Engineer",
+      "company": "Flam",
+      "platform": "keka",
+      "company_site_url": "https://flamapp.keka.com/careers/jobdetails/88002",
+      "ats_domain": "flamapp.keka.com",
+      "naukri_url": "https://www.naukri.com/job-listings-data-curation-engineer-flam-bengaluru-0-to-1-years-110926503290",
+      "experience": "0-1 Yrs",
+      "location": "Bengaluru",
+      "posted_date": "3+ weeks ago",
+      "skills": [
+        "checkpoint",
+        "data formats",
+        "embeddings",
+        "s3",
+        "semantic",
+        "python",
+        "faiss",
+        "ai"
+      ]
+    },
+    {
+      "job_id": "161026501722",
+      "title": "Associate Software Engineer Trainee",
+      "company": "Taazaa Tech",
+      "platform": "keka",
+      "company_site_url": "https://taazaa.keka.com/careers/jobdetails/144702",
+      "ats_domain": "taazaa.keka.com",
+      "naukri_url": "https://www.naukri.com/job-listings-associate-software-engineer-trainee-taazaa-inc-noida-0-to-1-years-161026501722",
+      "experience": "0-1 Yrs",
+      "location": "Noida",
+      "posted_date": "1 week ago",
+      "skills": [
+        "C++",
+        "Software",
+        "Computer",
+        "Python",
+        "Training",
+        "Science",
+        "Data",
+        "Microsoft Windows"
+      ]
+    },
+    {
+      "job_id": "180826501455",
+      "title": "Associate Software Engineer - AI-Augmented Full Stack",
+      "company": "Vinove Software",
+      "platform": "keka",
+      "company_site_url": "https://vinove.keka.com/careers/jobdetails/137938",
+      "ats_domain": "vinove.keka.com",
+      "naukri_url": "https://www.naukri.com/job-listings-associate-software-engineer-ai-augmented-full-stack-vinove-software-services-pvt-ltd-noida-0-to-2-years-180826501455",
+      "experience": "0-2 Yrs",
+      "location": "Noida",
+      "posted_date": "3+ weeks ago",
+      "skills": [
+        "Coding",
+        "Web development",
+        "Debugging",
+        "Javascript",
+        "Data structures",
+        "Workflow",
+        "HTML",
+        "Open source"
+      ]
+    },
+    {
+      "job_id": "040926501927",
+      "title": "Jr. Software Developer",
+      "company": "SmartDocs Business Solutions",
+      "platform": "keka",
+      "company_site_url": "https://smartdocs.keka.com/careers/jobdetails/140675",
+      "ats_domain": "smartdocs.keka.com",
+      "naukri_url": "https://www.naukri.com/job-listings-jr-software-developer-smartdocs-inc-hyderabad-0-to-2-years-040926501927",
+      "experience": "0-2 Yrs",
+      "location": "Hyderabad",
+      "posted_date": "3+ weeks ago",
+      "skills": [
+        "Procurement",
+        "NoSQL",
+        "SOC",
+        "Artificial Intelligence",
+        "ISO 27001",
+        "Data structures",
+        "Workflow",
+        "MongoDB"
+      ]
+    },
+    {
+      "job_id": "051026504561",
+      "title": "SDE I - JAVA",
+      "company": "Echo India",
+      "platform": "keka",
+      "company_site_url": "https://echoindia.keka.com/careers/jobdetails/163782",
+      "ats_domain": "echoindia.keka.com",
+      "naukri_url": "https://www.naukri.com/job-listings-sde-i-java-echo-india-new-delhi-0-to-1-years-051026504561",
+      "experience": "0-1 Yrs",
+      "location": "New Delhi",
+      "posted_date": "3 weeks ago",
+      "skills": [
+        "continuous integration",
+        "data security",
+        "echo",
+        "agile development",
+        "data architecture",
+        "docker",
+        "healthcare",
+        "git"
+      ]
+    },
+    {
+      "job_id": "290126506895",
+      "title": "Intern - Data Analyst",
+      "company": "Visit Health",
+      "platform": "keka",
+      "company_site_url": "https://getvisitapp.keka.com/careers/jobdetails/125182",
+      "ats_domain": "getvisitapp.keka.com",
+      "naukri_url": "https://www.naukri.com/job-listings-intern-data-analyst-visit-health-gurugram-0-to-1-years-290126506895",
+      "experience": "0-1 Yrs",
+      "location": "Gurugram",
+      "posted_date": "3+ weeks ago",
+      "skills": [
+        "Data analysis",
+        "Intern",
+        "Nutrition",
+        "Analytical",
+        "Healthcare",
+        "Data Analyst",
+        "Analytics",
+        "SQL"
+      ]
+    }
+  ]
+}

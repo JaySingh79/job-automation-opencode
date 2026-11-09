@@ -1,0 +1,38 @@
+[2026-10-19 20:20:16.110] [INFO    ] [test_playwright_captcha.py:403] ================================================================================
+[2026-10-19 20:20:16.111] [INFO    ] [test_playwright_captcha.py:404] PLAYWRIGHT-CAPTCHA TEST RUN STARTED AT 2026-10-19T20:20:16.111046
+[2026-10-19 20:20:16.111] [INFO    ] [test_playwright_captcha.py:405] Configuration: test=interstitial, headless=True, log_file=src\application_progress\captcha_test_run_20261019_202016.log
+[2026-10-19 20:20:16.111] [INFO    ] [test_playwright_captcha.py:406] ================================================================================
+[2026-10-19 20:20:17.647] [INFO    ] [test_playwright_captcha.py:411] Launching Chromium browser instance...
+[2026-10-19 20:20:17.980] [INFO    ] [test_playwright_captcha.py:416] Browser launched successfully.
+[2026-10-19 20:20:18.374] [INFO    ] [test_playwright_captcha.py:333] ======================================================================
+[2026-10-19 20:20:18.375] [INFO    ] [test_playwright_captcha.py:334] STARTING TEST: Cloudflare Interstitial Click Solver
+[2026-10-19 20:20:18.375] [INFO    ] [test_playwright_captcha.py:335] Target URL: https://2captcha.com/demo/cloudflare-turnstile-challenge
+[2026-10-19 20:20:18.375] [INFO    ] [test_playwright_captcha.py:336] ======================================================================
+[2026-10-19 20:20:18.376] [INFO    ] [test_playwright_captcha.py:340] [Step 1] Navigating to Cloudflare Interstitial demo page...
+[2026-10-19 20:20:19.051] [INFO    ] [test_playwright_captcha.py:343] [Step 1] Page loaded in 0.67s
+[2026-10-19 20:20:22.070] [INFO    ] [test_playwright_captcha.py:347] [Step 2] Initializing ClickSolver for CLOUDFLARE_INTERSTITIAL...
+[2026-10-19 20:20:22.109] [DEBUG   ] [detection.py:24] Detecting expected content with selector: #root
+[2026-10-19 20:20:22.228] [DEBUG   ] [detection.py:34] Expected content detected: False
+[2026-10-19 20:20:22.228] [INFO    ] [base_solver.py:347] Solving cloudflare_interstitial captcha, attempt 1/2
+[2026-10-19 20:20:22.229] [DEBUG   ] [click.py:26] Solving Cloudflare Interstitial captcha using click...
+[2026-10-19 20:20:22.229] [INFO    ] [solve_by_click.py:46] Starting Cloudflare interstitial challenge solving by click...
+[2026-10-19 20:20:22.229] [DEBUG   ] [detection.py:33] Detecting Cloudflare challenge...
+[2026-10-19 20:20:22.248] [DEBUG   ] [detection.py:53] Cloudflare challenge not detected
+[2026-10-19 20:20:22.248] [DEBUG   ] [detection.py:24] Detecting expected content with selector: #root
+[2026-10-19 20:20:22.274] [DEBUG   ] [detection.py:34] Expected content detected: False
+[2026-10-19 20:20:22.275] [INFO    ] [solve_by_click.py:52] No Cloudflare challenge detected
+[2026-10-19 20:20:22.275] [DEBUG   ] [click.py:38] Solved Cloudflare Interstitial captcha
+[2026-10-19 20:20:22.276] [INFO    ] [test_playwright_captcha.py:358] [Step 2] ClickSolver.solve_captcha finished successfully.
+[2026-10-19 20:20:22.276] [INFO    ] [base_solver.py:205] Cleaning up Click-based Captcha Solver...
+[2026-10-19 20:20:22.276] [INFO    ] [base_solver.py:214] Click-based Captcha Solver cleanup completed
+[2026-10-19 20:20:22.289] [INFO    ] [test_playwright_captcha.py:371] [Step 3] 'Captcha is passed successfully!' visible: False
+[2026-10-19 20:20:22.322] [INFO    ] [test_playwright_captcha.py:379] Closed test page for Cloudflare Interstitial.
+[2026-10-19 20:20:22.322] [INFO    ] [test_playwright_captcha.py:429] Closing browser...
+[2026-10-19 20:20:22.532] [INFO    ] [test_playwright_captcha.py:431] Browser closed.
+[2026-10-19 20:20:22.586] [INFO    ] [test_playwright_captcha.py:433] ================================================================================
+[2026-10-19 20:20:22.586] [INFO    ] [test_playwright_captcha.py:434] TEST SUITE SUMMARY REPORT:
+[2026-10-19 20:20:22.587] [INFO    ] [test_playwright_captcha.py:436] -> Test: Cloudflare Interstitial Click Solver
+[2026-10-19 20:20:22.587] [INFO    ] [test_playwright_captcha.py:438]    - solve_attempt: {'success': True, 'error_or_note': None}
+[2026-10-19 20:20:22.587] [INFO    ] [test_playwright_captcha.py:438]    - result: {'passed': False}
+[2026-10-19 20:20:22.590] [INFO    ] [test_playwright_captcha.py:439] Detailed debug log written to: D:\Projects\PRACTICE\firecrawl_test\src\application_progress\captcha_test_run_20261019_202016.log
+[2026-10-19 20:20:22.590] [INFO    ] [test_playwright_captcha.py:440] ================================================================================

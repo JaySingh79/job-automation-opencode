@@ -1,0 +1,10 @@
+{
+  "key": "greenhouse:coherehealth:7741414003",
+  "org": "coherehealth",
+  "title": "Data Scientist",
+  "url": "https://job-boards.greenhouse.io/coherehealth/jobs/7741414003",
+  "status": "skipped_senior_or_mismatch",
+  "reason": "JD-gate fail: posting explicitly requires 4+ years of hands-on Python experience (Required Qualification #1) plus advanced SQL optimization for large datasets. Profile truth is 18 months total experience; orchestrator gate = skip if 4+ yrs / senior, submit-authority constraints = 0-3yr inclusive. Honest screening answer to 'How many years of relevant data scientist experience do you have?' would be ~1.5, below their stated bar.",
+  "detail": "Tab opened (index 6), full recon snapshot taken, form structure verified (single long Greenhouse page, ~20 fields incl. JEE rank-card attachment). No fields filled, no resume uploaded, no submit attempted. Location Hyderabad, India - location was eligible; blocker is experience band only.",
+  "datetime": "2026-10-17T00:00:00+05:30"
+}

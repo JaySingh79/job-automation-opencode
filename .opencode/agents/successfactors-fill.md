@@ -48,7 +48,7 @@ diluting the orchestrator's context window.
    route to the user's live session), otherwise never interrupt.
 4. NEVER click Submit / Apply / Send / Finish. Stop on the terminal review step and report
    `READY FOR HUMAN SUBMISSION`. Pause (don't stop) for logins, OTPs, CAPTCHAs.
-5. On finish: append the result to `ats_progress.json` (applied / blocked / skipped-with-reason),
+5. On finish: append the result to `src/application_progress/successfactors/ats_progress.json` (applied / blocked / skipped-with-reason),
    add the link to `job_links.json`, and fold any new SuccessFactors observation into
    `ats/successfactors/observation_importance.md` (create the folder if absent).
 6. Return a DISTILLED payload only — never raw snapshots or dumps:

@@ -59,7 +59,7 @@ Platform playbook for the `indeed-fill` subagent. Read this before touching any 
 - Confirm each apply from the DOM (confirmation copy / applied state / pane change) and
   record the exact strings in `ats/indeed/observation_importance.md` so the next run matches
   verbatim.
-- `ats_progress.json`: applied / blocked (LOGIN_WALL, OTP/CAPTCHA) / skipped-with-reason.
+- `src/application_progress/indeed/indeed_progress.json`: applied / blocked (LOGIN_WALL, OTP/CAPTCHA) / skipped-with-reason.
   `jobs_applied.json`: append `{company, role, location, salary, url, status}`. `job_links.json`:
   `{Company: job_url}`. Checkpoint every 2–3 applies.
 - Never mutate profile prefs, location, salary, or resume choice mid-batch without human
@@ -78,4 +78,9 @@ snapshots, no cookie-banner re-clicks, no homepage search re-typing after the UR
 ## 7. Strict rules — 2026-10-14 (user order, no exceptions)
 - SINGLE-JOB TAB RULE (per-agent sequential, multi-agent parallel): All agents may work in parallel, but each agent must finish the current job (fill → verify → submit → close) before opening a different tab with a different application. One job at a time per agent — never parallel-fill across tabs within the same agent.
 - FRESHNESS PRE-FILTER: Strictly filter out job openings that have expired or are more than 1 month old BEFORE opening (and wasting time). Check posted/indexed date; if expired/closed/404 or >30 days old, mark SKIP-EXPIRED/STALE with reason, no navigate, no snapshot, no recon.
+- ANTI-BOT DETECTION HUMAN EMULATION (MANDATORY):
+  1. DEFINITELY SCROLL 4 TIMES: On every Indeed page/wizard step, perform at least 4 smooth scrolls (25%, 50%, 75%, 100% of viewport) to trigger viewport observers, lazy components, and human behavior telemetry.
+  2. SEQUENTIAL TOP-TO-BOTTOM ORDER: Complete fields in top-to-bottom visual order per step.
+  3. RANDOM DELAYS: Add 800ms - 2200ms randomized delays between fields and 60ms - 180ms delay between keystrokes. Never perform instantaneous bulk DOM sets.
+  4. 5 AGENTS MAX: Process at most 5 jobs/agents at a time.
 

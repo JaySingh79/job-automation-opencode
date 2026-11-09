@@ -1,0 +1,1726 @@
+{
+  "platform": "hirist",
+  "date": "2026-10-23",
+  "total_applied": 254,
+  "applied": [
+    {
+      "jobId": 1678975,
+      "company": "Smallcase",
+      "title": "smallcase - AI Product Manager",
+      "applied_at": "2026-10-23T11:33:58Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1678409,
+      "company": "ConveGenius",
+      "title": "ConveGenius - AI Engineer",
+      "applied_at": "2026-10-23T11:34:40Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1679716,
+      "company": "Cywarden Inc.",
+      "title": "Cywarden - AI/ML Engineer",
+      "applied_at": "2026-10-23T11:40:00Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1679849,
+      "company": "IDfy",
+      "title": "IDfy - Machine Learning Engineer - GPU/LLM",
+      "applied_at": "2026-10-23T11:41:00Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1679779,
+      "company": "Netra Labs",
+      "title": "Netra Labs - Data Scientist",
+      "applied_at": "2026-10-23T11:42:00Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1679607,
+      "company": "SquadStack",
+      "title": "Forward Deployed Engineer - Voice AI Systems",
+      "applicationId": 78636905,
+      "applied_at": "2026-10-23T11:55:00Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1678756,
+      "company": "AB INFOTECH",
+      "title": "Associate Lead AI/ML Engineer - NLP/Deep Learning",
+      "applicationId": 78636978,
+      "applied_at": "2026-10-23T11:55:20Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1678771,
+      "company": "Coforge",
+      "title": "Generative AI Engineer - LLM/RAG",
+      "applicationId": 78637026,
+      "applied_at": "2026-10-23T11:55:40Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1677496,
+      "company": "KIE Square Consulting",
+      "title": "Data Science Consultant",
+      "applicationId": 78637119,
+      "applied_at": "2026-10-23T11:56:00Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1675038,
+      "company": "FundsIndia",
+      "title": "Data Scientist",
+      "applicationId": 78637258,
+      "applied_at": "2026-10-23T11:56:20Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1675078,
+      "company": "Anlage Infotech",
+      "title": "Oracle Generative AI Developer",
+      "applicationId": 78637305,
+      "applied_at": "2026-10-23T11:56:40Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1674387,
+      "company": "AB INFOTECH",
+      "title": "Data Scientist/AI Engineer - Generative AI",
+      "applicationId": 78637340,
+      "applied_at": "2026-10-23T11:57:00Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1677450,
+      "company": "Neemtree",
+      "title": "Machine Learning Engineer - Credit Risk",
+      "applicationId": 78637502,
+      "applied_at": "2026-10-23T11:57:20Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1677523,
+      "company": "SMARTnCODE",
+      "title": "Generative AI Engineer/LLM Integration Specialist",
+      "applicationId": 78637527,
+      "applied_at": "2026-10-23T11:57:40Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1677414,
+      "company": "Appinventiv",
+      "title": "AI/ML Engineer - Generative AI",
+      "applicationId": 78637550,
+      "applied_at": "2026-10-23T11:58:00Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1668467,
+      "company": "Polestar Analytics",
+      "title": "Polestar Analytics - AI Engineer - Generative AI & Agentic Systems",
+      "applicationId": 78637540,
+      "applied_at": "2026-10-23T11:56:53.429Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1668351,
+      "company": "HRBP Global; ThinkLab & Solutions",
+      "title": "Lead AI Engineer - Enterprise AI Products",
+      "applicationId": 78637586,
+      "applied_at": "2026-10-23T11:57:33.719Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1668470,
+      "company": "Polestar Analytics",
+      "title": "Polestar Analytics - Data Scientist - Revenue Growth Management",
+      "applicationId": 78637592,
+      "applied_at": "2026-10-23T11:57:35.759Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1668464,
+      "company": "Polestar Analytics",
+      "title": "Polestar Analytics - Machine Learning Engineer",
+      "applicationId": 78637596,
+      "applied_at": "2026-10-23T11:57:38.167Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1667871,
+      "company": "Skyleaf Consultants",
+      "title": "Data Scientist - Fraud & Analytics",
+      "applicationId": 78637600,
+      "applied_at": "2026-10-23T11:57:43.234Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1667846,
+      "company": "HR Anexi",
+      "title": "AI Analyst",
+      "applicationId": 78637606,
+      "applied_at": "2026-10-23T11:57:50.182Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1667641,
+      "company": "VTION",
+      "title": "VTION - AI Engineer - Machine/Deep Learning",
+      "applicationId": 78637616,
+      "applied_at": "2026-10-23T11:57:57.378Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1667645,
+      "company": "Insurity",
+      "title": "Insurity - Data Scientist",
+      "applicationId": 78637618,
+      "applied_at": "2026-10-23T11:58:02.195Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1667290,
+      "company": "Adroit Innovative Solutions",
+      "title": "Azure AI Engineer - Backend Development",
+      "applicationId": 78637624,
+      "applied_at": "2026-10-23T11:58:09.356Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1666858,
+      "company": "ChayanikaRecruittech",
+      "title": "AI/ML Engineer - Python/NLP",
+      "applicationId": 78637676,
+      "applied_at": "2026-10-23T11:58:49.961Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1667091,
+      "company": "Careerxperts Consulting",
+      "title": "AI Engineer - Machine Learning",
+      "applicationId": 78637680,
+      "applied_at": "2026-10-23T11:58:52.351Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1667024,
+      "company": "Petals Careers",
+      "title": "AI Engineer - Python Programming",
+      "applicationId": 78637685,
+      "applied_at": "2026-10-23T11:58:56.173Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1667087,
+      "company": "HyreSnap",
+      "title": "Senior Product Manager - AI",
+      "applicationId": 78637692,
+      "applied_at": "2026-10-23T11:58:58.804Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1666602,
+      "company": "Celebal Technologies",
+      "title": "Celebal Technologies - Data Scientist",
+      "applicationId": 78637699,
+      "applied_at": "2026-10-23T11:59:03.005Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1666641,
+      "company": "4th Orbit Business Solutions",
+      "title": "AI/ML Engineer - Large Language Models",
+      "applicationId": 78637701,
+      "applied_at": "2026-10-23T11:59:04.981Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1666529,
+      "company": "P.E. Analytics",
+      "title": "AI/ML Engineer",
+      "applicationId": 78637705,
+      "applied_at": "2026-10-23T11:59:06.739Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1666514,
+      "company": "Ezeiatech Systems",
+      "title": "Ezeiatech Systems - Data Scientist - NLP/RAG",
+      "applicationId": 78637710,
+      "applied_at": "2026-10-23T11:59:10.756Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1666261,
+      "company": "Bodmas Technologies",
+      "title": "ClicFlyer - Data Scientist - Retail Analytics & Pricing Intelligence",
+      "applicationId": 78637714,
+      "applied_at": "2026-10-23T11:59:13.152Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1665834,
+      "company": "Symphonyincubator Business Services",
+      "title": "SymphonyAI - Data Scientist - Machine Learning",
+      "applicationId": 78637723,
+      "applied_at": "2026-10-23T11:59:18.652Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1666001,
+      "company": "TalentOne.in",
+      "title": "Data Scientist - Python",
+      "applicationId": 78637726,
+      "applied_at": "2026-10-23T11:59:20.985Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1666014,
+      "company": "ASM Technologies",
+      "title": "ASM Technologies - Computer Vision Engineer",
+      "applicationId": 78637729,
+      "applied_at": "2026-10-23T11:59:26.734Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1665731,
+      "company": "Kansal Corporate Solutions",
+      "title": "Machine Learning/Artificial Intelligence Engineer - Python/SQL",
+      "applicationId": 78637894,
+      "applied_at": "2026-10-23T12:01:21.000Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1665881,
+      "company": "MRI Software",
+      "title": "MRI Software - AI/ML Developer",
+      "applicationId": 78637898,
+      "applied_at": "2026-10-23T12:01:23.000Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1664943,
+      "company": "Impetus Career Consultants",
+      "title": "Consultant - Artificial Intelligence",
+      "applicationId": 78637905,
+      "applied_at": "2026-10-23T12:01:28.000Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1665094,
+      "company": "Terralogic Software Solutions Private Limited.",
+      "title": "AI/ML Engineer - Large Language Models",
+      "applicationId": 78637909,
+      "applied_at": "2026-10-23T12:01:30.000Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1665149,
+      "company": "Neemtree",
+      "title": "Applied AI Engineer - Python/LLM",
+      "applicationId": 78637913,
+      "applied_at": "2026-10-23T12:01:32.000Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1664599,
+      "company": "GetHyr",
+      "title": "Applied Data Scientist - AI/ML",
+      "applicationId": 78637917,
+      "applied_at": "2026-10-23T12:01:36.000Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1664847,
+      "company": "Jinendra infotech pvt",
+      "title": "Data Engineer/Scientist - Machine Learning/Python",
+      "applicationId": 78637920,
+      "applied_at": "2026-10-23T12:01:38.000Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1664880,
+      "company": "Jinendra infotech pvt",
+      "title": "Generative AI Engineer - Python/Machine Learning",
+      "applicationId": 78637924,
+      "applied_at": "2026-10-23T12:01:40.000Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1664269,
+      "company": "Innomatics research Labs",
+      "title": "AI/ML Engineer",
+      "applicationId": 78637928,
+      "applied_at": "2026-10-23T12:01:42.000Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1664531,
+      "company": "Value Lane Consulting",
+      "title": "AI Quality & Evaluation Engineer - LLM Architecture",
+      "applicationId": 78637931,
+      "applied_at": "2026-10-23T12:01:44.000Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1663903,
+      "company": "HR Works Consultancy",
+      "title": "Associate Lead - AI/ML Engineering",
+      "applicationId": 78637934,
+      "applied_at": "2026-10-23T12:01:46.000Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1664024,
+      "company": "Hinduja Tech",
+      "title": "Hinduja Tech - Data Scientist",
+      "applicationId": 78637938,
+      "applied_at": "2026-10-23T12:01:50.000Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1664098,
+      "company": "EXPONENTIAL AI SOFTWARE PRIVATE LIMITED",
+      "title": "ExponentialAI - Senior Data Scientist - Machine Learning",
+      "applicationId": 78637941,
+      "applied_at": "2026-10-23T12:01:52.000Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1663944,
+      "company": "The Reliable Jobs",
+      "title": "AI Engineer - Python/Generative AI",
+      "applicationId": 78637946,
+      "applied_at": "2026-10-23T12:01:55.000Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1663636,
+      "company": "Employee Forums",
+      "title": "AI Engineer - AWS Bedrock Agents/Google Agentspace",
+      "applicationId": 78637950,
+      "applied_at": "2026-10-23T12:01:57.000Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1663637,
+      "company": "Employee Forums",
+      "title": "Senior AI Engineer - Generative AI",
+      "applicationId": 78637953,
+      "applied_at": "2026-10-23T12:01:59.000Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1663763,
+      "company": "Value Lane Consulting",
+      "title": "Generative AI Application Engineer",
+      "applicationId": 78637956,
+      "applied_at": "2026-10-23T12:02:01.000Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1663520,
+      "company": "Techolution",
+      "title": "Techolution - Senior Conversational AI Engineer",
+      "applicationId": 78637960,
+      "applied_at": "2026-10-23T12:02:03.000Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1663813,
+      "company": "TechRAQ Info Solutions",
+      "title": "TechRAQ - AI/ML Engineer",
+      "applicationId": 78637963,
+      "applied_at": "2026-10-23T12:02:05.000Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1663185,
+      "company": "o9 Solutions",
+      "title": "o9 Solutions - Senior Data Scientist - Retail Demand Forecasting",
+      "applicationId": 78637967,
+      "applied_at": "2026-10-23T12:02:07.000Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1662969,
+      "company": "Celebal Technologies",
+      "title": "Celebal Technologies - Data Science Associate - AI/ML Engineering",
+      "applicationId": 78638019,
+      "applied_at": "2026-10-23T12:02:39.867Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1663042,
+      "company": "Savishty",
+      "title": "Generative AI & AWS Engineer",
+      "applicationId": 78638023,
+      "applied_at": "2026-10-23T12:02:41.543Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1662401,
+      "company": "STEPS",
+      "title": "Senior/Lead Data Scientist - Generative AI",
+      "applicationId": 78638028,
+      "applied_at": "2026-10-23T12:02:44.667Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1662467,
+      "company": "Bread Financial",
+      "title": "Bread Financial - Data Scientist II - Predictive Modeling",
+      "applicationId": 78638032,
+      "applied_at": "2026-10-23T12:02:47.852Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1662435,
+      "company": "Yukti Recruitment Solutions",
+      "title": "Generative AI Engineer - LLM/RAG",
+      "applicationId": 78638035,
+      "applied_at": "2026-10-23T12:02:49.484Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1662159,
+      "company": "Vikgol",
+      "title": "AI Engineer - LLM & RAG",
+      "applicationId": 78638040,
+      "applied_at": "2026-10-23T12:02:51.224Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1661761,
+      "company": "Symphonyincubator Business Services",
+      "title": "SymphonyAI - Consultant Forecaster/Data Scientist",
+      "applicationId": 78638044,
+      "applied_at": "2026-10-23T12:02:52.833Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1661718,
+      "company": "HireSource.ai",
+      "title": "Software Engineer - Python/LLM",
+      "applicationId": 78638046,
+      "applied_at": "2026-10-23T12:02:54.575Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1661407,
+      "company": "Tech Grow Global",
+      "title": "AI Specialist",
+      "applicationId": 78638052,
+      "applied_at": "2026-10-23T12:02:56.252Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1661427,
+      "company": "Tech Grow Global",
+      "title": "AI Specialist - Azure AI Foundry",
+      "applicationId": 78638055,
+      "applied_at": "2026-10-23T12:02:57.693Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1661551,
+      "company": "CALAVER TECHNOLOGIES PRIVATE LIMITED",
+      "title": "SciSpace - Senior Agentic AI Engineer - Machine Learning System",
+      "applicationId": 78638058,
+      "applied_at": "2026-10-23T12:02:59.322Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1660588,
+      "company": "Prevaj Consultants",
+      "title": "Enterprise AI Deployment Engineer",
+      "applicationId": 78638073,
+      "applied_at": "2026-10-23T12:03:10.319Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1660484,
+      "company": "Nucleusteq Consulting",
+      "title": "NucleusTeq - Generative AI Engineer",
+      "applicationId": 78638080,
+      "applied_at": "2026-10-23T12:03:12.024Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1660556,
+      "company": "Gigaforce Software",
+      "title": "Gigaforce - AI Engineer - GenAI Product Engineering",
+      "applicationId": 78638083,
+      "applied_at": "2026-10-23T12:03:13.519Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1660683,
+      "company": "Amgen",
+      "title": "Amgen - Associate Data Scientist",
+      "applicationId": 78638086,
+      "applied_at": "2026-10-23T12:03:14.988Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1660020,
+      "company": "Euromonitor Research And Consultingindia",
+      "title": "Euromonitor - Data Scientist - Machine Learning Models",
+      "applicationId": 78638093,
+      "applied_at": "2026-10-23T12:03:17.941Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1659899,
+      "company": "svan global consultancy",
+      "title": "Senior Deep Learning Engineer - Computer Vision",
+      "applicationId": 78638096,
+      "applied_at": "2026-10-23T12:03:20.024Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1659930,
+      "company": "svan global consultancy",
+      "title": "Forward Deployed Engineer - AI Integration",
+      "applicationId": 78638101,
+      "applied_at": "2026-10-23T12:03:21.606Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1660002,
+      "company": "Pravdaa People",
+      "title": "Data Scientist",
+      "applicationId": 78638106,
+      "applied_at": "2026-10-23T12:03:23.520Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1660064,
+      "company": "Value Lane Consulting",
+      "title": "Agentic AI Developer - LLM/RAG",
+      "applicationId": 78638208,
+      "applied_at": "2026-10-23T12:04:15.781Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1659802,
+      "company": "Mantra Softech",
+      "title": "Mantra Softech - Senior AI Research Engineer",
+      "applicationId": 78638210,
+      "applied_at": "2026-10-23T12:04:17.458Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1659550,
+      "company": "HackCulture",
+      "title": "AI Lead - LLM Applications",
+      "applicationId": 78638215,
+      "applied_at": "2026-10-23T12:04:18.942Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1659754,
+      "company": "HDFC Life",
+      "title": "HDFC Life - Data Scientist - Generative AI",
+      "applicationId": 78638217,
+      "applied_at": "2026-10-23T12:04:20.416Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1659618,
+      "company": "HyrMe",
+      "title": "Prompt Engineer - Artificial Intelligence/Machine Learning",
+      "applicationId": 78638218,
+      "applied_at": "2026-10-23T12:04:21.863Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1659421,
+      "company": "HR Works Consultancy",
+      "title": "Associate Lead - Artificial Intelligence/Machine Learning",
+      "applicationId": 78638222,
+      "applied_at": "2026-10-23T12:04:23.715Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1659268,
+      "company": "Vrinsoft Technology",
+      "title": "AI/ML Developer",
+      "applicationId": 78638229,
+      "applied_at": "2026-10-23T12:04:27.397Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1659306,
+      "company": "TOPS Infosolutions Pvt. Ltd.",
+      "title": "Generative AI Engineer",
+      "applicationId": 78638233,
+      "applied_at": "2026-10-23T12:04:28.913Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1658574,
+      "company": "Xcelore",
+      "title": "Xcelore - AI Computer Vision Engineer",
+      "applicationId": 78638241,
+      "applied_at": "2026-10-23T12:04:33.703Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1658944,
+      "company": "Savishty",
+      "title": "Senior AI/ML Developer",
+      "applicationId": 78638244,
+      "applied_at": "2026-10-23T12:04:35.220Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1658852,
+      "company": "Everestdx",
+      "title": "EverestDX - AI Testing Engineer - Media Generation",
+      "applicationId": 78638248,
+      "applied_at": "2026-10-23T12:04:36.777Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1658254,
+      "company": "TekIntegral",
+      "title": "Computer Vision Engineer - C++/Python",
+      "applicationId": 78638252,
+      "applied_at": "2026-10-23T12:04:38.846Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1658212,
+      "company": "Branch International",
+      "title": "Branch - Machine Learning Engineer - LLM",
+      "applicationId": 78638256,
+      "applied_at": "2026-10-23T12:04:40.443Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1658280,
+      "company": "Ajni Consulting",
+      "title": "Machine Learning Lead",
+      "applicationId": 78638262,
+      "applied_at": "2026-10-23T12:04:42.277Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1658033,
+      "company": "NovoTree Minds Consulting",
+      "title": "Generative AI Engineer - Machine Learning",
+      "applicationId": 78638276,
+      "applied_at": "2026-10-23T12:04:49.300Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1658065,
+      "company": "HyrMe",
+      "title": "AI Engineer",
+      "applicationId": 78638281,
+      "applied_at": "2026-10-23T12:04:50.808Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1654161,
+      "company": "HealthPlix",
+      "title": "HealthPlix - AI/ML Engineer",
+      "applicationId": 78638288,
+      "applied_at": "2026-10-23T12:04:53.925Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1652619,
+      "company": "Happiest Minds Technologies",
+      "title": "Happiest Minds Technologies - Partner Consultant - Gen AI",
+      "applicationId": 78638293,
+      "applied_at": "2026-10-23T12:04:57.124Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1657068,
+      "company": "SS&C TECHNOLOGIES",
+      "title": "SS&C Technologies - Senior AI Automation Developer",
+      "applicationId": 78638297,
+      "applied_at": "2026-10-23T12:04:58.891Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1656269,
+      "company": "HackCulture",
+      "title": "Forward Deployed Software Engineer",
+      "applicationId": 78638301,
+      "applied_at": "2026-10-23T12:05:00.676Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1656615,
+      "company": "Srijan Technologies",
+      "title": "Material+ - Senior Data Scientist - Artificial Intelligence",
+      "applicationId": 78638306,
+      "applied_at": "2026-10-23T12:05:02.375Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1650225,
+      "company": "Sagility India",
+      "title": "Sagility - Research Engineer - NLP/Deep Learning",
+      "applicationId": 78638314,
+      "applied_at": "2026-10-23T12:05:05.629Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1655205,
+      "company": "IDfy ",
+      "title": "IDfy - Senior ML Engineer - LLM/Artificial Intelligence",
+      "applicationId": 78638317,
+      "applied_at": "2026-10-23T12:05:07.132Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": 1655258,
+      "company": "ArdbergAI",
+      "title": "Ardberg AI - Agentic AI Engineer",
+      "applicationId": 78638320,
+      "applied_at": "2026-10-23T12:05:08.672Z",
+      "status": "confirmed"
+    },
+    {
+      "jobId": null,
+      "title": "Polestar Analytics - AI Engineer - Generative AI & Agentic Systems",
+      "company": "Polestar Analytics",
+      "applicationId": null,
+      "status": "confirmed",
+      "worker": "Worker 3"
+    },
+    {
+      "jobId": 1670734,
+      "applicationId": 78637460,
+      "status": "confirmed",
+      "worker": "Worker 2"
+    },
+    {
+      "jobId": 1669490,
+      "applicationId": 78637567,
+      "status": "confirmed",
+      "worker": "Worker 2"
+    },
+    {
+      "jobId": 1669404,
+      "applicationId": 78637591,
+      "status": "confirmed",
+      "worker": "Worker 2"
+    },
+    {
+      "jobId": 1669216,
+      "applicationId": 78637650,
+      "status": "confirmed",
+      "worker": "Worker 2"
+    },
+    {
+      "jobId": 1668634,
+      "applicationId": 78637664,
+      "status": "confirmed",
+      "worker": "Worker 2"
+    },
+    {
+      "jobId": 1668472,
+      "applicationId": 78637669,
+      "status": "confirmed",
+      "worker": "Worker 2"
+    },
+    {
+      "jobId": 1668207,
+      "applicationId": 78637675,
+      "status": "confirmed",
+      "worker": "Worker 2"
+    },
+    {
+      "jobId": 1663297,
+      "applicationId": 78637678,
+      "status": "confirmed",
+      "worker": "Worker 2"
+    },
+    {
+      "jobId": 1667675,
+      "applicationId": 78637682,
+      "status": "confirmed",
+      "worker": "Worker 2"
+    },
+    {
+      "jobId": 1667059,
+      "applicationId": 78637693,
+      "status": "confirmed",
+      "worker": "Worker 2"
+    },
+    {
+      "jobId": 1662619,
+      "applicationId": 78637779,
+      "status": "confirmed",
+      "worker": "Worker 2"
+    },
+    {
+      "jobId": 1665746,
+      "applicationId": 78637792,
+      "status": "confirmed",
+      "worker": "Worker 2"
+    },
+    {
+      "jobId": 1665613,
+      "applicationId": 78637793,
+      "status": "confirmed",
+      "worker": "Worker 2"
+    },
+    {
+      "jobId": 1665642,
+      "applicationId": 78637795,
+      "status": "confirmed",
+      "worker": "Worker 2"
+    },
+    {
+      "jobId": 1664906,
+      "applicationId": 78637800,
+      "status": "confirmed",
+      "worker": "Worker 2"
+    },
+    {
+      "jobId": 1659288,
+      "applicationId": 78637807,
+      "status": "confirmed",
+      "worker": "Worker 2"
+    },
+    {
+      "jobId": 1657932,
+      "applicationId": 78637811,
+      "status": "confirmed",
+      "worker": "Worker 2"
+    },
+    {
+      "jobId": 1662272,
+      "applicationId": 78637814,
+      "status": "confirmed",
+      "worker": "Worker 2"
+    },
+    {
+      "jobId": 1659363,
+      "applicationId": 78637858,
+      "status": "confirmed",
+      "worker": "Worker 2"
+    },
+    {
+      "jobId": 1658754,
+      "applicationId": 78637860,
+      "status": "confirmed",
+      "worker": "Worker 2"
+    },
+    {
+      "jobId": 1673847,
+      "applicationId": 78637864,
+      "status": "confirmed",
+      "worker": "Worker 2"
+    },
+    {
+      "jobId": 1674022,
+      "applicationId": 78637867,
+      "status": "confirmed",
+      "worker": "Worker 2"
+    },
+    {
+      "jobId": 1674082,
+      "applicationId": 78637868,
+      "status": "confirmed",
+      "worker": "Worker 2"
+    },
+    {
+      "jobId": 1674097,
+      "applicationId": 78637871,
+      "status": "confirmed",
+      "worker": "Worker 2"
+    },
+    {
+      "jobId": 1673815,
+      "applicationId": 78637874,
+      "status": "confirmed",
+      "worker": "Worker 2"
+    },
+    {
+      "jobId": 1674086,
+      "applicationId": 78637877,
+      "status": "confirmed",
+      "worker": "Worker 2"
+    },
+    {
+      "jobId": 1674079,
+      "applicationId": 78637885,
+      "status": "confirmed",
+      "worker": "Worker 2"
+    },
+    {
+      "jobId": 1673296,
+      "applicationId": 78637892,
+      "status": "confirmed",
+      "worker": "Worker 2"
+    },
+    {
+      "jobId": 1673587,
+      "applicationId": 78637948,
+      "status": "confirmed",
+      "worker": "Worker 2"
+    },
+    {
+      "jobId": 1673334,
+      "applicationId": 78637953,
+      "status": "confirmed",
+      "worker": "Worker 2"
+    },
+    {
+      "jobId": 1673288,
+      "applicationId": 78637959,
+      "status": "confirmed",
+      "worker": "Worker 2"
+    },
+    {
+      "jobId": 1673170,
+      "applicationId": 78637965,
+      "status": "confirmed",
+      "worker": "Worker 2"
+    },
+    {
+      "jobId": 1673172,
+      "applicationId": 78637967,
+      "status": "confirmed",
+      "worker": "Worker 2"
+    },
+    {
+      "jobId": 1673016,
+      "applicationId": 78637971,
+      "status": "confirmed",
+      "worker": "Worker 2"
+    },
+    {
+      "jobId": 1672839,
+      "applicationId": 78637975,
+      "status": "confirmed",
+      "worker": "Worker 2"
+    },
+    {
+      "jobId": 1672864,
+      "applicationId": 78637980,
+      "status": "confirmed",
+      "worker": "Worker 2"
+    },
+    {
+      "jobId": 1672689,
+      "applicationId": 78637984,
+      "status": "confirmed",
+      "worker": "Worker 2"
+    },
+    {
+      "jobId": 1672108,
+      "applicationId": 78638021,
+      "status": "confirmed",
+      "worker": "Worker 2"
+    },
+    {
+      "jobId": 1672003,
+      "applicationId": 78638030,
+      "status": "confirmed",
+      "worker": "Worker 2"
+    },
+    {
+      "jobId": 1671720,
+      "applicationId": 78638031,
+      "status": "confirmed",
+      "worker": "Worker 2"
+    },
+    {
+      "jobId": 1671715,
+      "applicationId": 78638033,
+      "status": "confirmed",
+      "worker": "Worker 2"
+    },
+    {
+      "jobId": 1671888,
+      "applicationId": 78638039,
+      "status": "confirmed",
+      "worker": "Worker 2"
+    },
+    {
+      "jobId": 1671982,
+      "applicationId": 78638045,
+      "status": "confirmed",
+      "worker": "Worker 2"
+    },
+    {
+      "jobId": 1671762,
+      "applicationId": 78638049,
+      "status": "confirmed",
+      "worker": "Worker 2"
+    },
+    {
+      "jobId": 1671457,
+      "applicationId": 78638114,
+      "status": "confirmed",
+      "worker": "Worker 2"
+    },
+    {
+      "jobId": 1671248,
+      "applicationId": 78638120,
+      "status": "confirmed",
+      "worker": "Worker 2"
+    },
+    {
+      "jobId": 1671147,
+      "applicationId": 78638122,
+      "status": "confirmed",
+      "worker": "Worker 2"
+    },
+    {
+      "jobId": 1671034,
+      "applicationId": 78638127,
+      "status": "confirmed",
+      "worker": "Worker 2"
+    },
+    {
+      "jobId": 1671048,
+      "applicationId": 78638129,
+      "status": "confirmed",
+      "worker": "Worker 2"
+    },
+    {
+      "jobId": 1670641,
+      "applicationId": 78638133,
+      "status": "confirmed",
+      "worker": "Worker 2"
+    },
+    {
+      "jobId": 1670640,
+      "applicationId": 78638137,
+      "status": "confirmed",
+      "worker": "Worker 2"
+    },
+    {
+      "jobId": 1670622,
+      "applicationId": 78638143,
+      "status": "confirmed",
+      "worker": "Worker 2"
+    },
+    {
+      "jobId": 1670718,
+      "applicationId": 78638146,
+      "status": "confirmed",
+      "worker": "Worker 2"
+    },
+    {
+      "jobId": 1670897,
+      "applicationId": 78638154,
+      "status": "confirmed",
+      "worker": "Worker 2"
+    },
+    {
+      "jobId": 1670251,
+      "applicationId": 78638157,
+      "status": "confirmed",
+      "worker": "Worker 2"
+    },
+    {
+      "jobId": 1670448,
+      "applicationId": 78638162,
+      "status": "confirmed",
+      "worker": "Worker 2"
+    },
+    {
+      "jobId": 1670125,
+      "applicationId": 78638219,
+      "status": "confirmed",
+      "worker": "Worker 2"
+    },
+    {
+      "jobId": 1670123,
+      "applicationId": 78638224,
+      "status": "confirmed",
+      "worker": "Worker 2"
+    },
+    {
+      "jobId": 1669803,
+      "applicationId": 78638230,
+      "status": "confirmed",
+      "worker": "Worker 2"
+    },
+    {
+      "jobId": 1670122,
+      "applicationId": 78638234,
+      "status": "confirmed",
+      "worker": "Worker 2"
+    },
+    {
+      "jobId": 1669835,
+      "applicationId": 78638239,
+      "status": "confirmed",
+      "worker": "Worker 2"
+    },
+    {
+      "jobId": 1669531,
+      "applicationId": 78638243,
+      "status": "confirmed",
+      "worker": "Worker 2"
+    },
+    {
+      "jobId": 1669558,
+      "applicationId": 78638246,
+      "status": "confirmed",
+      "worker": "Worker 2"
+    },
+    {
+      "jobId": 1669516,
+      "applicationId": 78638250,
+      "status": "confirmed",
+      "worker": "Worker 2"
+    },
+    {
+      "jobId": 1669674,
+      "applicationId": 78638254,
+      "status": "confirmed",
+      "worker": "Worker 2"
+    },
+    {
+      "jobId": 1669602,
+      "applicationId": 78638264,
+      "status": "confirmed",
+      "worker": "Worker 2"
+    },
+    {
+      "jobId": 1669248,
+      "applicationId": 78638268,
+      "status": "confirmed",
+      "worker": "Worker 2"
+    },
+    {
+      "jobId": 1669285,
+      "applicationId": 78638330,
+      "status": "confirmed",
+      "worker": "Worker 2"
+    },
+    {
+      "jobId": 1669201,
+      "applicationId": 78638334,
+      "status": "confirmed",
+      "worker": "Worker 2"
+    },
+    {
+      "jobId": 1668968,
+      "applicationId": 78638341,
+      "status": "confirmed",
+      "worker": "Worker 2"
+    },
+    {
+      "jobId": 1668941,
+      "applicationId": 78638342,
+      "status": "confirmed",
+      "worker": "Worker 2"
+    },
+    {
+      "jobId": 1668831,
+      "applicationId": 78638344,
+      "status": "confirmed",
+      "worker": "Worker 2"
+    },
+    {
+      "jobId": 1668775,
+      "applicationId": 78638352,
+      "status": "confirmed",
+      "worker": "Worker 2"
+    },
+    {
+      "jobId": 1668531,
+      "applicationId": 78638355,
+      "status": "confirmed",
+      "worker": "Worker 2"
+    },
+    {
+      "jobId": 1650788,
+      "applicationId": 78637820,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1650164,
+      "applicationId": 78637823,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1650302,
+      "applicationId": 78637829,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1650397,
+      "applicationId": 78637831,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1650038,
+      "applicationId": 78637835,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1649704,
+      "applicationId": 78637840,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1649964,
+      "applicationId": 78637891,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1649530,
+      "applicationId": 78637898,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1649531,
+      "applicationId": 78637902,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1649265,
+      "applicationId": 78637906,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1649502,
+      "applicationId": 78637913,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1648776,
+      "applicationId": 78637919,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1648546,
+      "applicationId": 78637925,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1648126,
+      "applicationId": 78637970,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1648154,
+      "applicationId": 78637974,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1647894,
+      "applicationId": 78637978,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1647831,
+      "applicationId": 78637981,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1647796,
+      "applicationId": 78637988,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1647413,
+      "applicationId": 78637991,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1647303,
+      "applicationId": 78637995,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1647104,
+      "applicationId": 78637997,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1647342,
+      "applicationId": 78638000,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1647237,
+      "applicationId": 78638060,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1646905,
+      "applicationId": 78638063,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1646429,
+      "applicationId": 78638066,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1646066,
+      "applicationId": 78638068,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1646146,
+      "applicationId": 78638071,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1646130,
+      "applicationId": 78638078,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1646402,
+      "applicationId": 78638081,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1646371,
+      "applicationId": 78638084,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1646156,
+      "applicationId": 78638087,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1645944,
+      "applicationId": 78638135,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1645631,
+      "applicationId": 78638138,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1645782,
+      "applicationId": 78638145,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1645369,
+      "applicationId": 78638151,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1644936,
+      "applicationId": 78638155,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1644669,
+      "applicationId": 78638156,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1644671,
+      "applicationId": 78638159,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1644333,
+      "applicationId": 78638164,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1644116,
+      "applicationId": 78638175,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1644077,
+      "applicationId": 78638207,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1644031,
+      "applicationId": 78638209,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1643873,
+      "applicationId": 78638211,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1644042,
+      "applicationId": 78638214,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1643339,
+      "applicationId": 78638216,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1643433,
+      "applicationId": 78638220,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1643101,
+      "applicationId": 78638223,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1643000,
+      "applicationId": 78638225,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1642911,
+      "applicationId": 78638228,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1642899,
+      "applicationId": 78638231,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1642917,
+      "applicationId": 78638235,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1642992,
+      "applicationId": 78638238,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1643232,
+      "applicationId": 78638290,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1642967,
+      "applicationId": 78638292,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1643096,
+      "applicationId": 78638296,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1643238,
+      "applicationId": 78638299,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1642572,
+      "applicationId": 78638303,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1642555,
+      "applicationId": 78638308,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1642761,
+      "applicationId": 78638312,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1642348,
+      "applicationId": 78638319,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1642216,
+      "applicationId": 78638324,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1642017,
+      "applicationId": 78638351,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1642284,
+      "applicationId": 78638354,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1641646,
+      "applicationId": 78638356,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1641738,
+      "applicationId": 78638363,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1641689,
+      "applicationId": 78638368,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1641688,
+      "applicationId": 78638372,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1641168,
+      "applicationId": 78638380,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1641226,
+      "applicationId": 78638384,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1641395,
+      "applicationId": 78638417,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1640871,
+      "applicationId": 78638422,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1641121,
+      "applicationId": 78638425,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1640980,
+      "applicationId": 78638427,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1640823,
+      "applicationId": 78638433,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1640659,
+      "applicationId": 78638454,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1640725,
+      "applicationId": 78638457,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1640321,
+      "applicationId": 78638460,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1640142,
+      "applicationId": 78638465,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1640279,
+      "applicationId": 78638467,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    },
+    {
+      "jobId": 1640275,
+      "applicationId": 78638468,
+      "status": "confirmed",
+      "worker": "Worker 5"
+    }
+  ]
+}

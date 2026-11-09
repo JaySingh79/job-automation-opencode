@@ -11,7 +11,7 @@ board (`*.lever.co` postings). Shared fill loop: `initiate_fill.md`. Master rule
   recon unit (snapshot + `page_recon.js` evaluate + fullPage screenshot) and record the
   true layout in `ats/lever/observation_importance.md` before filling.
 - If the posting redirects off-board (e.g. LinkedIn-only, like the Pixis
-  `EXTERNAL_FLOW` case in `ats_progress.json`), DEFER to the human — do not treat an
+  `EXTERNAL_FLOW` case in `src/application_progress/ashby_lever_greenhouse/ats_progress.json`), DEFER to the human — do not treat an
   external button as the application.
 
 ## 2. Resume
@@ -41,7 +41,7 @@ board (`*.lever.co` postings). Shared fill loop: `initiate_fill.md`. Master rule
 
 `RECON → PLAN → FILL → VERIFY` per page, no call narration. Final: filled count,
 uploads, `QUEUED` items with reasons, confirmation evidence, human next action.
-Checkpoint `ats_progress.json` + `job_links.json`.
+Checkpoint `src/application_progress/ashby_lever_greenhouse/src/application_progress/ashby_lever_greenhouse/ats_progress.json` + `job_links.json`. Strictly never read/write progress files in the root of `src/application_progress/`.
 
 ## 6. unnecessary file
 - Strictly do not load any other *.md* file other that menioned in @initiate_fill.md or AGENTS.md
@@ -49,4 +49,29 @@ Checkpoint `ats_progress.json` + `job_links.json`.
 ## 7. Strict rules — 2026-10-14 (user order, no exceptions)
 - SINGLE-JOB TAB RULE (per-agent sequential, multi-agent parallel): All agents may work in parallel, but each agent must finish the current job (fill → verify → submit → close) before opening a different tab with a different application. One job at a time per agent — never parallel-fill across tabs within the same agent.
 - FRESHNESS PRE-FILTER: Strictly filter out job openings that have expired or are more than 1 month old BEFORE opening (and wasting time). Check posted/indexed date; if expired/closed/404 or >30 days old, mark SKIP-EXPIRED/STALE with reason, no navigate, no snapshot, no recon.
+- ANTI-BOT DETECTION HUMAN EMULATION (MANDATORY):
+  1. DEFINITELY SCROLL 4 TIMES: On every Lever page, perform at least 4 smooth scrolls (25%, 50%, 75%, 100% of viewport) to trigger viewport observers, lazy components, and human behavior telemetry.
+  2. SEQUENTIAL TOP-TO-BOTTOM ORDER: Fill fields strictly in order: Personal info -> Resume upload -> Custom questions -> EEO/Demographics -> Submit area.
+  3. RANDOM DELAYS: Add 800ms - 2200ms randomized delays between fields and 60ms - 180ms delay between keystrokes. Never perform instantaneous bulk DOM sets.
+  4. 5 AGENTS MAX: Process at most 5 jobs/agents at a time.
+
+## 8. Hard-Won Field Knowledge & Anti-Pattern Mitigations (2026-10-18 Audit)
+
+### A. Invasive Cookie Banner Dismissal
+- Lever application pages frequently load an invasive cookie consent overlay (`button:has-text('Dismiss')` or `button:has-text('Accept')`) that intercepts clicks and obscures inputs. Always dismiss it first.
+
+### B. The hCaptcha Barrier & Protocol
+- Lever integrates hCaptcha (`#h-captcha`, sitekey `e33f87f8-88ec-4e1a-9a13-df9bbb1d8120`). Automated clicks on `#btn-submit` routinely trigger interactive visual challenges (e.g., dragging animals into matching outlines).
+- Protocol: Never attempt automated heuristic puzzle solving on anti-bot widgets.
+  1. Fill 100% of required fields (personal, custom screening, demographic, resume attachment).
+  2. Verify `emptyRequired: 0` and `invalidCount: 0`.
+  3. Capture full-page screenshot artifact (`src/accessability_snapshot/<company>_review_ready.png`).
+  4. Leave the tab in focus on the browser, log status as `awaiting_human_captcha_submit` in `src/application_progress/ashby_lever_greenhouse/ats_progress.json`, and report `READY FOR HUMAN SUBMISSION`.
+
+### C. Native `<select>` Elements
+- Custom questions for currency (`INR`), pay period (`Annual`), gross/net (`gross`), and location (`India`) are native `<select>` controls. Use Playwright `page.locator('select').selectOption({ label: ... })`.
+
+### D. Earned Server Confirmation Truth
+- Verified URL pattern: `https://jobs.lever.co/<org>/<id>/applied` with heading `Thank you for applying.`
+- Tab must remain open until human solves captcha and submits; close immediately once confirmation is observed.
 

@@ -1,0 +1,45 @@
+[
+  {
+    "status": "VALIDATION_FAILED",
+    "url": "https://job-boards.greenhouse.io/celonis/jobs/7635190003?gh_jid=7635190003",
+    "evidence": "back to jobs\napplied value engineer- cpgr/cmt-nam\nbangalore, india\napply\n\ncelonis is the trusted platform to industrialize enterprise ai. at our core is the celonis context model \u2014 which combines process data, business knowledge, and intelligence into a living digital twin of the enterprise that ai ",
+    "invalid_controls": [
+      {
+        "id": "",
+        "name": "",
+        "validationMessage": "Please fill out this field.",
+        "lbl": ""
+      },
+      {
+        "id": "",
+        "name": "",
+        "validationMessage": "Please fill out this field.",
+        "lbl": "Select..."
+      },
+      {
+        "id": "",
+        "name": "",
+        "validationMessage": "Please fill out this field.",
+        "lbl": "Select..."
+      },
+      {
+        "id": "",
+        "name": "",
+        "validationMessage": "Please fill out this field.",
+        "lbl": "Select..."
+      },
+      {
+        "id": "",
+        "name": "",
+        "validationMessage": "Please fill out this field.",
+        "lbl": "Select..."
+      }
+    ],
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\job-boards-validation-failed.png",
+    "job_url": "https://job-boards.greenhouse.io/celonis/jobs/7635190003?gh_jid=7635190003",
+    "company": "job-boards",
+    "role": "Direct Target Role",
+    "platform": "greenhouse",
+    "duration_seconds": 44.9
+  }
+]

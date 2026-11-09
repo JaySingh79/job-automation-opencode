@@ -1,0 +1,311 @@
+{
+  "batch": 5,
+  "date": "2026-11-06",
+  "tab_index": 4,
+  "total": 44,
+  "applied_count": 43,
+  "closed_count": 1,
+  "results": [
+    {
+      "id": 1680802,
+      "company": "BrandMyHR",
+      "title": "Product Manager - AI/ML Marketplace",
+      "status": "applied",
+      "applied": 1
+    },
+    {
+      "id": 1677315,
+      "company": "Walt AI",
+      "title": "Senior Software Engineer - AI Native/Data Platform",
+      "status": "applied",
+      "applied": 1
+    },
+    {
+      "id": 1677366,
+      "company": "Natalie Consultants",
+      "title": "Data Engineer - Scala/Spark",
+      "status": "applied",
+      "applied": 1
+    },
+    {
+      "id": 1677187,
+      "company": "Scaling Theory Technologies",
+      "title": "Full Stack Engineer - React.js/Python",
+      "status": "applied",
+      "applied": 1
+    },
+    {
+      "id": 1676564,
+      "company": "Tidyhire",
+      "title": "Software Developer - Python/Java/AngularJS",
+      "status": "applied",
+      "applied": 1
+    },
+    {
+      "id": 1676459,
+      "company": "Onsite Construction Management Software",
+      "title": "Onsite - Flutter Developer - iOS/Android Apps",
+      "status": "applied",
+      "applied": 1
+    },
+    {
+      "id": 1676275,
+      "company": "Innovapptive",
+      "title": "Innovapptive - Site Reliability Engineer - Cloud Infrastructure",
+      "status": "applied",
+      "applied": 1
+    },
+    {
+      "id": 1676209,
+      "company": "CDM Smith",
+      "title": "CDM Smith - Data Analytics Engineer",
+      "status": "applied",
+      "applied": 1
+    },
+    {
+      "id": 1676394,
+      "company": "Evnek",
+      "title": "Evnek - Data Quality Engineer",
+      "status": "applied",
+      "applied": 1
+    },
+    {
+      "id": 1676398,
+      "company": "Terralogic Software Solutions Private Limited.",
+      "title": "Linux System & Python Automation Engineer",
+      "status": "applied",
+      "applied": 1
+    },
+    {
+      "id": 1675989,
+      "company": "Ascendion",
+      "title": "Ascendion - Junior Quality Engineer - Automation Testing",
+      "status": "applied",
+      "applied": 1
+    },
+    {
+      "id": 1674076,
+      "company": "Blueberry Unicorn Services",
+      "title": "Test Engineer - LiveOps",
+      "status": "applied",
+      "applied": 1
+    },
+    {
+      "id": 1679163,
+      "company": "Unico Talent",
+      "title": "Senior AI/ML Engineer - LLM/Generative AI",
+      "status": "applied",
+      "applied": 1
+    },
+    {
+      "id": 1679624,
+      "company": "GrowthsphereAI",
+      "title": "Artificial Intelligence Engineer - LangChain/LangGraph",
+      "status": "applied",
+      "applied": 1
+    },
+    {
+      "id": 1677556,
+      "company": "Big Ideas Social Media Recruitment",
+      "title": "AI Engineer - Generative AI",
+      "status": "applied",
+      "applied": 1
+    },
+    {
+      "id": 1680383,
+      "company": "The Reliable Jobs",
+      "title": "Full Stack Developer - Python/React.js/AngularJS",
+      "status": "applied",
+      "applied": 1
+    },
+    {
+      "id": 1679127,
+      "company": "BlinkRx",
+      "title": "Blink Health - Senior/Staff Software Engineer - AI & Product Engineering",
+      "status": "applied",
+      "applied": 1
+    },
+    {
+      "id": 1680242,
+      "company": "Giskard Datatech",
+      "title": "Trendlyne - Senior QA Automation Engineer - Mobile & Web Testing",
+      "status": "applied",
+      "applied": 1
+    },
+    {
+      "id": 1675795,
+      "company": "Exponentia.ai",
+      "title": "Exponentia.ai - Machine Learning Engineer - MLOps",
+      "status": "applied",
+      "applied": 1
+    },
+    {
+      "id": 1675797,
+      "company": "Exponentia.ai",
+      "title": "Exponentia.ai - Data Analyst/Business Analyst - Customer Analytics",
+      "status": "applied",
+      "applied": 1
+    },
+    {
+      "id": 1675790,
+      "company": "SPI TECHNOLOGIES INDIA PRIVATE LIMITED",
+      "title": "Straive - Senior Consultant - Splunk & ClickHouse",
+      "status": "applied",
+      "applied": 1
+    },
+    {
+      "id": 1675919,
+      "company": "CREDITSAFE TECHNOLOGY",
+      "title": "Creditsafe - Quality Assurance Automation Engineer - Playwright/Cypress/Python",
+      "status": "applied",
+      "applied": 1
+    },
+    {
+      "id": 1675487,
+      "company": "ZOOP",
+      "title": "Zoop.One - Product Manager - Data Sourcing & Engineering",
+      "status": "applied",
+      "applied": 1
+    },
+    {
+      "id": 1675545,
+      "company": "Hula Global",
+      "title": "Machine Learning Engineer",
+      "status": "applied",
+      "applied": 1
+    },
+    {
+      "id": 1675556,
+      "company": "Hula Global",
+      "title": "React Native Engineer - TypeScript",
+      "status": "applied",
+      "applied": 1
+    },
+    {
+      "id": 1675693,
+      "company": "WowJobs",
+      "title": "Automation Engineer - Data Governance",
+      "status": "applied",
+      "applied": 1
+    },
+    {
+      "id": 1675248,
+      "company": "GyFTR",
+      "title": "Vouchagram - Data Engineering Manager",
+      "status": "applied",
+      "applied": 1
+    },
+    {
+      "id": 1675331,
+      "company": "SMC Group of Companies",
+      "title": "SQL Developer - Oracle DB/MySQL/PostgreSQL",
+      "status": "applied",
+      "applied": 1
+    },
+    {
+      "id": 1672627,
+      "company": "Workplace",
+      "title": "Data Scientist - AI/ML",
+      "status": "applied",
+      "applied": 1
+    },
+    {
+      "id": 1681692,
+      "company": "GyFTR",
+      "title": "Vouchagram - DevOps Engineer - Cloud Infrastructure",
+      "status": "applied",
+      "applied": 1
+    },
+    {
+      "id": 1681641,
+      "company": "HR LOBBY",
+      "title": "Full Stack Engineer",
+      "status": "applied",
+      "applied": 1
+    },
+    {
+      "id": 1681557,
+      "company": "CDM Smith",
+      "title": "CDM Smith - Intermediate IT Infrastructure Specialist",
+      "status": "applied",
+      "applied": 1
+    },
+    {
+      "id": 1681588,
+      "company": "Indexnine Technologies",
+      "title": "Indexnine Technologies - Full Stack Developer - React.js/Node.js",
+      "status": "applied",
+      "applied": 1
+    },
+    {
+      "id": 1681620,
+      "company": "Recruitment Hub 365",
+      "title": "Data Engineer - Azure/Microsoft Fabric",
+      "status": "applied",
+      "applied": 1
+    },
+    {
+      "id": 1680253,
+      "company": "Unico Talent",
+      "title": "Full Stack AI Engineer - TypeScript/NestJS",
+      "status": "applied",
+      "applied": 1
+    },
+    {
+      "id": 1675334,
+      "company": "AuxoAI",
+      "title": "Auxo AI - Senior Applied AI Engineer - AI Agents",
+      "status": "applied",
+      "applied": 1
+    },
+    {
+      "id": 1674802,
+      "company": "kaidoko Automation Solutions Pvt",
+      "title": "Kaidoko - DevOps Engineer - AWS",
+      "status": "applied",
+      "applied": 1
+    },
+    {
+      "id": 1673839,
+      "company": "Pi-labs",
+      "title": "Pi-labs - MLOps Engineer",
+      "status": "applied",
+      "applied": 1
+    },
+    {
+      "id": 1673986,
+      "company": "RattanIndia Enterprises",
+      "title": "RattanIndia - Artificial Intelligence/Machine Learning Engineer - Data Modeling",
+      "status": "applied",
+      "applied": 1
+    },
+    {
+      "id": 1673564,
+      "company": "Terralogic Software Solutions Private Limited.",
+      "title": "BI Engineer - Data Analytics",
+      "status": "applied",
+      "applied": 1
+    },
+    {
+      "id": 1673623,
+      "company": "Recruitment Hub 365",
+      "title": "Data Engineer - Microsoft Azure/Microsoft Fabric",
+      "status": "applied",
+      "applied": 1
+    },
+    {
+      "id": 1673660,
+      "company": "Clinvvo",
+      "title": "Senior Frontend Engineer - React.js/React Native",
+      "status": "applied",
+      "applied": 1
+    },
+    {
+      "id": 1673670,
+      "company": "Quadrant IT Services",
+      "title": "Quadrant IT Services - IBM ACE Developer",
+      "status": "applied",
+      "applied": 1
+    }
+  ]
+}

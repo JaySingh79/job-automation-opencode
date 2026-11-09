@@ -1,0 +1,152 @@
+{
+  "batch_id": 1,
+  "sprint": 2,
+  "total_jobs": 6,
+  "jobs": [
+    {
+      "id": 1681526,
+      "title": "Exotel - Software Development Engineer II - AI & Speech Platform (3-5 yrs)",
+      "company": "EXOTEL TECHCOM PRIVATE LIMITED",
+      "min": 3,
+      "max": 5,
+      "exp": "3-5 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "LLM",
+        "Python",
+        "Java",
+        "Golang",
+        "Data Structure",
+        "Algorithm",
+        "Microservices Architecture",
+        "Distributed Systems",
+        "Artificial Intelligence",
+        "Conversational AI",
+        "Speech Recognition"
+      ],
+      "url": "https://www.hirist.tech/j/exotel-techcom-private-limited-exotel-software-development-engineer-ii-ai-speech-platform-3-5-yrs-1681526?ref=cl_br",
+      "applied": 0,
+      "createdTime": 1793298600000,
+      "sourceFeed": "2-3"
+    },
+    {
+      "id": 1681391,
+      "title": "TechRAQ - Python Developer - Django/Flask (3-4 yrs)",
+      "company": "TechRAQ Info Solutions",
+      "min": 3,
+      "max": 4,
+      "exp": "3-4 yrs",
+      "location": "Navi Mumbai | Mumbai",
+      "tags": [
+        "Python",
+        "Django",
+        "Flask",
+        "FastAPI",
+        "RESTful API",
+        "MySQL",
+        "MongoDB"
+      ],
+      "url": "https://www.hirist.tech/j/techraq-info-solutions-techraq-python-developer-django-flask-3-4-yrs-1681391?ref=cl_br",
+      "applied": 0,
+      "createdTime": 1793298600000,
+      "sourceFeed": "2-3"
+    },
+    {
+      "id": 1681454,
+      "title": "Mobifly - Senior Python Developer - FastAPI (3-5 yrs)",
+      "company": "Moonshine Food Ventures",
+      "min": 3,
+      "max": 5,
+      "exp": "3-5 yrs",
+      "location": "Delhi NCR | Gurgaon/Gurugram",
+      "tags": [
+        "Python",
+        "FastAPI",
+        "AWS Lambda",
+        "Microservices Architecture",
+        "Google Cloud Platform"
+      ],
+      "url": "https://www.hirist.tech/j/moonshine-food-ventures-mobifly-senior-python-developer-fastapi-3-5-yrs-1681454?ref=cl_br",
+      "applied": 0,
+      "createdTime": 1793298600000,
+      "sourceFeed": "2-3"
+    },
+    {
+      "id": 1681477,
+      "title": "Backend Python Lead (3-9 yrs)",
+      "company": "Mytech Global",
+      "min": 3,
+      "max": 9,
+      "exp": "3-9 yrs",
+      "location": "Hyderabad",
+      "tags": [
+        "Python",
+        "FastAPI",
+        "RESTful API",
+        "Microservices Architecture",
+        "AI Integration",
+        "Artificial Intelligence",
+        "Machine Learning",
+        "LLM",
+        "AWS",
+        "LangChain",
+        "System Design"
+      ],
+      "url": "https://www.hirist.tech/j/mytech-global-backend-python-lead-3-9-yrs-1681477?ref=cl_br",
+      "applied": 0,
+      "createdTime": 1793298600000,
+      "sourceFeed": "2-3"
+    },
+    {
+      "id": 1680884,
+      "title": "Ascendion - Quality Assurance Engineer - Healthcare Application Testing (3-5 yrs)",
+      "company": "Ascendion",
+      "min": 3,
+      "max": 5,
+      "exp": "3-5 yrs",
+      "location": "Pune | Chennai | Bangalore",
+      "tags": [
+        "Software Quality Assurance",
+        "Functional Testing",
+        "Integration Testing",
+        "Regression Testing",
+        "Data Validation",
+        "ETL",
+        "SQL",
+        "Snowflake DB",
+        "UAT",
+        "Application Testing",
+        "Data Quality"
+      ],
+      "url": "https://www.hirist.tech/j/ascendion-ascendion-quality-assurance-engineer-healthcare-application-testing-3-5-yrs-1680884?ref=cl_br",
+      "applied": 0,
+      "createdTime": 1793212200000,
+      "sourceFeed": "2-3"
+    },
+    {
+      "id": 1680946,
+      "title": "SymphonyAI - Application Support Engineer (3-5 yrs)",
+      "company": "Symphonyincubator Business Services",
+      "min": 3,
+      "max": 5,
+      "exp": "3-5 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "Production Support",
+        "Applications Support",
+        "Linux",
+        "SQL",
+        "PostgreSQL",
+        "Java",
+        "YAML",
+        "XML",
+        "AWS",
+        "Technical Support"
+      ],
+      "url": "https://www.hirist.tech/j/symphonyincubator-business-services-symphonyai-application-support-engineer-3-5-yrs-1680946?ref=cl_br",
+      "applied": 0,
+      "createdTime": 1793212200000,
+      "sourceFeed": "2-3"
+    }
+  ]
+}

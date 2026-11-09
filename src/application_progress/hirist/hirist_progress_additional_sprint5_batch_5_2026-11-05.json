@@ -1,0 +1,78 @@
+{
+  "worker": 5,
+  "sprint": 5,
+  "batch": 5,
+  "target_applied": 12,
+  "total_batch_jobs": 17,
+  "applied_count": 9,
+  "parked_count": 8,
+  "already_applied_count": 0,
+  "failed_count": 0,
+  "status": "BATCH_EXHAUSTED",
+  "applied_jobs": [
+    {
+      "id": 1665631,
+      "applicationId": 79305335,
+      "title": "Software Development Engineer II - Python",
+      "company": "Ensemble Health Partners"
+    },
+    {
+      "id": 1670331,
+      "applicationId": 79305336,
+      "title": "SatSure - Software Development Engineer II - Java/Python",
+      "company": "SatSure"
+    },
+    {
+      "id": 1669079,
+      "applicationId": 79305338,
+      "title": "C++ Developer - Multiprocessing & Multithreading",
+      "company": "VASINFOTEC "
+    },
+    {
+      "id": 1666184,
+      "applicationId": 79305340,
+      "title": "OZI - Backend Engineer - Java/Node.js",
+      "company": "OZI Technologies"
+    },
+    {
+      "id": 1662143,
+      "applicationId": 79305343,
+      "title": "Garmin - Software Development Engineer - Python/Node.js",
+      "company": "Garmin Technologies"
+    },
+    {
+      "id": 1676768,
+      "applicationId": 79305364,
+      "title": "Senior Software Engineer - Java",
+      "company": "TalentGen Advisory LLP"
+    },
+    {
+      "id": 1676682,
+      "applicationId": 79305365,
+      "title": "Circular Angle - Software Developer - .Net Technologies",
+      "company": "Circular Angle"
+    },
+    {
+      "id": 1675962,
+      "applicationId": 79305370,
+      "title": "Java/Niagara Consultant",
+      "company": "Xohani Solutions Pvt. Ltd."
+    },
+    {
+      "id": 1675662,
+      "applicationId": 79305371,
+      "title": "Josys - Senior Software Engineer - Node.js/Ruby on Rails",
+      "company": "Josys"
+    }
+  ],
+  "parked_job_ids": [
+    1666551,
+    1662835,
+    1661997,
+    1677186,
+    1676905,
+    1676493,
+    1675973,
+    1675921
+  ]
+}

@@ -1,0 +1,69 @@
+[
+  {
+    "status": "VALIDATION_FAILED",
+    "url": "https://jobs.ashbyhq.com/tailor/991d4eb2-2271-46e6-91d9-4e51f12350ea/application",
+    "evidence": "AI Engineer\nLocation\n\nTokyo\n\nEmployment Type\n\nFull time\n\nLocation Type\n\nHybrid\n\nDepartment\n\nGlobal Engineering\nPlatform\n\nOverview\nApplication\nAutofill from resume\n\nUpload your resume here to autofill key application fields.\n\nUpload file\nParsing your resume. Autofilling key fields...\n\u540d\u524d\n\u3075\u308a\u304c\u306a\n\u30e1\u30fc\u30eb\u30a2\u30c9\u30ec\u30b9\n",
+    "validation": {
+      "invalidCount": 1,
+      "emptyRequiredCount": 1,
+      "invalidFields": [
+        "_systemfield_resume"
+      ]
+    },
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\tailor-validation-failed.png",
+    "job_url": "https://jobs.ashbyhq.com/tailor/991d4eb2-2271-46e6-91d9-4e51f12350ea",
+    "company": "tailor",
+    "role": "AI Engineer",
+    "platform": "ashby",
+    "duration_seconds": 16.4
+  },
+  {
+    "status": "VALIDATION_FAILED",
+    "url": "https://job-boards.eu.greenhouse.io/nice/jobs/4973857101?gh_jid=4973857101",
+    "evidence": "back to jobs\nspecialist software engineer, cx\nindia - pune\napply\n\nat nice, we don\u2019t limit our challenges. we challenge our limits. always. we\u2019re ambitious. we\u2019re game changers. and we play to win. we set the highest standards and execute beyond them. and if you\u2019re like us, we can offer you the ultim",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\nice-validation-failed.png",
+    "job_url": "https://boards.eu.greenhouse.io/nice/jobs/4973857101?gh_jid=4973857101",
+    "company": "nice",
+    "role": "Specialist Software Engineer, CX",
+    "platform": "greenhouse",
+    "duration_seconds": 16.8
+  },
+  {
+    "status": "ERROR",
+    "error": "TimeoutError: Locator.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"#btn-submit, button[type='submit'], button:has-text('Submit application')\"",
+    "job_url": "https://jobs.lever.co/kobie/daeaf606-d813-44f0-8a7b-8f7ae835b4fc",
+    "company": "kobie",
+    "role": "Campaign Engineer",
+    "platform": "lever",
+    "duration_seconds": 40.7
+  },
+  {
+    "status": "VALIDATION_FAILED",
+    "url": "https://jobs.ashbyhq.com/tailor/fa073afa-c0fc-4e2d-b11a-aef19bd5f2f0/application",
+    "evidence": "AI Engineer\nLocation\n\nTokyo\n\nEmployment Type\n\nFull time\n\nLocation Type\n\nHybrid\n\nDepartment\n\nJapan\nCareers\nEngineering\n\nOverview\nApplication\nAutofill from resume\n\nUpload your resume here to autofill key application fields.\n\nUpload file\nParsing your resume. Autofilling key fields...\nYour form needs co",
+    "validation": {
+      "invalidCount": 1,
+      "emptyRequiredCount": 1,
+      "invalidFields": [
+        "_systemfield_resume"
+      ]
+    },
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\tailor-validation-failed.png",
+    "job_url": "https://jobs.ashbyhq.com/tailor/fa073afa-c0fc-4e2d-b11a-aef19bd5f2f0",
+    "company": "tailor",
+    "role": "AI Engineer",
+    "platform": "ashby",
+    "duration_seconds": 15.7
+  },
+  {
+    "status": "VALIDATION_FAILED",
+    "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4739466005",
+    "evidence": "back to jobs\ncontent systems engineer, technical documentation\nbangalore, india\napply\nabout glean:\n\u00a0\nglean is the work ai platform that helps everyone work smarter with ai. what began as the industry\u2019s most advanced enterprise search has evolved into a full-scale work ai ecosystem, powering intellig",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\gleanwork-validation-failed.png",
+    "job_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4739466005",
+    "company": "gleanwork",
+    "role": "Content Systems Engineer, Technical Documentation",
+    "platform": "greenhouse",
+    "duration_seconds": 15.3
+  }
+]

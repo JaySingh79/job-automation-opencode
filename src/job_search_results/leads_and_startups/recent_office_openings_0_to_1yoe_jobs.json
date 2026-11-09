@@ -1,0 +1,279 @@
+[
+  {
+    "company": "ScienceLogic",
+    "job_title": "Associate Software Engineer, Test",
+    "location": "Hyderabad, India (Hybrid)",
+    "hub": "Hyderabad (Sohini Tech Park, Nanakramguda)",
+    "hiring_type": "Direct Hire",
+    "experience_required": "0 - 1 years (Associate/Entry level)",
+    "tech_stack": [
+      "Python",
+      "JavaScript",
+      "AI-assisted testing (Tabnine, Codex, Cursor)",
+      "AWS",
+      "Linux",
+      "Jenkins CI/CD",
+      "BDD (Cucumber/Gherkin)"
+    ],
+    "ats": "Ashby",
+    "job_url": "https://jobs.ashbyhq.com/sciencelogic/bda1b48c-64f7-4c92-a9eb-9863fc59f56c",
+    "status": "active"
+  },
+  {
+    "company": "Qualcomm",
+    "job_title": "Campus Hire – Associate Engineer (Software)",
+    "location": "Hyderabad / Bengaluru / Noida / Chennai",
+    "hub": "Bengaluru (Bagmane Constellation) & Hyderabad",
+    "hiring_type": "Direct Hire",
+    "experience_required": "0 - 1 years (Fresher / Campus Hire)",
+    "tech_stack": [
+      "C",
+      "C++",
+      "Embedded Software",
+      "RTOS",
+      "Device Drivers",
+      "On-Device AI",
+      "Data Structures & Algorithms"
+    ],
+    "ats": "Workday",
+    "job_url": "https://qualcomm.wd5.myworkdayjobs.com/External",
+    "status": "active"
+  },
+  {
+    "company": "Adobe",
+    "job_title": "Software Engineer I / Graduate Software Engineer",
+    "location": "Noida, Uttar Pradesh (Sector 129 Campus)",
+    "hub": "Noida (Sector 129)",
+    "hiring_type": "Direct Hire",
+    "experience_required": "0 - 1 years (Fresh Graduate / Early Career)",
+    "tech_stack": [
+      "C++",
+      "Java",
+      "Python",
+      "Data Structures & Algorithms",
+      "Creative Cloud AI / Document Cloud"
+    ],
+    "ats": "Workday",
+    "job_url": "https://adobe.wd5.myworkdayjobs.com/external_experienced",
+    "status": "active"
+  },
+  {
+    "company": "NVIDIA",
+    "job_title": "New College Graduate (NCG) / Software Engineer Intern",
+    "location": "Bengaluru, Karnataka (Bagmane Capital)",
+    "hub": "Bengaluru (Mahadevpura)",
+    "hiring_type": "Direct Hire",
+    "experience_required": "0 - 1 years (New College Graduate / Intern)",
+    "tech_stack": [
+      "Python",
+      "C++",
+      "CUDA",
+      "Deep Learning",
+      "Distributed Systems",
+      "Compiler Tech"
+    ],
+    "ats": "Workday",
+    "job_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite",
+    "status": "active"
+  },
+  {
+    "company": "Airbus India",
+    "job_title": "AI & Systems Engineering Intern / Data Modeling Engineer",
+    "location": "Bengaluru, Karnataka (Airbus India Technology Centre)",
+    "hub": "Bengaluru (Whitefield)",
+    "hiring_type": "Direct Hire",
+    "experience_required": "0 - 1 years (Trainee / Intern / Graduate)",
+    "tech_stack": [
+      "Python",
+      "Machine Learning",
+      "Agentic Workflows",
+      "Data Modeling",
+      "AWS/Azure",
+      "Docker"
+    ],
+    "ats": "Workday",
+    "job_url": "https://www.airbus.com/en/careers",
+    "status": "active"
+  },
+  {
+    "company": "Krutrim (Ola AI)",
+    "job_title": "AI Engineer Intern / Software Development Engineer (SDE) Intern",
+    "location": "Bengaluru, Karnataka (Koramangala)",
+    "hub": "Bengaluru (Prestige RMZ Startech)",
+    "hiring_type": "Direct Hire",
+    "experience_required": "0 - 1 years (Intern / Fresh Graduate)",
+    "tech_stack": [
+      "Python",
+      "PyTorch",
+      "LLMs",
+      "RAG Frameworks",
+      "REST APIs",
+      "Data Structures & Algorithms"
+    ],
+    "ats": "Custom / Instahyre",
+    "job_url": "https://ai-labs.olakrutrim.com/",
+    "status": "active"
+  },
+  {
+    "company": "Infosys",
+    "job_title": "Specialist Programmer (SP) / Digital Specialist Engineer (DSE) - AI & Cloud",
+    "location": "Hyderabad (Pocharam SEZ) / Bengaluru",
+    "hub": "Hyderabad (Pocharam Development Center)",
+    "hiring_type": "Direct Hire",
+    "experience_required": "0 - 1 years (Batch 2024 / 2025 / 2026 Freshers)",
+    "tech_stack": [
+      "Python",
+      "Java",
+      "Generative AI (Topaz)",
+      "Cloud Computing",
+      "Competitive Programming / Advanced DSA"
+    ],
+    "ats": "Infosys Career Portal",
+    "job_url": "https://career.infosys.com",
+    "status": "active"
+  },
+  {
+    "company": "S&P Global",
+    "job_title": "Associate Software Development Engineer / DS-TSG Intern",
+    "location": "Gurugram, Haryana / Bengaluru / Hyderabad",
+    "hub": "Gurugram (Downtown Gurugram)",
+    "hiring_type": "Direct Hire",
+    "experience_required": "0 - 1 years (Fresh Graduate / Associate)",
+    "tech_stack": [
+      "Python",
+      ".NET / C#",
+      "SQL",
+      "Data Science",
+      "Cloud Infrastructure"
+    ],
+    "ats": "Workday",
+    "job_url": "https://www.spglobal.com/careers/en/",
+    "status": "active"
+  },
+  {
+    "company": "NVIDIA (via Staffing & ODC Partners)",
+    "job_title": "Python Automation Engineer / GPU QA & Software Verification (Contract)",
+    "location": "Bengaluru, Karnataka (Bagmane Capital / Electronic City)",
+    "hub": "Bengaluru",
+    "hiring_type": "3rd Party Staffing / Vendor Payroll",
+    "staffing_vendors": [
+      "Collabera",
+      "Randstad India",
+      "TEKsystems (Allegis Group)",
+      "Magnit (formerly PRO Unlimited)",
+      "Tessolve Semiconductor"
+    ],
+    "experience_required": "0 - 1 years (Contract-to-Hire / Agency Payroll)",
+    "tech_stack": [
+      "Python",
+      "PyTest",
+      "C++",
+      "Linux Scripting",
+      "GPU Validation Tooling",
+      "Git"
+    ],
+    "ats": "Agency ATS (Collabera / Randstad / Naukri Recruiter)",
+    "job_url": "https://www.collabera.com",
+    "status": "active"
+  },
+  {
+    "company": "Qualcomm (via Staffing & ODC Partners)",
+    "job_title": "Software Test Engineer / Python Scripting Trainee (Contract/C2H)",
+    "location": "Hyderabad (HITEC City) & Bengaluru",
+    "hub": "Hyderabad / Bengaluru",
+    "hiring_type": "3rd Party Staffing / Vendor Payroll",
+    "staffing_vendors": [
+      "Collabera",
+      "Randstad India",
+      "TAPFIN (ManpowerGroup)",
+      "Tessolve Semiconductor",
+      "Tata Elxsi"
+    ],
+    "experience_required": "0 - 1 years (C2H / Contract Payroll)",
+    "tech_stack": [
+      "Python",
+      "C",
+      "C++",
+      "Embedded Validation",
+      "Test Automation",
+      "Wireless / Android Tooling"
+    ],
+    "ats": "Agency ATS (Randstad / Collabera / Tessolve)",
+    "job_url": "https://www.randstad.in",
+    "status": "active"
+  },
+  {
+    "company": "Adobe (via Staffing Vendors)",
+    "job_title": "Associate Quality Software Engineer / Cloud Platform Analyst (Contract)",
+    "location": "Noida, UP (Sector 129/132) & Bengaluru",
+    "hub": "Noida / Bengaluru",
+    "hiring_type": "3rd Party Staffing / Vendor Payroll",
+    "staffing_vendors": [
+      "Allegis Global Solutions (AGS)",
+      "Collabera",
+      "TeamLease Digital",
+      "Mindlance",
+      "eTeam Inc"
+    ],
+    "experience_required": "0 - 1 years (Fixed-Term Contract / C2H)",
+    "tech_stack": [
+      "Java",
+      "Python",
+      "Selenium / Automation Testing",
+      "REST APIs",
+      "SQL"
+    ],
+    "ats": "Agency ATS (TeamLease / Allegis / Naukri)",
+    "job_url": "https://www.teamlease.com",
+    "status": "active"
+  },
+  {
+    "company": "Airbus India (via Engineering Capability Partners)",
+    "job_title": "Avionics Software Trainee / Python Test Automation Engineer",
+    "location": "Bengaluru, Karnataka (Whitefield / Manyata)",
+    "hub": "Bengaluru",
+    "hiring_type": "ODC / Engineering Service Partner",
+    "staffing_vendors": [
+      "Tata Elxsi",
+      "L&T Technology Services (LTTS)",
+      "Cyient",
+      "Quest Global",
+      "Randstad Sourceright"
+    ],
+    "experience_required": "0 - 1 years (Graduate Trainee / Contract)",
+    "tech_stack": [
+      "Python",
+      "C++",
+      "DO-178C Verification Basics",
+      "MATLAB / Simulink",
+      "Automated Test Scripting"
+    ],
+    "ats": "Service Partner Portals (Tata Elxsi / LTTS / Cyient)",
+    "job_url": "https://www.tataelxsi.com/careers",
+    "status": "active"
+  },
+  {
+    "company": "S&P Global (via Staffing Vendors)",
+    "job_title": "Data Operations Analyst / Python ETL Developer (Contract)",
+    "location": "Gurugram, Haryana / Hyderabad",
+    "hub": "Gurugram / Hyderabad",
+    "hiring_type": "3rd Party Staffing / Vendor Payroll",
+    "staffing_vendors": [
+      "TeamLease Digital",
+      "Randstad India",
+      "NLB Services",
+      "Adecco India"
+    ],
+    "experience_required": "0 - 1 years (Contract / Contingent Worker)",
+    "tech_stack": [
+      "Python",
+      "SQL",
+      "Web Scraping / Beautiful Soup / Selenium",
+      "Data Normalization",
+      "Excel / BI"
+    ],
+    "ats": "Agency Portals / Naukri Recruiter",
+    "job_url": "https://www.randstad.in",
+    "status": "active"
+  }
+]

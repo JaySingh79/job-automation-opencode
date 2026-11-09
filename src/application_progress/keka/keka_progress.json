@@ -1,0 +1,94 @@
+{
+  "last_updated": "2026-10-28T15:11:50Z",
+  "jobs": [
+    {
+      "job_id": "280926501490",
+      "title": "AI and Automation Engineer -Founders Office",
+      "company": "Skylark Drones",
+      "url": "https://skylarkdrones.keka.com/careers/applyjob/117611",
+      "applied_at": "2026-10-28T14:53:00Z",
+      "status": "READY FOR HUMAN SUBMISSION",
+      "verification": "100% required fields filled, Apply Now un-disabled, waiting for human captcha/submission",
+      "screenshot": "src/accessability_snapshot/keka_skylark_drones_staged.png"
+    },
+    {
+      "job_id": "170425501323",
+      "title": "Python Developer",
+      "company": "Coditation Systems",
+      "url": "https://coditation.keka.com/careers/applyjob/62801",
+      "applied_at": "2026-10-28T14:57:00Z",
+      "status": "READY FOR HUMAN SUBMISSION",
+      "verification": "100% required fields filled, Apply Now un-disabled, waiting for human captcha/submission",
+      "screenshot": "src/accessability_snapshot/keka_coditation_staged.png"
+    },
+    {
+      "job_id": "130326502966",
+      "title": "Software Developer",
+      "company": "SmartDocs Business Solutions",
+      "url": "https://smartdocs.keka.com/careers/applyjob/122766",
+      "applied_at": "2026-10-28T15:01:00Z",
+      "status": "READY FOR HUMAN SUBMISSION",
+      "verification": "100% required fields filled, Apply Now un-disabled, waiting for human captcha/submission",
+      "screenshot": "src/accessability_snapshot/keka_smartdocs_122766_staged.png"
+    },
+    {
+      "job_id": "110926503290",
+      "title": "Data Curation Engineer",
+      "company": "Flam",
+      "url": "https://flamapp.keka.com/careers/applyjob/88002",
+      "applied_at": "2026-10-28T15:10:21Z",
+      "status": "READY FOR HUMAN SUBMISSION",
+      "verification": "100% required fields filled, Apply Now un-disabled (True), awaiting human captcha/submission",
+      "screenshot": "src/accessability_snapshot/keka_flam_110926503290_staged.png"
+    },
+    {
+      "job_id": "161026501722",
+      "title": "Associate Software Engineer Trainee",
+      "company": "Taazaa Tech",
+      "url": "https://taazaa.keka.com/careers/applyjob/144702",
+      "applied_at": "2026-10-28T15:10:43Z",
+      "status": "READY FOR HUMAN SUBMISSION",
+      "verification": "100% required fields filled, Apply Now un-disabled (True), awaiting human captcha/submission",
+      "screenshot": "src/accessability_snapshot/keka_taazaa_tech_161026501722_staged.png"
+    },
+    {
+      "job_id": "180826501455",
+      "title": "Associate Software Engineer - AI-Augmented Full Stack",
+      "company": "Vinove Software",
+      "url": "https://vinove.keka.com/careers/applyjob/137938",
+      "applied_at": "2026-10-28T15:11:01Z",
+      "status": "READY FOR HUMAN SUBMISSION",
+      "verification": "100% required fields filled, Apply Now un-disabled (False), awaiting human captcha/submission",
+      "screenshot": "src/accessability_snapshot/keka_vinove_software_180826501455_staged.png"
+    },
+    {
+      "job_id": "040926501927",
+      "title": "Jr. Software Developer",
+      "company": "SmartDocs Business Solutions",
+      "url": "https://smartdocs.keka.com/careers/applyjob/140675",
+      "applied_at": "2026-10-28T15:11:25Z",
+      "status": "READY FOR HUMAN SUBMISSION",
+      "verification": "100% required fields filled, Apply Now un-disabled (True), awaiting human captcha/submission",
+      "screenshot": "src/accessability_snapshot/keka_smartdocs_business_solutions_040926501927_staged.png"
+    },
+    {
+      "job_id": "051026504561",
+      "title": "SDE I - JAVA",
+      "company": "Echo India",
+      "url": "https://echoindia.keka.com/careers/jobdetails/163782",
+      "applied_at": "2026-10-28T15:11:27Z",
+      "status": "skipped",
+      "verification": "Skipped pure non-Python Java role per filter Rule 2"
+    },
+    {
+      "job_id": "290126506895",
+      "title": "Intern - Data Analyst",
+      "company": "Visit Health",
+      "url": "https://getvisitapp.keka.com/careers/applyjob/125182",
+      "applied_at": "2026-10-28T15:11:50Z",
+      "status": "READY FOR HUMAN SUBMISSION",
+      "verification": "100% required fields filled, Apply Now un-disabled (True), awaiting human captcha/submission",
+      "screenshot": "src/accessability_snapshot/keka_visit_health_290126506895_staged.png"
+    }
+  ]
+}

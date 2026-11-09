@@ -1,0 +1,165 @@
+﻿{
+    "timestamp":  "2026-10-21T13:37:30Z",
+    "total_jobs":  15,
+    "status_summary":  {
+                           "submitted_success":  10,
+                           "blocked_application_limit_reached":  1,
+                           "queued_pending_slots":  4,
+                           "account_active_applications_cap":  10
+                       },
+    "platform_bottleneck":  {
+                                "rule":  "Amazon Jobs hard platform limit: Maximum 10 active job applications allowed per candidate account.",
+                                "dashboard_message":  "Looks like you\u0027ve hit the limit of 10 job applications. If you want to apply for another job, withdraw an existing one from your Application Dashboard.",
+                                "current_active_total":  10,
+                                "breakdown":  "9 applications submitted in current session (Oct 21, 2026) + 1 legacy active application from Jul 30, 2026 (Job ID 10421937, now closed/archived by Amazon).",
+                                "recommendation":  "Candidate/user can withdraw legacy Job ID 10421937 (which is no longer taking new applications) to free up 1 slot, or withdraw lower-priority roles to submit remaining queued Amazon roles."
+                            },
+    "jobs":  [
+                 {
+                     "index":  1,
+                     "job_id":  "10578605",
+                     "role_title":  "Applied Scientist, Alexa Sensitive Content Intelligence (ASCI)",
+                     "url":  "https://amazon.jobs/en/jobs/10578605/applied-scientist-alexa-sensitive-content-intelligence-asci",
+                     "selected_resume_variant":  "ML_Vision_RL_PPO",
+                     "status":  "APPLIED_SUCCESS",
+                     "applied_at":  "2026-10-21T13:28:00Z",
+                     "confirmation_url":  "https://account.amazon.jobs/en-US/applicant/jobs/10578605/summary?result=success"
+                 },
+                 {
+                     "index":  2,
+                     "job_id":  "10578603",
+                     "role_title":  "Applied Scientist, Alexa Sensitive Content Intelligence (ASCI)",
+                     "url":  "https://amazon.jobs/en/jobs/10578603/applied-scientist-alexa-sensitive-content-intelligence-asci",
+                     "selected_resume_variant":  "ML_Vision_RL_PPO",
+                     "status":  "APPLIED_SUCCESS",
+                     "applied_at":  "2026-10-21T13:28:00Z",
+                     "confirmation_url":  "https://www.amazon.jobs/en-US/applicant/jobs/10578603/summary?result=success"
+                 },
+                 {
+                     "index":  3,
+                     "job_id":  "10575107",
+                     "role_title":  "Applied Scientist, Alexa Edge AI",
+                     "url":  "https://amazon.jobs/en/jobs/10575107/applied-scientist-alexa-edge-ai",
+                     "selected_resume_variant":  "ML_Vision",
+                     "status":  "APPLIED_SUCCESS",
+                     "applied_at":  "2026-10-21T13:28:00Z",
+                     "confirmation_url":  "https://www.amazon.jobs/en-US/applicant/jobs/10575107/summary?result=success"
+                 },
+                 {
+                     "index":  4,
+                     "job_id":  "10539787",
+                     "role_title":  "Applied Scientist, Traffic Quality",
+                     "url":  "https://amazon.jobs/en/jobs/10539787/applied-scientist-traffic-quality",
+                     "selected_resume_variant":  "ML_Vision",
+                     "status":  "APPLIED_SUCCESS",
+                     "applied_at":  "2026-10-21T13:31:20Z",
+                     "confirmation_url":  "https://www.amazon.jobs/en-US/applicant/jobs/10539787/summary?result=success"
+                 },
+                 {
+                     "index":  5,
+                     "job_id":  "10432009",
+                     "role_title":  "Applied Scientist, Alexa Edge AI",
+                     "url":  "https://amazon.jobs/en/jobs/10432009/applied-scientist-alexa-edge-ai",
+                     "selected_resume_variant":  "ML_Vision",
+                     "status":  "APPLIED_SUCCESS",
+                     "applied_at":  "2026-10-21T13:32:04Z",
+                     "confirmation_url":  "https://www.amazon.jobs/en-US/applicant/jobs/10432009/summary?result=success"
+                 },
+                 {
+                     "index":  6,
+                     "job_id":  "10555817",
+                     "role_title":  "Applied Scientist, International Machine Learning",
+                     "url":  "https://amazon.jobs/en/jobs/10555817/applied-scientist-international-machine-learning",
+                     "selected_resume_variant":  "ML_Vision",
+                     "status":  "APPLIED_SUCCESS",
+                     "applied_at":  "2026-10-21T13:33:01Z",
+                     "confirmation_url":  "https://www.amazon.jobs/en-US/applicant/jobs/10555817/summary?result=success"
+                 },
+                 {
+                     "index":  7,
+                     "job_id":  "10557374",
+                     "role_title":  "Applied Scientist I, Amazon Shipping",
+                     "url":  "https://amazon.jobs/en/jobs/10557374/applied-scientist-i-amazon-shipping",
+                     "selected_resume_variant":  "ML_Vision_RL_PPO",
+                     "status":  "APPLIED_SUCCESS",
+                     "applied_at":  "2026-10-21T13:33:50Z",
+                     "confirmation_url":  "https://www.amazon.jobs/en-US/applicant/jobs/10557374/summary?result=success"
+                 },
+                 {
+                     "index":  8,
+                     "job_id":  "10432006",
+                     "role_title":  "Applied Scientist, Alexa Edge AI",
+                     "url":  "https://amazon.jobs/en/jobs/10432006/applied-scientist-alexa-edge-ai",
+                     "selected_resume_variant":  "ML_Vision",
+                     "status":  "APPLIED_SUCCESS",
+                     "applied_at":  "2026-10-21T13:34:44Z",
+                     "confirmation_url":  "https://www.amazon.jobs/en-US/applicant/jobs/10432006/summary?result=success"
+                 },
+                 {
+                     "index":  9,
+                     "job_id":  "10498825",
+                     "role_title":  "Applied Scientist, Alexa Edge AI",
+                     "url":  "https://amazon.jobs/en/jobs/10498825/applied-scientist-alexa-edge-ai",
+                     "selected_resume_variant":  "ML_Vision",
+                     "status":  "APPLIED_SUCCESS",
+                     "applied_at":  "2026-10-21T13:35:42Z",
+                     "confirmation_url":  "https://www.amazon.jobs/en-US/applicant/jobs/10498825/summary?result=success"
+                 },
+                 {
+                     "index":  10,
+                     "job_id":  "10491271",
+                     "role_title":  "Business Analyst, Global Solutions \u0026 Risk Compliance (GSRC)",
+                     "url":  "https://amazon.jobs/en/jobs/10491271/business-analyst-global-solutions-risk-compliance-gsrc",
+                     "selected_resume_variant":  "ML_Vision",
+                     "status":  "BLOCKED_APPLICATION_LIMIT_REACHED",
+                     "notes":  "Amazon server blocked entry: \u0027result=application_limit_reach\u0027. Hard limit of 10 active applications reached."
+                 },
+                 {
+                     "index":  11,
+                     "job_id":  "10510882",
+                     "role_title":  "Applied Scientist, Amazon Music - Catalog Quality",
+                     "url":  "https://amazon.jobs/en/jobs/10510882/applied-scientist-amazon-music-catalog-quality",
+                     "selected_resume_variant":  "ML_Vision",
+                     "status":  "APPLIED_SUCCESS",
+                     "notes":  "Submitted successfully after withdrawing legacy closed application 10421937.",
+                     "applied_at":  "2026-10-21T13:57:25Z",
+                     "confirmation_url":  "https://www.amazon.jobs/en-US/applicant/jobs/10510882/summary?result=success"
+                 },
+                 {
+                     "index":  12,
+                     "job_id":  "3134253",
+                     "role_title":  "Associate, ML Data Operations, GO-AI Operations",
+                     "url":  "https://amazon.jobs/en/jobs/3134253/associate-ml-data-operations-go-ai-operations",
+                     "selected_resume_variant":  "ML_Vision_RL_PPO",
+                     "status":  "QUEUED_PENDING_SLOT",
+                     "notes":  "Awaiting active application slot."
+                 },
+                 {
+                     "index":  13,
+                     "job_id":  "10458636",
+                     "role_title":  "Applied Scientist, International Machine Learning",
+                     "url":  "https://amazon.jobs/en/jobs/10458636/applied-scientist-international-machine-learning",
+                     "selected_resume_variant":  "ML_Vision",
+                     "status":  "QUEUED_PENDING_SLOT",
+                     "notes":  "Awaiting active application slot."
+                 },
+                 {
+                     "index":  14,
+                     "job_id":  "3134242",
+                     "role_title":  "Associate, ML Data Operations, GO-AI Operations",
+                     "url":  "https://amazon.jobs/en/jobs/3134242/associate-ml-data-operations-go-ai-operations",
+                     "selected_resume_variant":  "ML_Vision_RL_PPO",
+                     "status":  "QUEUED_PENDING_SLOT",
+                     "notes":  "Awaiting active application slot."
+                 },
+                 {
+                     "index":  15,
+                     "job_id":  "10486423",
+                     "role_title":  "Applied Scientist, Amazon Music - Catalog Quality",
+                     "url":  "https://amazon.jobs/en/jobs/10486423/applied-scientist-amazon-music-catalog-quality",
+                     "selected_resume_variant":  "ML_Vision",
+                     "status":  "QUEUED_PENDING_SLOT",
+                     "notes":  "Awaiting active application slot."
+                 }
+             ]
+}

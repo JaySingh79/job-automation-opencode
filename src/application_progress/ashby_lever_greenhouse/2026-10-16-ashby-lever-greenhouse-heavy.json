@@ -1,0 +1,135 @@
+{
+  "ats": ["ashby", "lever", "greenhouse"],
+  "date": "2026-10-16",
+  "duplicates_already_submitted_do_not_resubmit_without_check": [
+    "AiPrise SWE I Bangalore - submitted 2026-09-24",
+    "Interview Kickstart SWE1 Applied AI - submitted 2026-10-14",
+    "Mastra AI Engineer - submitted 2026-10-14",
+    "Dscout Applied AI India - ledger shows applied with confirmation",
+    "Lynx AI Engineer India - ledger shows applied with confirmation"
+  ],
+  "filters": {
+    "exp": "0-3yr inclusive, skip Senior/4yr+",
+    "geo": "India + Remote-India/APAC-Worldwide India-eligible",
+    "stack": "Python + AI/ML/LLM"
+  },
+  "jobs_filled_ready_for_human_submit": [
+    {
+      "company": "Trackmind",
+      "note": "Clean 0.5-2yr HIGH",
+      "platform": "lever",
+      "resume": "GenAI_DS",
+      "role": "Junior AI Engineer Hyderabad",
+      "status": "READY tab1",
+      "url": "https://jobs.lever.co/trackmind/ad66c0ec-1ae9-47cb-9d5d-83ae1cb6d200"
+    },
+    {
+      "company": "Enterpret-new",
+      "platform": "greenhouse",
+      "resume": "GenAI_DS",
+      "role": "Applied AI Research Engineer Bengaluru",
+      "status": "READY tab2",
+      "url": "http://job-boards.greenhouse.io/enterpret/jobs/7580532003"
+    },
+    {
+      "company": "Dscout",
+      "note": "Ledger already applied - verify before submit",
+      "platform": "greenhouse",
+      "resume": "GenAI_DS",
+      "role": "Applied AI Engineer India Remote",
+      "status": "READY tab3 duplicate-risk",
+      "url": "https://job-boards.greenhouse.io/dscout/jobs/4370258009"
+    },
+    {
+      "company": "Lynx Analytics",
+      "note": "Needs manual PDF attach + prior applied check",
+      "platform": "greenhouse",
+      "resume": "GenAI_DS manual attach required",
+      "role": "AI Engineer India Pune",
+      "status": "READY tab4 with flag",
+      "url": "http://job-boards.greenhouse.io/lynxanalytics/jobs/8647303002"
+    },
+    {
+      "company": "Tolken",
+      "note": "3-7yr stretch, filled per order",
+      "platform": "ashby",
+      "resume": "ML_Vision_RL",
+      "role": "Applied Scientist / Applied ML Engineer India Remote",
+      "status": "READY tab7",
+      "url": "https://jobs.ashbyhq.com/tolken/5c91433e-89df-476c-a19a-3993adcbac34"
+    },
+    {
+      "company": "Meraki-Labs",
+      "note": "1-5yr fits 18mo",
+      "platform": "ashby",
+      "resume": "GenAI_DS",
+      "role": "AI Engineer Bangalore",
+      "status": "READY tab8",
+      "url": "https://jobs.ashbyhq.com/Meraki-Labs/958edd0a-edca-4da9-b65e-2aac4c6564fe"
+    },
+    {
+      "company": "fal",
+      "note": "5+yr stretch",
+      "platform": "ashby",
+      "resume": "GenAI_DS",
+      "role": "MLE Reliability Remote-APAC",
+      "status": "READY tab9",
+      "url": "https://jobs.ashbyhq.com/fal-ai/1d9325cf-28da-4b78-af0d-eb0abe7b501d"
+    }
+  ],
+  "jobs_ready_but_duplicate_submit_blocked": [
+    {
+      "company": "AiPrise",
+      "reason": "Already SUBMITTED 2026-09-24",
+      "url": "https://jobs.ashbyhq.com/aiprise/3763c791-a387-4078-9ca4-00cbfbf9b1a6"
+    },
+    {
+      "company": "Interview Kickstart",
+      "reason": "Already SUBMITTED 2026-10-14 wave-2",
+      "url": "https://jobs.ashbyhq.com/interview-kickstart/92b00d54-160b-4ef8-8e10-dc952f7311bf"
+    },
+    {
+      "company": "Mastra",
+      "reason": "Already SUBMITTED 2026-10-14",
+      "url": "https://jobs.ashbyhq.com/mastra/531a3fe8-556f-4b83-bee7-20374f67f980"
+    }
+  ],
+  "jobs_skipped": [
+    {
+      "company": "Korza",
+      "reason": "4+yr L3/early L4 vs 18mo",
+      "url": "https://jobs.ashbyhq.com/korza/f5a9b331-b454-475c-ab96-d48b91e8c977"
+    },
+    {
+      "company": "JobTwine",
+      "reason": "SKIP-SALARY_FLOOR 20L max < 22 floor (salary override expired?)",
+      "url": "https://jobs.lever.co/jobtwine/baf9b35a-1ac6-45f8-9a95-de02c8b532bd"
+    },
+    {
+      "company": "PolicyMe-new",
+      "reason": "SKIP-LOCATION Canada-only",
+      "url": "https://jobs.lever.co/policyme/30e81807-adb5-44a9-baad-4beb75913694"
+    },
+    {
+      "company": "ShyftLabs",
+      "reason": "SKIP-LOCATION Toronto-hybrid",
+      "url": "https://jobs.lever.co/shyftlabs/1a665cf5-1f3f-4610-be00-b46ffa13a675"
+    },
+    {
+      "company": "Figure",
+      "reason": "SKIP-LOCATION US-only",
+      "url": "https://job-boards.greenhouse.io/figure/jobs/8860509002"
+    },
+    {
+      "company": "Weekday Agentic AI",
+      "reason": "BLOCKED-DEAD 404",
+      "url": "https://jobs.lever.co/weekdayworks/70aa2f8f-fc89-483a-abc0-97bad8615ff9"
+    }
+  ],
+  "next_fresh_queue_not_yet_filled": [
+    "https://jobs.ashbyhq.com/bio/80145424-4809-46b2-99b9-8aae501be616",
+    "https://jobs.ashbyhq.com/openai/bf036b23-cd23-46d0-a02f-4b1483f4698a",
+    "https://boards.greenhouse.io/cayuse/jobs/8885769002"
+  ],
+  "source_search_file": "src/job_search_results/2026-10-16-fresh-ashby-lever-greenhouse.json"
+}

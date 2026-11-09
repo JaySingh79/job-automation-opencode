@@ -1,0 +1,220 @@
+{
+  "worker": 4,
+  "batch": 4,
+  "target_applied": 20,
+  "applied_count": 17,
+  "parked_count": 9,
+  "already_applied_count": 0,
+  "total_processed": 26,
+  "batch_status": "completed",
+  "all_results": [
+    {
+      "jobId": 1675906,
+      "title": "Senior Consultant - Site Reliability (2-5 yrs)",
+      "company": "Scaling Theory Technologies",
+      "status": "applied",
+      "applicationId": 79292998,
+      "timestamp": "2026-11-05T18:19:20.278Z"
+    },
+    {
+      "jobId": 1675920,
+      "title": "Site Reliability Engineer - Cloud Infrastructure (2-4 yrs)",
+      "company": "Scaling Theory Technologies",
+      "status": "applied",
+      "applicationId": 79293016,
+      "timestamp": "2026-11-05T18:19:35.824Z"
+    },
+    {
+      "jobId": 1675960,
+      "title": "Forward Deployed Engineer - Python (2-5 yrs)",
+      "company": "Scaling Theory Technologies",
+      "status": "applied",
+      "applicationId": 79293019,
+      "timestamp": "2026-11-05T18:19:38.022Z"
+    },
+    {
+      "jobId": 1675989,
+      "title": "Ascendion - Junior Quality Engineer - Automation Testing (2-5 yrs)",
+      "company": "Ascendion",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job",
+      "timestamp": "2026-11-05T18:19:46.000Z"
+    },
+    {
+      "jobId": 1676111,
+      "title": "Sony - Automation & AI Specialist - Ad Sales Domain (2-6 yrs)",
+      "company": "Culver Max Entertainment",
+      "status": "applied",
+      "applicationId": 79293055,
+      "timestamp": "2026-11-05T18:20:16.451Z"
+    },
+    {
+      "jobId": 1675666,
+      "title": "Software Development Engineer III - Backend Development (2-8 yrs)",
+      "company": "Hyrhub",
+      "status": "applied",
+      "applicationId": 79293056,
+      "timestamp": "2026-11-05T18:20:18.135Z"
+    },
+    {
+      "jobId": 1675201,
+      "title": "Coffeebeans.io - Generative AI Engineer (2-5 yrs)",
+      "company": "Coffeebeans Consulting",
+      "status": "applied",
+      "applicationId": 79293062,
+      "timestamp": "2026-11-05T18:20:19.892Z"
+    },
+    {
+      "jobId": 1675221,
+      "title": "Junior Member of Technical Staff - AI/ML (2-4 yrs)",
+      "company": "Scaling Theory Technologies",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job",
+      "timestamp": "2026-11-05T12:50:20.739Z"
+    },
+    {
+      "jobId": 1675322,
+      "title": "Senior AI Engineer (2-7 yrs)",
+      "company": "Lagrange Point International",
+      "status": "applied",
+      "applicationId": 79293088,
+      "timestamp": "2026-11-05T18:20:46.525Z"
+    },
+    {
+      "jobId": 1674424,
+      "title": "Python Developer (2-7 yrs)",
+      "company": "Value Lane Consulting",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job",
+      "timestamp": "2026-11-05T12:50:47.317Z"
+    },
+    {
+      "jobId": 1673748,
+      "title": "SOC II Compliance Analyst (2-4 yrs)",
+      "company": "HyrMe",
+      "status": "applied",
+      "applicationId": 79293090,
+      "timestamp": "2026-11-05T18:20:49.729Z"
+    },
+    {
+      "jobId": 1673800,
+      "title": "Syniverse - Operations Engineer - Technical Support (2-10 yrs)",
+      "company": "Syniverse Technologies",
+      "status": "applied",
+      "applicationId": 79293096,
+      "timestamp": "2026-11-05T18:20:51.779Z"
+    },
+    {
+      "jobId": 1673973,
+      "title": "Enphase Energy - Security Test Engineer (2-4 yrs)",
+      "company": "Enphase Energy",
+      "status": "applied",
+      "applicationId": 79293131,
+      "timestamp": "2026-11-05T18:21:19.756Z"
+    },
+    {
+      "jobId": 1674076,
+      "title": "Test Engineer - LiveOps (2-5 yrs)",
+      "company": "Blueberry Unicorn Services",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job",
+      "timestamp": "2026-11-05T12:51:20.195Z"
+    },
+    {
+      "jobId": 1674090,
+      "title": "In Time Tec - Development Support Analyst - Telecom Domain (2-6 yrs)",
+      "company": "In Time Tec Visionsoft",
+      "status": "applied",
+      "applicationId": 79293134,
+      "timestamp": "2026-11-05T18:21:23.159Z"
+    },
+    {
+      "jobId": 1673343,
+      "title": "AI Automation Developer - Python/Generative AI (2-5 yrs)",
+      "company": "Risosu Consulting",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job",
+      "timestamp": "2026-11-05T12:51:23.617Z"
+    },
+    {
+      "jobId": 1673619,
+      "title": "Algoleap Technologies - Junior Site Reliability Engineer - DevOps (2-4 yrs)",
+      "company": "AlgoLeap Technologies",
+      "status": "applied",
+      "applicationId": 79293184,
+      "timestamp": "2026-11-05T18:21:50.668Z"
+    },
+    {
+      "jobId": 1682199,
+      "title": "KreditBee - AI/ML Engineer - Document Intelligence (3-5 yrs)",
+      "company": "KreditBee",
+      "status": "applied",
+      "applicationId": 79293192,
+      "timestamp": "2026-11-05T18:21:52.257Z"
+    },
+    {
+      "jobId": 1682060,
+      "title": "Data Scientist (3-6 yrs)",
+      "company": "Spectraforce Technologies",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job",
+      "timestamp": "2026-11-05T12:51:52.786Z"
+    },
+    {
+      "jobId": 1680414,
+      "title": "Material+ - Agentic AI Engineer (3-6 yrs)",
+      "company": "Srijan Technologies",
+      "status": "applied",
+      "applicationId": 79293197,
+      "timestamp": "2026-11-05T18:21:55.636Z"
+    },
+    {
+      "jobId": 1679163,
+      "title": "Senior AI/ML Engineer - LLM/Generative AI (3-5 yrs)",
+      "company": "Unico Talent",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job",
+      "timestamp": "2026-11-05T12:52:26.202Z"
+    },
+    {
+      "jobId": 1679624,
+      "title": "Artificial Intelligence Engineer - LangChain/LangGraph (3-8 yrs)",
+      "company": "GrowthsphereAI ",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job",
+      "timestamp": "2026-11-05T12:52:28.323Z"
+    },
+    {
+      "jobId": 1677556,
+      "title": "AI Engineer - Generative AI (3-5 yrs)",
+      "company": "Big Ideas Social Media Recruitment",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job",
+      "timestamp": "2026-11-05T12:52:30.253Z"
+    },
+    {
+      "jobId": 1681483,
+      "title": "Coffeebeans.io - Data Scientist - LLM/Generative AI (3-8 yrs)",
+      "company": "Coffeebeans Consulting",
+      "status": "applied",
+      "applicationId": 79293262,
+      "timestamp": "2026-11-05T18:22:33.392Z"
+    },
+    {
+      "jobId": 1680740,
+      "title": "Machine Learning Engineer - Python/PyTorch (3-7 yrs)",
+      "company": "Bulwark Software Research",
+      "status": "applied",
+      "applicationId": 79293263,
+      "timestamp": "2026-11-05T18:22:34.911Z"
+    },
+    {
+      "jobId": 1681677,
+      "title": "Data Scientist - Agentic AI (3-10 yrs)",
+      "company": "Spectraforce Technologies",
+      "status": "applied",
+      "applicationId": 79293270,
+      "timestamp": "2026-11-05T18:22:36.771Z"
+    }
+  ]
+}

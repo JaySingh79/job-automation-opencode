@@ -1,0 +1,46 @@
+[
+  {
+    "status": "awaiting_human_captcha_submit",
+    "reason": "reCAPTCHA visual challenge presented on Ashby",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\lavendo-captcha-challenge.png",
+    "url": "https://jobs.ashbyhq.com/lavendo/5c17713c-a644-4c4a-a702-c9e854c714e2/application",
+    "job_url": "https://jobs.ashbyhq.com/lavendo/5c17713c-a644-4c4a-a702-c9e854c714e2",
+    "company": "lavendo",
+    "role": "Forward Deployed Engineer, AI Training Data (San Mateo, CA)",
+    "platform": "ashby",
+    "duration_seconds": 20.0
+  },
+  {
+    "status": "awaiting_human_captcha_submit",
+    "reason": "reCAPTCHA visual challenge presented on Ashby",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\anyone-ai-captcha-challenge.png",
+    "url": "https://jobs.ashbyhq.com/anyone-ai/00d01f25-b22d-49e0-a21c-03839c58107b/application",
+    "job_url": "https://jobs.ashbyhq.com/anyone-ai/00d01f25-b22d-49e0-a21c-03839c58107b",
+    "company": "anyone-ai",
+    "role": "Full-Stack Developer - AI Trainer (UK)",
+    "platform": "ashby",
+    "duration_seconds": 21.1
+  },
+  {
+    "status": "awaiting_human_captcha_submit",
+    "reason": "reCAPTCHA visual challenge presented on Ashby",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\anyone-ai-captcha-challenge.png",
+    "url": "https://jobs.ashbyhq.com/anyone-ai/227d54fd-ef63-4aea-af01-c97e6ced64b6/application",
+    "job_url": "https://jobs.ashbyhq.com/anyone-ai/227d54fd-ef63-4aea-af01-c97e6ced64b6",
+    "company": "anyone-ai",
+    "role": "Full-Stack Developer - AI Trainer (Portugal)",
+    "platform": "ashby",
+    "duration_seconds": 17.9
+  },
+  {
+    "status": "awaiting_human_captcha_submit",
+    "reason": "reCAPTCHA visual challenge presented on Ashby",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\openai-captcha-challenge.png",
+    "url": "https://jobs.ashbyhq.com/openai/be7b1bf5-37ab-40f7-9ec1-e9732244f12a/application",
+    "job_url": "https://jobs.ashbyhq.com/openai/be7b1bf5-37ab-40f7-9ec1-e9732244f12a",
+    "company": "openai",
+    "role": "Applied AI Engineer, Cyber, Government",
+    "platform": "ashby",
+    "duration_seconds": 21.4
+  }
+]

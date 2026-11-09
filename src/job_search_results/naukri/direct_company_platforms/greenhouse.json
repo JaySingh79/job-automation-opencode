@@ -1,0 +1,72 @@
+{
+  "platform": "greenhouse",
+  "total_jobs": 3,
+  "jobs": [
+    {
+      "job_id": "020926501748",
+      "title": "Software Engineer (2027 Graduate)",
+      "company": "Graviton Research Capital",
+      "platform": "greenhouse",
+      "company_site_url": "https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8764240002",
+      "ats_domain": "job-boards.greenhouse.io",
+      "naukri_url": "https://www.naukri.com/job-listings-software-engineer-2027-graduate-graviton-research-capital-llp-gurugram-0-to-6-years-020926501748",
+      "experience": "0-6 Yrs",
+      "location": "Gurugram",
+      "posted_date": "3+ weeks ago",
+      "skills": [
+        "Computer science",
+        "C++",
+        "Automation",
+        "Linux",
+        "Networking",
+        "Analytical",
+        "Debugging",
+        "Data structures"
+      ]
+    },
+    {
+      "job_id": "030223502511",
+      "title": "Software Engineer, Backend",
+      "company": "Glean",
+      "platform": "greenhouse",
+      "company_site_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4006731005",
+      "ats_domain": "job-boards.greenhouse.io",
+      "naukri_url": "https://www.naukri.com/job-listings-software-engineer-backend-glean-remote-0-to-1-years-030223502511",
+      "experience": "0-1 Yrs",
+      "location": "Remote",
+      "posted_date": "3+ weeks ago",
+      "skills": [
+        "Backend",
+        "Coding",
+        "GCP",
+        "Cloud",
+        "Infrastructure",
+        "Distribution system",
+        "Monitoring",
+        "Python"
+      ]
+    },
+    {
+      "job_id": "200426504137",
+      "title": "Staff Software Engineer, Agentic Platform",
+      "company": "Tide Software",
+      "platform": "greenhouse",
+      "company_site_url": "https://job-boards.greenhouse.io/tide/jobs/7703991003",
+      "ats_domain": "job-boards.greenhouse.io",
+      "naukri_url": "https://www.naukri.com/job-listings-staff-software-engineer-agentic-platform-tide-software-new-delhi-0-to-4-years-200426504137",
+      "experience": "0-4 Yrs",
+      "location": "New Delhi",
+      "posted_date": "3+ weeks ago",
+      "skills": [
+        "Administration",
+        "Backend",
+        "French",
+        "Postgresql",
+        "MySQL",
+        "Workflow",
+        "German",
+        "Risk management"
+      ]
+    }
+  ]
+}

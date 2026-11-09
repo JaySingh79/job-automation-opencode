@@ -1,0 +1,553 @@
+{
+ "collected_at": "2026-10-11",
+ "counts": {
+  "applied": 8,
+  "blocked": 0,
+  "fresh_total": 55,
+  "needs_approval": 11,
+  "queued": 0,
+  "skipped_record": 36
+ },
+ "excluded_already_applied": "Deduped against 171 known Wellfound IDs from src/application_progress/wellfound_progress.json (applied/blocked/skipped/ready/external/parked) + src/job_search_results/wellfound_100_2026-10-08.json. ~50 searched candidates dropped as already-known; out-of-scope (senior/5y/US-only/Java-major) dropped without record.",
+ "filters": {
+  "exp": "0-2y queued freely; 3y ONLY with exact LLM/RAG/agent skill-identity match (user-approved 2026-10-11)",
+  "geo": "India or Remote-India only",
+  "roles": "SDE/AI/ML/GenAI/DS/Full-Stack only",
+  "stack": "Python must be present"
+ },
+ "jobs": [
+  {
+   "company": "PrivaSapien",
+   "exp": "3y-exception LLM/RAG/agents exact",
+   "location": "Bangalore Urban",
+   "role": "ML Engineer",
+   "stack": "Python, FastAPI, LLMs, RAG, Agents",
+   "status": "skipped_record",
+   "url": "https://wellfound.com/jobs/4385585-ml-engineer",
+   "reason": "CLOSED_410 confirmed 2026-10-11: job page returns 410 Page no longer available"
+  },
+  {
+   "company": "Marloa",
+   "exp": "0y Intern",
+   "location": "Kochi + Remote India",
+   "role": "AI/ML Engineer Intern",
+   "stack": "Python, LangChain, RAG, OpenAI API",
+   "status": "skipped_record",
+   "url": "https://wellfound.com/jobs/4622519-ai-ml-engineer-intern",
+   "reason": "CLOSED_410 confirmed 2026-10-11: job page returns 410 Page no longer available"
+  },
+  {
+   "company": "Loyalty Juggernaut",
+   "exp": "2y",
+   "location": "Hyderabad",
+   "role": "AI Engineer",
+   "stack": "Python, AI/ML",
+   "status": "skipped_record",
+   "url": "https://wellfound.com/jobs/3537121-ai-engineer",
+   "reason": "SENIOR_GAP 5y sidebar, researcher 2y data stale (recon 2026-10-11)"
+  },
+  {
+   "company": "DrishtIQ",
+   "exp": "2y",
+   "location": "Gurgaon",
+   "note": "Different ID from skipped 4728255 DrishtIQ-10Y_SENIOR",
+   "role": "Forward Deployed AI Engineer",
+   "stack": "Python, LLM, Finance AI",
+   "status": "skipped_record",
+   "url": "https://wellfound.com/jobs/4817710-forward-deployed-ai-engineer",
+   "reason": "SENIOR_GAP 2-6y range, Gurgaon on-site (recon 2026-10-11)"
+  },
+  {
+   "company": "Unize",
+   "exp": "1y",
+   "location": "Remote India",
+   "role": "AI Engineer",
+   "stack": "Python/JS, Agents, RAG/GraphRAG, Evals",
+   "status": "applied",
+   "url": "https://wellfound.com/jobs/4751176-ai-engineer",
+   "reason": "submitted 2026-10-11 evidence=disabled-button \u2713 Applied (Variant A + JD note-apps answer; fresh-tab synthetic click)"
+  },
+  {
+   "company": "Thalmaar",
+   "exp": "2y",
+   "location": "Pune + Remote",
+   "role": "Full Stack AI Engineer - India",
+   "stack": "Python, LLMs, Full-stack, Docker",
+   "status": "skipped_record",
+   "url": "https://wellfound.com/jobs/4572904-full-stack-ai-engineer-india",
+   "reason": "SALARY_FLOOR 5-10L (recon 2026-10-11)"
+  },
+  {
+   "company": "Dheera Innovation",
+   "exp": "0-1y",
+   "location": "Bangalore + Remote",
+   "role": "ML Engineer-1",
+   "stack": "Python, PyTorch, LLMs, RAG, HuggingFace",
+   "status": "skipped_record",
+   "url": "https://wellfound.com/jobs/3745143-ml-engineer-1",
+   "reason": "EXTERNAL_FLOW+UNPAID: JD says email CV to tech@dheera.co + up to 3 months unpaid; Wellfound button is not the real application"
+  },
+  {
+   "company": "Frequency.cx",
+   "exp": "2y",
+   "location": "Mumbai",
+   "role": "AI Engineer",
+   "stack": "Python, AI",
+   "status": "applied",
+   "url": "https://wellfound.com/jobs/4299539-ai-engineer",
+   "reason": "submitted 2026-10-11 evidence=disabled-button \u2713 Applied (Variant A)"
+  },
+  {
+   "company": "Quadcentrix",
+   "exp": "3y-exception GenAI/RAG/Agents exact",
+   "location": "New Delhi",
+   "role": "Gen AI Engineer",
+   "stack": "Python, LLMs, RAG, LangChain/CrewAI",
+   "status": "applied",
+   "url": "https://wellfound.com/jobs/4597604-gen-ai-engineer",
+   "reason": "submitted 2026-10-11 evidence=disabled-button \u2713 Applied (Variant A, relocate New Delhi)"
+  },
+  {
+   "company": "TopGrep Tech",
+   "exp": "1-3y RAG exact",
+   "location": "Bengaluru",
+   "role": "AI/ML Engineer \u00e2\u20ac\u201c Data Science & Data Eng",
+   "stack": "Python, PyTorch, RAG, LangChain, HuggingFace",
+   "status": "skipped_record",
+   "url": "https://wellfound.com/jobs/4562475-ai-ml-engineer-data-science-data-engineering",
+   "reason": "SALARY_FLOOR 3.5-4.5L + 3y sidebar (recon 2026-10-11)"
+  },
+  {
+   "company": "LearnTube.ai",
+   "exp": "2y",
+   "location": "Mumbai + remote flex",
+   "role": "AI Backend Engineer",
+   "stack": "Python, AI Backend, LLMs",
+   "status": "applied",
+   "url": "https://wellfound.com/jobs/4493158-ai-backend-engineer",
+   "reason": "submitted 2026-10-11 evidence=disabled-button \u2713 Applied (Variant A)"
+  },
+  {
+   "company": "D Square Consulting",
+   "exp": "1-2y",
+   "location": "Bangalore Urban",
+   "role": "Junior Data Scientist",
+   "stack": "Python, SQL, ML, Stats",
+   "status": "skipped_record",
+   "url": "https://wellfound.com/jobs/4436929-junior-data-scientist",
+   "reason": "CLOSED_410 confirmed 2026-10-11"
+  },
+  {
+   "company": "DhronAI",
+   "exp": "1y",
+   "location": "Vapi",
+   "role": "AI Engineer",
+   "stack": "Python, AI",
+   "status": "skipped_record",
+   "url": "https://wellfound.com/jobs/4597658-ai-engineer",
+   "reason": "SALARY_FLOOR 20-50k/mo (2.4-6L/yr) (recon 2026-10-11)"
+  },
+  {
+   "company": "Scalio",
+   "exp": "2y",
+   "location": "Bengaluru",
+   "role": "Founding Engineer for AI Consumer App",
+   "stack": "Python/JS, LLMs, Agents, Tool-calling",
+   "status": "applied",
+   "url": "https://wellfound.com/jobs/4597700-founding-engineer-for-ai-consumer-app",
+   "reason": "submitted 2026-10-11 evidence=disabled-button \u2713 Applied (Variant A)"
+  },
+  {
+   "company": "Tiso Studio",
+   "exp": "2y",
+   "location": "Hyderabad",
+   "role": "Generative AI Engineer",
+   "stack": "Python, LLMs, RAG, LangChain/LlamaIndex, FAISS",
+   "status": "skipped_record",
+   "url": "https://wellfound.com/jobs/4522703-generative-ai-engineer",
+   "reason": "SENIOR_GAP 3+y sidebar + SALARY_FLOOR 5-6L (recon 2026-10-11)"
+  },
+  {
+   "company": "Flipr Innovation Labs",
+   "exp": "1y+",
+   "location": "Bengaluru",
+   "role": "AI Product Engineer",
+   "stack": "Python, LLMs, RAG, agents, LangChain/LangGraph",
+   "status": "skipped_record",
+   "url": "https://wellfound.com/jobs/4493183-ai-product-engineer",
+   "reason": "CLOSED: job listing no longer available (recon 2026-10-11)"
+  },
+  {
+   "company": "Fibr AI",
+   "exp": "2y",
+   "location": "Bengaluru",
+   "role": "Product Engineer",
+   "stack": "Python/FastAPI, LLMs, LangChain, evals/guardrails",
+   "status": "skipped_record",
+   "url": "https://wellfound.com/jobs/4348073-product-engineer",
+   "reason": "CLOSED_410 confirmed 2026-10-11"
+  },
+  {
+   "company": "Steps AI",
+   "exp": "1y",
+   "location": "Hyderabad",
+   "note": "Different ID from skipped 4754610 Steps-SDE",
+   "role": "Software Engineer \u00e2\u20ac\u201d Agentic AI & Backend",
+   "stack": "Python, Agentic-AI, backend",
+   "status": "skipped_record",
+   "url": "https://wellfound.com/jobs/4171928-software-engineer-agentic-ai-backend",
+   "reason": "SENIOR_GAP 3+y sidebar (recon 2026-10-11)"
+  },
+  {
+   "company": "InfinityPool Finnotech",
+   "exp": "2y",
+   "location": "Remote (incl India)",
+   "role": "AI Software Engineer",
+   "stack": "Python, AI-native products",
+   "status": "skipped_record",
+   "url": "https://wellfound.com/jobs/2771329-ai-software-engineer",
+   "reason": "SALARY_FLOOR 3-5L + stale posted 1y ago (recon 2026-10-11)"
+  },
+  {
+   "company": "Renan",
+   "exp": "1-2y",
+   "location": "Bengaluru",
+   "role": "AI Engineer",
+   "stack": "Python, GenAI/ML/DL, NLP",
+   "status": "skipped_record",
+   "url": "https://wellfound.com/jobs/3364104-ai-engineer",
+   "reason": "SALARY_FLOOR 5-9L + stale posted 1y ago (recon 2026-10-11)"
+  },
+  {
+   "company": "GoComet",
+   "exp": "2y",
+   "location": "Bangalore Urban",
+   "role": "Full Stack AI Engineer",
+   "stack": "Python/FastAPI, LangGraph, RAG, Weaviate, Langfuse",
+   "status": "skipped_record",
+   "url": "https://wellfound.com/jobs/4609999-full-stack-ai-engineer",
+   "reason": "CLOSED: job listing no longer available (recon 2026-10-11)"
+  },
+  {
+   "company": "ANM Tech",
+   "exp": "0y Intern",
+   "location": "Remote India",
+   "role": "AI Internship",
+   "stack": "Python, LangChain, RAG, n8n",
+   "status": "skipped_record",
+   "url": "https://wellfound.com/jobs/4662981-ai-internship",
+   "reason": "SALARY_FLOOR 12-15k/mo stipend (recon 2026-10-11)"
+  },
+  {
+   "company": "DOstack AI Labs",
+   "exp": "0y Intern",
+   "location": "Bangalore / Remote India",
+   "role": "SDE Intern",
+   "stack": "Python, React, AWS Lambda",
+   "status": "skipped_record",
+   "url": "https://wellfound.com/jobs/4039738-sde-intern",
+   "reason": "CLOSED_410 confirmed 2026-10-11"
+  },
+  {
+   "company": "Invsto",
+   "exp": "0y Intern",
+   "location": "Remote India",
+   "role": "Backend Engineer Intern",
+   "stack": "Python, Django, Postgres",
+   "status": "skipped_record",
+   "url": "https://wellfound.com/jobs/1853816-backend-engineer-intern-2027-28-graduates",
+   "reason": "CLOSED_410 confirmed 2026-10-11"
+  },
+  {
+   "company": "EaseOps",
+   "exp": "1y",
+   "location": "Remote India",
+   "role": "Backend Intern",
+   "stack": "Python, Django, FastAPI",
+   "status": "skipped_record",
+   "url": "https://wellfound.com/jobs/2878516-backend-intern",
+   "reason": "SALARY_FLOOR 1-2L (recon 2026-10-11)"
+  },
+  {
+   "company": "PrepAiro",
+   "exp": "0y Intern",
+   "location": "Bengaluru / Remote",
+   "role": "Backend Intern Python",
+   "stack": "Python, FastAPI",
+   "status": "skipped_record",
+   "url": "https://wellfound.com/jobs/4118818-backend-intern-python",
+   "reason": "CLOSED_410 confirmed 2026-10-11"
+  },
+  {
+   "company": "Zenqua Technologies",
+   "exp": "0y Fresher",
+   "location": "Indore",
+   "role": "Backend Engineer Intern/Fresher Python",
+   "stack": "Python, REST, SQL",
+   "status": "skipped_record",
+   "url": "https://wellfound.com/jobs/4266024-backend-engineer-intern-fresher-python",
+   "reason": "CLOSED: job listing no longer available (recon 2026-10-11)"
+  },
+  {
+   "company": "Jash Data Sciences",
+   "exp": "0-2y",
+   "location": "Pune",
+   "role": "Data Scientist (DS-I)",
+   "stack": "Python, FastAPI, SQL, LLMs",
+   "status": "skipped_record",
+   "url": "https://wellfound.com/jobs/4365529-data-scientist",
+   "reason": "CLOSED: job listing no longer available (recon 2026-10-11)"
+  },
+  {
+   "company": "Biz-Tech Analytics",
+   "exp": "1y",
+   "location": "Delhi",
+   "role": "Junior Machine Learning Engineer AI & Vision",
+   "stack": "Python, PyTorch, OpenCV/YOLO",
+   "status": "skipped_record",
+   "url": "https://wellfound.com/jobs/4475551-junior-machine-learning-engineer-ai-computer-vision",
+   "reason": "CLOSED_410 confirmed 2026-10-11"
+  },
+  {
+   "company": "Lupira",
+   "exp": "0y Intern",
+   "location": "Remote (accepts India)",
+   "role": "Django Developer Intern (Mobile Backend)",
+   "stack": "Python, Django",
+   "status": "skipped_record",
+   "url": "https://wellfound.com/jobs/4748725-django-developer-intern-mobile-app-backend",
+   "reason": "EXTERNAL_FLOW: JD says email resume+GitHub with subject line; Wellfound button is not the real application (recon 2026-10-11)"
+  },
+  {
+   "company": "Saral Recruitments",
+   "exp": "1y",
+   "location": "Remote India",
+   "role": "Django Developer",
+   "stack": "Python, Django",
+   "status": "skipped_record",
+   "url": "https://wellfound.com/jobs/4634144-django-developer",
+   "reason": "SALARY_FLOOR 15-25k/mo (1.8-3L/yr) (recon 2026-10-11)"
+  },
+  {
+   "company": "upforge global",
+   "exp": "0y",
+   "location": "Delhi / Hybrid-Remote",
+   "role": "Python Developer AI & Stock Market",
+   "stack": "Python, AI",
+   "status": "skipped_record",
+   "url": "https://wellfound.com/jobs/4803770-we-re-hiring-python-developer-ai-stock-market-intelligence",
+   "reason": "SALARY_FLOOR 2-3.5L (recon 2026-10-11)"
+  },
+  {
+   "company": "Impact Analytics",
+   "exp": "2y",
+   "location": "Bengaluru",
+   "role": "Python Developer",
+   "stack": "Python, AI/ML automation",
+   "status": "applied",
+   "url": "https://wellfound.com/jobs/1053169-python-developer",
+   "reason": "submitted 2026-10-11 evidence=disabled-button \u2713 Applied (Variant B)"
+  },
+  {
+   "company": "Rankkking",
+   "exp": "2y",
+   "location": "Noida",
+   "role": "Python Developer",
+   "stack": "Python",
+   "status": "skipped_record",
+   "url": "https://wellfound.com/jobs/4463297-python-developer",
+   "reason": "SALARY_FLOOR 4-6L (recon 2026-10-11)"
+  },
+  {
+   "company": "Sosuv Consulting",
+   "exp": "2y",
+   "location": "Bangalore Urban",
+   "role": "Python Developer",
+   "stack": "Python",
+   "status": "skipped_record",
+   "url": "https://wellfound.com/jobs/2785138-python-developer",
+   "reason": "SENIOR_GAP 5y sidebar (recon 2026-10-11)"
+  },
+  {
+   "company": "drytis",
+   "exp": "1y",
+   "location": "Delhi/Gurgaon + Remote",
+   "role": "AI engineer",
+   "stack": "Python, LLMs, Prompt Eng",
+   "status": "skipped_record",
+   "url": "https://wellfound.com/jobs/3794754-ai-engineer",
+   "reason": "SENIOR_GAP 8y sidebar + support-flavored role (recon 2026-10-11)"
+  },
+  {
+   "company": "Aureole Technologies",
+   "exp": "0y Fresher",
+   "reason": "EXTERNAL_FLOW on recheck: JD says email resume to careers@vegam.co (2026-10-11)",
+   "role": "AI Application Engineer",
+   "stack": "Python, AI Apps",
+   "status": "skipped_record",
+   "url": "https://wellfound.com/jobs/4644153-ai-application-engineer"
+  },
+  {
+   "company": "Evam Labs",
+   "exp": "1-3y",
+   "reason": "submitted 2026-10-11 evidence=disabled-button \u2713 Applied (Variant A; modal needed reload+reclick)",
+   "role": "AI Engineer",
+   "stack": "Python, GenAI/LLMs",
+   "status": "applied",
+   "url": "https://wellfound.com/jobs/4628490-ai-engineer"
+  },
+  {
+   "company": "Emplay",
+   "exp": "2y",
+   "reason": "submitted 2026-10-11 evidence=disabled-button \u2713 Applied (Variant A KG; synthetic Send click)",
+   "role": "Knowledge Graph Engineer (AI)",
+   "stack": "Python, Neo4j, LangChain, RAG, Bedrock",
+   "status": "applied",
+   "url": "https://wellfound.com/jobs/4751182-knowledge-graph-engineer-ai"
+  },
+  {
+   "company": "Emplay",
+   "exp": "1-2y",
+   "reason": "SAME_COMPANY_2ND: 4152829 Emplay applied \u00e2\u20ac\u201d needs explicit approval",
+   "role": "Associate AI Engineer",
+   "stack": "Python, GenAI, RAG, LangChain",
+   "status": "needs_approval",
+   "url": "https://wellfound.com/jobs/4750179-associate-ai-engineer"
+  },
+  {
+   "company": "senzcraft",
+   "exp": "2y",
+   "reason": "SAME_COMPANY_2ND: 3162328 applied + 3280338 parked \u00e2\u20ac\u201d needs explicit approval",
+   "role": "GenAI Engineer",
+   "stack": "Python/FastAPI, LangChain/LangGraph, RAG",
+   "status": "needs_approval",
+   "url": "https://wellfound.com/jobs/3629487-urgent-hiring-genai-engineer-2-years-of-experience-immediate-15-days-preferred"
+  },
+  {
+   "company": "Lupira",
+   "exp": "0y Intern",
+   "reason": "SAME_COMPANY_2ND in same sweep as 4748725 \u00e2\u20ac\u201d needs explicit approval",
+   "role": "Python Developer Internship",
+   "stack": "Python",
+   "status": "needs_approval",
+   "url": "https://wellfound.com/jobs/4697938-python-developer-internship"
+  },
+  {
+   "company": "Teal India",
+   "exp": "1y",
+   "reason": "Same-company cluster (4246040 applied, 4246035/36 external) \u00e2\u20ac\u201d needs explicit approval",
+   "role": "AI/ML Engineer",
+   "stack": "Python, NLP, RAG, BERT, FastAPI",
+   "status": "needs_approval",
+   "url": "https://wellfound.com/jobs/4246041-ai-ml-engineer"
+  },
+  {
+   "company": "ViH Labs",
+   "exp": "2y",
+   "reason": "VOICE_AI core gap \u00e2\u20ac\u201d needs explicit approval",
+   "role": "Machine Learning Engineer (Voice AI)",
+   "stack": "Python, Voice AI, ML",
+   "status": "needs_approval",
+   "url": "https://wellfound.com/jobs/4203466-machine-learning-engineer-voice-ai"
+  },
+  {
+   "company": "Tiso Studio",
+   "exp": "1y",
+   "reason": "SAME_COMPANY_2ND in same sweep as 4522703 \u00e2\u20ac\u201d needs explicit approval; salary 4-4.5L floor note",
+   "role": "MLOps Engineer",
+   "stack": "Python, ML, Docker, MLflow",
+   "status": "needs_approval",
+   "url": "https://wellfound.com/jobs/4522702-mlops-engineer"
+  },
+  {
+   "company": "red6.ai",
+   "exp": "1y",
+   "reason": "SAME_COMPANY_2ND: 4597637 red6 applied \u00e2\u20ac\u201d needs explicit approval",
+   "role": "Junior Applied AI Engineer - Document & Voice",
+   "stack": "Python, CV, OCR, LLMs",
+   "status": "needs_approval",
+   "url": "https://wellfound.com/jobs/4597634-fractional-principal-ai-systems-architect-clone"
+  },
+  {
+   "company": "EveoAI",
+   "exp": "1y",
+   "reason": "Same-company cluster + salary floor (10-35k/mo) \u00e2\u20ac\u201d needs explicit approval",
+   "role": "NLP Engineer",
+   "stack": "Python, NLP, conversational AI",
+   "status": "needs_approval",
+   "url": "https://wellfound.com/jobs/2859940-nlp-engineer"
+  },
+  {
+   "company": "Steinn Labs",
+   "exp": "3y",
+   "reason": "3Y_NONEXACT: 3y without exact-match evidence \u00e2\u20ac\u201d needs explicit approval",
+   "role": "Python Developer",
+   "stack": "Python",
+   "status": "needs_approval",
+   "url": "https://wellfound.com/jobs/3309567-python-developer"
+  },
+  {
+   "company": "Codebuddy",
+   "exp": "3y",
+   "reason": "3Y_NONEXACT: 3y without exact-match evidence \u00e2\u20ac\u201d needs explicit approval",
+   "role": "Python Developer AI Geek",
+   "stack": "Python, AI",
+   "status": "needs_approval",
+   "url": "https://wellfound.com/jobs/4234006-python-developer-ai-geek"
+  },
+  {
+   "company": "Optiflux",
+   "exp": "3y",
+   "reason": "3Y_NONEXACT: 3y without exact-match evidence \u00e2\u20ac\u201d needs explicit approval",
+   "role": "Data Scientist",
+   "stack": "Python, AI/optimization",
+   "status": "needs_approval",
+   "url": "https://wellfound.com/jobs/4780401-data-scientist"
+  },
+  {
+   "company": "Sciative",
+   "exp": "0y",
+   "reason": "SALARY_FLOOR 28-50k/mo (3.4-6L) below 10L floor per skip taxonomy",
+   "role": "Junior Data Engineer & Intelligence",
+   "stack": "Python, LangChain, LLMs",
+   "status": "skipped_record",
+   "url": "https://wellfound.com/jobs/3497707-junior-data-engineer-intelligence"
+  },
+  {
+   "company": "Entrupy",
+   "exp": "3-5y",
+   "reason": "SENIOR_GAP: 3-5y exceeds 3y cap",
+   "role": "MLOps Engineer - Platform",
+   "stack": "Python, MLOps, AWS",
+   "status": "skipped_record",
+   "url": "https://wellfound.com/jobs/3264404-mlops-engineer-platform"
+  },
+  {
+   "company": "MaxHome.ai",
+   "exp": "3y support-role",
+   "reason": "DOMAIN_MISMATCH: production-support core, not AI-build; 3y cap edge",
+   "role": "MLOps Engineer",
+   "stack": "Python, SQL, CI/CD",
+   "status": "skipped_record",
+   "url": "https://wellfound.com/jobs/4760754-mlops-engineer"
+  },
+  {
+   "company": "Sentinel",
+   "exp": "0y cofounder-type",
+   "reason": "SECURITY_CORE_GAP + cofounder structure, not employment role",
+   "role": "Founding Engineer AI Agent Security",
+   "stack": "Python, Security, LLMs",
+   "status": "skipped_record",
+   "url": "https://wellfound.com/jobs/4574415-founding-engineer-ai-agent-security-governance-platform"
+  },
+  {
+   "company": "Emplay",
+   "exp": "2-3y senior-associate",
+   "reason": "SENIOR_TITLE + SAME_COMPANY cluster (4152829 applied)",
+   "role": "Senior Associate AI Engineer",
+   "stack": "Python, RAG, AWS",
+   "status": "skipped_record",
+   "url": "https://wellfound.com/jobs/4750163-senior-associate-ai-engineer"
+  }
+ ]
+}

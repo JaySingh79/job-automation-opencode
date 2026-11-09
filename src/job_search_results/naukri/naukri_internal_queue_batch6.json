@@ -1,0 +1,303 @@
+{
+  "batch_id": 6,
+  "subagent": "naukri-fill-6",
+  "total_jobs": 15,
+  "jobs": [
+    {
+      "job_id": "131026946742",
+      "title": "Market Risk Analyst",
+      "company": "EY",
+      "experience": "0-5 Yrs",
+      "salary": "10-50+ LPA (Applied Filter)",
+      "location": "Mumbai",
+      "tags": [
+        "Agile",
+        "Business Strategy",
+        "Capital Markets",
+        "Data Strategy",
+        "Compliance",
+        "Banking",
+        "Digital Transformation",
+        "Analytics"
+      ],
+      "posted_date": "1 week ago",
+      "url": "https://www.naukri.com/job-listings-market-risk-analyst-ernst-young-llp-mumbai-0-to-5-years-131026946742"
+    },
+    {
+      "job_id": "131026946248",
+      "title": "IRB Risk Consultant",
+      "company": "EY",
+      "experience": "0-5 Yrs",
+      "salary": "10-50+ LPA (Applied Filter)",
+      "location": "Mumbai",
+      "tags": [
+        "Agile",
+        "Business Strategy",
+        "Capital Markets",
+        "Financial Services",
+        "Compliance",
+        "Finance",
+        "Banking",
+        "Digital Transformation"
+      ],
+      "posted_date": "1 week ago",
+      "url": "https://www.naukri.com/job-listings-irb-risk-consultant-ernst-young-llp-mumbai-0-to-5-years-131026946248"
+    },
+    {
+      "job_id": "111026004601",
+      "title": "Fullstack Developer",
+      "company": "Aon",
+      "experience": "0-3 Yrs",
+      "salary": "10-50+ LPA (Applied Filter)",
+      "location": "Hybrid - Bengaluru",
+      "tags": [
+        "OOPs",
+        "data structure",
+        ".NET",
+        "algorithm",
+        "C#",
+        "python",
+        "Algorithms",
+        "Full Stack"
+      ],
+      "posted_date": "2 weeks ago",
+      "url": "https://www.naukri.com/job-listings-fullstack-developer-aon-bengaluru-0-to-3-years-111026004601"
+    },
+    {
+      "job_id": "300926017847",
+      "title": "Machine Learning Engineer (0-5)",
+      "company": "Tech Mahindra",
+      "experience": "0-5 Yrs",
+      "salary": "8-14 Lacs PA",
+      "location": "Hybrid - Noida, Pune, Bengaluru",
+      "tags": [
+        "Tensorflow",
+        "Machine learning developement",
+        "Open Source Technologies",
+        "CI/CD",
+        "Machine Learning Operations",
+        "Pytorch",
+        "ML Pipelines",
+        "Prometheus"
+      ],
+      "posted_date": "3 weeks ago",
+      "url": "https://www.naukri.com/job-listings-machine-learning-engineer-0-5-tech-mahindra-noida-pune-bengaluru-0-to-5-years-300926017847"
+    },
+    {
+      "job_id": "191026504056",
+      "title": "RAIQL AI Developer",
+      "company": "Pcds Infotech",
+      "experience": "0-2 Yrs",
+      "salary": "10-50+ LPA (Applied Filter)",
+      "location": "Remote",
+      "tags": [
+        "Artificial Intelligence",
+        "Communication skills",
+        "Interpersonal skills",
+        "Agile",
+        "Workflow",
+        "Exchange server",
+        "Data",
+        "Version control"
+      ],
+      "posted_date": "1 week ago",
+      "url": "https://www.naukri.com/job-listings-raiql-ai-developer-pcds-infotech-p-ltd-remote-0-to-2-years-191026504056"
+    },
+    {
+      "job_id": "141026934002",
+      "title": "Associate Consultant - Business Consulting - Digital Risk",
+      "company": "EY",
+      "experience": "0-5 Yrs",
+      "salary": "10-50+ LPA (Applied Filter)",
+      "location": "Hyderabad",
+      "tags": [
+        "Agile",
+        "Business Strategy",
+        "Internal Controls",
+        "Internal Audit",
+        "Financial Services",
+        "Compliance",
+        "Legal",
+        "Enterprise Risk"
+      ],
+      "posted_date": "1 week ago",
+      "url": "https://www.naukri.com/job-listings-associate-consultant-business-consulting-digital-risk-ernst-young-llp-hyderabad-0-to-5-years-141026934002"
+    },
+    {
+      "job_id": "091026912262",
+      "title": "Azure .NET Full stack Developer(Reactjs or Angular)",
+      "company": "Capgemini",
+      "experience": "0-5 Yrs",
+      "salary": "10-50+ LPA (Applied Filter)",
+      "location": "Bengaluru",
+      "tags": [
+        "agile",
+        "ci/cd pipelines",
+        "azure sql",
+        "asp.net web api",
+        "bootstrap",
+        "backend development",
+        "azure devops",
+        "azure functions"
+      ],
+      "posted_date": "2 weeks ago",
+      "url": "https://www.naukri.com/job-listings-azure-net-full-stack-developer-reactjs-or-angular-capgemini-technology-services-india-limited-bengaluru-0-to-5-years-091026912262"
+    },
+    {
+      "job_id": "250926504150",
+      "title": "Technical Administrator (Zoom, LMS)",
+      "company": "Al Balagh Academy",
+      "experience": "0-2 Yrs",
+      "salary": "10-50+ LPA (Applied Filter)",
+      "location": "Remote",
+      "tags": [
+        "Computer science",
+        "Administration",
+        "Usage",
+        "LMS",
+        "Technical Administrator",
+        "Management systems",
+        "Video conferencing",
+        "Troubleshooting"
+      ],
+      "posted_date": "3+ weeks ago",
+      "url": "https://www.naukri.com/job-listings-technical-administrator-zoom-lms-al-balagh-academy-remote-0-to-2-years-250926504150"
+    },
+    {
+      "job_id": "020726503993",
+      "title": "Back-end developer",
+      "company": "Kode Infotech",
+      "experience": "0-5 Yrs",
+      "salary": "10-50+ LPA (Applied Filter)",
+      "location": "Chandigarh",
+      "tags": [
+        "SQL",
+        "Boot",
+        "Cs",
+        "Javascript",
+        "Spring Boot",
+        "CSS",
+        "Web development",
+        "Microservices"
+      ],
+      "posted_date": "3+ weeks ago",
+      "url": "https://www.naukri.com/job-listings-back-end-developer-kodeinfotech-chandigarh-0-to-5-years-020726503993"
+    },
+    {
+      "job_id": "231026033307",
+      "title": "Data & AI - Trainee Analyst",
+      "company": "Tiger Analytics",
+      "experience": "0-1 Yrs",
+      "salary": "10-50+ LPA (Applied Filter)",
+      "location": "Chennai",
+      "tags": [
+        "C++",
+        "Data analysis",
+        "Python",
+        "Training",
+        "Artificial Intelligence",
+        "Training analysis",
+        "Data"
+      ],
+      "posted_date": "3 days ago",
+      "url": "https://www.naukri.com/job-listings-data-ai-trainee-analyst-tiger-analytics-chennai-0-to-1-years-231026033307"
+    },
+    {
+      "job_id": "231026031925",
+      "title": "Software Engineer, Backend",
+      "company": "Talent Corner HR Services",
+      "experience": "0-5 Yrs",
+      "salary": "6-12 Lacs PA",
+      "location": "New Delhi",
+      "tags": [
+        "Software",
+        "Postgresql",
+        "HTTP",
+        "Python",
+        "GCP",
+        "Software engineering",
+        "Backend",
+        "SQL"
+      ],
+      "posted_date": "3 days ago",
+      "url": "https://www.naukri.com/job-listings-software-engineer-backend-talent-corner-hr-services-new-delhi-0-to-5-years-231026031925"
+    },
+    {
+      "job_id": "121026034917",
+      "title": "Data Analyst",
+      "company": "Recruito",
+      "experience": "0-2 Yrs",
+      "salary": "10-15 Lacs PA",
+      "location": "Remote",
+      "tags": [
+        "SQL",
+        "Reporting",
+        "Python",
+        "Data",
+        "Data analysis"
+      ],
+      "posted_date": "2 weeks ago",
+      "url": "https://www.naukri.com/job-listings-data-analyst-recruito-bengaluru-0-to-2-years-121026034917"
+    },
+    {
+      "job_id": "280126012563",
+      "title": "Business Intelligence Analyst -Data Engineering",
+      "company": "Medpace Clinical Research India",
+      "experience": "0-5 Yrs",
+      "salary": "10-50+ LPA (Applied Filter)",
+      "location": "Navi Mumbai",
+      "tags": [
+        "Business Intelligence",
+        "Data Engineering",
+        "BI",
+        "Dimensional Modeling",
+        "Reporting",
+        "Modeling",
+        "Analytics",
+        "SQL"
+      ],
+      "posted_date": "2 weeks ago",
+      "url": "https://www.naukri.com/job-listings-business-intelligence-analyst-data-engineering-medpace-clinical-research-india-navi-mumbai-0-to-5-years-280126012563"
+    },
+    {
+      "job_id": "211026008620",
+      "title": "Gis Analyst, spatial data scientist, remote sensing specialist, LiDAR",
+      "company": "A Large Geospatial Tech Company",
+      "experience": "0-7 Yrs",
+      "salary": "10-50+ LPA (Applied Filter)",
+      "location": "Hybrid - Noida, Hyderabad, Bengaluru",
+      "tags": [
+        "Drone",
+        "Arcgis PRO",
+        "Remote",
+        "GIS",
+        "GI",
+        "Cartography",
+        "Desktop",
+        "Map"
+      ],
+      "posted_date": "6 days ago",
+      "url": "https://www.naukri.com/job-listings-gis-analyst-spatial-data-scientist-remote-sensing-specialist-lidar-ratein-infotech-noida-hyderabad-bengaluru-0-to-7-years-211026008620"
+    },
+    {
+      "job_id": "251026004089",
+      "title": "AI Analyst",
+      "company": "Sparkl Edventure",
+      "experience": "0-2 Yrs",
+      "salary": "5.5-10 Lacs PA",
+      "location": "Gurugram",
+      "tags": [
+        "Content",
+        "Instructional design",
+        "Artificial Intelligence",
+        "Articulate",
+        "SCORM",
+        "Coding",
+        "Captivate",
+        "Storyline"
+      ],
+      "posted_date": "2 days ago",
+      "url": "https://www.naukri.com/job-listings-ai-analyst-sparkl-edventure-gurugram-0-to-2-years-251026004089"
+    }
+  ]
+}

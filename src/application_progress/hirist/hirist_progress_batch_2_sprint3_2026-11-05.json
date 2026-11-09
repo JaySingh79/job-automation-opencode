@@ -1,0 +1,237 @@
+{
+  "worker": 2,
+  "batch": 2,
+  "sprint": 3,
+  "timestamp": "2026-11-05T16:45:19.138Z",
+  "total_jobs": 32,
+  "applied_count": 22,
+  "parked_count": 10,
+  "already_applied_count": 0,
+  "failed_count": 0,
+  "all_results": [
+    {
+      "jobId": 1678296,
+      "title": "BrightChamps - Senior Full Stack Engineer - WebRTC/AI (3-7 yrs)",
+      "company": "BrightCHAMPS",
+      "status": "applied",
+      "applicationId": 79302358
+    },
+    {
+      "jobId": 1678364,
+      "title": "Equifax - Product Support Engineer - Google Cloud (3-5 yrs)",
+      "company": "Equifax",
+      "status": "applied",
+      "applicationId": 79302360
+    },
+    {
+      "jobId": 1678171,
+      "title": "I2B - Database Platform Engineer (3-9 yrs)",
+      "company": "I2b technologies",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "jobId": 1678034,
+      "title": "Wits Innovation Lab - MLOps Engineer (3-10 yrs)",
+      "company": "WITS Innovation Lab",
+      "status": "applied",
+      "applicationId": 79302361
+    },
+    {
+      "jobId": 1678047,
+      "title": "Design Verification Engineer - UVM/System Verilog (3-6 yrs)",
+      "company": "The Growth Hive",
+      "status": "applied",
+      "applicationId": 79302363
+    },
+    {
+      "jobId": 1678110,
+      "title": "C++ Developer (3-5 yrs)",
+      "company": "Programming.Com",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "jobId": 1678118,
+      "title": "Tableau Developer (3-6 yrs)",
+      "company": "Programming.Com",
+      "status": "applied",
+      "applicationId": 79302366
+    },
+    {
+      "jobId": 1678139,
+      "title": "Leuwint Technologies - CATIA CAA Developer/Services Software Consultant - C++ Programming (3-5 yrs)",
+      "company": "Leuwint Technologies",
+      "status": "applied",
+      "applicationId": 79302367
+    },
+    {
+      "jobId": 1678174,
+      "title": "Majesco - Product Support Engineer (3-7 yrs)",
+      "company": "Majesco",
+      "status": "applied",
+      "applicationId": 79302389
+    },
+    {
+      "jobId": 1677930,
+      "title": "Qentelli - Data Governance Analyst (3-8 yrs)",
+      "company": "Qentelli",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "jobId": 1677867,
+      "title": "Trendlyne - Senior QA Engineer - Automation Testing (3-5 yrs)",
+      "company": "Giskard Datatech",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "jobId": 1677841,
+      "title": "Sail-Analytics - Data Engineer - Azure Synapse Analytics (3-4 yrs)",
+      "company": "Sail Analytics",
+      "status": "applied",
+      "applicationId": 79302395
+    },
+    {
+      "jobId": 1677852,
+      "title": "Moveworks Chatbot Developer - Generative AI (3-5 yrs)",
+      "company": "Hirezy.ai",
+      "status": "applied",
+      "applicationId": 79302398
+    },
+    {
+      "jobId": 1677892,
+      "title": "Hiver - DevOps Engineer II - Kubernetes (3-5 yrs)",
+      "company": "Hiver",
+      "status": "applied",
+      "applicationId": 79302400
+    },
+    {
+      "jobId": 1677898,
+      "title": "Moonshine Technology - DevOps Engineer II - Cloud Infrastructure (3-5 yrs)",
+      "company": "Moonshine Technology",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "jobId": 1677914,
+      "title": "Business Analyst - SQL (3-6 yrs)",
+      "company": "Quess",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "jobId": 1677926,
+      "title": "Nice Software Solutions - Informatica PowerCenter Developer - IICS (3-7 yrs)",
+      "company": "Nice Software Solutions",
+      "status": "applied",
+      "applicationId": 79302429
+    },
+    {
+      "jobId": 1677784,
+      "title": "Data Engineer - PySpark (3-6 yrs)",
+      "company": "MantriAI   ",
+      "status": "applied",
+      "applicationId": 79302431
+    },
+    {
+      "jobId": 1677814,
+      "title": "Data Platform Consultant/Senior Consultant (3-9 yrs)",
+      "company": "Hireginie",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "jobId": 1677341,
+      "title": "Joveo - Software Engineer - Java/Python/AWS (3-5 yrs)",
+      "company": "Joveo Technologies",
+      "status": "applied",
+      "applicationId": 79302434
+    },
+    {
+      "jobId": 1677549,
+      "title": "Evnek - Data & AI/ML QA Engineer (3-7 yrs)",
+      "company": "Evnek",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "jobId": 1677555,
+      "title": "Straive - Senior Consultant - ClickHouse (3-8 yrs)",
+      "company": "SPI TECHNOLOGIES INDIA PRIVATE LIMITED",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "jobId": 1677574,
+      "title": "Data Engineer - CDC Pipelines (3-6 yrs)",
+      "company": "Dhruv Compusoft Consultancy",
+      "status": "applied",
+      "applicationId": 79302446
+    },
+    {
+      "jobId": 1677622,
+      "title": "Alithya - Oracle Cloud Reporting Consultant (3-10 yrs)",
+      "company": " Datum Cybertech India ",
+      "status": "applied",
+      "applicationId": 79302449
+    },
+    {
+      "jobId": 1677663,
+      "title": "PwC - Senior Associate - Delinea Implementation (3-8 yrs)",
+      "company": "Pricewater House Coopers Service Delivery Center",
+      "status": "applied",
+      "applicationId": 79302468
+    },
+    {
+      "jobId": 1677693,
+      "title": "Data Engineer - Palantir Foundry (3-7 yrs)",
+      "company": "Zorba Consulting",
+      "status": "applied",
+      "applicationId": 79302469
+    },
+    {
+      "jobId": 1677725,
+      "title": "Alithya - Senior Consultant - Oracle Enterprise Analytics (3-10 yrs)",
+      "company": " Datum Cybertech India ",
+      "status": "applied",
+      "applicationId": 79302470
+    },
+    {
+      "jobId": 1677730,
+      "title": "Grid Dynamics - Senior Python Developer - Apache Airflow (3-6 yrs)",
+      "company": "GRID DYNAMICS PRIVATE LIMITED",
+      "status": "applied",
+      "applicationId": 79302473
+    },
+    {
+      "jobId": 1677740,
+      "title": "6D Technologies - Senior Backend Developer - Java (3-5 yrs)",
+      "company": "6D Technologies",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "jobId": 1677449,
+      "title": "SatSure - Product Manager - AI/ML Platform (3-5 yrs)",
+      "company": "SatSure",
+      "status": "applied",
+      "applicationId": 79302477
+    },
+    {
+      "jobId": 1677069,
+      "title": "Joveo - Cloud Engineer (3-5 yrs)",
+      "company": "Joveo Technologies",
+      "status": "applied",
+      "applicationId": 79302481
+    },
+    {
+      "jobId": 1677208,
+      "title": "Joveo - Senior Software Engineer - Python/Node.js (3-5 yrs)",
+      "company": "Joveo Technologies",
+      "status": "applied",
+      "applicationId": 79302484
+    }
+  ]
+}

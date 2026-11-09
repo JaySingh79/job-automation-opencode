@@ -1,0 +1,66 @@
+{
+  "platform": "smartrecruiters",
+  "last_updated": "2026-10-28T15:20:00.000Z",
+  "summary": {
+    "total_jobs": 6,
+    "applied": 2,
+    "skipped": 4,
+    "staged": 0
+  },
+  "jobs": [
+    {
+      "job_id": "120925505347",
+      "title": "Data Engineer",
+      "company": "Blend360 India",
+      "company_site_url": "https://jobs.smartrecruiters.com/Blend360/744000081031745",
+      "applied_at": "2026-10-28T15:08:10.000Z",
+      "status": "applied",
+      "verification": "Confirmed by server: Application submitted! Your application for Data Engineer at Blend360 has been submitted successfully."
+    },
+    {
+      "job_id": "280520500774",
+      "title": "Java Developer",
+      "company": "Indusa",
+      "company_site_url": "https://jobs.smartrecruiters.com/Indusa/743999665564163-exciting-opportunity-for-java-developer-in-ahmedabad-with-indusa",
+      "applied_at": null,
+      "status": "skipped",
+      "verification": "Skipped per rule: pure Java role (Hibernate, Core Java, ISO 27001, Struts), non-Python"
+    },
+    {
+      "job_id": "200726504531",
+      "title": "Deck Cadet For Oil Tanker",
+      "company": "Ocean Star Ships",
+      "company_site_url": "https://jobs.smartrecruiters.com/oceanstarshipscom/86436179",
+      "applied_at": null,
+      "status": "skipped",
+      "verification": "Skipped per rule: non-tech maritime role (Deck Cadet / Marine crew)"
+    },
+    {
+      "job_id": "200726505279",
+      "title": "Os Wiper AB Oiler Fresher",
+      "company": "Ocean Star Ships",
+      "company_site_url": "https://jobs.smartrecruiters.com/oceanstarshipscom/99134538",
+      "applied_at": null,
+      "status": "skipped",
+      "verification": "Skipped per rule: non-tech maritime role (Wiper / Oiler crew)"
+    },
+    {
+      "job_id": "200726504798",
+      "title": "GP Rating, Deck Cadet & Engine Cadet",
+      "company": "Ocean Star Ships",
+      "company_site_url": "https://jobs.smartrecruiters.com/oceanstarshipscom/93166798",
+      "applied_at": null,
+      "status": "skipped",
+      "verification": "Skipped per rule: non-tech maritime role (GP Rating, Deck/Engine Cadet)"
+    },
+    {
+      "job_id": "220726501372",
+      "title": "AI Agent Developer (Remote)",
+      "company": "Winbold",
+      "company_site_url": "https://jobs.smartrecruiters.com/Winbold/744000098688234",
+      "applied_at": "2026-10-28T15:16:40.000Z",
+      "status": "applied",
+      "verification": "Confirmed by server: Application submitted! Your application for AI Agent Developer (Remote) at Winbold has been submitted successfully."
+    }
+  ]
+}

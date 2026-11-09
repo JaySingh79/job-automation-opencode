@@ -1,0 +1,59 @@
+{
+ "applied": [
+  {
+   "appliedAt": "2026-10-10T17:51:30Z",
+   "applicationId": null,
+   "company": "Fastcollab",
+   "jobId": 1673189,
+   "mode": "screening-form",
+   "title": "FastCollab - AI Engineer - IIT",
+   "url": "https://www.hirist.tech/j/fastcollab-ai-engineer-iit-hyderabad-1-2-yrs-1673189.html",
+   "verify": "detail applied==1"
+  },
+  {
+   "appliedAt": "2026-10-10T17:53:00Z",
+   "applicationId": null,
+   "company": "Bluecrux",
+   "jobId": 1670614,
+   "mode": "screening-form",
+   "title": "Binocs - Forward Deployed Engineer - AI/LLM Powered Solutions",
+   "url": "https://www.hirist.tech/j/binocs-forward-deployed-engineer-ai-llm-powered-solutions-bangalore-0-1-yrs-1670614.html",
+   "verify": "detail applied==1"
+  },
+  {
+   "appliedAt": "2026-10-10T17:56:00Z",
+   "applicationId": null,
+   "company": "TensorGo",
+   "jobId": 1636656,
+   "mode": "screening-form",
+   "title": "TensorGo - Deep Learning Engineer - Computer Vision",
+   "url": "https://www.hirist.tech/j/tensorgo-deep-learning-engineer-computer-vision-hyderabad-0-1-yrs-1636656.html",
+   "verify": "/job/applied navigation"
+  },
+  {
+   "appliedAt": "2026-10-10T17:57:30Z",
+   "applicationId": null,
+   "company": "Talent Pro",
+   "jobId": 1648374,
+   "mode": "screening-form",
+   "title": "AI/ML Engineer",
+   "url": "https://www.hirist.tech/j/ai-ml-engineer-bangalore-1-2-yrs-1648374.html",
+   "verify": "/job/applied navigation"
+  },
+  {
+   "jobId": 1665996,
+   "title": "Infinity Learn - Software Engineer - AI Native",
+   "company": "Infinity Learn",
+   "url": "https://www.hirist.tech/j/infinity-learn-software-engineer-ai-native-hyderabad-0-1-yrs-1665996.html",
+   "appliedAt": "2026-10-10T18:36:00Z",
+   "via": "manual screening form + JEE rank"
+  }
+ ],
+ "date": "2026-10-10",
+ "discovery_probes_used": 2,
+ "filter": "AI-ML categoryId=14, max<=2 enforced client-side; screening forms via /job/<id>/screening (detail hydration recovered)",
+ "pending_assessment": [],
+ "platform": "hirist",
+ "runEndedAt": "2026-10-10T17:59:00Z",
+ "runStartedAt": "2026-10-10T17:49:00Z"
+}

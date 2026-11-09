@@ -1,0 +1,55 @@
+{
+  "userSettings": {
+    "artifactReviewMode": "ARTIFACT_REVIEW_MODE_AGENT_DECIDES",
+    "autoExecutionPolicy": "CASCADE_COMMANDS_AUTO_EXECUTION_ALWAYS_PROCEED",
+    "enableTerminalSandbox": false,
+    "nonWorkspaceFileAccessPolicy": "AGENT_SETTING_POLICY_DENY",
+    "internetAccessPolicy": "AGENT_SETTING_POLICY_ALLOW",
+    "globalPermissionGrants": {
+      "deny": [
+        "read_file(**/.env)",
+        "read_file(**/.env.local)",
+        "read_file(**/.env.development)",
+        "read_file(**/.env.production)",
+        "read_file(**/.env.test)",
+        "read_file(**/*.pem)",
+        "read_file(**/*.key)",
+        "read_file(**/secrets/**)",
+        "read_file(**/runs/**)",
+        "read_file(**/opencode.json)",
+        "write_file(**/.env)",
+        "write_file(**/.env.local)",
+        "write_file(**/.env.development)",
+        "write_file(**/.env.production)",
+        "write_file(**/.env.test)",
+        "write_file(**/*.pem)",
+        "write_file(**/*.key)",
+        "write_file(**/secrets/**)",
+        "write_file(**/runs/**)",
+        "write_file(**/opencode.json)"
+      ],
+      "ask": [
+        "command(git config --global user.name *)",
+        "command(git config --global user.email *)"
+      ],
+      "allow": [
+        "read_file(**/.env.example)",
+        "read_file(D:/Projects/PRACTICE/firecrawl_test/**)",
+        "write_file(D:/Projects/PRACTICE/firecrawl_test/**)",
+        "command(*)",
+        "read_url(*)",
+        "execute_url(*)",
+        "mcp(playwright/*)",
+        "mcp(playwright-extention/*)",
+        "mcp(headroom/*)",
+        "mcp(gmail/*)",
+        "mcp(memory/*)"
+      ]
+    }
+  },
+  "plugins": {
+    "job-automation": {
+      "enabled": true
+    }
+  }
+}

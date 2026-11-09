@@ -1,0 +1,956 @@
+{
+  "worker": 3,
+  "batch": 3,
+  "total_batch_size": 123,
+  "processed_count": 123,
+  "applied_count": 84,
+  "already_applied_count": 1,
+  "parked_assessment_count": 38,
+  "all_results": [
+    {
+      "jobId": 1668467,
+      "title": "Polestar Analytics - AI Engineer - Generative AI & Agentic Systems",
+      "company": "Polestar Analytics",
+      "status": "applied",
+      "applicationId": 78637540,
+      "timestamp": "2026-10-23T11:56:53.429Z"
+    },
+    {
+      "jobId": 1668351,
+      "title": "Lead AI Engineer - Enterprise AI Products",
+      "company": "HRBP Global; ThinkLab & Solutions",
+      "status": "applied",
+      "applicationId": 78637586,
+      "timestamp": "2026-10-23T11:57:33.719Z"
+    },
+    {
+      "jobId": 1668470,
+      "title": "Polestar Analytics - Data Scientist - Revenue Growth Management",
+      "company": "Polestar Analytics",
+      "status": "applied",
+      "applicationId": 78637592,
+      "timestamp": "2026-10-23T11:57:35.759Z"
+    },
+    {
+      "jobId": 1668464,
+      "title": "Polestar Analytics - Machine Learning Engineer",
+      "company": "Polestar Analytics",
+      "status": "applied",
+      "applicationId": 78637596,
+      "timestamp": "2026-10-23T11:57:38.167Z"
+    },
+    {
+      "jobId": 1668430,
+      "title": "Applied AI/ML Engineer",
+      "company": "The Reliable Jobs",
+      "status": "pending_assessment",
+      "reason": "ASSESSMENT_REQUIRED"
+    },
+    {
+      "jobId": 1667871,
+      "title": "Data Scientist - Fraud & Analytics",
+      "company": "Skyleaf Consultants",
+      "status": "applied",
+      "applicationId": 78637600,
+      "timestamp": "2026-10-23T11:57:43.234Z"
+    },
+    {
+      "jobId": 1668125,
+      "title": "Insurance Samadhan - Technical Lead - AI & Engineering",
+      "company": "Insurance Samadhan",
+      "status": "pending_assessment",
+      "reason": "ASSESSMENT_REQUIRED"
+    },
+    {
+      "jobId": 1667846,
+      "title": "AI Analyst",
+      "company": "HR Anexi",
+      "status": "applied",
+      "applicationId": 78637606,
+      "timestamp": "2026-10-23T11:57:50.182Z"
+    },
+    {
+      "jobId": 1668075,
+      "title": "Edge ML Engineer",
+      "company": "Enter",
+      "status": "pending_assessment",
+      "reason": "ASSESSMENT_REQUIRED"
+    },
+    {
+      "jobId": 1667940,
+      "title": "Machine Learning Engineer - Medallion Architecture",
+      "company": "Recruise India Consulting",
+      "status": "pending_assessment",
+      "reason": "ASSESSMENT_REQUIRED"
+    },
+    {
+      "jobId": 1667641,
+      "title": "VTION - AI Engineer - Machine/Deep Learning",
+      "company": "VTION",
+      "status": "applied",
+      "applicationId": 78637616,
+      "timestamp": "2026-10-23T11:57:57.378Z"
+    },
+    {
+      "jobId": 1667598,
+      "title": "Java/AI Engineer",
+      "company": "Supersourcing",
+      "status": "pending_assessment",
+      "reason": "ASSESSMENT_REQUIRED"
+    },
+    {
+      "jobId": 1667645,
+      "title": "Insurity - Data Scientist",
+      "company": "Insurity",
+      "status": "applied",
+      "applicationId": 78637618,
+      "timestamp": "2026-10-23T11:58:02.195Z"
+    },
+    {
+      "jobId": 1667632,
+      "title": "AI/ML Engineer",
+      "company": "Unico Talent",
+      "status": "pending_assessment",
+      "reason": "ASSESSMENT_REQUIRED"
+    },
+    {
+      "jobId": 1667290,
+      "title": "Azure AI Engineer - Backend Development",
+      "company": "Adroit Innovative Solutions",
+      "status": "applied",
+      "applicationId": 78637624,
+      "timestamp": "2026-10-23T11:58:09.356Z"
+    },
+    {
+      "jobId": 1667144,
+      "title": "AI/ML Engineer - GEO",
+      "company": "Rivet HR",
+      "status": "pending_assessment",
+      "reason": "ASSESSMENT_REQUIRED"
+    },
+    {
+      "jobId": 1666858,
+      "title": "AI/ML Engineer - Python/NLP",
+      "company": "ChayanikaRecruittech",
+      "status": "applied",
+      "applicationId": 78637676,
+      "timestamp": "2026-10-23T11:58:49.961Z"
+    },
+    {
+      "jobId": 1667091,
+      "title": "AI Engineer - Machine Learning",
+      "company": "Careerxperts Consulting",
+      "status": "applied",
+      "applicationId": 78637680,
+      "timestamp": "2026-10-23T11:58:52.351Z"
+    },
+    {
+      "jobId": 1667024,
+      "title": "AI Engineer - Python Programming",
+      "company": "Petals Careers",
+      "status": "applied",
+      "applicationId": 78637685,
+      "timestamp": "2026-10-23T11:58:56.173Z"
+    },
+    {
+      "jobId": 1667087,
+      "title": "Senior Product Manager - AI",
+      "company": "HyreSnap",
+      "status": "applied",
+      "applicationId": 78637692,
+      "timestamp": "2026-10-23T11:58:58.804Z"
+    },
+    {
+      "jobId": 1666527,
+      "title": "McLaren Strategic Solutions - Generative AI Engineer - Large Language Models",
+      "company": "MCLAREN STRATEGIC VENTURES INDIA PRIVATE LIMITED",
+      "status": "pending_assessment",
+      "reason": "ASSESSMENT_REQUIRED"
+    },
+    {
+      "jobId": 1666602,
+      "title": "Celebal Technologies - Data Scientist",
+      "company": "Celebal Technologies",
+      "status": "applied",
+      "applicationId": 78637699,
+      "timestamp": "2026-10-23T11:59:03.005Z"
+    },
+    {
+      "jobId": 1666641,
+      "title": "AI/ML Engineer - Large Language Models",
+      "company": "4th Orbit Business Solutions",
+      "status": "applied",
+      "applicationId": 78637701,
+      "timestamp": "2026-10-23T11:59:04.981Z"
+    },
+    {
+      "jobId": 1666529,
+      "title": "AI/ML Engineer",
+      "company": "P.E. Analytics",
+      "status": "applied",
+      "applicationId": 78637705,
+      "timestamp": "2026-10-23T11:59:06.739Z"
+    },
+    {
+      "jobId": 1666717,
+      "title": "F22 LABS - AI Engineer",
+      "company": "F22 Labs",
+      "status": "pending_assessment",
+      "reason": "ASSESSMENT_REQUIRED"
+    },
+    {
+      "jobId": 1666514,
+      "title": "Ezeiatech Systems - Data Scientist - NLP/RAG",
+      "company": "Ezeiatech Systems",
+      "status": "applied",
+      "applicationId": 78637710,
+      "timestamp": "2026-10-23T11:59:10.756Z"
+    },
+    {
+      "jobId": 1666261,
+      "title": "ClicFlyer - Data Scientist - Retail Analytics & Pricing Intelligence",
+      "company": "Bodmas Technologies",
+      "status": "applied",
+      "applicationId": 78637714,
+      "timestamp": "2026-10-23T11:59:13.152Z"
+    },
+    {
+      "jobId": 1666256,
+      "title": "AI/ML Engineer - Generative AI",
+      "company": "Hire Global",
+      "status": "pending_assessment",
+      "reason": "ASSESSMENT_REQUIRED"
+    },
+    {
+      "jobId": 1665834,
+      "title": "SymphonyAI - Data Scientist - Machine Learning",
+      "company": "Symphonyincubator Business Services",
+      "status": "applied",
+      "applicationId": 78637723,
+      "timestamp": "2026-10-23T11:59:18.652Z"
+    },
+    {
+      "jobId": 1666001,
+      "title": "Data Scientist - Python",
+      "company": "TalentOne.in",
+      "status": "applied",
+      "applicationId": 78637726,
+      "timestamp": "2026-10-23T11:59:20.985Z"
+    },
+    {
+      "jobId": 1665872,
+      "title": "Senior Data Scientist - Machine Learning Models",
+      "company": "Talent kettle",
+      "status": "pending_assessment",
+      "reason": "ASSESSMENT_REQUIRED"
+    },
+    {
+      "jobId": 1665977,
+      "title": "Machine Learning Engineer - Document Intelligence Platform",
+      "company": "Enter",
+      "status": "pending_assessment",
+      "reason": "ASSESSMENT_REQUIRED"
+    },
+    {
+      "jobId": 1666014,
+      "title": "ASM Technologies - Computer Vision Engineer",
+      "company": "ASM Technologies",
+      "status": "applied",
+      "applicationId": 78637729,
+      "timestamp": "2026-10-23T11:59:26.734Z"
+    },
+    {
+      "jobId": 1665823,
+      "title": "Data Scientist - Generative AI",
+      "company": "EPIQ India Support Services",
+      "status": "pending_assessment",
+      "reason": "ASSESSMENT_REQUIRED"
+    },
+    {
+      "jobId": 1665996,
+      "title": "Infinity Learn - Software Engineer - AI Native Engineering Platform",
+      "company": "RANKGURU TECHNOLOGY SOLUTIONS PRIVATE LIMITED",
+      "status": "already_applied",
+      "applicationId": null
+    },
+    {
+      "jobId": 1665731,
+      "title": "Machine Learning/Artificial Intelligence Engineer - Python/SQL",
+      "company": "Kansal Corporate Solutions",
+      "status": "applied",
+      "applicationId": 78637894,
+      "timestamp": "2026-10-23T12:01:21.000Z"
+    },
+    {
+      "jobId": 1665881,
+      "title": "MRI Software - AI/ML Developer",
+      "company": "MRI Software",
+      "status": "applied",
+      "applicationId": 78637898,
+      "timestamp": "2026-10-23T12:01:23.000Z"
+    },
+    {
+      "jobId": 1665579,
+      "title": "AI/ML Engineer - Generative AI",
+      "company": "Supersourcing",
+      "status": "pending_assessment",
+      "reason": "ASSESSMENT_REQUIRED"
+    },
+    {
+      "jobId": 1665327,
+      "title": "AI/ML Engineer - GEO",
+      "company": "HR Works Consultancy",
+      "status": "pending_assessment",
+      "reason": "ASSESSMENT_REQUIRED"
+    },
+    {
+      "jobId": 1664943,
+      "title": "Consultant - Artificial Intelligence",
+      "company": "Impetus Career Consultants",
+      "status": "applied",
+      "applicationId": 78637905,
+      "timestamp": "2026-10-23T12:01:28.000Z"
+    },
+    {
+      "jobId": 1665094,
+      "title": "AI/ML Engineer - Large Language Models",
+      "company": "Terralogic Software Solutions Private Limited.",
+      "status": "applied",
+      "applicationId": 78637909,
+      "timestamp": "2026-10-23T12:01:30.000Z"
+    },
+    {
+      "jobId": 1665149,
+      "title": "Applied AI Engineer - Python/LLM",
+      "company": "Neemtree",
+      "status": "applied",
+      "applicationId": 78637913,
+      "timestamp": "2026-10-23T12:01:32.000Z"
+    },
+    {
+      "jobId": 1664594,
+      "title": "Senior Machine Learning Engineer - Voice AI",
+      "company": "Enter",
+      "status": "pending_assessment",
+      "reason": "ASSESSMENT_REQUIRED"
+    },
+    {
+      "jobId": 1664599,
+      "title": "Applied Data Scientist - AI/ML",
+      "company": "GetHyr",
+      "status": "applied",
+      "applicationId": 78637917,
+      "timestamp": "2026-10-23T12:01:36.000Z"
+    },
+    {
+      "jobId": 1664847,
+      "title": "Data Engineer/Scientist - Machine Learning/Python",
+      "company": "Jinendra infotech pvt",
+      "status": "applied",
+      "applicationId": 78637920,
+      "timestamp": "2026-10-23T12:01:38.000Z"
+    },
+    {
+      "jobId": 1664880,
+      "title": "Generative AI Engineer - Python/Machine Learning",
+      "company": "Jinendra infotech pvt",
+      "status": "applied",
+      "applicationId": 78637924,
+      "timestamp": "2026-10-23T12:01:40.000Z"
+    },
+    {
+      "jobId": 1664269,
+      "title": "AI/ML Engineer",
+      "company": "Innomatics research Labs",
+      "status": "applied",
+      "applicationId": 78637928,
+      "timestamp": "2026-10-23T12:01:42.000Z"
+    },
+    {
+      "jobId": 1664531,
+      "title": "AI Quality & Evaluation Engineer - LLM Architecture",
+      "company": "Value Lane Consulting",
+      "status": "applied",
+      "applicationId": 78637931,
+      "timestamp": "2026-10-23T12:01:44.000Z"
+    },
+    {
+      "jobId": 1663903,
+      "title": "Associate Lead - AI/ML Engineering",
+      "company": "HR Works Consultancy",
+      "status": "applied",
+      "applicationId": 78637934,
+      "timestamp": "2026-10-23T12:01:46.000Z"
+    },
+    {
+      "jobId": 1663989,
+      "title": "AI Engineer - Agentic Software Development",
+      "company": "Human Touch",
+      "status": "pending_assessment",
+      "reason": "ASSESSMENT_REQUIRED"
+    },
+    {
+      "jobId": 1664024,
+      "title": "Hinduja Tech - Data Scientist",
+      "company": "Hinduja Tech",
+      "status": "applied",
+      "applicationId": 78637938,
+      "timestamp": "2026-10-23T12:01:50.000Z"
+    },
+    {
+      "jobId": 1664098,
+      "title": "ExponentialAI - Senior Data Scientist - Machine Learning",
+      "company": "EXPONENTIAL AI SOFTWARE PRIVATE LIMITED",
+      "status": "applied",
+      "applicationId": 78637941,
+      "timestamp": "2026-10-23T12:01:52.000Z"
+    },
+    {
+      "jobId": 1663895,
+      "title": "Data Scientist - Artificial Intelligence/Machine Learning",
+      "company": "HR Works Consultancy",
+      "status": "pending_assessment",
+      "reason": "ASSESSMENT_REQUIRED"
+    },
+    {
+      "jobId": 1663944,
+      "title": "AI Engineer - Python/Generative AI",
+      "company": "The Reliable Jobs",
+      "status": "applied",
+      "applicationId": 78637946,
+      "timestamp": "2026-10-23T12:01:55.000Z"
+    },
+    {
+      "jobId": 1663636,
+      "title": "AI Engineer - AWS Bedrock Agents/Google Agentspace",
+      "company": "Employee Forums",
+      "status": "applied",
+      "applicationId": 78637950,
+      "timestamp": "2026-10-23T12:01:57.000Z"
+    },
+    {
+      "jobId": 1663637,
+      "title": "Senior AI Engineer - Generative AI",
+      "company": "Employee Forums",
+      "status": "applied",
+      "applicationId": 78637953,
+      "timestamp": "2026-10-23T12:01:59.000Z"
+    },
+    {
+      "jobId": 1663763,
+      "title": "Generative AI Application Engineer",
+      "company": "Value Lane Consulting",
+      "status": "applied",
+      "applicationId": 78637956,
+      "timestamp": "2026-10-23T12:02:01.000Z"
+    },
+    {
+      "jobId": 1663520,
+      "title": "Techolution - Senior Conversational AI Engineer",
+      "company": "Techolution",
+      "status": "applied",
+      "applicationId": 78637960,
+      "timestamp": "2026-10-23T12:02:03.000Z"
+    },
+    {
+      "jobId": 1663813,
+      "title": "TechRAQ - AI/ML Engineer",
+      "company": "TechRAQ Info Solutions",
+      "status": "applied",
+      "applicationId": 78637963,
+      "timestamp": "2026-10-23T12:02:05.000Z"
+    },
+    {
+      "jobId": 1663185,
+      "title": "o9 Solutions - Senior Data Scientist - Retail Demand Forecasting",
+      "company": "o9 Solutions",
+      "status": "applied",
+      "applicationId": 78637967,
+      "timestamp": "2026-10-23T12:02:07.000Z"
+    },
+    {
+      "jobId": 1663299,
+      "title": "BizViz Technologies - AI Engineer - Python/RAG",
+      "company": "BizViz Technologies",
+      "status": "pending_assessment",
+      "reason": "ASSESSMENT_REQUIRED"
+    },
+    {
+      "jobId": 1662790,
+      "title": "Senior Machine Learning Engineer - Computer Vision",
+      "company": "KS Smart Solutions",
+      "status": "pending_assessment",
+      "reason": "ASSESSMENT_REQUIRED"
+    },
+    {
+      "jobId": 1662969,
+      "title": "Celebal Technologies - Data Science Associate - AI/ML Engineering",
+      "company": "Celebal Technologies",
+      "status": "applied",
+      "applicationId": 78638019,
+      "timestamp": "2026-10-23T12:02:39.867Z"
+    },
+    {
+      "jobId": 1663042,
+      "title": "Generative AI & AWS Engineer",
+      "company": "Savishty",
+      "status": "applied",
+      "applicationId": 78638023,
+      "timestamp": "2026-10-23T12:02:41.543Z"
+    },
+    {
+      "jobId": 1662646,
+      "title": "Intellect Design Arena - Generative AI Engineer",
+      "company": "Intellect Design Arena",
+      "status": "pending_assessment",
+      "reason": "ASSESSMENT_REQUIRED"
+    },
+    {
+      "jobId": 1662401,
+      "title": "Senior/Lead Data Scientist - Generative AI",
+      "company": "STEPS",
+      "status": "applied",
+      "applicationId": 78638028,
+      "timestamp": "2026-10-23T12:02:44.667Z"
+    },
+    {
+      "jobId": 1662656,
+      "title": "Adapt Ready - AI/ML Engineer",
+      "company": "Adapt Ready",
+      "status": "pending_assessment",
+      "reason": "ASSESSMENT_REQUIRED"
+    },
+    {
+      "jobId": 1662467,
+      "title": "Bread Financial - Data Scientist II - Predictive Modeling",
+      "company": "Bread Financial",
+      "status": "applied",
+      "applicationId": 78638032,
+      "timestamp": "2026-10-23T12:02:47.852Z"
+    },
+    {
+      "jobId": 1662435,
+      "title": "Generative AI Engineer - LLM/RAG",
+      "company": "Yukti Recruitment Solutions",
+      "status": "applied",
+      "applicationId": 78638035,
+      "timestamp": "2026-10-23T12:02:49.484Z"
+    },
+    {
+      "jobId": 1662159,
+      "title": "AI Engineer - LLM & RAG",
+      "company": "Vikgol",
+      "status": "applied",
+      "applicationId": 78638040,
+      "timestamp": "2026-10-23T12:02:51.224Z"
+    },
+    {
+      "jobId": 1661761,
+      "title": "SymphonyAI - Consultant Forecaster/Data Scientist",
+      "company": "Symphonyincubator Business Services",
+      "status": "applied",
+      "applicationId": 78638044,
+      "timestamp": "2026-10-23T12:02:52.833Z"
+    },
+    {
+      "jobId": 1661718,
+      "title": "Software Engineer - Python/LLM",
+      "company": "HireSource.ai",
+      "status": "applied",
+      "applicationId": 78638046,
+      "timestamp": "2026-10-23T12:02:54.575Z"
+    },
+    {
+      "jobId": 1661407,
+      "title": "AI Specialist",
+      "company": "Tech Grow Global",
+      "status": "applied",
+      "applicationId": 78638052,
+      "timestamp": "2026-10-23T12:02:56.252Z"
+    },
+    {
+      "jobId": 1661427,
+      "title": "AI Specialist - Azure AI Foundry",
+      "company": "Tech Grow Global",
+      "status": "applied",
+      "applicationId": 78638055,
+      "timestamp": "2026-10-23T12:02:57.693Z"
+    },
+    {
+      "jobId": 1661551,
+      "title": "SciSpace - Senior Agentic AI Engineer - Machine Learning System",
+      "company": "CALAVER TECHNOLOGIES PRIVATE LIMITED",
+      "status": "applied",
+      "applicationId": 78638058,
+      "timestamp": "2026-10-23T12:02:59.322Z"
+    },
+    {
+      "jobId": 1661278,
+      "title": "AI Engineer - LLM/Agentic AI",
+      "company": "Hula Global",
+      "status": "pending_assessment",
+      "reason": "ASSESSMENT_REQUIRED"
+    },
+    {
+      "jobId": 1661254,
+      "title": "Agentic AI Engineer",
+      "company": "The vecA",
+      "status": "pending_assessment",
+      "reason": "ASSESSMENT_REQUIRED"
+    },
+    {
+      "jobId": 1660965,
+      "title": "Data Scientist - Forecasting & Analytics",
+      "company": "Aspyra HR Services ",
+      "status": "pending_assessment",
+      "reason": "ASSESSMENT_REQUIRED"
+    },
+    {
+      "jobId": 1661029,
+      "title": "Artificial Intelligence Engineer I",
+      "company": "The Reliable Jobs",
+      "status": "pending_assessment",
+      "reason": "ASSESSMENT_REQUIRED"
+    },
+    {
+      "jobId": 1660986,
+      "title": "Assistant Manager - Data Science",
+      "company": "BrandMyHR",
+      "status": "pending_assessment",
+      "reason": "ASSESSMENT_REQUIRED"
+    },
+    {
+      "jobId": 1660893,
+      "title": "Celebal Technologies - Data Scientist - Forecasting & Predictive Analytics",
+      "company": "Celebal Technologies",
+      "status": "pending_assessment",
+      "reason": "ASSESSMENT_REQUIRED"
+    },
+    {
+      "jobId": 1660588,
+      "title": "Enterprise AI Deployment Engineer",
+      "company": "Prevaj Consultants",
+      "status": "applied",
+      "applicationId": 78638073,
+      "timestamp": "2026-10-23T12:03:10.319Z"
+    },
+    {
+      "jobId": 1660484,
+      "title": "NucleusTeq - Generative AI Engineer",
+      "company": "Nucleusteq Consulting",
+      "status": "applied",
+      "applicationId": 78638080,
+      "timestamp": "2026-10-23T12:03:12.024Z"
+    },
+    {
+      "jobId": 1660556,
+      "title": "Gigaforce - AI Engineer - GenAI Product Engineering",
+      "company": "Gigaforce Software",
+      "status": "applied",
+      "applicationId": 78638083,
+      "timestamp": "2026-10-23T12:03:13.519Z"
+    },
+    {
+      "jobId": 1660683,
+      "title": "Amgen - Associate Data Scientist",
+      "company": "Amgen",
+      "status": "applied",
+      "applicationId": 78638086,
+      "timestamp": "2026-10-23T12:03:14.988Z"
+    },
+    {
+      "jobId": 1660237,
+      "title": "AI Engineer - Python/LLM",
+      "company": "Workplace",
+      "status": "pending_assessment",
+      "reason": "ASSESSMENT_REQUIRED"
+    },
+    {
+      "jobId": 1660020,
+      "title": "Euromonitor - Data Scientist - Machine Learning Models",
+      "company": "Euromonitor Research And Consultingindia",
+      "status": "applied",
+      "applicationId": 78638093,
+      "timestamp": "2026-10-23T12:03:17.941Z"
+    },
+    {
+      "jobId": 1659899,
+      "title": "Senior Deep Learning Engineer - Computer Vision",
+      "company": "svan global consultancy",
+      "status": "applied",
+      "applicationId": 78638096,
+      "timestamp": "2026-10-23T12:03:20.024Z"
+    },
+    {
+      "jobId": 1659930,
+      "title": "Forward Deployed Engineer - AI Integration",
+      "company": "svan global consultancy",
+      "status": "applied",
+      "applicationId": 78638101,
+      "timestamp": "2026-10-23T12:03:21.606Z"
+    },
+    {
+      "jobId": 1660002,
+      "title": "Data Scientist",
+      "company": "Pravdaa People",
+      "status": "applied",
+      "applicationId": 78638106,
+      "timestamp": "2026-10-23T12:03:23.520Z"
+    },
+    {
+      "jobId": 1660064,
+      "title": "Agentic AI Developer - LLM/RAG",
+      "company": "Value Lane Consulting",
+      "status": "applied",
+      "applicationId": 78638208,
+      "timestamp": "2026-10-23T12:04:15.781Z"
+    },
+    {
+      "jobId": 1659802,
+      "title": "Mantra Softech - Senior AI Research Engineer",
+      "company": "Mantra Softech",
+      "status": "applied",
+      "applicationId": 78638210,
+      "timestamp": "2026-10-23T12:04:17.458Z"
+    },
+    {
+      "jobId": 1659550,
+      "title": "AI Lead - LLM Applications",
+      "company": "HackCulture",
+      "status": "applied",
+      "applicationId": 78638215,
+      "timestamp": "2026-10-23T12:04:18.942Z"
+    },
+    {
+      "jobId": 1659754,
+      "title": "HDFC Life - Data Scientist - Generative AI",
+      "company": "HDFC Life",
+      "status": "applied",
+      "applicationId": 78638217,
+      "timestamp": "2026-10-23T12:04:20.416Z"
+    },
+    {
+      "jobId": 1659618,
+      "title": "Prompt Engineer - Artificial Intelligence/Machine Learning",
+      "company": "HyrMe",
+      "status": "applied",
+      "applicationId": 78638218,
+      "timestamp": "2026-10-23T12:04:21.863Z"
+    },
+    {
+      "jobId": 1659421,
+      "title": "Associate Lead - Artificial Intelligence/Machine Learning",
+      "company": "HR Works Consultancy",
+      "status": "applied",
+      "applicationId": 78638222,
+      "timestamp": "2026-10-23T12:04:23.715Z"
+    },
+    {
+      "jobId": 1659266,
+      "title": "Associate Lead/Engineer  - AI/ML",
+      "company": "Talent Pro",
+      "status": "pending_assessment",
+      "reason": "ASSESSMENT_REQUIRED"
+    },
+    {
+      "jobId": 1659268,
+      "title": "AI/ML Developer",
+      "company": "Vrinsoft Technology",
+      "status": "applied",
+      "applicationId": 78638229,
+      "timestamp": "2026-10-23T12:04:27.397Z"
+    },
+    {
+      "jobId": 1659306,
+      "title": "Generative AI Engineer",
+      "company": "TOPS Infosolutions Pvt. Ltd.",
+      "status": "applied",
+      "applicationId": 78638233,
+      "timestamp": "2026-10-23T12:04:28.913Z"
+    },
+    {
+      "jobId": 1659332,
+      "title": "Data & AI Engineer",
+      "company": "Neovara",
+      "status": "pending_assessment",
+      "reason": "ASSESSMENT_REQUIRED"
+    },
+    {
+      "jobId": 1658924,
+      "title": "Valiance Solutions - Computer Vision Engineer",
+      "company": "Valiance Analytics",
+      "status": "pending_assessment",
+      "reason": "ASSESSMENT_REQUIRED"
+    },
+    {
+      "jobId": 1658574,
+      "title": "Xcelore - AI Computer Vision Engineer",
+      "company": "Xcelore",
+      "status": "applied",
+      "applicationId": 78638241,
+      "timestamp": "2026-10-23T12:04:33.703Z"
+    },
+    {
+      "jobId": 1658944,
+      "title": "Senior AI/ML Developer",
+      "company": "Savishty",
+      "status": "applied",
+      "applicationId": 78638244,
+      "timestamp": "2026-10-23T12:04:35.220Z"
+    },
+    {
+      "jobId": 1658852,
+      "title": "EverestDX - AI Testing Engineer - Media Generation",
+      "company": "Everestdx",
+      "status": "applied",
+      "applicationId": 78638248,
+      "timestamp": "2026-10-23T12:04:36.777Z"
+    },
+    {
+      "jobId": 1658254,
+      "title": "Computer Vision Engineer - C++/Python",
+      "company": "TekIntegral",
+      "status": "applied",
+      "applicationId": 78638252,
+      "timestamp": "2026-10-23T12:04:38.846Z"
+    },
+    {
+      "jobId": 1658212,
+      "title": "Branch - Machine Learning Engineer - LLM",
+      "company": "Branch International",
+      "status": "applied",
+      "applicationId": 78638256,
+      "timestamp": "2026-10-23T12:04:40.443Z"
+    },
+    {
+      "jobId": 1658280,
+      "title": "Machine Learning Lead",
+      "company": "Ajni Consulting",
+      "status": "applied",
+      "applicationId": 78638262,
+      "timestamp": "2026-10-23T12:04:42.277Z"
+    },
+    {
+      "jobId": 1658525,
+      "title": "Senior AI Engineer - Python",
+      "company": "Tristone Strategic Partners LLP",
+      "status": "pending_assessment",
+      "reason": "ASSESSMENT_REQUIRED"
+    },
+    {
+      "jobId": 1657897,
+      "title": "Hexalog - Artificial Intelligence Engineer - LangGraph",
+      "company": "Hexalog",
+      "status": "pending_assessment",
+      "reason": "ASSESSMENT_REQUIRED"
+    },
+    {
+      "jobId": 1657943,
+      "title": "LLM Engineer",
+      "company": "ANP HR Consultancy",
+      "status": "pending_assessment",
+      "reason": "ASSESSMENT_REQUIRED"
+    },
+    {
+      "jobId": 1658033,
+      "title": "Generative AI Engineer - Machine Learning",
+      "company": "NovoTree Minds Consulting",
+      "status": "applied",
+      "applicationId": 78638276,
+      "timestamp": "2026-10-23T12:04:49.300Z"
+    },
+    {
+      "jobId": 1658065,
+      "title": "AI Engineer",
+      "company": "HyrMe",
+      "status": "applied",
+      "applicationId": 78638281,
+      "timestamp": "2026-10-23T12:04:50.808Z"
+    },
+    {
+      "jobId": 1657331,
+      "title": "AI-Native Systems Builder",
+      "company": "Darwinbox",
+      "status": "pending_assessment",
+      "reason": "ASSESSMENT_REQUIRED"
+    },
+    {
+      "jobId": 1654161,
+      "title": "HealthPlix - AI/ML Engineer",
+      "company": "HealthPlix",
+      "status": "applied",
+      "applicationId": 78638288,
+      "timestamp": "2026-10-23T12:04:53.925Z"
+    },
+    {
+      "jobId": 1653098,
+      "title": "LendingTree - Senior Software Engineer - Artificial Intelligence",
+      "company": "LendingTree",
+      "status": "pending_assessment",
+      "reason": "ASSESSMENT_REQUIRED"
+    },
+    {
+      "jobId": 1652619,
+      "title": "Happiest Minds Technologies - Partner Consultant - Gen AI",
+      "company": "Happiest Minds Technologies",
+      "status": "applied",
+      "applicationId": 78638293,
+      "timestamp": "2026-10-23T12:04:57.124Z"
+    },
+    {
+      "jobId": 1657068,
+      "title": "SS&C Technologies - Senior AI Automation Developer",
+      "company": "SS&C TECHNOLOGIES",
+      "status": "applied",
+      "applicationId": 78638297,
+      "timestamp": "2026-10-23T12:04:58.891Z"
+    },
+    {
+      "jobId": 1656269,
+      "title": "Forward Deployed Software Engineer",
+      "company": "HackCulture",
+      "status": "applied",
+      "applicationId": 78638301,
+      "timestamp": "2026-10-23T12:05:00.676Z"
+    },
+    {
+      "jobId": 1656615,
+      "title": "Material+ - Senior Data Scientist - Artificial Intelligence",
+      "company": "Srijan Technologies",
+      "status": "applied",
+      "applicationId": 78638306,
+      "timestamp": "2026-10-23T12:05:02.375Z"
+    },
+    {
+      "jobId": 1654753,
+      "title": "Experity - Data Scientist - Machine Learning",
+      "company": "EXDION SOLUTIONS ",
+      "status": "pending_assessment",
+      "reason": "ASSESSMENT_REQUIRED"
+    },
+    {
+      "jobId": 1650225,
+      "title": "Sagility - Research Engineer - NLP/Deep Learning",
+      "company": "Sagility India",
+      "status": "applied",
+      "applicationId": 78638314,
+      "timestamp": "2026-10-23T12:05:05.629Z"
+    },
+    {
+      "jobId": 1655205,
+      "title": "IDfy - Senior ML Engineer - LLM/Artificial Intelligence",
+      "company": "IDfy ",
+      "status": "applied",
+      "applicationId": 78638317,
+      "timestamp": "2026-10-23T12:05:07.132Z"
+    },
+    {
+      "jobId": 1655258,
+      "title": "Ardberg AI - Agentic AI Engineer",
+      "company": "ArdbergAI",
+      "status": "applied",
+      "applicationId": 78638320,
+      "timestamp": "2026-10-23T12:05:08.672Z"
+    }
+  ]
+}

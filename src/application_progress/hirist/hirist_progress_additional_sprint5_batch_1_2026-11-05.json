@@ -1,0 +1,131 @@
+{
+  "worker": 1,
+  "batch": 1,
+  "sprint": 5,
+  "sweep": "additional_200_sprint5",
+  "target_applied": 12,
+  "applied_count": 6,
+  "parked_count": 11,
+  "already_applied_count": 0,
+  "all_results": [
+    {
+      "id": 1659266,
+      "title": "Associate Lead/Engineer  - AI/ML",
+      "company": "Talent Pro",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "id": 1658525,
+      "title": "Senior AI Engineer - Python",
+      "company": "Tristone Strategic Partners LLP",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "id": 1657897,
+      "title": "Hexalog - Artificial Intelligence Engineer - LangGraph",
+      "company": "Hexalog",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "id": 1657943,
+      "title": "LLM Engineer",
+      "company": "ANP HR Consultancy",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "id": 1656666,
+      "title": "Straive - Senior Data Scientist - Machine Learning Models",
+      "company": "SPI TECHNOLOGIES INDIA PRIVATE LIMITED",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "id": 1656729,
+      "title": "Machine Learning Engineer",
+      "company": "Recruit Me",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "id": 1654533,
+      "title": "Senior Software Engineer - Legacy Modernization & AI",
+      "company": "Geek Technologies",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "id": 1654174,
+      "title": "CDM Smith - Data Science Specialist",
+      "company": "CDM Smith",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "id": 1654119,
+      "title": "Senior AI/ML Researcher - LLM",
+      "company": "IAI Solution",
+      "status": "applied",
+      "applicationId": 79305309
+    },
+    {
+      "id": 1653512,
+      "title": "Data Scientist",
+      "company": "Impetus Career Consultants",
+      "status": "applied",
+      "applicationId": 79305320
+    },
+    {
+      "id": 1653511,
+      "title": "AI/ML Engineer",
+      "company": "Impetus Career Consultants",
+      "status": "applied",
+      "applicationId": 79305322
+    },
+    {
+      "id": 1653503,
+      "title": "Senior Data Scientist - Machine Learning Solutions",
+      "company": "Jubilant HR Consultants",
+      "status": "applied",
+      "applicationId": 79305324
+    },
+    {
+      "id": 1653499,
+      "title": "Data Scientist - Machine Learning",
+      "company": "D Square Consulting Services",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "id": 1652913,
+      "title": "Data Scientist - Machine Learning & Predictive Modeling",
+      "company": "Aspyra HR Services ",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "id": 1653118,
+      "title": "Data Scientist - Python/Machine Learning",
+      "company": "Aspyra HR Services ",
+      "status": "applied",
+      "applicationId": 79305327
+    },
+    {
+      "id": 1653001,
+      "title": "Data Scientist - Python",
+      "company": "Mount Talent Consulting",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "id": 1652770,
+      "title": "Fast Track Construction - AIOps Engineer",
+      "company": "Fast Track Projects & Services",
+      "status": "applied",
+      "applicationId": 79305329
+    }
+  ]
+}

@@ -1,0 +1,4422 @@
+[
+  {
+    "company": "CRED",
+    "name": "Atish Munje",
+    "target_title": "Principal Data Scientist",
+    "profile_title": null,
+    "linkedin_url": "https://in.linkedin.com/in/atishmunje",
+    "email": "Not Disclosed / Unavailable",
+    "email_status": "NO_MATCH",
+    "full_response": {
+      "error": false,
+      "free_enrichment": false,
+      "person": {
+        "person_id": "aaaad9be5da4bfd437522173",
+        "first_name": "Atish",
+        "last_name": "Munje",
+        "full_name": "Atish Munje",
+        "linkedin_url": "https://www.linkedin.com/in/atishmunje",
+        "current_job_title": "Data Science",
+        "current_job_key": null,
+        "headline": "Data Science at CRED",
+        "linkedin_member_id": null,
+        "last_job_change_detected_at": null,
+        "job_history": [
+          {
+            "title": "Data Science",
+            "company_name": "CRED",
+            "logo_url": "90386a68-a145-45ad-8694-5c58a5116fa9.jpg",
+            "current": true,
+            "start_year": 2019,
+            "start_month": 12,
+            "end_year": null,
+            "end_month": null,
+            "duration_in_months": 82,
+            "departments": [
+              "Data Science & Analysis"
+            ],
+            "seniority": "Entry",
+            "company_id": "ccccdc0c37bcf98236ee5817",
+            "job_key": "67779355"
+          },
+          {
+            "title": "Principal Data Scientist",
+            "company_name": "Info Edge India",
+            "logo_url": "9ecfd157-f28e-478c-97fb-25877efd39df.jpg",
+            "current": false,
+            "start_year": 2017,
+            "start_month": 4,
+            "end_year": 2019,
+            "end_month": 12,
+            "duration_in_months": 32,
+            "departments": [
+              "Data Science & Analysis"
+            ],
+            "seniority": "Entry",
+            "company_id": "cccc633f1f8ac78dd3e9c158",
+            "job_key": "56740986"
+          },
+          {
+            "title": "Senior Data Scientist",
+            "company_name": "Info Edge India",
+            "logo_url": "9ecfd157-f28e-478c-97fb-25877efd39df.jpg",
+            "current": false,
+            "start_year": 2016,
+            "start_month": 4,
+            "end_year": 2017,
+            "end_month": 4,
+            "duration_in_months": 12,
+            "departments": [
+              "Data Science & Analysis"
+            ],
+            "seniority": "Senior",
+            "company_id": "cccc633f1f8ac78dd3e9c158",
+            "job_key": "62426344"
+          },
+          {
+            "title": "Analytics Engineer",
+            "company_name": "Impetus",
+            "logo_url": "775dba53-ca35-470a-b876-41b88878565b.jpg",
+            "current": false,
+            "start_year": 2014,
+            "start_month": 7,
+            "end_year": 2016,
+            "end_month": 4,
+            "duration_in_months": 21,
+            "departments": [
+              "Data Science & Analysis",
+              "Engineering & Technical"
+            ],
+            "seniority": "Entry",
+            "company_id": "ccccdc97234c4c079b467650",
+            "job_key": "32592565"
+          },
+          {
+            "title": "Associate analytics engineer",
+            "company_name": "Impetus",
+            "logo_url": "775dba53-ca35-470a-b876-41b88878565b.jpg",
+            "current": false,
+            "start_year": 2013,
+            "start_month": 7,
+            "end_year": 2014,
+            "end_month": 6,
+            "duration_in_months": 11,
+            "departments": [
+              "Data Science & Analysis",
+              "Engineering & Technical"
+            ],
+            "seniority": "Entry",
+            "company_id": "ccccdc97234c4c079b467650",
+            "job_key": "57962221"
+          },
+          {
+            "title": "Summer Intern",
+            "company_name": "Universiti Teknologi Malaysia",
+            "logo_url": "d3b7fb98-2ad0-429a-bd33-80db779338a9.jpg",
+            "current": false,
+            "start_year": 2012,
+            "start_month": 6,
+            "end_year": 2012,
+            "end_month": 8,
+            "duration_in_months": 2,
+            "departments": [],
+            "seniority": "Intern",
+            "company_id": "ccccb85d0505cf8b0264f2a2",
+            "job_key": "35362848"
+          },
+          {
+            "title": "Summer intern",
+            "company_name": "FCA Fiat Chrysler Automobiles",
+            "logo_url": "6aead6a5-f4c8-4781-a45d-2e5978038afb.jpg",
+            "current": false,
+            "start_year": 2011,
+            "start_month": 5,
+            "end_year": 2011,
+            "end_month": 7,
+            "duration_in_months": 2,
+            "departments": [],
+            "seniority": "Intern",
+            "company_id": "ccccf94bd40e7b68ca2359e7",
+            "job_key": "73237537"
+          }
+        ],
+        "mobile": {
+          "status": "VERIFIED",
+          "revealed": false,
+          "mobile": "+91 8871* *****",
+          "mobile_national": "08871* *****",
+          "mobile_international": "+91 8871* *****",
+          "mobile_country": "India",
+          "mobile_country_code": "IN"
+        },
+        "email": {
+          "status": "VERIFIED",
+          "revealed": true,
+          "email": "atish.munje@cred.club",
+          "verification_method": "SMTP",
+          "email_mx_provider": "Google"
+        },
+        "location": {
+          "country": "India",
+          "country_code": "IN",
+          "state": "Karnataka",
+          "city": "Bengaluru North",
+          "time_zone": "Asia/Calcutta",
+          "time_zone_offset": 5.5
+        },
+        "skills": []
+      },
+      "company": {
+        "company_id": "ccccdc0c37bcf98236ee5817",
+        "name": "CRED",
+        "website": "https://cred.club",
+        "domain": "cred.club",
+        "other_websites": [],
+        "description": "We're a team of creative, driven and persistent people. We want to create a community of the creditworthy. We want to re-imagine the ideal way of life that works on two way trust and respect.\n\nEvery partnership, collaboration or idea we create works towards providing an experience beyond imagination. Every member is passionate towards this goal. This passion seamlessly drives us forward.\n\nIf you have ideas, passion and courage, bring them to the table.\nCompany culture to us stands at the forefront of what we believe in. We aim at finding unique people who will stand the test of time.",
+        "description_seo": "financial & lifestyle experiences crafted for the creditworthy.",
+        "description_ai": "cred is a members-only club that enables the . trustworthy to make financial progress.",
+        "type": "Private",
+        "industry": "Financial Services",
+        "employee_count": 2282,
+        "employee_count_on_prospeo": 1641,
+        "employee_range": "2001-5000",
+        "location": {
+          "country": "India",
+          "country_code": "IN",
+          "state": "Karnataka",
+          "city": "Bengaluru North",
+          "raw_address": "Bengaluru, Karnataka 560038, IN"
+        },
+        "sic_codes": [
+          "737"
+        ],
+        "naics_codes": [
+          "52",
+          "521",
+          "5211",
+          "52111",
+          "521110",
+          "92113"
+        ],
+        "email_tech": {
+          "domain": "cred.club",
+          "mx_provider": "Google"
+        },
+        "linkedin_url": "https://www.linkedin.com/company/credapp",
+        "twitter_url": "https://x.com/cred_club",
+        "facebook_url": "https://www.facebook.com/cred.club.official",
+        "crunchbase_url": "https://www.crunchbase.com/organization/cred-6ab0",
+        "instagram_url": null,
+        "youtube_url": null,
+        "phone_hq": {
+          "phone_hq": null,
+          "phone_hq_national": null,
+          "phone_hq_international": null,
+          "phone_hq_country": null,
+          "phone_hq_country_code": null
+        },
+        "linkedin_id": null,
+        "founded": 2018,
+        "revenue_range": {
+          "min": 250000000,
+          "max": 500000000
+        },
+        "revenue_range_printed": "250M",
+        "keywords": [],
+        "logo_url": "https://prospeo-static-assets.s3.us-east-1.amazonaws.com/company_logo/90386a68-a145-45ad-8694-5c58a5116fa9.jpg",
+        "attributes": {
+          "is_b2b": false,
+          "has_demo": false,
+          "has_free_trial": false,
+          "has_downloadable": true,
+          "has_mobile_apps": false,
+          "has_online_reviews": false,
+          "has_pricing": false
+        },
+        "funding": {
+          "count": 2,
+          "total_funding": 151400000,
+          "total_funding_printed": "$151.4M",
+          "latest_funding_date": "2025-07-09T00:00:00",
+          "latest_funding_stage": "Series unknown",
+          "funding_events": [
+            {
+              "amount": 79300000,
+              "amount_printed": "$79,300,000",
+              "raised_at": "2022-07-09T00:00:00",
+              "stage": "Series E-J",
+              "link": "https://www.crunchbase.com/funding_round/cred-6ab0-series-f--e6a1f4f9"
+            },
+            {
+              "amount": 72100000,
+              "amount_printed": "$72,100,000",
+              "raised_at": "2025-07-09T00:00:00",
+              "stage": "Series unknown",
+              "link": "https://www.crunchbase.com/funding_round/cred-6ab0-series-unknown--da1c18f0"
+            }
+          ]
+        },
+        "technology": {
+          "count": 27,
+          "technology_names": [
+            "reCAPTCHA",
+            "Redux",
+            "Amazon SES",
+            "Apple iCloud Mail",
+            "HTTP/3",
+            "HSTS",
+            "Detectify",
+            "DoubleClick Floodlight",
+            "Mixpanel",
+            "Google Analytics",
+            "styled-components",
+            "Google Workspace",
+            "Amazon Web Services",
+            "Next.js",
+            "Prismic",
+            "Google Tag Manager",
+            "Facebook Pixel",
+            "GSAP",
+            "React",
+            "core-js",
+            "Firebase",
+            "Google Font API",
+            "Sendgrid",
+            "Open Graph",
+            "Amazon CloudFront",
+            "LottieFiles",
+            "Webpack"
+          ],
+          "technology_list": [
+            {
+              "name": "reCAPTCHA",
+              "category": "Security"
+            },
+            {
+              "name": "Redux",
+              "category": "JavaScript frameworks"
+            },
+            {
+              "name": "Amazon SES",
+              "category": "Email"
+            },
+            {
+              "name": "Apple iCloud Mail",
+              "category": "Webmail"
+            },
+            {
+              "name": "HTTP/3",
+              "category": "Miscellaneous"
+            },
+            {
+              "name": "HSTS",
+              "category": "Security"
+            },
+            {
+              "name": "Detectify",
+              "category": "Security"
+            },
+            {
+              "name": "DoubleClick Floodlight",
+              "category": "Advertising"
+            },
+            {
+              "name": "Mixpanel",
+              "category": "Analytics"
+            },
+            {
+              "name": "Google Analytics",
+              "category": "Analytics"
+            },
+            {
+              "name": "styled-components",
+              "category": "Development"
+            },
+            {
+              "name": "Google Workspace",
+              "category": "Email"
+            },
+            {
+              "name": "Amazon Web Services",
+              "category": "PaaS"
+            },
+            {
+              "name": "Next.js",
+              "category": "JavaScript frameworks"
+            },
+            {
+              "name": "Prismic",
+              "category": "CMS"
+            },
+            {
+              "name": "Google Tag Manager",
+              "category": "Tag managers"
+            },
+            {
+              "name": "Facebook Pixel",
+              "category": "Analytics"
+            },
+            {
+              "name": "GSAP",
+              "category": "JavaScript frameworks"
+            },
+            {
+              "name": "React",
+              "category": "JavaScript frameworks"
+            },
+            {
+              "name": "core-js",
+              "category": "JavaScript libraries"
+            },
+            {
+              "name": "Firebase",
+              "category": "Databases"
+            },
+            {
+              "name": "Google Font API",
+              "category": "Font scripts"
+            },
+            {
+              "name": "Sendgrid",
+              "category": "Email"
+            },
+            {
+              "name": "Open Graph",
+              "category": "Miscellaneous"
+            },
+            {
+              "name": "Amazon CloudFront",
+              "category": "CDN"
+            },
+            {
+              "name": "LottieFiles",
+              "category": "Miscellaneous"
+            },
+            {
+              "name": "Webpack",
+              "category": "Miscellaneous"
+            }
+          ]
+        },
+        "job_postings": null
+      }
+    }
+  },
+  {
+    "company": "CRED",
+    "name": "Mohit Garg",
+    "target_title": "Principal Data Platform Engineer",
+    "profile_title": null,
+    "linkedin_url": "https://in.linkedin.com/in/mohit-garg-2838a025",
+    "email": "Not Disclosed / Unavailable",
+    "email_status": "NO_MATCH",
+    "full_response": {
+      "error": false,
+      "free_enrichment": false,
+      "person": {
+        "person_id": "aaaa74b51fe847eea8981b8f",
+        "first_name": "Mohit",
+        "last_name": "Garg",
+        "full_name": "Mohit Garg",
+        "linkedin_url": "https://www.linkedin.com/in/mohit-garg-2838a025",
+        "current_job_title": "Principal Data Platform Engineer",
+        "current_job_key": null,
+        "headline": "Senior Data Engineering Manager | Architect | Data Platform Architect | Java | ELK | Kubernetes | Spark | Hadoop | Big Data | AWS | Ex-Meesho, Ex- CRED, Ex- Adobe, Ex-Samsung",
+        "linkedin_member_id": null,
+        "last_job_change_detected_at": null,
+        "job_history": [
+          {
+            "title": "Principal Data Platform Engineer",
+            "company_name": "Atlassian",
+            "logo_url": "b7a99c8d-0e34-424f-aa45-da9ddfe2cfd3.jpg",
+            "current": true,
+            "start_year": 2025,
+            "start_month": 6,
+            "end_year": null,
+            "end_month": null,
+            "duration_in_months": 16,
+            "departments": [
+              "DevOps",
+              "Engineering & Technical"
+            ],
+            "seniority": "Entry",
+            "company_id": "ccccf1f410ce386c898a62e3",
+            "job_key": "92504490"
+          },
+          {
+            "title": "Senior Data Engineering Manager",
+            "company_name": "Funding Societies | Modalku Group",
+            "logo_url": "b4eed89f-849f-43ab-9a74-04304a7a668e.jpg",
+            "current": false,
+            "start_year": 2023,
+            "start_month": 6,
+            "end_year": 2025,
+            "end_month": 6,
+            "duration_in_months": 24,
+            "departments": [
+              "Engineering & Technical"
+            ],
+            "seniority": "Manager",
+            "company_id": "cccc3a9693e0475cbb3af7f3",
+            "job_key": "89827113"
+          },
+          {
+            "title": "Data Architect",
+            "company_name": "Meesho",
+            "logo_url": "268f0451-203e-4c4f-9a0f-7530edd00574.jpg",
+            "current": false,
+            "start_year": 2022,
+            "start_month": 8,
+            "end_year": 2023,
+            "end_month": 5,
+            "duration_in_months": 9,
+            "departments": [],
+            "seniority": "Entry",
+            "company_id": "cccc4926e810be8b98af94ac",
+            "job_key": "97815149"
+          },
+          {
+            "title": "Data/ML Platform",
+            "company_name": "CRED",
+            "logo_url": "90386a68-a145-45ad-8694-5c58a5116fa9.jpg",
+            "current": false,
+            "start_year": 2021,
+            "start_month": 2,
+            "end_year": 2022,
+            "end_month": 8,
+            "duration_in_months": 18,
+            "departments": [
+              "Artificial Intelligence / Machine Learning"
+            ],
+            "seniority": "Entry",
+            "company_id": "ccccdc0c37bcf98236ee5817",
+            "job_key": "83528176"
+          },
+          {
+            "title": "Computer Scientist 2",
+            "company_name": "Adobe",
+            "logo_url": "411138a7-b491-427d-804b-1f4c5b95ca07.jpg",
+            "current": false,
+            "start_year": 2016,
+            "start_month": 7,
+            "end_year": 2021,
+            "end_month": 2,
+            "duration_in_months": 55,
+            "departments": [],
+            "seniority": "Entry",
+            "company_id": "cccc10ec4a06172a9a83d6bb",
+            "job_key": "38173728"
+          },
+          {
+            "title": "Lead Engineer(BigData)",
+            "company_name": "Samsung Electronics",
+            "logo_url": "d4b95321-62c1-42a3-87c4-7fc09609c236.jpg",
+            "current": false,
+            "start_year": 2015,
+            "start_month": 6,
+            "end_year": 2016,
+            "end_month": 7,
+            "duration_in_months": 13,
+            "departments": [
+              "Technical Lead",
+              "Engineering & Technical"
+            ],
+            "seniority": "Manager",
+            "company_id": "cccc3e402b6cb76e5ae545b5",
+            "job_key": "71339195"
+          },
+          {
+            "title": "Software Developer - Java",
+            "company_name": "NVISH Solutions",
+            "logo_url": "9bc406c8-4ac8-4023-b124-a1e78b147dab.jpg",
+            "current": false,
+            "start_year": 2010,
+            "start_month": 7,
+            "end_year": 2012,
+            "end_month": 5,
+            "duration_in_months": 22,
+            "departments": [
+              "Software Development",
+              "Engineering & Technical"
+            ],
+            "seniority": "Entry",
+            "company_id": "cccca2d5cfcb054b8dc2207e",
+            "job_key": "890445"
+          },
+          {
+            "title": "Senior Data Engineering Manager",
+            "company_name": "Funding Societies | Modalku Group",
+            "logo_url": "b4eed89f-849f-43ab-9a74-04304a7a668e.jpg",
+            "current": true,
+            "start_year": 2023,
+            "start_month": 6,
+            "end_year": null,
+            "end_month": null,
+            "duration_in_months": 40,
+            "departments": [
+              "Engineering & Technical"
+            ],
+            "seniority": "Manager",
+            "company_id": "cccc3a9693e0475cbb3af7f3",
+            "job_key": "15625012"
+          }
+        ],
+        "mobile": {
+          "status": "VERIFIED",
+          "revealed": false,
+          "mobile": "+91 8860* *****",
+          "mobile_national": "08860* *****",
+          "mobile_international": "+91 8860* *****",
+          "mobile_country": "India",
+          "mobile_country_code": "IN"
+        },
+        "email": {
+          "status": "VERIFIED",
+          "revealed": true,
+          "email": "mgarg@atlassian.com",
+          "verification_method": "SMTP",
+          "email_mx_provider": "Proofpoint"
+        },
+        "location": {
+          "country": "India",
+          "country_code": "IN",
+          "state": "Karnataka",
+          "city": "Bengaluru North",
+          "time_zone": "Asia/Calcutta",
+          "time_zone_offset": 5.5
+        },
+        "skills": []
+      },
+      "company": {
+        "company_id": "ccccf1f410ce386c898a62e3",
+        "name": "Atlassian",
+        "website": "https://atlassian.com",
+        "domain": "atlassian.com",
+        "other_websites": [],
+        "description": "Atlassian powers the collaboration that helps teams accomplish what would otherwise be impossible alone.\n\nFrom space missions and motor racing to bugs in code and IT requests, no task is too large or too small with the right team, the right tools, and the right practices. \n\nOver 300,000 global companies and 80% of the Fortune 500 rely on Atlassian\u2019s software, like Jira, Confluence, Loom, and Trello, to help their teams work better together and deliver quality results on time.\n\nWith our 300,000+ customers and team of 10,000+ Atlassians, we are building the next generation of team collaboration and productivity software.\n\nWe believe the power of teams has the potential to change the world \u2014 one that is more open, authentic, and inclusive.",
+        "description_seo": "Atlassian's team collaboration software like Jira, Confluence and Trello help teams organize, discuss, and complete shared work.",
+        "description_ai": "Atlassian provides collaboration software for software, IT, and business teams to help teams organize, discuss, and complete shared work.",
+        "type": "Public",
+        "industry": "Software Development",
+        "employee_count": 21021,
+        "employee_count_on_prospeo": 17555,
+        "employee_range": "10000+",
+        "location": {
+          "country": "Australia",
+          "country_code": "AU",
+          "state": "New South Wales",
+          "city": "Sydney",
+          "raw_address": "Level 6/341 George St, Sydney, NSW 2000, AU"
+        },
+        "sic_codes": [
+          "737"
+        ],
+        "naics_codes": [],
+        "email_tech": {
+          "domain": "atlassian.com",
+          "mx_provider": "Proofpoint"
+        },
+        "linkedin_url": "https://www.linkedin.com/company/atlassian",
+        "twitter_url": "https://x.com/atlassian",
+        "facebook_url": "https://www.facebook.com/atlassian",
+        "crunchbase_url": "https://www.crunchbase.com/organization/atlassian",
+        "instagram_url": "https://www.instagram.com/atlassian",
+        "youtube_url": "https://www.youtube.com/c/@atlassian",
+        "phone_hq": {
+          "phone_hq": "+61004060786602",
+          "phone_hq_national": "004060786602",
+          "phone_hq_international": "+61004060786602",
+          "phone_hq_country": "Australia",
+          "phone_hq_country_code": "AU"
+        },
+        "linkedin_id": null,
+        "founded": 2002,
+        "revenue_range": {
+          "min": 5000000000,
+          "max": 10000000000
+        },
+        "revenue_range_printed": "5B",
+        "keywords": [
+          "Project Management",
+          "Personal Productivity",
+          "Teamwork",
+          "Business Wiki",
+          "Team Collaboration",
+          "Work Management",
+          "Bug Tracker",
+          "Enterprise Wiki",
+          "Issue Tracker",
+          "Corporate Wiki",
+          "B2B Enterprise Software",
+          "Downtime Communication"
+        ],
+        "logo_url": "https://prospeo-static-assets.s3.us-east-1.amazonaws.com/company_logo/b7a99c8d-0e34-424f-aa45-da9ddfe2cfd3.jpg",
+        "attributes": {
+          "is_b2b": true,
+          "has_demo": false,
+          "has_free_trial": false,
+          "has_downloadable": false,
+          "has_mobile_apps": false,
+          "has_online_reviews": false,
+          "has_pricing": true
+        },
+        "funding": {
+          "count": 1,
+          "total_funding": 150000000,
+          "total_funding_printed": "$150.0M",
+          "latest_funding_date": "2014-05-08T00:00:00",
+          "latest_funding_stage": "Secondary market",
+          "funding_events": [
+            {
+              "amount": 150000000,
+              "amount_printed": "$150,000,000",
+              "raised_at": "2014-05-08T00:00:00",
+              "stage": "Secondary market",
+              "link": "https://www.crunchbase.com/funding_round/atlassian-secondary-market--64d2baaf"
+            }
+          ]
+        },
+        "technology": {
+          "count": 75,
+          "technology_names": [
+            "Facebook Ads",
+            "Autoptimize",
+            "Reddit Ads",
+            "TypeScript",
+            "reCAPTCHA",
+            "Zipkin",
+            "Bugcrowd",
+            "Redux",
+            "MySQL",
+            "Contentful",
+            "Apollo",
+            "HTTP/2",
+            "Vimeo",
+            "Angular",
+            "Atlassian Jira",
+            "LaunchDarkly",
+            "Module Federation",
+            "jQuery Migrate",
+            "PyScript",
+            "Optimizely",
+            "Twitter Ads",
+            "Magnolia CMS",
+            "Atlassian Statuspage",
+            "Stripe",
+            "Algolia",
+            "jQuery",
+            "Impact",
+            "Salesforce Marketing Cloud Account Engagement",
+            "Apple iCloud Mail",
+            "Google Ads",
+            "PHP",
+            "HSTS",
+            "Microsoft Advertising",
+            "Demandbase",
+            "DoubleClick Floodlight",
+            "WordPress",
+            "Google Analytics",
+            "YouTube",
+            "Moment.js",
+            "styled-components",
+            "Linkedin Insight Tag",
+            "Atlassian Bitbucket",
+            "Yoast SEO",
+            "Emotion",
+            "PayPal",
+            "Amazon Web Services",
+            "Sentry",
+            "Gravatar",
+            "Google Tag Manager",
+            "GraphQL",
+            "Java",
+            "Marketo",
+            "Facebook Pixel",
+            "React",
+            "HubSpot",
+            "core-js",
+            "DocuSign",
+            "AWS Certificate Manager",
+            "RSS",
+            "Python",
+            "Lodash",
+            "Contentsquare",
+            "Open Graph",
+            "Google Ads Conversion Tracking",
+            "Amazon CloudFront",
+            "LottieFiles",
+            "Intercom",
+            "Marketo Forms",
+            "Webpack",
+            "OneTrust",
+            "Quora Pixel",
+            "Twitter Emoji",
+            "AdRoll",
+            "ClickTale",
+            "Priority Hints"
+          ],
+          "technology_list": [
+            {
+              "name": "Facebook Ads",
+              "category": "Advertising"
+            },
+            {
+              "name": "Autoptimize",
+              "category": "Performance"
+            },
+            {
+              "name": "Reddit Ads",
+              "category": "Advertising"
+            },
+            {
+              "name": "TypeScript",
+              "category": "Programming languages"
+            },
+            {
+              "name": "reCAPTCHA",
+              "category": "Security"
+            },
+            {
+              "name": "Zipkin",
+              "category": "Analytics"
+            },
+            {
+              "name": "Bugcrowd",
+              "category": "Security"
+            },
+            {
+              "name": "Redux",
+              "category": "JavaScript frameworks"
+            },
+            {
+              "name": "MySQL",
+              "category": "Databases"
+            },
+            {
+              "name": "Contentful",
+              "category": "CMS"
+            },
+            {
+              "name": "Apollo",
+              "category": "JavaScript libraries"
+            },
+            {
+              "name": "HTTP/2",
+              "category": "Miscellaneous"
+            },
+            {
+              "name": "Vimeo",
+              "category": "Video players"
+            },
+            {
+              "name": "Angular",
+              "category": "JavaScript frameworks"
+            },
+            {
+              "name": "Atlassian Jira",
+              "category": "Issue trackers"
+            },
+            {
+              "name": "LaunchDarkly",
+              "category": "Feature management"
+            },
+            {
+              "name": "Module Federation",
+              "category": "Miscellaneous"
+            },
+            {
+              "name": "jQuery Migrate",
+              "category": "JavaScript libraries"
+            },
+            {
+              "name": "PyScript",
+              "category": "Miscellaneous"
+            },
+            {
+              "name": "Optimizely",
+              "category": "A/B Testing"
+            },
+            {
+              "name": "Twitter Ads",
+              "category": "Advertising"
+            },
+            {
+              "name": "Magnolia CMS",
+              "category": "CMS"
+            },
+            {
+              "name": "Atlassian Statuspage",
+              "category": "Issue trackers"
+            },
+            {
+              "name": "Stripe",
+              "category": "Payment processors"
+            },
+            {
+              "name": "Algolia",
+              "category": "Search engines"
+            },
+            {
+              "name": "jQuery",
+              "category": "JavaScript libraries"
+            },
+            {
+              "name": "Impact",
+              "category": "Affiliate programs"
+            },
+            {
+              "name": "Salesforce Marketing Cloud Account Engagement",
+              "category": "Marketing automation"
+            },
+            {
+              "name": "Apple iCloud Mail",
+              "category": "Webmail"
+            },
+            {
+              "name": "Google Ads",
+              "category": "Advertising"
+            },
+            {
+              "name": "PHP",
+              "category": "Programming languages"
+            },
+            {
+              "name": "HSTS",
+              "category": "Security"
+            },
+            {
+              "name": "Microsoft Advertising",
+              "category": "Advertising"
+            },
+            {
+              "name": "Demandbase",
+              "category": "Analytics"
+            },
+            {
+              "name": "DoubleClick Floodlight",
+              "category": "Advertising"
+            },
+            {
+              "name": "WordPress",
+              "category": "Blogs"
+            },
+            {
+              "name": "Google Analytics",
+              "category": "Analytics"
+            },
+            {
+              "name": "YouTube",
+              "category": "Video players"
+            },
+            {
+              "name": "Moment.js",
+              "category": "JavaScript libraries"
+            },
+            {
+              "name": "styled-components",
+              "category": "Development"
+            },
+            {
+              "name": "Linkedin Insight Tag",
+              "category": "Analytics"
+            },
+            {
+              "name": "Atlassian Bitbucket",
+              "category": "Development"
+            },
+            {
+              "name": "Yoast SEO",
+              "category": "SEO"
+            },
+            {
+              "name": "Emotion",
+              "category": "Development"
+            },
+            {
+              "name": "PayPal",
+              "category": "Payment processors"
+            },
+            {
+              "name": "Amazon Web Services",
+              "category": "PaaS"
+            },
+            {
+              "name": "Sentry",
+              "category": "Issue trackers"
+            },
+            {
+              "name": "Gravatar",
+              "category": "Miscellaneous"
+            },
+            {
+              "name": "Google Tag Manager",
+              "category": "Tag managers"
+            },
+            {
+              "name": "GraphQL",
+              "category": "Programming languages"
+            },
+            {
+              "name": "Java",
+              "category": "Programming languages"
+            },
+            {
+              "name": "Marketo",
+              "category": "Marketing automation"
+            },
+            {
+              "name": "Facebook Pixel",
+              "category": "Analytics"
+            },
+            {
+              "name": "React",
+              "category": "JavaScript frameworks"
+            },
+            {
+              "name": "HubSpot",
+              "category": "Marketing automation"
+            },
+            {
+              "name": "core-js",
+              "category": "JavaScript libraries"
+            },
+            {
+              "name": "DocuSign",
+              "category": "Miscellaneous"
+            },
+            {
+              "name": "AWS Certificate Manager",
+              "category": "SSL/TLS certificate authorities"
+            },
+            {
+              "name": "RSS",
+              "category": "Miscellaneous"
+            },
+            {
+              "name": "Python",
+              "category": "Programming languages"
+            },
+            {
+              "name": "Lodash",
+              "category": "JavaScript libraries"
+            },
+            {
+              "name": "Contentsquare",
+              "category": "A/B Testing"
+            },
+            {
+              "name": "Open Graph",
+              "category": "Miscellaneous"
+            },
+            {
+              "name": "Google Ads Conversion Tracking",
+              "category": "Analytics"
+            },
+            {
+              "name": "Amazon CloudFront",
+              "category": "CDN"
+            },
+            {
+              "name": "LottieFiles",
+              "category": "Miscellaneous"
+            },
+            {
+              "name": "Intercom",
+              "category": "CRM"
+            },
+            {
+              "name": "Marketo Forms",
+              "category": "Form builders"
+            },
+            {
+              "name": "Webpack",
+              "category": "Miscellaneous"
+            },
+            {
+              "name": "OneTrust",
+              "category": "Cookie compliance"
+            },
+            {
+              "name": "Quora Pixel",
+              "category": "Analytics"
+            },
+            {
+              "name": "Twitter Emoji",
+              "category": "Font scripts"
+            },
+            {
+              "name": "AdRoll",
+              "category": "Advertising"
+            },
+            {
+              "name": "ClickTale",
+              "category": "Analytics"
+            },
+            {
+              "name": "Priority Hints",
+              "category": "Performance"
+            }
+          ]
+        },
+        "job_postings": {
+          "active_count": 238,
+          "active_titles": [
+            "sales compensation strategy & design sr. manager",
+            "sales development representative, strategy collections",
+            "solution consultant, data center",
+            "software engineer, datacloud",
+            "sales compensation strategy & design sr. manager",
+            "solution sales executive, strategy collection (west)",
+            "principal value advisor, dach",
+            "solution sales executive - service management anz",
+            "principal data engineer",
+            "account-based marketing manager, amer greenfield",
+            "scaled sales associate, smb",
+            "onboarding success manager, twc",
+            "solution consultant, cloud platform",
+            "senior design manager, ai",
+            "principal strategist, ai sales strategy",
+            "senior solutions engineer, enterprise uki",
+            "engagement manager, advisory services - public sector",
+            "solutions engineer, mid market",
+            "account-based marketing manager, amer strategic",
+            "senior solutions engineer, government",
+            "account-based marketing manager, amer greenfield",
+            "sales development representative | dx",
+            "director, commercial legal - global partners & alliances",
+            "solutions architect manager | dx",
+            "senior engagement manager",
+            "principal solutions engineer, strategic",
+            "senior manager, solutions engineering",
+            "principal program manager, sales and success strategy",
+            "solutions architect | dx",
+            "senior solution engineer (german speaking)",
+            "principal solutions engineer, strategic",
+            "solutions sales executive, itsm (japanese speaking)",
+            "solution consultant, cloud platform",
+            "infrastructure engineer",
+            "solution consultant, uki",
+            "field marketing manager, brazil",
+            "account-based marketing manager, amer greenfield",
+            "account executive, mid market central",
+            "senior account executive - ai & digital natives",
+            "sales compensation strategy & design sr. manager",
+            "senior engagement manager",
+            "account executive, mid-market uki",
+            "solution consultant, cloud platform development and integration",
+            "senior data engineer",
+            "engagement manager (german speaking)",
+            "strategic account executive, southern europe",
+            "engagement manager, advisory services - public sector",
+            "manager, enterprise account management",
+            "senior data engineering manager",
+            "senior data engineering manager",
+            "account executive, mid-market uki",
+            "engagement manager, advisory services - public sector",
+            "senior solutions engineer, enterprise, dach (german speaking)",
+            "solution sales executive - service management anz",
+            "senior solutions engineer, government",
+            "senior technical consultant, advisory services",
+            "manager, enterprise account management, emea",
+            "senior sales development representative | dx",
+            "solutions consultant, uki (cloud platform)",
+            "account executive, enterprise public sector",
+            "senior solutions engineer, enterprise, dach (german speaking)",
+            "account executive, mid-market uki",
+            "account executive, mid-market - dach (german speaking)",
+            "manager, solution sales executive, service collection",
+            "senior account executive, enterprise",
+            "enterprise sales manager",
+            "senior solutions engineer, government",
+            "account-based marketing manager, amer greenfield",
+            "tax manager",
+            "account executive, mid market - canada",
+            "fp&a deal desk",
+            "engagement manager",
+            "account executive, enterprise, uk",
+            "solutions architect | dx",
+            "senior solutions engineer, enterprise - east",
+            "strategic account executive - indian gcc's",
+            "sr. solutions engineer, devops",
+            "account executive, enterprise dach (german speaking)",
+            "director, commercial legal - global partners & alliances",
+            "account executive, mid-market uki",
+            "sr. solutions engineer, devops",
+            "director of innovation, commercial operations",
+            "account executive, public sector - amer",
+            "senior principal analyst, sales strategy & operations",
+            "account manager, enterprise - german speaking",
+            "senior manager, solutions engineering",
+            "account executive, enterprise new logo uki",
+            "senior account executive (japan)",
+            "senior principal analyst, sales strategy & operations",
+            "customer program manager | dx",
+            "scaled sales associate, smb",
+            "account executive, enterprise, uk",
+            "account executive, mid-market east",
+            "account executive, enterprise public sector",
+            "engagement manager, advisory services - public sector",
+            "solutions consultant, uki (cloud platform)",
+            "senior data engineer",
+            "strategic account executive, southern europe",
+            "senior commercial counsel uki",
+            "account executive, mid-market east",
+            "engagement manager"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "company": "Darwinbox",
+    "name": "Dishant Patel",
+    "target_title": "Engineering Manager (ex-Principal)",
+    "profile_title": null,
+    "linkedin_url": "https://in.linkedin.com/in/dishant-patel",
+    "email": "Not Disclosed / Unavailable",
+    "email_status": "NO_MATCH",
+    "full_response": {
+      "error": false,
+      "free_enrichment": false,
+      "person": {
+        "person_id": "aaaa67d4626ec80e37642999",
+        "first_name": "Dishant",
+        "last_name": "Patel",
+        "full_name": "Dishant Patel",
+        "linkedin_url": "https://www.linkedin.com/in/dishant-patel",
+        "current_job_title": "Engineering Manager",
+        "current_job_key": null,
+        "headline": "Engineer Manager at Darwinbox",
+        "linkedin_member_id": null,
+        "last_job_change_detected_at": null,
+        "job_history": [
+          {
+            "title": "Engineering Manager",
+            "company_name": "Darwinbox",
+            "logo_url": "cae2d8e1-e520-459e-bc5e-b46c13526acf.jpg",
+            "current": true,
+            "start_year": 2025,
+            "start_month": 4,
+            "end_year": null,
+            "end_month": null,
+            "duration_in_months": 18,
+            "departments": [
+              "Engineering & Technical"
+            ],
+            "seniority": "Manager",
+            "company_id": "cccc45fa6bdf6fa43b7913f3",
+            "job_key": "68272914"
+          },
+          {
+            "title": "Principal Software Engineer",
+            "company_name": "Darwinbox",
+            "logo_url": "cae2d8e1-e520-459e-bc5e-b46c13526acf.jpg",
+            "current": false,
+            "start_year": 2023,
+            "start_month": 4,
+            "end_year": 2025,
+            "end_month": 3,
+            "duration_in_months": 23,
+            "departments": [
+              "Software Development",
+              "Engineering & Technical"
+            ],
+            "seniority": "Entry",
+            "company_id": "cccc45fa6bdf6fa43b7913f3",
+            "job_key": "60245405"
+          },
+          {
+            "title": "Senior Software Engineer",
+            "company_name": "Darwinbox",
+            "logo_url": "cae2d8e1-e520-459e-bc5e-b46c13526acf.jpg",
+            "current": false,
+            "start_year": 2020,
+            "start_month": 11,
+            "end_year": 2023,
+            "end_month": 3,
+            "duration_in_months": 28,
+            "departments": [
+              "Software Development",
+              "Engineering & Technical"
+            ],
+            "seniority": "Senior",
+            "company_id": "cccc45fa6bdf6fa43b7913f3",
+            "job_key": "79613749"
+          },
+          {
+            "title": "Frontend Engineer",
+            "company_name": "GLIB",
+            "logo_url": "d4d76423-4679-45e7-ad5f-c8e35ca5530c.jpg",
+            "current": false,
+            "start_year": 2018,
+            "start_month": 4,
+            "end_year": 2020,
+            "end_month": 7,
+            "duration_in_months": 27,
+            "departments": [
+              "Software Development",
+              "Engineering & Technical"
+            ],
+            "seniority": "Entry",
+            "company_id": "ccccea2fc1eb707da462ecb4",
+            "job_key": "90428037"
+          },
+          {
+            "title": "Internship",
+            "company_name": "Optimized Solutions Limited",
+            "logo_url": "0d4ab147-fd81-42eb-a0d2-02ccf1fadbf3.jpg",
+            "current": false,
+            "start_year": 2017,
+            "start_month": 1,
+            "end_year": 2017,
+            "end_month": 4,
+            "duration_in_months": 3,
+            "departments": [],
+            "seniority": "Intern",
+            "company_id": "cccc99ee06796020a755de75",
+            "job_key": "85625547"
+          }
+        ],
+        "mobile": {
+          "status": "VERIFIED",
+          "revealed": false,
+          "mobile": "+91 8128* *****",
+          "mobile_national": "08128* *****",
+          "mobile_international": "+91 8128* *****",
+          "mobile_country": "India",
+          "mobile_country_code": "IN"
+        },
+        "email": {
+          "status": "VERIFIED",
+          "revealed": true,
+          "email": "dishant.p@darwinbox.io",
+          "verification_method": "SMTP",
+          "email_mx_provider": "Microsoft"
+        },
+        "location": {
+          "country": "India",
+          "country_code": "IN",
+          "state": "Telangana",
+          "city": "Himayatnagar",
+          "time_zone": "Asia/Calcutta",
+          "time_zone_offset": 5.5
+        },
+        "skills": []
+      },
+      "company": {
+        "company_id": "cccc45fa6bdf6fa43b7913f3",
+        "name": "Darwinbox",
+        "website": "https://darwinbox.com",
+        "domain": "darwinbox.in",
+        "other_websites": [
+          "darwinbox.in"
+        ],
+        "description": "Darwinbox is a new-age, agile HCM Suite that enables enterprises and growing businesses to automate their day-to-day HR processes, deliver actionable insights and build better workplaces. Powered by Artificial Intelligence (AI) and Machine Learning (ML), Darwinbox provides a lightweight and easy to use mobile-first experience to the last mile employee.\n \n\ud83c\udf0d Today we serve over 1000 organizations and 4M employees across 130+ countries including large conglomerates and fast-growing tech companies like Adani, Kopi Kenangan, MatchMove, Starbucks, Apollo.io, Mahindra, Bank BTPN, TVS, Shakey\u2019s, Pouring With Heart, JSW, Ephicacy, Nivea, Swiggy, Tokopedia, JG Summit Group, NutriAsia, Indorama and more.\n\ud83c\udfc6 We have been recognized for the 4th consecutive year on the 2024 Gartner\u00ae Magic Quadrant\u2122, globally.\n\ud83d\ude80 We have been recognized as a \"Strong Performer\" on the Forrester\u00ae HCM Wave\u2122 2023.\n\ud83d\udcbc We have partnered with Microsoft with the focus on co-innovating and delivering solutions to enhance employee experience and organizational agility.\n\u2b50\ufe0f We are the best-rated solution by customers on Gartner\u2019s Peer Insights platform with an average rating of 4.7.",
+        "description_seo": "Make your enterprise change-ready for now and the next chapter with Darwinbox's end-to-end, agile HCM platform for the evolving world of work.",
+        "description_ai": "Darwinbox is a new-age HR management software that offers end-to-end, agile HCM platform for the evolving world of work.",
+        "type": "Private",
+        "industry": "Software Development",
+        "employee_count": 1401,
+        "employee_count_on_prospeo": 1223,
+        "employee_range": "1001-2000",
+        "location": {
+          "country": "United States",
+          "country_code": "US",
+          "state": null,
+          "city": null,
+          "raw_address": "34 Tidal Way, San Mateo, California 94401, US"
+        },
+        "sic_codes": [
+          "736"
+        ],
+        "naics_codes": [],
+        "email_tech": {
+          "domain": "darwinbox.in",
+          "mx_provider": "Microsoft"
+        },
+        "linkedin_url": "https://www.linkedin.com/company/thedarwinbox",
+        "twitter_url": "https://x.com/thedarwinbox",
+        "facebook_url": "https://www.facebook.com/thedarwinbox",
+        "crunchbase_url": "https://www.crunchbase.com/organization/darwinbox",
+        "instagram_url": "https://www.instagram.com/thedarwinbox",
+        "youtube_url": "https://www.youtube.com/c/@thedarwinbox",
+        "phone_hq": {
+          "phone_hq": "+65919100121290",
+          "phone_hq_national": "919100121290",
+          "phone_hq_international": "+65919100121290",
+          "phone_hq_country": "Singapore",
+          "phone_hq_country_code": "SG"
+        },
+        "linkedin_id": null,
+        "founded": 2015,
+        "revenue_range": {
+          "min": 25000000,
+          "max": 50000000
+        },
+        "revenue_range_printed": "25M",
+        "keywords": [
+          "Saas",
+          "Rewards And Recognition",
+          "Recruitment",
+          "Hris",
+          "Employee Engagement",
+          "Software As A Service",
+          "Talent Management",
+          "Hrms",
+          "Performance Management",
+          "Enterprise Software",
+          "Payroll Management",
+          "Reimbursement",
+          "Attendance Management",
+          "Applicant Tracking System",
+          "Employee Onboarding",
+          "Hr Analytics",
+          "People Analytics",
+          "Human Resource Information System",
+          "Human Resource Management System",
+          "Leaves Management",
+          "Travel And Expense Management",
+          "Hr Voicebot"
+        ],
+        "logo_url": "https://prospeo-static-assets.s3.us-east-1.amazonaws.com/company_logo/cae2d8e1-e520-459e-bc5e-b46c13526acf.jpg",
+        "attributes": {
+          "is_b2b": true,
+          "has_demo": false,
+          "has_free_trial": false,
+          "has_downloadable": false,
+          "has_mobile_apps": false,
+          "has_online_reviews": false,
+          "has_pricing": true
+        },
+        "funding": {
+          "count": 5,
+          "total_funding": 224900000,
+          "total_funding_printed": "$224.9M",
+          "latest_funding_date": "2025-09-14T00:00:00",
+          "latest_funding_stage": "Series unknown",
+          "funding_events": [
+            {
+              "amount": 4900000,
+              "amount_printed": "$4,900,000",
+              "raised_at": "2023-02-04T00:00:00",
+              "stage": "Series D",
+              "link": "https://www.crunchbase.com/funding_round/darwinbox-series-d--3d481eb2"
+            },
+            {
+              "amount": 140000000,
+              "amount_printed": "$140,000,000",
+              "raised_at": "2025-04-05T00:00:00",
+              "stage": "Series unknown",
+              "link": "https://www.crunchbase.com/funding_round/darwinbox-series-unknown--1a0f397b"
+            },
+            {
+              "amount": null,
+              "amount_printed": null,
+              "raised_at": "2025-04-05T00:00:00",
+              "stage": "Secondary market",
+              "link": "https://www.crunchbase.com/funding_round/darwinbox-secondary-market--1fc13ca9"
+            },
+            {
+              "amount": 40000000,
+              "amount_printed": "$40,000,000",
+              "raised_at": "2025-09-14T00:00:00",
+              "stage": "Series unknown",
+              "link": "https://www.crunchbase.com/funding_round/darwinbox-series-unknown--a37280d8"
+            },
+            {
+              "amount": 40000000,
+              "amount_printed": "$40,000,000",
+              "raised_at": "2025-09-14T00:00:00",
+              "stage": "Series D",
+              "link": "https://www.crunchbase.com/funding_round/darwinbox-series-d--a37280d8"
+            }
+          ]
+        },
+        "technology": {
+          "count": 48,
+          "technology_names": [
+            "Autoptimize",
+            "jQuery CDN",
+            "reCAPTCHA",
+            "Social Snowball",
+            "Astra",
+            "WP Rocket",
+            "Tailwind CSS",
+            "Goober",
+            "Swiper",
+            "jQuery UI",
+            "Hotjar",
+            "Elementor",
+            "jQuery Migrate",
+            "Twitter Ads",
+            "jQuery",
+            "HubSpot Analytics",
+            "PHP",
+            "Microsoft Advertising",
+            "WordPress",
+            "Google Analytics",
+            "AdRoll CMP System",
+            "Linkedin Insight Tag",
+            "Yoast SEO",
+            "Leadfeeder",
+            "Adobe Fonts",
+            "Microsoft Clarity",
+            "Next.js",
+            "Google Tag Manager",
+            "Slider Revolution",
+            "Facebook Pixel",
+            "GSAP",
+            "React",
+            "HubSpot",
+            "core-js",
+            "Essential Addons for Elementor",
+            "Auxilia",
+            "HubSpot Chat",
+            "RSS",
+            "OptinMonster",
+            "Google Font API",
+            "Vue.js",
+            "Font Awesome",
+            "Open Graph",
+            "AdRoll",
+            "Webpack",
+            "Babel",
+            "MySQL",
+            "Priority Hints"
+          ],
+          "technology_list": [
+            {
+              "name": "Autoptimize",
+              "category": "Performance"
+            },
+            {
+              "name": "jQuery CDN",
+              "category": "CDN"
+            },
+            {
+              "name": "reCAPTCHA",
+              "category": "Security"
+            },
+            {
+              "name": "Social Snowball",
+              "category": "Affiliate programs"
+            },
+            {
+              "name": "Astra",
+              "category": "WordPress themes"
+            },
+            {
+              "name": "WP Rocket",
+              "category": "Caching"
+            },
+            {
+              "name": "Tailwind CSS",
+              "category": "UI frameworks"
+            },
+            {
+              "name": "Goober",
+              "category": "JavaScript libraries"
+            },
+            {
+              "name": "Swiper",
+              "category": "JavaScript libraries"
+            },
+            {
+              "name": "jQuery UI",
+              "category": "JavaScript libraries"
+            },
+            {
+              "name": "Hotjar",
+              "category": "Analytics"
+            },
+            {
+              "name": "Elementor",
+              "category": "Page builders"
+            },
+            {
+              "name": "jQuery Migrate",
+              "category": "JavaScript libraries"
+            },
+            {
+              "name": "Twitter Ads",
+              "category": "Advertising"
+            },
+            {
+              "name": "jQuery",
+              "category": "JavaScript libraries"
+            },
+            {
+              "name": "HubSpot Analytics",
+              "category": "Analytics"
+            },
+            {
+              "name": "PHP",
+              "category": "Programming languages"
+            },
+            {
+              "name": "Microsoft Advertising",
+              "category": "Advertising"
+            },
+            {
+              "name": "WordPress",
+              "category": "Blogs"
+            },
+            {
+              "name": "Google Analytics",
+              "category": "Analytics"
+            },
+            {
+              "name": "AdRoll CMP System",
+              "category": "Cookie compliance"
+            },
+            {
+              "name": "Linkedin Insight Tag",
+              "category": "Analytics"
+            },
+            {
+              "name": "Yoast SEO",
+              "category": "SEO"
+            },
+            {
+              "name": "Leadfeeder",
+              "category": "Analytics"
+            },
+            {
+              "name": "Adobe Fonts",
+              "category": "Font scripts"
+            },
+            {
+              "name": "Microsoft Clarity",
+              "category": "Analytics"
+            },
+            {
+              "name": "Next.js",
+              "category": "JavaScript frameworks"
+            },
+            {
+              "name": "Google Tag Manager",
+              "category": "Tag managers"
+            },
+            {
+              "name": "Slider Revolution",
+              "category": "Photo galleries"
+            },
+            {
+              "name": "Facebook Pixel",
+              "category": "Analytics"
+            },
+            {
+              "name": "GSAP",
+              "category": "JavaScript frameworks"
+            },
+            {
+              "name": "React",
+              "category": "JavaScript frameworks"
+            },
+            {
+              "name": "HubSpot",
+              "category": "Marketing automation"
+            },
+            {
+              "name": "core-js",
+              "category": "JavaScript libraries"
+            },
+            {
+              "name": "Essential Addons for Elementor",
+              "category": "WordPress plugins"
+            },
+            {
+              "name": "Auxilia",
+              "category": "Payment processors"
+            },
+            {
+              "name": "HubSpot Chat",
+              "category": "Live chat"
+            },
+            {
+              "name": "RSS",
+              "category": "Miscellaneous"
+            },
+            {
+              "name": "OptinMonster",
+              "category": "Marketing automation"
+            },
+            {
+              "name": "Google Font API",
+              "category": "Font scripts"
+            },
+            {
+              "name": "Vue.js",
+              "category": "JavaScript frameworks"
+            },
+            {
+              "name": "Font Awesome",
+              "category": "Font scripts"
+            },
+            {
+              "name": "Open Graph",
+              "category": "Miscellaneous"
+            },
+            {
+              "name": "AdRoll",
+              "category": "Advertising"
+            },
+            {
+              "name": "Webpack",
+              "category": "Miscellaneous"
+            },
+            {
+              "name": "Babel",
+              "category": "Miscellaneous"
+            },
+            {
+              "name": "MySQL",
+              "category": "Databases"
+            },
+            {
+              "name": "Priority Hints",
+              "category": "Performance"
+            }
+          ]
+        },
+        "job_postings": {
+          "active_count": 26,
+          "active_titles": [
+            "manager - revenue operations - sales operations",
+            "pre-sales - functional senior consultant - us markets",
+            "head of bid management",
+            "head of bid management",
+            "customer success manager (enterprise clients- india)- mumbai & gurgaon",
+            "functional consultant (hcm implementation)",
+            "forward deployed engineer (ai-native systems builder)",
+            "sales associate (enterprise sales) \u2013 us markets",
+            "specialist/senior specialist - partnership operations - revenue operations",
+            "payroll implementation manager",
+            "account executive (enterprise sales) \u2013 us markets",
+            "senior sdr - us market",
+            "customer success manager - us markets",
+            "head of bid management",
+            "account manager - customer success",
+            "associate vp - sales (sg, my, id) ",
+            "manager - hcm solutions | functional pre-sales",
+            "implementation manager (payroll)",
+            "payroll implementation manager",
+            "engineering architect",
+            "presales manager",
+            "customer success manager (enterprise clients- india)- mumbai & gurgaon",
+            "functional consultant",
+            "director - marketing",
+            "manager - hcm solutions | functional pre-sales",
+            "head of bid management"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "company": "Darwinbox",
+    "name": "Amit Rathod",
+    "target_title": "Solution Engineering Manager (AI & Enterprise)",
+    "profile_title": null,
+    "linkedin_url": "https://in.linkedin.com/in/rathodamit",
+    "email": "Not Disclosed / Unavailable",
+    "email_status": "NO_MATCH",
+    "full_response": {
+      "error": false,
+      "free_enrichment": false,
+      "person": {
+        "person_id": "aaaa203914e893c9e42f745a",
+        "first_name": "Amit",
+        "last_name": "Rathod",
+        "full_name": "Amit Rathod",
+        "linkedin_url": "https://www.linkedin.com/in/amit-rathod-3663b05b",
+        "current_job_title": "Sr. Technical Consultant",
+        "current_job_key": null,
+        "headline": "Sr. Technical Consultant at Darwinbox",
+        "linkedin_member_id": null,
+        "last_job_change_detected_at": null,
+        "job_history": [
+          {
+            "title": "Sr. Technical Consultant",
+            "company_name": "Darwinbox",
+            "logo_url": "cae2d8e1-e520-459e-bc5e-b46c13526acf.jpg",
+            "current": true,
+            "start_year": 2024,
+            "start_month": 4,
+            "end_year": null,
+            "end_month": null,
+            "duration_in_months": 30,
+            "departments": [
+              "Consultant",
+              "Engineering & Technical"
+            ],
+            "seniority": "Senior",
+            "company_id": "cccc45fa6bdf6fa43b7913f3",
+            "job_key": "47633495"
+          }
+        ],
+        "mobile": {
+          "status": "VERIFIED",
+          "revealed": false,
+          "mobile": "+91 9561* *****",
+          "mobile_national": "09561* *****",
+          "mobile_international": "+91 9561* *****",
+          "mobile_country": "India",
+          "mobile_country_code": "IN"
+        },
+        "email": {
+          "status": "VERIFIED",
+          "revealed": true,
+          "email": "amit.r@darwinbox.in",
+          "verification_method": "SMTP",
+          "email_mx_provider": "Microsoft"
+        },
+        "location": {
+          "country": "India",
+          "country_code": "IN",
+          "state": "Maharashtra",
+          "city": "Pune",
+          "time_zone": "Asia/Calcutta",
+          "time_zone_offset": 5.5
+        },
+        "skills": []
+      },
+      "company": {
+        "company_id": "cccc45fa6bdf6fa43b7913f3",
+        "name": "Darwinbox",
+        "website": "https://darwinbox.com",
+        "domain": "darwinbox.in",
+        "other_websites": [
+          "darwinbox.in"
+        ],
+        "description": "Darwinbox is a new-age, agile HCM Suite that enables enterprises and growing businesses to automate their day-to-day HR processes, deliver actionable insights and build better workplaces. Powered by Artificial Intelligence (AI) and Machine Learning (ML), Darwinbox provides a lightweight and easy to use mobile-first experience to the last mile employee.\n \n\ud83c\udf0d Today we serve over 1000 organizations and 4M employees across 130+ countries including large conglomerates and fast-growing tech companies like Adani, Kopi Kenangan, MatchMove, Starbucks, Apollo.io, Mahindra, Bank BTPN, TVS, Shakey\u2019s, Pouring With Heart, JSW, Ephicacy, Nivea, Swiggy, Tokopedia, JG Summit Group, NutriAsia, Indorama and more.\n\ud83c\udfc6 We have been recognized for the 4th consecutive year on the 2024 Gartner\u00ae Magic Quadrant\u2122, globally.\n\ud83d\ude80 We have been recognized as a \"Strong Performer\" on the Forrester\u00ae HCM Wave\u2122 2023.\n\ud83d\udcbc We have partnered with Microsoft with the focus on co-innovating and delivering solutions to enhance employee experience and organizational agility.\n\u2b50\ufe0f We are the best-rated solution by customers on Gartner\u2019s Peer Insights platform with an average rating of 4.7.",
+        "description_seo": "Make your enterprise change-ready for now and the next chapter with Darwinbox's end-to-end, agile HCM platform for the evolving world of work.",
+        "description_ai": "Darwinbox is a new-age HR management software that offers end-to-end, agile HCM platform for the evolving world of work.",
+        "type": "Private",
+        "industry": "Software Development",
+        "employee_count": 1401,
+        "employee_count_on_prospeo": 1223,
+        "employee_range": "1001-2000",
+        "location": {
+          "country": "United States",
+          "country_code": "US",
+          "state": null,
+          "city": null,
+          "raw_address": "34 Tidal Way, San Mateo, California 94401, US"
+        },
+        "sic_codes": [
+          "736"
+        ],
+        "naics_codes": [],
+        "email_tech": {
+          "domain": "darwinbox.in",
+          "mx_provider": "Microsoft"
+        },
+        "linkedin_url": "https://www.linkedin.com/company/thedarwinbox",
+        "twitter_url": "https://x.com/thedarwinbox",
+        "facebook_url": "https://www.facebook.com/thedarwinbox",
+        "crunchbase_url": "https://www.crunchbase.com/organization/darwinbox",
+        "instagram_url": "https://www.instagram.com/thedarwinbox",
+        "youtube_url": "https://www.youtube.com/c/@thedarwinbox",
+        "phone_hq": {
+          "phone_hq": "+65919100121290",
+          "phone_hq_national": "919100121290",
+          "phone_hq_international": "+65919100121290",
+          "phone_hq_country": "Singapore",
+          "phone_hq_country_code": "SG"
+        },
+        "linkedin_id": null,
+        "founded": 2015,
+        "revenue_range": {
+          "min": 25000000,
+          "max": 50000000
+        },
+        "revenue_range_printed": "25M",
+        "keywords": [
+          "Saas",
+          "Rewards And Recognition",
+          "Recruitment",
+          "Hris",
+          "Employee Engagement",
+          "Software As A Service",
+          "Talent Management",
+          "Hrms",
+          "Performance Management",
+          "Enterprise Software",
+          "Payroll Management",
+          "Reimbursement",
+          "Attendance Management",
+          "Applicant Tracking System",
+          "Employee Onboarding",
+          "Hr Analytics",
+          "People Analytics",
+          "Human Resource Information System",
+          "Human Resource Management System",
+          "Leaves Management",
+          "Travel And Expense Management",
+          "Hr Voicebot"
+        ],
+        "logo_url": "https://prospeo-static-assets.s3.us-east-1.amazonaws.com/company_logo/cae2d8e1-e520-459e-bc5e-b46c13526acf.jpg",
+        "attributes": {
+          "is_b2b": true,
+          "has_demo": false,
+          "has_free_trial": false,
+          "has_downloadable": false,
+          "has_mobile_apps": false,
+          "has_online_reviews": false,
+          "has_pricing": true
+        },
+        "funding": {
+          "count": 5,
+          "total_funding": 224900000,
+          "total_funding_printed": "$224.9M",
+          "latest_funding_date": "2025-09-14T00:00:00",
+          "latest_funding_stage": "Series unknown",
+          "funding_events": [
+            {
+              "amount": 4900000,
+              "amount_printed": "$4,900,000",
+              "raised_at": "2023-02-04T00:00:00",
+              "stage": "Series D",
+              "link": "https://www.crunchbase.com/funding_round/darwinbox-series-d--3d481eb2"
+            },
+            {
+              "amount": 140000000,
+              "amount_printed": "$140,000,000",
+              "raised_at": "2025-04-05T00:00:00",
+              "stage": "Series unknown",
+              "link": "https://www.crunchbase.com/funding_round/darwinbox-series-unknown--1a0f397b"
+            },
+            {
+              "amount": null,
+              "amount_printed": null,
+              "raised_at": "2025-04-05T00:00:00",
+              "stage": "Secondary market",
+              "link": "https://www.crunchbase.com/funding_round/darwinbox-secondary-market--1fc13ca9"
+            },
+            {
+              "amount": 40000000,
+              "amount_printed": "$40,000,000",
+              "raised_at": "2025-09-14T00:00:00",
+              "stage": "Series unknown",
+              "link": "https://www.crunchbase.com/funding_round/darwinbox-series-unknown--a37280d8"
+            },
+            {
+              "amount": 40000000,
+              "amount_printed": "$40,000,000",
+              "raised_at": "2025-09-14T00:00:00",
+              "stage": "Series D",
+              "link": "https://www.crunchbase.com/funding_round/darwinbox-series-d--a37280d8"
+            }
+          ]
+        },
+        "technology": {
+          "count": 48,
+          "technology_names": [
+            "Autoptimize",
+            "jQuery CDN",
+            "reCAPTCHA",
+            "Social Snowball",
+            "Astra",
+            "WP Rocket",
+            "Tailwind CSS",
+            "Goober",
+            "Swiper",
+            "jQuery UI",
+            "Hotjar",
+            "Elementor",
+            "jQuery Migrate",
+            "Twitter Ads",
+            "jQuery",
+            "HubSpot Analytics",
+            "PHP",
+            "Microsoft Advertising",
+            "WordPress",
+            "Google Analytics",
+            "AdRoll CMP System",
+            "Linkedin Insight Tag",
+            "Yoast SEO",
+            "Leadfeeder",
+            "Adobe Fonts",
+            "Microsoft Clarity",
+            "Next.js",
+            "Google Tag Manager",
+            "Slider Revolution",
+            "Facebook Pixel",
+            "GSAP",
+            "React",
+            "HubSpot",
+            "core-js",
+            "Essential Addons for Elementor",
+            "Auxilia",
+            "HubSpot Chat",
+            "RSS",
+            "OptinMonster",
+            "Google Font API",
+            "Vue.js",
+            "Font Awesome",
+            "Open Graph",
+            "AdRoll",
+            "Webpack",
+            "Babel",
+            "MySQL",
+            "Priority Hints"
+          ],
+          "technology_list": [
+            {
+              "name": "Autoptimize",
+              "category": "Performance"
+            },
+            {
+              "name": "jQuery CDN",
+              "category": "CDN"
+            },
+            {
+              "name": "reCAPTCHA",
+              "category": "Security"
+            },
+            {
+              "name": "Social Snowball",
+              "category": "Affiliate programs"
+            },
+            {
+              "name": "Astra",
+              "category": "WordPress themes"
+            },
+            {
+              "name": "WP Rocket",
+              "category": "Caching"
+            },
+            {
+              "name": "Tailwind CSS",
+              "category": "UI frameworks"
+            },
+            {
+              "name": "Goober",
+              "category": "JavaScript libraries"
+            },
+            {
+              "name": "Swiper",
+              "category": "JavaScript libraries"
+            },
+            {
+              "name": "jQuery UI",
+              "category": "JavaScript libraries"
+            },
+            {
+              "name": "Hotjar",
+              "category": "Analytics"
+            },
+            {
+              "name": "Elementor",
+              "category": "Page builders"
+            },
+            {
+              "name": "jQuery Migrate",
+              "category": "JavaScript libraries"
+            },
+            {
+              "name": "Twitter Ads",
+              "category": "Advertising"
+            },
+            {
+              "name": "jQuery",
+              "category": "JavaScript libraries"
+            },
+            {
+              "name": "HubSpot Analytics",
+              "category": "Analytics"
+            },
+            {
+              "name": "PHP",
+              "category": "Programming languages"
+            },
+            {
+              "name": "Microsoft Advertising",
+              "category": "Advertising"
+            },
+            {
+              "name": "WordPress",
+              "category": "Blogs"
+            },
+            {
+              "name": "Google Analytics",
+              "category": "Analytics"
+            },
+            {
+              "name": "AdRoll CMP System",
+              "category": "Cookie compliance"
+            },
+            {
+              "name": "Linkedin Insight Tag",
+              "category": "Analytics"
+            },
+            {
+              "name": "Yoast SEO",
+              "category": "SEO"
+            },
+            {
+              "name": "Leadfeeder",
+              "category": "Analytics"
+            },
+            {
+              "name": "Adobe Fonts",
+              "category": "Font scripts"
+            },
+            {
+              "name": "Microsoft Clarity",
+              "category": "Analytics"
+            },
+            {
+              "name": "Next.js",
+              "category": "JavaScript frameworks"
+            },
+            {
+              "name": "Google Tag Manager",
+              "category": "Tag managers"
+            },
+            {
+              "name": "Slider Revolution",
+              "category": "Photo galleries"
+            },
+            {
+              "name": "Facebook Pixel",
+              "category": "Analytics"
+            },
+            {
+              "name": "GSAP",
+              "category": "JavaScript frameworks"
+            },
+            {
+              "name": "React",
+              "category": "JavaScript frameworks"
+            },
+            {
+              "name": "HubSpot",
+              "category": "Marketing automation"
+            },
+            {
+              "name": "core-js",
+              "category": "JavaScript libraries"
+            },
+            {
+              "name": "Essential Addons for Elementor",
+              "category": "WordPress plugins"
+            },
+            {
+              "name": "Auxilia",
+              "category": "Payment processors"
+            },
+            {
+              "name": "HubSpot Chat",
+              "category": "Live chat"
+            },
+            {
+              "name": "RSS",
+              "category": "Miscellaneous"
+            },
+            {
+              "name": "OptinMonster",
+              "category": "Marketing automation"
+            },
+            {
+              "name": "Google Font API",
+              "category": "Font scripts"
+            },
+            {
+              "name": "Vue.js",
+              "category": "JavaScript frameworks"
+            },
+            {
+              "name": "Font Awesome",
+              "category": "Font scripts"
+            },
+            {
+              "name": "Open Graph",
+              "category": "Miscellaneous"
+            },
+            {
+              "name": "AdRoll",
+              "category": "Advertising"
+            },
+            {
+              "name": "Webpack",
+              "category": "Miscellaneous"
+            },
+            {
+              "name": "Babel",
+              "category": "Miscellaneous"
+            },
+            {
+              "name": "MySQL",
+              "category": "Databases"
+            },
+            {
+              "name": "Priority Hints",
+              "category": "Performance"
+            }
+          ]
+        },
+        "job_postings": {
+          "active_count": 26,
+          "active_titles": [
+            "manager - revenue operations - sales operations",
+            "pre-sales - functional senior consultant - us markets",
+            "head of bid management",
+            "head of bid management",
+            "customer success manager (enterprise clients- india)- mumbai & gurgaon",
+            "functional consultant (hcm implementation)",
+            "forward deployed engineer (ai-native systems builder)",
+            "sales associate (enterprise sales) \u2013 us markets",
+            "specialist/senior specialist - partnership operations - revenue operations",
+            "payroll implementation manager",
+            "account executive (enterprise sales) \u2013 us markets",
+            "senior sdr - us market",
+            "customer success manager - us markets",
+            "head of bid management",
+            "account manager - customer success",
+            "associate vp - sales (sg, my, id) ",
+            "manager - hcm solutions | functional pre-sales",
+            "implementation manager (payroll)",
+            "payroll implementation manager",
+            "engineering architect",
+            "presales manager",
+            "customer success manager (enterprise clients- india)- mumbai & gurgaon",
+            "functional consultant",
+            "director - marketing",
+            "manager - hcm solutions | functional pre-sales",
+            "head of bid management"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "company": "Ather Energy",
+    "name": "Vinayak Moger",
+    "target_title": "Technical Lead / Staff Engineer",
+    "profile_title": null,
+    "linkedin_url": "https://in.linkedin.com/in/vinayak-moger-2b91b6135",
+    "email": "Not Disclosed / Unavailable",
+    "email_status": "NO_MATCH",
+    "full_response": {
+      "error": false,
+      "free_enrichment": false,
+      "person": {
+        "person_id": "aaaac870a9f9e206be178fbc",
+        "first_name": "Vinayak",
+        "last_name": "Moger",
+        "full_name": "Vinayak Moger",
+        "linkedin_url": "https://www.linkedin.com/in/vinayak-moger-2b91b6135",
+        "current_job_title": "Lead Android Developer",
+        "current_job_key": null,
+        "headline": "Lead Android Developer at Ather Energy | Android | Kotlin | BLE (Bluetooth) | Native | KMM | Jetpack Components | Compose | NDK",
+        "linkedin_member_id": null,
+        "last_job_change_detected_at": null,
+        "job_history": [
+          {
+            "title": "Lead Android Developer",
+            "company_name": "Ather Energy",
+            "logo_url": "2edde338-1245-46a3-bf29-d7f32e0d30ec.jpg",
+            "current": true,
+            "start_year": 2024,
+            "start_month": 2,
+            "end_year": null,
+            "end_month": null,
+            "duration_in_months": 32,
+            "departments": [
+              "Engineering & Technical",
+              "Mobile Development"
+            ],
+            "seniority": "Manager",
+            "company_id": "cccc3553594e3020fea4e1b7",
+            "job_key": "20713625"
+          },
+          {
+            "title": "Senior Software Developer",
+            "company_name": "HCLTech",
+            "logo_url": "14d4c561-df88-4591-a6e7-13b84d6a703b.jpg",
+            "current": false,
+            "start_year": 2022,
+            "start_month": 3,
+            "end_year": 2024,
+            "end_month": 2,
+            "duration_in_months": 23,
+            "departments": [
+              "Software Development",
+              "Engineering & Technical"
+            ],
+            "seniority": "Senior",
+            "company_id": "cccc12ab40291c13236b8483",
+            "job_key": "56754410"
+          },
+          {
+            "title": "Android Developer",
+            "company_name": "Implantaire Technologies India",
+            "logo_url": "3a4f9240-db78-4020-96d3-59971028c96e.jpg",
+            "current": false,
+            "start_year": 2020,
+            "start_month": 10,
+            "end_year": 2022,
+            "end_month": 3,
+            "duration_in_months": 17,
+            "departments": [
+              "Engineering & Technical",
+              "Mobile Development"
+            ],
+            "seniority": "Entry",
+            "company_id": "cccc39384ff69373400edddf",
+            "job_key": "73700047"
+          },
+          {
+            "title": "Flutter app developer",
+            "company_name": "IonIdea",
+            "logo_url": "e7222698-b8a6-4552-8d65-7550874b8042.jpg",
+            "current": false,
+            "start_year": 2019,
+            "start_month": 10,
+            "end_year": 2020,
+            "end_month": 9,
+            "duration_in_months": 11,
+            "departments": [
+              "Engineering & Technical"
+            ],
+            "seniority": "Entry",
+            "company_id": "ccccaf409a6b84df11376139",
+            "job_key": "35965067"
+          },
+          {
+            "title": "Android developer",
+            "company_name": "IonIdea",
+            "logo_url": "e7222698-b8a6-4552-8d65-7550874b8042.jpg",
+            "current": false,
+            "start_year": 2016,
+            "start_month": 4,
+            "end_year": 2020,
+            "end_month": 9,
+            "duration_in_months": 53,
+            "departments": [
+              "Engineering & Technical",
+              "Mobile Development"
+            ],
+            "seniority": "Entry",
+            "company_id": "ccccaf409a6b84df11376139",
+            "job_key": "44945092"
+          }
+        ],
+        "mobile": {
+          "status": "UNAVAILABLE",
+          "revealed": null,
+          "mobile": null
+        },
+        "email": {
+          "status": "VERIFIED",
+          "revealed": true,
+          "email": "vinayak.moger@atherenergy.com",
+          "verification_method": "BOUNCEBAN",
+          "email_mx_provider": "Google"
+        },
+        "location": {
+          "country": "India",
+          "country_code": "IN",
+          "state": "Karnataka",
+          "city": "Bengaluru North",
+          "time_zone": "Asia/Calcutta",
+          "time_zone_offset": 5.5
+        },
+        "skills": []
+      },
+      "company": {
+        "company_id": "cccc3553594e3020fea4e1b7",
+        "name": "Ather Energy",
+        "website": "https://atherenergy.com",
+        "domain": "atherenergy.com",
+        "other_websites": [],
+        "description": "Ather Energy was started in 2013 by Tarun Mehta and Swapnil Jain, two engineering graduates straight out of college with the audacity to dream and challenge the well-established Internal Combustion Engine (ICE) and replace it with an electric drive. \n\nWe built India\u2019s first smart and connected electric scooters, the Ather 450 product line, because we believe that's where the future of personal mobility is headed. \n\nAther is one of the few companies in India, specifically within the automotive industry, to have products and services that amalgamate clean design and engineering - Hardware and software. \n\nToday, our product offerings include the Ather Rizta, Ather 450X, Ather 450S, Public and Private charging Infrastructure, Accessories and Merch, and innovative ownership plans. We are also building a complete ecosystem for India\u2019s electric vehicles - powered by indigenous design and all locally manufactured.",
+        "description_seo": null,
+        "description_ai": null,
+        "type": "Private",
+        "industry": "Motor Vehicle Manufacturing",
+        "employee_count": 4321,
+        "employee_count_on_prospeo": 2725,
+        "employee_range": "2001-5000",
+        "location": {
+          "country": "India",
+          "country_code": "IN",
+          "state": "Karnataka",
+          "city": "Bengaluru South",
+          "raw_address": "3rd Floor, Tower D, IBC Knowledge Park, Bannerghatta  Main Road, Bangalore, Karnataka 560029, IN"
+        },
+        "sic_codes": [
+          "375"
+        ],
+        "naics_codes": [
+          "3361",
+          "33611",
+          "33612",
+          "336120",
+          "4231",
+          "441",
+          "5321",
+          "8111"
+        ],
+        "email_tech": {
+          "domain": "atherenergy.com",
+          "mx_provider": "Google"
+        },
+        "linkedin_url": "https://www.linkedin.com/company/ather-energy",
+        "twitter_url": "https://x.com/atherenergy",
+        "facebook_url": "https://www.facebook.com/atherenergy",
+        "crunchbase_url": "https://www.crunchbase.com/organization/ather-energy",
+        "instagram_url": "https://www.instagram.com/atherenergy",
+        "youtube_url": null,
+        "phone_hq": {
+          "phone_hq": "+917676600900",
+          "phone_hq_national": "076766 00900",
+          "phone_hq_international": "+917676600900",
+          "phone_hq_country": "India",
+          "phone_hq_country_code": "IN"
+        },
+        "linkedin_id": null,
+        "founded": 2013,
+        "revenue_range": {
+          "min": 100000000,
+          "max": 250000000
+        },
+        "revenue_range_printed": "100M",
+        "keywords": [
+          "Software Development",
+          "Manufacturing",
+          "Battery Management",
+          "Smart Technology",
+          "Electric Vehicle",
+          "Two Wheeler",
+          "Intelligence In 2W"
+        ],
+        "logo_url": "https://prospeo-static-assets.s3.us-east-1.amazonaws.com/company_logo/2edde338-1245-46a3-bf29-d7f32e0d30ec.jpg",
+        "attributes": {
+          "is_b2b": false,
+          "has_demo": false,
+          "has_free_trial": false,
+          "has_downloadable": false,
+          "has_mobile_apps": false,
+          "has_online_reviews": false,
+          "has_pricing": false
+        },
+        "funding": {
+          "count": 3,
+          "total_funding": 195100000,
+          "total_funding_printed": "$195.1M",
+          "latest_funding_date": "2024-09-13T00:00:00",
+          "latest_funding_stage": "Series unknown",
+          "funding_events": [
+            {
+              "amount": 108800000,
+              "amount_printed": "$108,800,000",
+              "raised_at": "2023-10-04T00:00:00",
+              "stage": "Series unknown",
+              "link": "https://www.crunchbase.com/funding_round/ather-energy-series-unknown--c69c7036"
+            },
+            {
+              "amount": 14800000,
+              "amount_printed": "$14,800,000",
+              "raised_at": "2024-07-07T00:00:00",
+              "stage": "Secondary market",
+              "link": "https://www.crunchbase.com/funding_round/ather-energy-secondary-market--eab9e2cc"
+            },
+            {
+              "amount": 71500000,
+              "amount_printed": "$71,500,000",
+              "raised_at": "2024-09-13T00:00:00",
+              "stage": "Series unknown",
+              "link": "https://www.crunchbase.com/funding_round/ather-energy-series-unknown--29e752f2"
+            }
+          ]
+        },
+        "technology": {
+          "count": 41,
+          "technology_names": [
+            "Akamai mPulse",
+            "Cloudflare Bot Management",
+            "Node.js",
+            "Swiper",
+            "Cloudflare",
+            "Partytown",
+            "Cloudflare Rocket Loader",
+            "Google Ads",
+            "HTTP/3",
+            "HSTS",
+            "Microsoft Advertising",
+            "Google Analytics",
+            "Marko",
+            "styled-components",
+            "Elastic APM",
+            "Microsoft Clarity",
+            "Google Workspace",
+            "Emotion",
+            "Priority Hints",
+            "Next.js",
+            "Mapbox GL JS",
+            "Google Tag Manager",
+            "Shopify",
+            "Facebook Pixel",
+            "GSAP",
+            "VWO",
+            "core-js",
+            "Cloudflare Browser Insights",
+            "React",
+            "AOS",
+            "Sendgrid",
+            "Ant Design",
+            "Vue.js",
+            "yellow.ai",
+            "Font Awesome",
+            "Elasticsearch",
+            "Open Graph",
+            "Google Ads Conversion Tracking",
+            "LottieFiles",
+            "Boomerang",
+            "Webpack"
+          ],
+          "technology_list": [
+            {
+              "name": "Akamai mPulse",
+              "category": "RUM"
+            },
+            {
+              "name": "Cloudflare Bot Management",
+              "category": "Security"
+            },
+            {
+              "name": "Node.js",
+              "category": "Programming languages"
+            },
+            {
+              "name": "Swiper",
+              "category": "JavaScript libraries"
+            },
+            {
+              "name": "Cloudflare",
+              "category": "CDN"
+            },
+            {
+              "name": "Partytown",
+              "category": "Performance"
+            },
+            {
+              "name": "Cloudflare Rocket Loader",
+              "category": "Performance"
+            },
+            {
+              "name": "Google Ads",
+              "category": "Advertising"
+            },
+            {
+              "name": "HTTP/3",
+              "category": "Miscellaneous"
+            },
+            {
+              "name": "HSTS",
+              "category": "Security"
+            },
+            {
+              "name": "Microsoft Advertising",
+              "category": "Advertising"
+            },
+            {
+              "name": "Google Analytics",
+              "category": "Analytics"
+            },
+            {
+              "name": "Marko",
+              "category": "UI frameworks"
+            },
+            {
+              "name": "styled-components",
+              "category": "Development"
+            },
+            {
+              "name": "Elastic APM",
+              "category": "Analytics"
+            },
+            {
+              "name": "Microsoft Clarity",
+              "category": "Analytics"
+            },
+            {
+              "name": "Google Workspace",
+              "category": "Email"
+            },
+            {
+              "name": "Emotion",
+              "category": "Development"
+            },
+            {
+              "name": "Priority Hints",
+              "category": "Performance"
+            },
+            {
+              "name": "Next.js",
+              "category": "JavaScript frameworks"
+            },
+            {
+              "name": "Mapbox GL JS",
+              "category": "Maps"
+            },
+            {
+              "name": "Google Tag Manager",
+              "category": "Tag managers"
+            },
+            {
+              "name": "Shopify",
+              "category": "Ecommerce"
+            },
+            {
+              "name": "Facebook Pixel",
+              "category": "Analytics"
+            },
+            {
+              "name": "GSAP",
+              "category": "JavaScript frameworks"
+            },
+            {
+              "name": "VWO",
+              "category": "A/B Testing"
+            },
+            {
+              "name": "core-js",
+              "category": "JavaScript libraries"
+            },
+            {
+              "name": "Cloudflare Browser Insights",
+              "category": "Analytics"
+            },
+            {
+              "name": "React",
+              "category": "JavaScript frameworks"
+            },
+            {
+              "name": "AOS",
+              "category": "JavaScript libraries"
+            },
+            {
+              "name": "Sendgrid",
+              "category": "Email"
+            },
+            {
+              "name": "Ant Design",
+              "category": "UI frameworks"
+            },
+            {
+              "name": "Vue.js",
+              "category": "JavaScript frameworks"
+            },
+            {
+              "name": "yellow.ai",
+              "category": "Live chat"
+            },
+            {
+              "name": "Font Awesome",
+              "category": "Font scripts"
+            },
+            {
+              "name": "Elasticsearch",
+              "category": "Search engines"
+            },
+            {
+              "name": "Open Graph",
+              "category": "Miscellaneous"
+            },
+            {
+              "name": "Google Ads Conversion Tracking",
+              "category": "Analytics"
+            },
+            {
+              "name": "LottieFiles",
+              "category": "Miscellaneous"
+            },
+            {
+              "name": "Boomerang",
+              "category": "JavaScript libraries"
+            },
+            {
+              "name": "Webpack",
+              "category": "Miscellaneous"
+            }
+          ]
+        },
+        "job_postings": {
+          "active_count": 32,
+          "active_titles": [
+            "durability simulation engineer",
+            "junior copywriter",
+            "suspension engineer",
+            "area sales manager",
+            "corporate sales manager",
+            "shift incharge - ipqc - vehicle",
+            "brand manager ",
+            "battery design engineer",
+            "shift in-charge -production (battery assembly)",
+            "associate brand manager",
+            "service trainer",
+            "zonal sales manager",
+            "module lead- manufacturing engineering process",
+            "network development manager",
+            "module lead- manufacturing engineer",
+            "zonal marketing manager",
+            "manufacturing engineer",
+            "shift incharge - maintenance",
+            "shift incharge - maintenance",
+            "escalation manager",
+            "technical trainer",
+            "firmware test engineer",
+            "controls engineer",
+            "lead motor engineer",
+            "shift incharge - maintenance",
+            "module lead - manufacturing engineering",
+            "battery design engineer",
+            "maintenance planner",
+            "senior legal counsel",
+            "supplier manager -castings & forgings",
+            "section lead - field quality",
+            "module lead- manufacturing engineer battery process"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "company": "Ather Energy",
+    "name": "Srikantan Prakash",
+    "target_title": "Lead Data Engineer",
+    "profile_title": null,
+    "linkedin_url": "https://in.linkedin.com/in/srikantan-prakash-2536845a",
+    "email": "Not Disclosed / Unavailable",
+    "email_status": "NO_MATCH",
+    "full_response": {
+      "error": false,
+      "free_enrichment": false,
+      "person": {
+        "person_id": "aaaaa5404de4c27872be2fa1",
+        "first_name": "Srikantan",
+        "last_name": "Prakash",
+        "full_name": "Srikantan Prakash",
+        "linkedin_url": "https://www.linkedin.com/in/srikantan-prakash-2536845a",
+        "current_job_title": "Lead Data Engineer",
+        "current_job_key": null,
+        "headline": "Lead Data Engineer at Ather Energy | Python | Pyspark | Spark/Scala | SQL | Big Data Engineer | Avid Gamer | GCP | Databricks | Clickhouse",
+        "linkedin_member_id": null,
+        "last_job_change_detected_at": null,
+        "job_history": [
+          {
+            "title": "Lead Data Engineer",
+            "company_name": "Ather Energy",
+            "logo_url": "2edde338-1245-46a3-bf29-d7f32e0d30ec.jpg",
+            "current": true,
+            "start_year": 2024,
+            "start_month": 6,
+            "end_year": null,
+            "end_month": null,
+            "duration_in_months": 28,
+            "departments": [
+              "Engineering & Technical"
+            ],
+            "seniority": "Manager",
+            "company_id": "cccc3553594e3020fea4e1b7",
+            "job_key": "66755459"
+          },
+          {
+            "title": "Data Engineer",
+            "company_name": "Ather Energy",
+            "logo_url": "2edde338-1245-46a3-bf29-d7f32e0d30ec.jpg",
+            "current": false,
+            "start_year": 2022,
+            "start_month": 5,
+            "end_year": 2024,
+            "end_month": 6,
+            "duration_in_months": 25,
+            "departments": [
+              "Engineering & Technical"
+            ],
+            "seniority": "Entry",
+            "company_id": "cccc3553594e3020fea4e1b7",
+            "job_key": "63706649"
+          },
+          {
+            "title": "Application Development Senior Analyst",
+            "company_name": "Accenture",
+            "logo_url": "c3a33c44-0598-4d1e-aea4-fbff4ffbf883.jpg",
+            "current": false,
+            "start_year": 2021,
+            "start_month": 12,
+            "end_year": 2022,
+            "end_month": 5,
+            "duration_in_months": 5,
+            "departments": [],
+            "seniority": "Senior",
+            "company_id": "ccccbf3ac2107d1a4fc4a3f0",
+            "job_key": "58167277"
+          },
+          {
+            "title": "Application Development Analyst",
+            "company_name": "Accenture",
+            "logo_url": "c3a33c44-0598-4d1e-aea4-fbff4ffbf883.jpg",
+            "current": false,
+            "start_year": 2020,
+            "start_month": 5,
+            "end_year": 2021,
+            "end_month": 12,
+            "duration_in_months": 19,
+            "departments": [],
+            "seniority": "Entry",
+            "company_id": "ccccbf3ac2107d1a4fc4a3f0",
+            "job_key": "78824803"
+          },
+          {
+            "title": "Application Development Associate",
+            "company_name": "Accenture",
+            "logo_url": "c3a33c44-0598-4d1e-aea4-fbff4ffbf883.jpg",
+            "current": false,
+            "start_year": 2018,
+            "start_month": 4,
+            "end_year": 2020,
+            "end_month": 5,
+            "duration_in_months": 25,
+            "departments": [],
+            "seniority": "Entry",
+            "company_id": "ccccbf3ac2107d1a4fc4a3f0",
+            "job_key": "28074107"
+          }
+        ],
+        "mobile": {
+          "status": "VERIFIED",
+          "revealed": false,
+          "mobile": "+91 9489* *****",
+          "mobile_national": "09489* *****",
+          "mobile_international": "+91 9489* *****",
+          "mobile_country": "India",
+          "mobile_country_code": "IN"
+        },
+        "email": {
+          "status": "VERIFIED",
+          "revealed": true,
+          "email": "srikantan.prakash@atherenergy.com",
+          "verification_method": "BOUNCEBAN",
+          "email_mx_provider": "Google"
+        },
+        "location": {
+          "country": "India",
+          "country_code": "IN",
+          "state": "Karnataka",
+          "city": "Bengaluru North",
+          "time_zone": "Asia/Calcutta",
+          "time_zone_offset": 5.5
+        },
+        "skills": []
+      },
+      "company": {
+        "company_id": "cccc3553594e3020fea4e1b7",
+        "name": "Ather Energy",
+        "website": "https://atherenergy.com",
+        "domain": "atherenergy.com",
+        "other_websites": [],
+        "description": "Ather Energy was started in 2013 by Tarun Mehta and Swapnil Jain, two engineering graduates straight out of college with the audacity to dream and challenge the well-established Internal Combustion Engine (ICE) and replace it with an electric drive. \n\nWe built India\u2019s first smart and connected electric scooters, the Ather 450 product line, because we believe that's where the future of personal mobility is headed. \n\nAther is one of the few companies in India, specifically within the automotive industry, to have products and services that amalgamate clean design and engineering - Hardware and software. \n\nToday, our product offerings include the Ather Rizta, Ather 450X, Ather 450S, Public and Private charging Infrastructure, Accessories and Merch, and innovative ownership plans. We are also building a complete ecosystem for India\u2019s electric vehicles - powered by indigenous design and all locally manufactured.",
+        "description_seo": null,
+        "description_ai": null,
+        "type": "Private",
+        "industry": "Motor Vehicle Manufacturing",
+        "employee_count": 4321,
+        "employee_count_on_prospeo": 2725,
+        "employee_range": "2001-5000",
+        "location": {
+          "country": "India",
+          "country_code": "IN",
+          "state": "Karnataka",
+          "city": "Bengaluru South",
+          "raw_address": "3rd Floor, Tower D, IBC Knowledge Park, Bannerghatta  Main Road, Bangalore, Karnataka 560029, IN"
+        },
+        "sic_codes": [
+          "375"
+        ],
+        "naics_codes": [
+          "3361",
+          "33611",
+          "33612",
+          "336120",
+          "4231",
+          "441",
+          "5321",
+          "8111"
+        ],
+        "email_tech": {
+          "domain": "atherenergy.com",
+          "mx_provider": "Google"
+        },
+        "linkedin_url": "https://www.linkedin.com/company/ather-energy",
+        "twitter_url": "https://x.com/atherenergy",
+        "facebook_url": "https://www.facebook.com/atherenergy",
+        "crunchbase_url": "https://www.crunchbase.com/organization/ather-energy",
+        "instagram_url": "https://www.instagram.com/atherenergy",
+        "youtube_url": null,
+        "phone_hq": {
+          "phone_hq": "+917676600900",
+          "phone_hq_national": "076766 00900",
+          "phone_hq_international": "+917676600900",
+          "phone_hq_country": "India",
+          "phone_hq_country_code": "IN"
+        },
+        "linkedin_id": null,
+        "founded": 2013,
+        "revenue_range": {
+          "min": 100000000,
+          "max": 250000000
+        },
+        "revenue_range_printed": "100M",
+        "keywords": [
+          "Software Development",
+          "Manufacturing",
+          "Battery Management",
+          "Smart Technology",
+          "Electric Vehicle",
+          "Two Wheeler",
+          "Intelligence In 2W"
+        ],
+        "logo_url": "https://prospeo-static-assets.s3.us-east-1.amazonaws.com/company_logo/2edde338-1245-46a3-bf29-d7f32e0d30ec.jpg",
+        "attributes": {
+          "is_b2b": false,
+          "has_demo": false,
+          "has_free_trial": false,
+          "has_downloadable": false,
+          "has_mobile_apps": false,
+          "has_online_reviews": false,
+          "has_pricing": false
+        },
+        "funding": {
+          "count": 3,
+          "total_funding": 195100000,
+          "total_funding_printed": "$195.1M",
+          "latest_funding_date": "2024-09-13T00:00:00",
+          "latest_funding_stage": "Series unknown",
+          "funding_events": [
+            {
+              "amount": 108800000,
+              "amount_printed": "$108,800,000",
+              "raised_at": "2023-10-04T00:00:00",
+              "stage": "Series unknown",
+              "link": "https://www.crunchbase.com/funding_round/ather-energy-series-unknown--c69c7036"
+            },
+            {
+              "amount": 14800000,
+              "amount_printed": "$14,800,000",
+              "raised_at": "2024-07-07T00:00:00",
+              "stage": "Secondary market",
+              "link": "https://www.crunchbase.com/funding_round/ather-energy-secondary-market--eab9e2cc"
+            },
+            {
+              "amount": 71500000,
+              "amount_printed": "$71,500,000",
+              "raised_at": "2024-09-13T00:00:00",
+              "stage": "Series unknown",
+              "link": "https://www.crunchbase.com/funding_round/ather-energy-series-unknown--29e752f2"
+            }
+          ]
+        },
+        "technology": {
+          "count": 41,
+          "technology_names": [
+            "Akamai mPulse",
+            "Cloudflare Bot Management",
+            "Node.js",
+            "Swiper",
+            "Cloudflare",
+            "Partytown",
+            "Cloudflare Rocket Loader",
+            "Google Ads",
+            "HTTP/3",
+            "HSTS",
+            "Microsoft Advertising",
+            "Google Analytics",
+            "Marko",
+            "styled-components",
+            "Elastic APM",
+            "Microsoft Clarity",
+            "Google Workspace",
+            "Emotion",
+            "Priority Hints",
+            "Next.js",
+            "Mapbox GL JS",
+            "Google Tag Manager",
+            "Shopify",
+            "Facebook Pixel",
+            "GSAP",
+            "VWO",
+            "core-js",
+            "Cloudflare Browser Insights",
+            "React",
+            "AOS",
+            "Sendgrid",
+            "Ant Design",
+            "Vue.js",
+            "yellow.ai",
+            "Font Awesome",
+            "Elasticsearch",
+            "Open Graph",
+            "Google Ads Conversion Tracking",
+            "LottieFiles",
+            "Boomerang",
+            "Webpack"
+          ],
+          "technology_list": [
+            {
+              "name": "Akamai mPulse",
+              "category": "RUM"
+            },
+            {
+              "name": "Cloudflare Bot Management",
+              "category": "Security"
+            },
+            {
+              "name": "Node.js",
+              "category": "Programming languages"
+            },
+            {
+              "name": "Swiper",
+              "category": "JavaScript libraries"
+            },
+            {
+              "name": "Cloudflare",
+              "category": "CDN"
+            },
+            {
+              "name": "Partytown",
+              "category": "Performance"
+            },
+            {
+              "name": "Cloudflare Rocket Loader",
+              "category": "Performance"
+            },
+            {
+              "name": "Google Ads",
+              "category": "Advertising"
+            },
+            {
+              "name": "HTTP/3",
+              "category": "Miscellaneous"
+            },
+            {
+              "name": "HSTS",
+              "category": "Security"
+            },
+            {
+              "name": "Microsoft Advertising",
+              "category": "Advertising"
+            },
+            {
+              "name": "Google Analytics",
+              "category": "Analytics"
+            },
+            {
+              "name": "Marko",
+              "category": "UI frameworks"
+            },
+            {
+              "name": "styled-components",
+              "category": "Development"
+            },
+            {
+              "name": "Elastic APM",
+              "category": "Analytics"
+            },
+            {
+              "name": "Microsoft Clarity",
+              "category": "Analytics"
+            },
+            {
+              "name": "Google Workspace",
+              "category": "Email"
+            },
+            {
+              "name": "Emotion",
+              "category": "Development"
+            },
+            {
+              "name": "Priority Hints",
+              "category": "Performance"
+            },
+            {
+              "name": "Next.js",
+              "category": "JavaScript frameworks"
+            },
+            {
+              "name": "Mapbox GL JS",
+              "category": "Maps"
+            },
+            {
+              "name": "Google Tag Manager",
+              "category": "Tag managers"
+            },
+            {
+              "name": "Shopify",
+              "category": "Ecommerce"
+            },
+            {
+              "name": "Facebook Pixel",
+              "category": "Analytics"
+            },
+            {
+              "name": "GSAP",
+              "category": "JavaScript frameworks"
+            },
+            {
+              "name": "VWO",
+              "category": "A/B Testing"
+            },
+            {
+              "name": "core-js",
+              "category": "JavaScript libraries"
+            },
+            {
+              "name": "Cloudflare Browser Insights",
+              "category": "Analytics"
+            },
+            {
+              "name": "React",
+              "category": "JavaScript frameworks"
+            },
+            {
+              "name": "AOS",
+              "category": "JavaScript libraries"
+            },
+            {
+              "name": "Sendgrid",
+              "category": "Email"
+            },
+            {
+              "name": "Ant Design",
+              "category": "UI frameworks"
+            },
+            {
+              "name": "Vue.js",
+              "category": "JavaScript frameworks"
+            },
+            {
+              "name": "yellow.ai",
+              "category": "Live chat"
+            },
+            {
+              "name": "Font Awesome",
+              "category": "Font scripts"
+            },
+            {
+              "name": "Elasticsearch",
+              "category": "Search engines"
+            },
+            {
+              "name": "Open Graph",
+              "category": "Miscellaneous"
+            },
+            {
+              "name": "Google Ads Conversion Tracking",
+              "category": "Analytics"
+            },
+            {
+              "name": "LottieFiles",
+              "category": "Miscellaneous"
+            },
+            {
+              "name": "Boomerang",
+              "category": "JavaScript libraries"
+            },
+            {
+              "name": "Webpack",
+              "category": "Miscellaneous"
+            }
+          ]
+        },
+        "job_postings": {
+          "active_count": 32,
+          "active_titles": [
+            "durability simulation engineer",
+            "junior copywriter",
+            "suspension engineer",
+            "area sales manager",
+            "corporate sales manager",
+            "shift incharge - ipqc - vehicle",
+            "brand manager ",
+            "battery design engineer",
+            "shift in-charge -production (battery assembly)",
+            "associate brand manager",
+            "service trainer",
+            "zonal sales manager",
+            "module lead- manufacturing engineering process",
+            "network development manager",
+            "module lead- manufacturing engineer",
+            "zonal marketing manager",
+            "manufacturing engineer",
+            "shift incharge - maintenance",
+            "shift incharge - maintenance",
+            "escalation manager",
+            "technical trainer",
+            "firmware test engineer",
+            "controls engineer",
+            "lead motor engineer",
+            "shift incharge - maintenance",
+            "module lead - manufacturing engineering",
+            "battery design engineer",
+            "maintenance planner",
+            "senior legal counsel",
+            "supplier manager -castings & forgings",
+            "section lead - field quality",
+            "module lead- manufacturing engineer battery process"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "company": "Moneyview",
+    "name": "Shubham Priyadarshi",
+    "target_title": "Engineering Manager (AI Innovations)",
+    "profile_title": null,
+    "linkedin_url": "https://in.linkedin.com/in/shubham-priyadarshi-3627b731",
+    "email": "Not Disclosed / Unavailable",
+    "email_status": "NO_MATCH",
+    "full_response": {
+      "error": false,
+      "free_enrichment": false,
+      "person": {
+        "person_id": "aaaad85501b58a5aa2f31d8a",
+        "first_name": "Shubham",
+        "last_name": "Priyadarshi",
+        "full_name": "Shubham Priyadarshi",
+        "linkedin_url": "https://www.linkedin.com/in/shubham-priyadarshi-3627b731",
+        "current_job_title": "Engineering Manager",
+        "current_job_key": null,
+        "headline": "Engineering Manager | 11+ yrs | Scaling fintech & supply-chain platforms | Microservices, AI Innovations",
+        "linkedin_member_id": null,
+        "last_job_change_detected_at": null,
+        "job_history": [
+          {
+            "title": "Engineering Manager",
+            "company_name": "Moneyview",
+            "logo_url": "fbf8f6d7-1fae-41b6-abc0-41ed79ef27f4.jpg",
+            "current": true,
+            "start_year": 2024,
+            "start_month": 2,
+            "end_year": null,
+            "end_month": null,
+            "duration_in_months": 32,
+            "departments": [
+              "Engineering & Technical"
+            ],
+            "seniority": "Manager",
+            "company_id": "cccc80a1ef2af53d756f2c5d",
+            "job_key": "35564974"
+          },
+          {
+            "title": "Engineering Manager",
+            "company_name": "Moglix",
+            "logo_url": "cdfbf5fa-7559-4a00-a778-4dee67467c23.jpg",
+            "current": false,
+            "start_year": 2021,
+            "start_month": 4,
+            "end_year": 2023,
+            "end_month": 6,
+            "duration_in_months": 26,
+            "departments": [
+              "Engineering & Technical"
+            ],
+            "seniority": "Manager",
+            "company_id": "cccc9c28b4c7679af1995218",
+            "job_key": "66130326"
+          },
+          {
+            "title": "Tech Lead",
+            "company_name": "Moglix",
+            "logo_url": "cdfbf5fa-7559-4a00-a778-4dee67467c23.jpg",
+            "current": false,
+            "start_year": 2016,
+            "start_month": 10,
+            "end_year": 2021,
+            "end_month": 4,
+            "duration_in_months": 54,
+            "departments": [
+              "Technical Lead"
+            ],
+            "seniority": "Manager",
+            "company_id": "cccc9c28b4c7679af1995218",
+            "job_key": "30319669"
+          },
+          {
+            "title": "Lead Engineer",
+            "company_name": "Info Edge India",
+            "logo_url": "9ecfd157-f28e-478c-97fb-25877efd39df.jpg",
+            "current": false,
+            "start_year": 2015,
+            "start_month": 8,
+            "end_year": 2016,
+            "end_month": 5,
+            "duration_in_months": 9,
+            "departments": [
+              "Technical Lead",
+              "Engineering & Technical"
+            ],
+            "seniority": "Manager",
+            "company_id": "cccc633f1f8ac78dd3e9c158",
+            "job_key": "13089360"
+          },
+          {
+            "title": "Software Developer",
+            "company_name": "The D. E. Shaw Group",
+            "logo_url": "bef43a03-8e42-4427-aaf6-bc08ea91e809.jpg",
+            "current": false,
+            "start_year": 2013,
+            "start_month": 4,
+            "end_year": 2014,
+            "end_month": 4,
+            "duration_in_months": 12,
+            "departments": [
+              "Software Development",
+              "Engineering & Technical"
+            ],
+            "seniority": "Entry",
+            "company_id": "cccced2c7d533d56d072afb7",
+            "job_key": "14068725"
+          },
+          {
+            "title": "Software Engineer",
+            "company_name": "Open Solutions is now part of Fiserv. Please follow Fiserv at LinkedIn.com/company/Fiserv",
+            "logo_url": "03a440d4-864c-4044-a201-d74fbcc11e0e.jpg",
+            "current": false,
+            "start_year": 2012,
+            "start_month": 7,
+            "end_year": 2013,
+            "end_month": 3,
+            "duration_in_months": 8,
+            "departments": [
+              "Software Development",
+              "Engineering & Technical"
+            ],
+            "seniority": "Entry",
+            "company_id": "cccc37467426b8716ea19fdc",
+            "job_key": "70129327"
+          },
+          {
+            "title": "Trainee",
+            "company_name": "Hewlett Packard Enterprise",
+            "logo_url": "d0dc6f88-dcf0-4460-aed1-7618c0c4d962.jpg",
+            "current": false,
+            "start_year": 2010,
+            "start_month": 6,
+            "end_year": 2010,
+            "end_month": 7,
+            "duration_in_months": 1,
+            "departments": [],
+            "seniority": "Intern",
+            "company_id": "cccc53e848d0fd9f04916c00",
+            "job_key": "63091329"
+          },
+          {
+            "title": "Engineering Manager",
+            "company_name": "MoneyView",
+            "logo_url": "e85e91e2-7898-44d2-afaa-897a28ed168e.jpg",
+            "current": true,
+            "start_year": 2024,
+            "start_month": 2,
+            "end_year": null,
+            "end_month": null,
+            "duration_in_months": 32,
+            "departments": [
+              "Engineering & Technical"
+            ],
+            "seniority": "Manager",
+            "company_id": "cccc760b1ec931e3433cd2c0",
+            "job_key": "16671586"
+          }
+        ],
+        "mobile": {
+          "status": "VERIFIED",
+          "revealed": false,
+          "mobile": "+91 9708* *****",
+          "mobile_national": "09708* *****",
+          "mobile_international": "+91 9708* *****",
+          "mobile_country": "India",
+          "mobile_country_code": "IN"
+        },
+        "email": {
+          "status": "VERIFIED",
+          "revealed": true,
+          "email": "shubham.priyadarshi@moneyview.in",
+          "verification_method": "SMTP",
+          "email_mx_provider": null
+        },
+        "location": {
+          "country": "India",
+          "country_code": "IN",
+          "state": "Delhi",
+          "city": null,
+          "time_zone": "Asia/Calcutta",
+          "time_zone_offset": 5.5
+        },
+        "skills": []
+      },
+      "company": {
+        "company_id": "cccc80a1ef2af53d756f2c5d",
+        "name": "Moneyview",
+        "website": "https://moneyview.in",
+        "domain": null,
+        "other_websites": [],
+        "description": "Take control of your finances with our full suite of personalized financial products!\nLoans | FD Select | Gold | Smart Pay | Credit Tracker\n\nJoin our A-class team in building the blocks of Financial Inclusivity for a self-reliant & financially stronger India. \n\nCheck our latest openings here: https://moneyview.in/careers",
+        "description_seo": null,
+        "description_ai": null,
+        "type": "Private",
+        "industry": "Financial Services",
+        "employee_count": 1229,
+        "employee_count_on_prospeo": 560,
+        "employee_range": "1001-2000",
+        "location": {
+          "country": "India",
+          "country_code": "IN",
+          "state": "Karnataka",
+          "city": "Bengaluru North",
+          "raw_address": "Whizdm Innovations Pvt. Ltd., The Address, 3rd Floor, Survey No. 17/1, Outer Ring Road, Kadubeesanahalli, Bengaluru, Karnataka 560087, IN"
+        },
+        "sic_codes": [],
+        "naics_codes": [],
+        "email_tech": {
+          "domain": null,
+          "mx_provider": null
+        },
+        "linkedin_url": "https://www.linkedin.com/company/money-view",
+        "twitter_url": "https://x.com/mymoneyview",
+        "facebook_url": "https://www.facebook.com/moneyview.in",
+        "crunchbase_url": "https://www.crunchbase.com/organization/money-view",
+        "instagram_url": "https://www.instagram.com/mymoneyview",
+        "youtube_url": null,
+        "phone_hq": {
+          "phone_hq": "+918069390476",
+          "phone_hq_national": "080 6939 0476",
+          "phone_hq_international": "+918069390476",
+          "phone_hq_country": "India",
+          "phone_hq_country_code": "IN"
+        },
+        "linkedin_id": null,
+        "founded": 2014,
+        "revenue_range": {
+          "min": 100000000,
+          "max": 250000000
+        },
+        "revenue_range_printed": "100M",
+        "keywords": [
+          "Analytics",
+          "Operations",
+          "Finance",
+          "Technology",
+          "Personal Loan",
+          "Quick Loans",
+          "Class Leading Customer Support",
+          "Simple Apps"
+        ],
+        "logo_url": "https://prospeo-static-assets.s3.us-east-1.amazonaws.com/company_logo/fbf8f6d7-1fae-41b6-abc0-41ed79ef27f4.jpg",
+        "attributes": {
+          "is_b2b": false,
+          "has_demo": false,
+          "has_free_trial": false,
+          "has_downloadable": true,
+          "has_mobile_apps": false,
+          "has_online_reviews": false,
+          "has_pricing": false
+        },
+        "funding": {
+          "count": 2,
+          "total_funding": 79600000,
+          "total_funding_printed": "$79.6M",
+          "latest_funding_date": "2024-10-12T00:00:00",
+          "latest_funding_stage": "Series unknown",
+          "funding_events": [
+            {
+              "amount": 75000000,
+              "amount_printed": "$75,000,000",
+              "raised_at": "2023-01-26T00:00:00",
+              "stage": "Series E-J",
+              "link": "https://www.crunchbase.com/funding_round/money-view-series-e--a558d949"
+            },
+            {
+              "amount": 4600000,
+              "amount_printed": "$4,600,000",
+              "raised_at": "2024-10-12T00:00:00",
+              "stage": "Series unknown",
+              "link": "https://www.crunchbase.com/funding_round/money-view-series-unknown--fb11e86c"
+            }
+          ]
+        },
+        "technology": null,
+        "job_postings": {
+          "active_count": 9,
+          "active_titles": [
+            "marketing intern",
+            "information technology manager",
+            "senior security analyst -soc",
+            "inside sales manager",
+            "senior cloud security engineer",
+            "lead software engineer",
+            "senior application security engineer",
+            "senior brand manager",
+            "video manager"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "company": "Moneyview",
+    "name": "Saksham Gupta",
+    "target_title": "Staff Engineer",
+    "profile_title": null,
+    "linkedin_url": "https://in.linkedin.com/in/guptasaksham93",
+    "email": "Not Disclosed / Unavailable",
+    "email_status": "NO_MATCH",
+    "full_response": {
+      "error": false,
+      "free_enrichment": false,
+      "person": {
+        "person_id": "aaaaef31a9afb67da912eef1",
+        "first_name": "Saksham",
+        "last_name": "Gupta",
+        "full_name": "Saksham Gupta",
+        "linkedin_url": "https://www.linkedin.com/in/guptasaksham93",
+        "current_job_title": "Software Development Engineer 3",
+        "current_job_key": null,
+        "headline": "Staff Engineer at Money View",
+        "linkedin_member_id": null,
+        "last_job_change_detected_at": null,
+        "job_history": [
+          {
+            "title": "Software Development Engineer 3",
+            "company_name": "Moneyview",
+            "logo_url": "fbf8f6d7-1fae-41b6-abc0-41ed79ef27f4.jpg",
+            "current": true,
+            "start_year": 2019,
+            "start_month": 3,
+            "end_year": null,
+            "end_month": null,
+            "duration_in_months": 91,
+            "departments": [
+              "Engineering & Technical"
+            ],
+            "seniority": "Entry",
+            "company_id": "cccc80a1ef2af53d756f2c5d",
+            "job_key": "12798440"
+          },
+          {
+            "title": "Associate Developer",
+            "company_name": "SAP",
+            "logo_url": "018ef6ef-c64a-493b-be82-ed7c3c937c30.jpg",
+            "current": false,
+            "start_year": 2017,
+            "start_month": 7,
+            "end_year": 2019,
+            "end_month": 2,
+            "duration_in_months": 19,
+            "departments": [
+              "Engineering & Technical"
+            ],
+            "seniority": "Entry",
+            "company_id": "cccc3f78d1110182f2b40adf",
+            "job_key": "74618103"
+          },
+          {
+            "title": "Software Engineer",
+            "company_name": "Pratham Software (PSI)",
+            "logo_url": "2a48c846-db83-4f02-b899-96c0de0efa4a.jpg",
+            "current": false,
+            "start_year": 2015,
+            "start_month": 7,
+            "end_year": 2017,
+            "end_month": 6,
+            "duration_in_months": 23,
+            "departments": [
+              "Software Development",
+              "Engineering & Technical"
+            ],
+            "seniority": "Entry",
+            "company_id": "cccca3f6c5611700bbe69270",
+            "job_key": "73285089"
+          }
+        ],
+        "mobile": {
+          "status": "VERIFIED",
+          "revealed": false,
+          "mobile": "+91 7793* *****",
+          "mobile_national": "07793* *****",
+          "mobile_international": "+91 7793* *****",
+          "mobile_country": "India",
+          "mobile_country_code": "IN"
+        },
+        "email": {
+          "status": "VERIFIED",
+          "revealed": true,
+          "email": "saksham.gupta@moneyview.in",
+          "verification_method": "SMTP",
+          "email_mx_provider": null
+        },
+        "location": {
+          "country": "India",
+          "country_code": "IN",
+          "state": "Karnataka",
+          "city": "Bengaluru North",
+          "time_zone": "Asia/Calcutta",
+          "time_zone_offset": 5.5
+        },
+        "skills": []
+      },
+      "company": {
+        "company_id": "cccc80a1ef2af53d756f2c5d",
+        "name": "Moneyview",
+        "website": "https://moneyview.in",
+        "domain": null,
+        "other_websites": [],
+        "description": "Take control of your finances with our full suite of personalized financial products!\nLoans | FD Select | Gold | Smart Pay | Credit Tracker\n\nJoin our A-class team in building the blocks of Financial Inclusivity for a self-reliant & financially stronger India. \n\nCheck our latest openings here: https://moneyview.in/careers",
+        "description_seo": null,
+        "description_ai": null,
+        "type": "Private",
+        "industry": "Financial Services",
+        "employee_count": 1229,
+        "employee_count_on_prospeo": 560,
+        "employee_range": "1001-2000",
+        "location": {
+          "country": "India",
+          "country_code": "IN",
+          "state": "Karnataka",
+          "city": "Bengaluru North",
+          "raw_address": "Whizdm Innovations Pvt. Ltd., The Address, 3rd Floor, Survey No. 17/1, Outer Ring Road, Kadubeesanahalli, Bengaluru, Karnataka 560087, IN"
+        },
+        "sic_codes": [],
+        "naics_codes": [],
+        "email_tech": {
+          "domain": null,
+          "mx_provider": null
+        },
+        "linkedin_url": "https://www.linkedin.com/company/money-view",
+        "twitter_url": "https://x.com/mymoneyview",
+        "facebook_url": "https://www.facebook.com/moneyview.in",
+        "crunchbase_url": "https://www.crunchbase.com/organization/money-view",
+        "instagram_url": "https://www.instagram.com/mymoneyview",
+        "youtube_url": null,
+        "phone_hq": {
+          "phone_hq": "+918069390476",
+          "phone_hq_national": "080 6939 0476",
+          "phone_hq_international": "+918069390476",
+          "phone_hq_country": "India",
+          "phone_hq_country_code": "IN"
+        },
+        "linkedin_id": null,
+        "founded": 2014,
+        "revenue_range": {
+          "min": 100000000,
+          "max": 250000000
+        },
+        "revenue_range_printed": "100M",
+        "keywords": [
+          "Analytics",
+          "Operations",
+          "Finance",
+          "Technology",
+          "Personal Loan",
+          "Quick Loans",
+          "Class Leading Customer Support",
+          "Simple Apps"
+        ],
+        "logo_url": "https://prospeo-static-assets.s3.us-east-1.amazonaws.com/company_logo/fbf8f6d7-1fae-41b6-abc0-41ed79ef27f4.jpg",
+        "attributes": {
+          "is_b2b": false,
+          "has_demo": false,
+          "has_free_trial": false,
+          "has_downloadable": true,
+          "has_mobile_apps": false,
+          "has_online_reviews": false,
+          "has_pricing": false
+        },
+        "funding": {
+          "count": 2,
+          "total_funding": 79600000,
+          "total_funding_printed": "$79.6M",
+          "latest_funding_date": "2024-10-12T00:00:00",
+          "latest_funding_stage": "Series unknown",
+          "funding_events": [
+            {
+              "amount": 75000000,
+              "amount_printed": "$75,000,000",
+              "raised_at": "2023-01-26T00:00:00",
+              "stage": "Series E-J",
+              "link": "https://www.crunchbase.com/funding_round/money-view-series-e--a558d949"
+            },
+            {
+              "amount": 4600000,
+              "amount_printed": "$4,600,000",
+              "raised_at": "2024-10-12T00:00:00",
+              "stage": "Series unknown",
+              "link": "https://www.crunchbase.com/funding_round/money-view-series-unknown--fb11e86c"
+            }
+          ]
+        },
+        "technology": null,
+        "job_postings": {
+          "active_count": 9,
+          "active_titles": [
+            "marketing intern",
+            "information technology manager",
+            "senior security analyst -soc",
+            "inside sales manager",
+            "senior cloud security engineer",
+            "lead software engineer",
+            "senior application security engineer",
+            "senior brand manager",
+            "video manager"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "company": "Zepto",
+    "name": "Rajendra Bera",
+    "target_title": "Principal Engineer",
+    "profile_title": null,
+    "linkedin_url": "https://in.linkedin.com/in/rajendra-bera",
+    "email": "Not Disclosed / Unavailable",
+    "email_status": "NO_MATCH",
+    "full_response": {
+      "error": false,
+      "free_enrichment": false,
+      "person": {
+        "person_id": "aaaaa917b7c832b38c88e3a5",
+        "first_name": "Rajendra",
+        "last_name": "Bera",
+        "full_name": "Rajendra Bera",
+        "linkedin_url": "https://www.linkedin.com/in/rajendra-bera-89770252",
+        "current_job_title": "Principal Engineer",
+        "current_job_key": null,
+        "headline": "Principal Engineer at Zepto",
+        "linkedin_member_id": null,
+        "last_job_change_detected_at": null,
+        "job_history": [
+          {
+            "title": "Principal Engineer",
+            "company_name": "Zepto",
+            "logo_url": "f8f715dd-06c1-4e24-adc2-67dbff6333e7.jpg",
+            "current": true,
+            "start_year": 2024,
+            "start_month": 3,
+            "end_year": null,
+            "end_month": null,
+            "duration_in_months": 31,
+            "departments": [
+              "Technical Lead",
+              "Engineering & Technical"
+            ],
+            "seniority": "Entry",
+            "company_id": "cccc3de4392193fcdea0605e",
+            "job_key": "97562690"
+          },
+          {
+            "title": "Lead Software Engineer",
+            "company_name": "Grab",
+            "logo_url": "5a467af5-4f35-49f8-a9cf-7d98ed2e89c5.jpg",
+            "current": false,
+            "start_year": 2021,
+            "start_month": 3,
+            "end_year": 2024,
+            "end_month": 3,
+            "duration_in_months": 36,
+            "departments": [
+              "Software Development",
+              "Engineering & Technical"
+            ],
+            "seniority": "Manager",
+            "company_id": "cccc6a49dfe0fa396563ef4d",
+            "job_key": "89372542"
+          },
+          {
+            "title": "Senior Software Engineer",
+            "company_name": "Grab",
+            "logo_url": "5a467af5-4f35-49f8-a9cf-7d98ed2e89c5.jpg",
+            "current": false,
+            "start_year": 2019,
+            "start_month": 6,
+            "end_year": 2021,
+            "end_month": 3,
+            "duration_in_months": 21,
+            "departments": [
+              "Software Development",
+              "Engineering & Technical"
+            ],
+            "seniority": "Senior",
+            "company_id": "cccc6a49dfe0fa396563ef4d",
+            "job_key": "59821043"
+          },
+          {
+            "title": "Senior Software Engineer",
+            "company_name": "SIXT Research & Development India",
+            "logo_url": "6626d386-af1f-4ba1-922d-03c1859fd033.jpg",
+            "current": false,
+            "start_year": 2018,
+            "start_month": 9,
+            "end_year": 2019,
+            "end_month": 6,
+            "duration_in_months": 9,
+            "departments": [
+              "Software Development",
+              "Engineering & Technical"
+            ],
+            "seniority": "Senior",
+            "company_id": "cccca72f82742ef6306903e6",
+            "job_key": "95808060"
+          },
+          {
+            "title": "Senior Full Stack Engineer",
+            "company_name": "Sportskeeda",
+            "logo_url": "9587ddf7-ae3d-47dc-bc9e-8c1064baf0ee.jpg",
+            "current": false,
+            "start_year": 2017,
+            "start_month": 10,
+            "end_year": 2018,
+            "end_month": 9,
+            "duration_in_months": 11,
+            "departments": [
+              "Software Development",
+              "Engineering & Technical"
+            ],
+            "seniority": "Senior",
+            "company_id": "ccccd04a8cd4dbeb2fbe2127",
+            "job_key": "96212055"
+          },
+          {
+            "title": "Lead Engineer",
+            "company_name": "Info Edge India",
+            "logo_url": "9ecfd157-f28e-478c-97fb-25877efd39df.jpg",
+            "current": false,
+            "start_year": 2016,
+            "start_month": 5,
+            "end_year": 2017,
+            "end_month": 9,
+            "duration_in_months": 16,
+            "departments": [
+              "Technical Lead",
+              "Engineering & Technical"
+            ],
+            "seniority": "Manager",
+            "company_id": "cccc633f1f8ac78dd3e9c158",
+            "job_key": "92986466"
+          },
+          {
+            "title": "Senior Software Engineer",
+            "company_name": "Info Edge India",
+            "logo_url": "9ecfd157-f28e-478c-97fb-25877efd39df.jpg",
+            "current": false,
+            "start_year": 2015,
+            "start_month": 4,
+            "end_year": 2016,
+            "end_month": 5,
+            "duration_in_months": 13,
+            "departments": [
+              "Software Development",
+              "Engineering & Technical"
+            ],
+            "seniority": "Senior",
+            "company_id": "cccc633f1f8ac78dd3e9c158",
+            "job_key": "77697518"
+          },
+          {
+            "title": "Software Engineer",
+            "company_name": "Info Edge India",
+            "logo_url": "9ecfd157-f28e-478c-97fb-25877efd39df.jpg",
+            "current": false,
+            "start_year": 2014,
+            "start_month": 1,
+            "end_year": 2015,
+            "end_month": 3,
+            "duration_in_months": 14,
+            "departments": [
+              "Software Development",
+              "Engineering & Technical"
+            ],
+            "seniority": "Entry",
+            "company_id": "cccc633f1f8ac78dd3e9c158",
+            "job_key": "79230556"
+          },
+          {
+            "title": "Principal Engineer",
+            "company_name": "Zepto",
+            "logo_url": "4cf3e8f9-35bc-4c97-a85d-901f0f676402.jpg",
+            "current": true,
+            "start_year": 2024,
+            "start_month": 3,
+            "end_year": null,
+            "end_month": null,
+            "duration_in_months": 31,
+            "departments": [
+              "Technical Lead",
+              "Engineering & Technical"
+            ],
+            "seniority": "Entry",
+            "company_id": "cccc366fe0ee501c0cffe9b9",
+            "job_key": "32728670"
+          }
+        ],
+        "mobile": {
+          "status": "VERIFIED",
+          "revealed": false,
+          "mobile": "+91 8447* *****",
+          "mobile_national": "08447* *****",
+          "mobile_international": "+91 8447* *****",
+          "mobile_country": "India",
+          "mobile_country_code": "IN"
+        },
+        "email": {
+          "status": "VERIFIED",
+          "revealed": true,
+          "email": "rajendra.bera@zepto.com",
+          "verification_method": "SMTP",
+          "email_mx_provider": null
+        },
+        "location": {
+          "country": "India",
+          "country_code": "IN",
+          "state": "Karnataka",
+          "city": "Bengaluru North",
+          "time_zone": "Asia/Calcutta",
+          "time_zone_offset": 5.5
+        },
+        "skills": []
+      },
+      "company": {
+        "company_id": "cccc3de4392193fcdea0605e",
+        "name": "Zepto",
+        "website": "https://zepto.com",
+        "domain": null,
+        "other_websites": [],
+        "description": "Founded in 2021 by Aadit Palicha and Kaivalya Vohra, Zepto is on a mission to save you time \u2014making every second count towards life's real joys. Our platform has revolutionised rapid commerce in India with cutting-edge technology and strategically optimised delivery hubs. Zepto offers an extensive range of 45,000+ products, from fresh groceries to electronics, beauty essentials, apparels, toys and more, delivering across 50+ cities in minutes*\n\nZepto Caf\u00e9 extends our commitment to convenience, featuring a curated menu of over 200 fresh items.",
+        "description_seo": null,
+        "description_ai": null,
+        "type": "Private",
+        "industry": "Technology, Information and Internet",
+        "employee_count": 18712,
+        "employee_count_on_prospeo": 6176,
+        "employee_range": "10000+",
+        "location": {
+          "country": "India",
+          "country_code": "IN",
+          "state": null,
+          "city": null,
+          "raw_address": "India, IN"
+        },
+        "sic_codes": [],
+        "naics_codes": [],
+        "email_tech": {
+          "domain": null,
+          "mx_provider": null
+        },
+        "linkedin_url": "https://www.linkedin.com/company/zeptonow",
+        "twitter_url": "https://x.com/zeptonow",
+        "facebook_url": "https://www.facebook.com/zeptonow",
+        "crunchbase_url": "https://www.crunchbase.com/organization/zepto-29b1",
+        "instagram_url": "https://www.instagram.com/zeptonow",
+        "youtube_url": null,
+        "phone_hq": {
+          "phone_hq": null,
+          "phone_hq_national": null,
+          "phone_hq_international": null,
+          "phone_hq_country": null,
+          "phone_hq_country_code": null
+        },
+        "linkedin_id": null,
+        "founded": 2021,
+        "revenue_range": {
+          "min": 1000000000,
+          "max": 5000000000
+        },
+        "revenue_range_printed": "1B",
+        "keywords": [],
+        "logo_url": "https://prospeo-static-assets.s3.us-east-1.amazonaws.com/company_logo/f8f715dd-06c1-4e24-adc2-67dbff6333e7.jpg",
+        "attributes": {
+          "is_b2b": false,
+          "has_demo": null,
+          "has_free_trial": null,
+          "has_downloadable": null,
+          "has_mobile_apps": null,
+          "has_online_reviews": null,
+          "has_pricing": null
+        },
+        "funding": {
+          "count": 7,
+          "total_funding": 1981900000,
+          "total_funding_printed": "$2.0B",
+          "latest_funding_date": "2025-11-16T00:00:00",
+          "latest_funding_stage": "Series E-J",
+          "funding_events": [
+            {
+              "amount": 31300000,
+              "amount_printed": "$31,300,000",
+              "raised_at": "2023-12-08T00:00:00",
+              "stage": "Series E-J",
+              "link": "https://www.crunchbase.com/funding_round/zepto-29b1-series-e--aff2bdb0"
+            },
+            {
+              "amount": 665000000,
+              "amount_printed": "$665,000,000",
+              "raised_at": "2024-07-21T00:00:00",
+              "stage": "Series E-J",
+              "link": "https://www.crunchbase.com/funding_round/zepto-29b1-series-f--cfad6855"
+            },
+            {
+              "amount": 340000000,
+              "amount_printed": "$340,000,000",
+              "raised_at": "2024-09-14T00:00:00",
+              "stage": "Series E-J",
+              "link": "https://www.crunchbase.com/funding_round/zepto-29b1-series-g--8a687d70"
+            },
+            {
+              "amount": 350000000,
+              "amount_printed": "$350,000,000",
+              "raised_at": "2024-12-21T00:00:00",
+              "stage": "Series E-J",
+              "link": "https://www.crunchbase.com/funding_round/zepto-29b1-series-g--dc151163"
+            },
+            {
+              "amount": 100000000,
+              "amount_printed": "$100,000,000",
+              "raised_at": "2025-06-12T00:00:00",
+              "stage": "Secondary market",
+              "link": "https://www.crunchbase.com/funding_round/zepto-29b1-secondary-market--8d7677da"
+            },
+            {
+              "amount": 45600000,
+              "amount_printed": "$45,600,000",
+              "raised_at": "2025-09-12T00:00:00",
+              "stage": "Secondary market",
+              "link": "https://www.crunchbase.com/funding_round/zepto-29b1-secondary-market--26fee323"
+            },
+            {
+              "amount": 450000000,
+              "amount_printed": "$450,000,000",
+              "raised_at": "2025-11-16T00:00:00",
+              "stage": "Series E-J",
+              "link": "https://www.crunchbase.com/funding_round/zepto-29b1-series-h--a6f2fb96"
+            }
+          ]
+        },
+        "technology": null,
+        "job_postings": {
+          "active_count": 27,
+          "active_titles": [
+            "senior manager - commercial legal",
+            "manager - events & merchandising",
+            "creative photographer ",
+            "manager ii - deputy cluster manager",
+            "associate director - real estate",
+            "deputy delivery hub manger",
+            "manager ii - real estate",
+            "team lead - it security",
+            "cluster manager",
+            "business analyst \u2013 business finance",
+            "network engineer - it",
+            "ai image editor",
+            "deputy delivery hub manager / delivery hub manager",
+            "senior cluster manager",
+            "senior manager - electronics (category)",
+            "senior cluster manager",
+            "senior manager it",
+            "associate director - sourcing (first mile)",
+            "cluster manager",
+            "team lead - deputy delivery hub manger / delivery hub manager",
+            "senior manager internal audit",
+            "manager i - rider cluster manager",
+            "associate director - fp&a",
+            "senior manager - treasury",
+            "senior manager - non-trade account payables",
+            "senior manager - ads ",
+            "deputy delivery hub manger / delivery hub manager"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "company": "Zepto",
+    "name": "Kshitij Singh",
+    "target_title": "Engineering Manager",
+    "profile_title": null,
+    "linkedin_url": "https://in.linkedin.com/in/ikshitijsingh",
+    "email": "Not Disclosed / Unavailable",
+    "email_status": "NO_MATCH",
+    "full_response": {
+      "error": false,
+      "free_enrichment": false,
+      "person": {
+        "person_id": "aaaa40105be0ee76064b2ec9",
+        "first_name": "Kshitij",
+        "last_name": "Singh",
+        "full_name": "Kshitij Singh",
+        "linkedin_url": "https://www.linkedin.com/in/ikshitijsingh",
+        "current_job_title": "Engineering Manager",
+        "current_job_key": null,
+        "headline": "Engineering Manager @ Zepto | Ex- Gojek, Nokia R&D",
+        "linkedin_member_id": null,
+        "last_job_change_detected_at": null,
+        "job_history": [
+          {
+            "title": "Engineering Manager",
+            "company_name": "Zepto",
+            "logo_url": "f8f715dd-06c1-4e24-adc2-67dbff6333e7.jpg",
+            "current": true,
+            "start_year": 2025,
+            "start_month": 3,
+            "end_year": null,
+            "end_month": null,
+            "duration_in_months": 19,
+            "departments": [
+              "Engineering & Technical"
+            ],
+            "seniority": "Manager",
+            "company_id": "cccc3de4392193fcdea0605e",
+            "job_key": "53007045"
+          },
+          {
+            "title": "Lead Software Engineer",
+            "company_name": "Zepto",
+            "logo_url": "f8f715dd-06c1-4e24-adc2-67dbff6333e7.jpg",
+            "current": false,
+            "start_year": 2023,
+            "start_month": 10,
+            "end_year": 2025,
+            "end_month": 5,
+            "duration_in_months": 19,
+            "departments": [
+              "Software Development",
+              "Engineering & Technical"
+            ],
+            "seniority": "Manager",
+            "company_id": "cccc3de4392193fcdea0605e",
+            "job_key": "13303339"
+          },
+          {
+            "title": "Senior Software Engineer",
+            "company_name": "Zepto",
+            "logo_url": "f8f715dd-06c1-4e24-adc2-67dbff6333e7.jpg",
+            "current": false,
+            "start_year": 2022,
+            "start_month": 3,
+            "end_year": 2023,
+            "end_month": 9,
+            "duration_in_months": 18,
+            "departments": [
+              "Software Development",
+              "Engineering & Technical"
+            ],
+            "seniority": "Senior",
+            "company_id": "cccc3de4392193fcdea0605e",
+            "job_key": "32314301"
+          },
+          {
+            "title": "Product Engineer",
+            "company_name": "GoTo Group",
+            "logo_url": "ce3f0cc1-4619-49aa-acac-f44b56bf0f06.jpg",
+            "current": false,
+            "start_year": 2019,
+            "start_month": 11,
+            "end_year": 2022,
+            "end_month": 2,
+            "duration_in_months": 27,
+            "departments": [
+              "Engineering & Technical"
+            ],
+            "seniority": "Entry",
+            "company_id": "cccc4d5d1ea87ad18c172339",
+            "job_key": "48813277"
+          },
+          {
+            "title": "R&D Engineer",
+            "company_name": "Nokia",
+            "logo_url": "592602ed-5731-4e63-99b6-deaad8e0546f.jpg",
+            "current": false,
+            "start_year": 2019,
+            "start_month": 2,
+            "end_year": 2019,
+            "end_month": 10,
+            "duration_in_months": 8,
+            "departments": [
+              "Engineering & Technical",
+              "Research & Development"
+            ],
+            "seniority": "Entry",
+            "company_id": "cccc84f11751cce525dd73a5",
+            "job_key": "5023521"
+          },
+          {
+            "title": "Graduate Trainee Engineer",
+            "company_name": "Nokia",
+            "logo_url": "592602ed-5731-4e63-99b6-deaad8e0546f.jpg",
+            "current": false,
+            "start_year": 2018,
+            "start_month": 3,
+            "end_year": 2019,
+            "end_month": 1,
+            "duration_in_months": 10,
+            "departments": [
+              "Engineering & Technical"
+            ],
+            "seniority": "Intern",
+            "company_id": "cccc84f11751cce525dd73a5",
+            "job_key": "44238717"
+          },
+          {
+            "title": "Engineering Manager",
+            "company_name": "Zepto",
+            "logo_url": "4cf3e8f9-35bc-4c97-a85d-901f0f676402.jpg",
+            "current": true,
+            "start_year": 2025,
+            "start_month": 3,
+            "end_year": null,
+            "end_month": null,
+            "duration_in_months": 19,
+            "departments": [
+              "Engineering & Technical"
+            ],
+            "seniority": "Manager",
+            "company_id": "cccc366fe0ee501c0cffe9b9",
+            "job_key": "47521"
+          },
+          {
+            "title": "Lead Software Engineer",
+            "company_name": "Zepto",
+            "logo_url": "4cf3e8f9-35bc-4c97-a85d-901f0f676402.jpg",
+            "current": false,
+            "start_year": 2023,
+            "start_month": 10,
+            "end_year": 2025,
+            "end_month": 5,
+            "duration_in_months": 19,
+            "departments": [
+              "Software Development",
+              "Engineering & Technical"
+            ],
+            "seniority": "Manager",
+            "company_id": "cccc366fe0ee501c0cffe9b9",
+            "job_key": "23366645"
+          },
+          {
+            "title": "Senior Software Engineer",
+            "company_name": "Zepto",
+            "logo_url": "4cf3e8f9-35bc-4c97-a85d-901f0f676402.jpg",
+            "current": false,
+            "start_year": 2022,
+            "start_month": 3,
+            "end_year": 2023,
+            "end_month": 9,
+            "duration_in_months": 18,
+            "departments": [
+              "Software Development",
+              "Engineering & Technical"
+            ],
+            "seniority": "Senior",
+            "company_id": "cccc366fe0ee501c0cffe9b9",
+            "job_key": "19097193"
+          },
+          {
+            "title": "Product Engineer",
+            "company_name": "Gojek",
+            "logo_url": "d2431dfe-f80a-4c24-91ba-e102b537abaa.jpg",
+            "current": false,
+            "start_year": 2019,
+            "start_month": 11,
+            "end_year": 2022,
+            "end_month": 2,
+            "duration_in_months": 27,
+            "departments": [
+              "Engineering & Technical"
+            ],
+            "seniority": "Entry",
+            "company_id": "cccccebb040978ddebdb0a03",
+            "job_key": "87929988"
+          }
+        ],
+        "mobile": {
+          "status": "VERIFIED",
+          "revealed": false,
+          "mobile": "+91 9825* *****",
+          "mobile_national": "09825* *****",
+          "mobile_international": "+91 9825* *****",
+          "mobile_country": "India",
+          "mobile_country_code": "IN"
+        },
+        "email": {
+          "status": "VERIFIED",
+          "revealed": true,
+          "email": "kshitij.singh@zepto.com",
+          "verification_method": "SMTP",
+          "email_mx_provider": null
+        },
+        "location": {
+          "country": "India",
+          "country_code": "IN",
+          "state": "Karnataka",
+          "city": "Bengaluru North",
+          "time_zone": "Asia/Calcutta",
+          "time_zone_offset": 5.5
+        },
+        "skills": []
+      },
+      "company": {
+        "company_id": "cccc3de4392193fcdea0605e",
+        "name": "Zepto",
+        "website": "https://zepto.com",
+        "domain": null,
+        "other_websites": [],
+        "description": "Founded in 2021 by Aadit Palicha and Kaivalya Vohra, Zepto is on a mission to save you time \u2014making every second count towards life's real joys. Our platform has revolutionised rapid commerce in India with cutting-edge technology and strategically optimised delivery hubs. Zepto offers an extensive range of 45,000+ products, from fresh groceries to electronics, beauty essentials, apparels, toys and more, delivering across 50+ cities in minutes*\n\nZepto Caf\u00e9 extends our commitment to convenience, featuring a curated menu of over 200 fresh items.",
+        "description_seo": null,
+        "description_ai": null,
+        "type": "Private",
+        "industry": "Technology, Information and Internet",
+        "employee_count": 18712,
+        "employee_count_on_prospeo": 6176,
+        "employee_range": "10000+",
+        "location": {
+          "country": "India",
+          "country_code": "IN",
+          "state": null,
+          "city": null,
+          "raw_address": "India, IN"
+        },
+        "sic_codes": [],
+        "naics_codes": [],
+        "email_tech": {
+          "domain": null,
+          "mx_provider": null
+        },
+        "linkedin_url": "https://www.linkedin.com/company/zeptonow",
+        "twitter_url": "https://x.com/zeptonow",
+        "facebook_url": "https://www.facebook.com/zeptonow",
+        "crunchbase_url": "https://www.crunchbase.com/organization/zepto-29b1",
+        "instagram_url": "https://www.instagram.com/zeptonow",
+        "youtube_url": null,
+        "phone_hq": {
+          "phone_hq": null,
+          "phone_hq_national": null,
+          "phone_hq_international": null,
+          "phone_hq_country": null,
+          "phone_hq_country_code": null
+        },
+        "linkedin_id": null,
+        "founded": 2021,
+        "revenue_range": {
+          "min": 1000000000,
+          "max": 5000000000
+        },
+        "revenue_range_printed": "1B",
+        "keywords": [],
+        "logo_url": "https://prospeo-static-assets.s3.us-east-1.amazonaws.com/company_logo/f8f715dd-06c1-4e24-adc2-67dbff6333e7.jpg",
+        "attributes": {
+          "is_b2b": false,
+          "has_demo": null,
+          "has_free_trial": null,
+          "has_downloadable": null,
+          "has_mobile_apps": null,
+          "has_online_reviews": null,
+          "has_pricing": null
+        },
+        "funding": {
+          "count": 7,
+          "total_funding": 1981900000,
+          "total_funding_printed": "$2.0B",
+          "latest_funding_date": "2025-11-16T00:00:00",
+          "latest_funding_stage": "Series E-J",
+          "funding_events": [
+            {
+              "amount": 31300000,
+              "amount_printed": "$31,300,000",
+              "raised_at": "2023-12-08T00:00:00",
+              "stage": "Series E-J",
+              "link": "https://www.crunchbase.com/funding_round/zepto-29b1-series-e--aff2bdb0"
+            },
+            {
+              "amount": 665000000,
+              "amount_printed": "$665,000,000",
+              "raised_at": "2024-07-21T00:00:00",
+              "stage": "Series E-J",
+              "link": "https://www.crunchbase.com/funding_round/zepto-29b1-series-f--cfad6855"
+            },
+            {
+              "amount": 340000000,
+              "amount_printed": "$340,000,000",
+              "raised_at": "2024-09-14T00:00:00",
+              "stage": "Series E-J",
+              "link": "https://www.crunchbase.com/funding_round/zepto-29b1-series-g--8a687d70"
+            },
+            {
+              "amount": 350000000,
+              "amount_printed": "$350,000,000",
+              "raised_at": "2024-12-21T00:00:00",
+              "stage": "Series E-J",
+              "link": "https://www.crunchbase.com/funding_round/zepto-29b1-series-g--dc151163"
+            },
+            {
+              "amount": 100000000,
+              "amount_printed": "$100,000,000",
+              "raised_at": "2025-06-12T00:00:00",
+              "stage": "Secondary market",
+              "link": "https://www.crunchbase.com/funding_round/zepto-29b1-secondary-market--8d7677da"
+            },
+            {
+              "amount": 45600000,
+              "amount_printed": "$45,600,000",
+              "raised_at": "2025-09-12T00:00:00",
+              "stage": "Secondary market",
+              "link": "https://www.crunchbase.com/funding_round/zepto-29b1-secondary-market--26fee323"
+            },
+            {
+              "amount": 450000000,
+              "amount_printed": "$450,000,000",
+              "raised_at": "2025-11-16T00:00:00",
+              "stage": "Series E-J",
+              "link": "https://www.crunchbase.com/funding_round/zepto-29b1-series-h--a6f2fb96"
+            }
+          ]
+        },
+        "technology": null,
+        "job_postings": {
+          "active_count": 27,
+          "active_titles": [
+            "senior manager - commercial legal",
+            "manager - events & merchandising",
+            "creative photographer ",
+            "manager ii - deputy cluster manager",
+            "associate director - real estate",
+            "deputy delivery hub manger",
+            "manager ii - real estate",
+            "team lead - it security",
+            "cluster manager",
+            "business analyst \u2013 business finance",
+            "network engineer - it",
+            "ai image editor",
+            "deputy delivery hub manager / delivery hub manager",
+            "senior cluster manager",
+            "senior manager - electronics (category)",
+            "senior cluster manager",
+            "senior manager it",
+            "associate director - sourcing (first mile)",
+            "cluster manager",
+            "team lead - deputy delivery hub manger / delivery hub manager",
+            "senior manager internal audit",
+            "manager i - rider cluster manager",
+            "associate director - fp&a",
+            "senior manager - treasury",
+            "senior manager - non-trade account payables",
+            "senior manager - ads ",
+            "deputy delivery hub manger / delivery hub manager"
+          ]
+        }
+      }
+    }
+  }
+]

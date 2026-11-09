@@ -1,0 +1,80 @@
+[
+  {
+    "platform": "ashby",
+    "org": "designworkstalent",
+    "title": "AI Training Infrastructure Engineer",
+    "location": "Bellevue (Remote)",
+    "url": "https://jobs.ashbyhq.com/designworkstalent/41bddeaf-efca-4ce6-b79b-1c159d05cee9",
+    "updated": "",
+    "geo_tag": "remote",
+    "resume_variant": "GenAI_DS",
+    "applied": true,
+    "applied_at": "2026-10-18 13:43:14",
+    "status": "submitted_unconfirmed"
+  },
+  {
+    "platform": "greenhouse",
+    "org": "ensono",
+    "title": "Application Developer \u2013 Commercial Apps",
+    "location": "Bengaluru, India; Chennai, India; Pune, India",
+    "url": "https://ensono.com/company/careers/jobs-board/?gh_jid=4625506005",
+    "updated": "2026-10-16",
+    "geo_tag": "india",
+    "resume_variant": "GenAI_DS",
+    "applied": false,
+    "status": "skipped",
+    "skip_reason": "Page load timed out"
+  },
+  {
+    "platform": "lever",
+    "org": "mactores",
+    "title": "AWS DevOps Engineer (Associate)",
+    "location": "Mumbai, MH",
+    "url": "https://jobs.lever.co/mactores/35e29122-3a7a-4851-a1f2-09e06457641d",
+    "updated": "2021-03-17",
+    "geo_tag": "india",
+    "resume_variant": "GenAI_DS",
+    "applied": false,
+    "status": "skipped",
+    "skip_reason": "No visible submit button found on Lever"
+  },
+  {
+    "platform": "ashby",
+    "org": "designworkstalent",
+    "title": "Applied Researcher \u2013 AI Expert",
+    "location": "Bellevue (Remote)",
+    "url": "https://jobs.ashbyhq.com/designworkstalent/de4fa4c3-3ad2-492a-aba9-97ca3500f7df",
+    "updated": "",
+    "geo_tag": "remote",
+    "resume_variant": "GenAI_DS",
+    "applied": true,
+    "applied_at": "2026-10-18 13:43:39",
+    "status": "submitted_unconfirmed"
+  },
+  {
+    "platform": "greenhouse",
+    "org": "mongodb",
+    "title": "Application Engineer",
+    "location": "Bengaluru",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=8143980",
+    "updated": "2026-10-16",
+    "geo_tag": "india",
+    "resume_variant": "GenAI_DS",
+    "applied": false,
+    "status": "skipped",
+    "skip_reason": "No visible submit button found"
+  },
+  {
+    "platform": "lever",
+    "org": "mactores",
+    "title": "Cloud Engineer (Intern)",
+    "location": "Mumbai, MH",
+    "url": "https://jobs.lever.co/mactores/d237505f-5e6a-4eae-9b06-fa8dd0686236",
+    "updated": "2021-04-19",
+    "geo_tag": "india",
+    "resume_variant": "GenAI_DS",
+    "applied": false,
+    "status": "skipped",
+    "skip_reason": "No visible submit button found on Lever"
+  }
+]

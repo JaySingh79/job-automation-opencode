@@ -1,0 +1,934 @@
+[
+  {
+    "id": "WD-01",
+    "platform": "workday",
+    "tenant": "mastercard.wd1",
+    "company": "Mastercard",
+    "role": "Data Scientist I",
+    "target_url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Data-Scientist-I_R-238474",
+    "final_url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Data-Scientist-I_R-238474",
+    "http_status": 200,
+    "load_time_ms": 1335,
+    "page_title": "Careers",
+    "frameworks_detected": [
+      "React"
+    ],
+    "dom_metrics": {
+      "frameworks": [
+        "React"
+      ],
+      "custom_elements": [],
+      "wd_automation_ids": [
+        "accessibilitySkipToMainContent",
+        "header",
+        "logoLink",
+        "logo",
+        "headerTitle",
+        "navigationContainer",
+        "utilityButtonBar",
+        "utilityButtonSignIn",
+        "navigationItem-Search for Jobs",
+        "hammyMenuIcon",
+        "banner",
+        "errorContainer",
+        "errorMessage",
+        "searchForJobsButton",
+        "footerContainer",
+        "followUs",
+        "socialIcon",
+        "socialIcon",
+        "socialIcon",
+        "socialIcon"
+      ],
+      "oj_controls_sample": [],
+      "counts": {
+        "inputs": 0,
+        "selects": 0,
+        "buttons": 4,
+        "iframes": 0
+      }
+    },
+    "apply_button_found": false,
+    "apply_button_text": "",
+    "apply_button_selector": "",
+    "navigation_action": null,
+    "first_step_url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Data-Scientist-I_R-238474",
+    "auth_gate_type": "account_password_login",
+    "input_controls_sample": [],
+    "synthetic_event_profile": {
+      "engine": "React 18 Synthetic Event Dispatcher",
+      "required_dispatch": [
+        "Object.getOwnPropertyDescriptor(window.HTMLInputElement.prototype, 'value').set.call(el, val)",
+        "el.dispatchEvent(new Event('input', { bubbles: true }))",
+        "el.dispatchEvent(new Event('change', { bubbles: true }))",
+        "el.dispatchEvent(new FocusEvent('blur', { bubbles: true }))"
+      ],
+      "playwright_best_practice": "page.locator('[data-automation-id=\"...\"]').fill(val)",
+      "critical_trap": "Never use el.value = 'val' directly without prototype setter; React 18 internal fiber ignores native DOM values."
+    },
+    "screenshot_path": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\deep_recon\\WD-01_mastercard_workday.png",
+    "errors": [],
+    "file_inputs": []
+  },
+  {
+    "id": "WD-02",
+    "platform": "workday",
+    "tenant": "cisco.wd5",
+    "company": "Cisco Systems",
+    "role": "Software Engineer - Backend (Python/Go)",
+    "target_url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Bangalore-India/Software-Engineer---Backend--Python-Go--Distributed-Systems--Cloud_2004245",
+    "final_url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Bangalore-India/Software-Engineer---Backend--Python-Go--Distributed-Systems--Cloud_2004245",
+    "http_status": 200,
+    "load_time_ms": 1520,
+    "page_title": "Careers",
+    "frameworks_detected": [
+      "React"
+    ],
+    "dom_metrics": {
+      "frameworks": [
+        "React"
+      ],
+      "custom_elements": [],
+      "wd_automation_ids": [
+        "accessibilitySkipToMainContent",
+        "header",
+        "logoLink",
+        "logo",
+        "headerTitle",
+        "navigationContainer",
+        "utilityButtonBar",
+        "utilityButtonBarLanguageMenu",
+        "utilityMenuButton",
+        "utility-button-bar-divider",
+        "utilityButtonSignIn",
+        "navigationItem-Search for Jobs",
+        "hammyMenuIcon",
+        "banner",
+        "errorContainer",
+        "errorMessage",
+        "searchForJobsButton",
+        "footerContainer",
+        "followUs",
+        "socialIcon"
+      ],
+      "oj_controls_sample": [],
+      "counts": {
+        "inputs": 0,
+        "selects": 0,
+        "buttons": 5,
+        "iframes": 0
+      }
+    },
+    "apply_button_found": false,
+    "apply_button_text": "",
+    "apply_button_selector": "",
+    "navigation_action": null,
+    "first_step_url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Bangalore-India/Software-Engineer---Backend--Python-Go--Distributed-Systems--Cloud_2004245",
+    "auth_gate_type": "account_password_login",
+    "input_controls_sample": [],
+    "synthetic_event_profile": {
+      "engine": "React 18 Synthetic Event Dispatcher",
+      "required_dispatch": [
+        "Object.getOwnPropertyDescriptor(window.HTMLInputElement.prototype, 'value').set.call(el, val)",
+        "el.dispatchEvent(new Event('input', { bubbles: true }))",
+        "el.dispatchEvent(new Event('change', { bubbles: true }))",
+        "el.dispatchEvent(new FocusEvent('blur', { bubbles: true }))"
+      ],
+      "playwright_best_practice": "page.locator('[data-automation-id=\"...\"]').fill(val)",
+      "critical_trap": "Never use el.value = 'val' directly without prototype setter; React 18 internal fiber ignores native DOM values."
+    },
+    "screenshot_path": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\deep_recon\\WD-02_cisco_systems_workday.png",
+    "errors": [],
+    "file_inputs": []
+  },
+  {
+    "id": "WD-03",
+    "platform": "workday",
+    "tenant": "valeo.wd3",
+    "company": "Valeo",
+    "role": "Artificial Intelligence Engineer",
+    "target_url": "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/Artificial-Intelligence-Engineer_24000CGQ",
+    "final_url": "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/Artificial-Intelligence-Engineer_24000CGQ",
+    "http_status": 200,
+    "load_time_ms": 1165,
+    "page_title": "JOBS",
+    "frameworks_detected": [
+      "React"
+    ],
+    "dom_metrics": {
+      "frameworks": [
+        "React"
+      ],
+      "custom_elements": [],
+      "wd_automation_ids": [
+        "accessibilitySkipToMainContent",
+        "legalNotice",
+        "legalNoticeDeclineButton",
+        "legalNoticeAcceptButton",
+        "header",
+        "logoLink",
+        "logo",
+        "headerTitle",
+        "navigationContainer",
+        "utilityButtonBar",
+        "utilityButtonBarLanguageMenu",
+        "utilityMenuButton",
+        "utility-button-bar-divider",
+        "utilityButtonSignIn",
+        "navigationItem-Match my CV",
+        "navigationItem-Search for Jobs",
+        "hammyMenuIcon",
+        "banner",
+        "errorContainer",
+        "errorMessage"
+      ],
+      "oj_controls_sample": [],
+      "counts": {
+        "inputs": 0,
+        "selects": 0,
+        "buttons": 8,
+        "iframes": 0
+      }
+    },
+    "apply_button_found": false,
+    "apply_button_text": "",
+    "apply_button_selector": "",
+    "navigation_action": null,
+    "first_step_url": "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/Artificial-Intelligence-Engineer_24000CGQ",
+    "auth_gate_type": "account_password_login",
+    "input_controls_sample": [],
+    "synthetic_event_profile": {
+      "engine": "React 18 Synthetic Event Dispatcher",
+      "required_dispatch": [
+        "Object.getOwnPropertyDescriptor(window.HTMLInputElement.prototype, 'value').set.call(el, val)",
+        "el.dispatchEvent(new Event('input', { bubbles: true }))",
+        "el.dispatchEvent(new Event('change', { bubbles: true }))",
+        "el.dispatchEvent(new FocusEvent('blur', { bubbles: true }))"
+      ],
+      "playwright_best_practice": "page.locator('[data-automation-id=\"...\"]').fill(val)",
+      "critical_trap": "Never use el.value = 'val' directly without prototype setter; React 18 internal fiber ignores native DOM values."
+    },
+    "screenshot_path": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\deep_recon\\WD-03_valeo_workday.png",
+    "errors": [],
+    "file_inputs": []
+  },
+  {
+    "id": "WD-04",
+    "platform": "workday",
+    "tenant": "corrohealth.wd1",
+    "company": "CorroHealth",
+    "role": "Junior AI - Engineer",
+    "target_url": "https://corrohealth.wd1.myworkdayjobs.com/en-US/CorroHealthIndia/job/Noida-Luminex/Junior-AI---Engineer_R-03823",
+    "final_url": "https://corrohealth.wd1.myworkdayjobs.com/en-US/CorroHealthIndia/job/Noida-Luminex/Junior-AI---Engineer_R-03823",
+    "http_status": 200,
+    "load_time_ms": 662,
+    "page_title": "Careers",
+    "frameworks_detected": [
+      "React"
+    ],
+    "dom_metrics": {
+      "frameworks": [
+        "React"
+      ],
+      "custom_elements": [],
+      "wd_automation_ids": [
+        "accessibilitySkipToMainContent",
+        "header",
+        "logoLink",
+        "logo",
+        "headerTitle",
+        "navigationContainer",
+        "utilityButtonBar",
+        "utilityButtonSignIn",
+        "navigationItem-Search for Jobs",
+        "navigationItem-Introduce Yourself",
+        "hammyMenuIcon",
+        "banner",
+        "errorContainer",
+        "errorMessage",
+        "searchForJobsButton",
+        "footerContainer",
+        "privacyLink",
+        "logo"
+      ],
+      "oj_controls_sample": [],
+      "counts": {
+        "inputs": 0,
+        "selects": 0,
+        "buttons": 5,
+        "iframes": 0
+      }
+    },
+    "apply_button_found": false,
+    "apply_button_text": "",
+    "apply_button_selector": "",
+    "navigation_action": null,
+    "first_step_url": "https://corrohealth.wd1.myworkdayjobs.com/en-US/CorroHealthIndia/job/Noida-Luminex/Junior-AI---Engineer_R-03823",
+    "auth_gate_type": "account_password_login",
+    "input_controls_sample": [],
+    "synthetic_event_profile": {
+      "engine": "React 18 Synthetic Event Dispatcher",
+      "required_dispatch": [
+        "Object.getOwnPropertyDescriptor(window.HTMLInputElement.prototype, 'value').set.call(el, val)",
+        "el.dispatchEvent(new Event('input', { bubbles: true }))",
+        "el.dispatchEvent(new Event('change', { bubbles: true }))",
+        "el.dispatchEvent(new FocusEvent('blur', { bubbles: true }))"
+      ],
+      "playwright_best_practice": "page.locator('[data-automation-id=\"...\"]').fill(val)",
+      "critical_trap": "Never use el.value = 'val' directly without prototype setter; React 18 internal fiber ignores native DOM values."
+    },
+    "screenshot_path": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\deep_recon\\WD-04_corrohealth_workday.png",
+    "errors": [],
+    "file_inputs": []
+  },
+  {
+    "id": "WD-05",
+    "platform": "workday",
+    "tenant": "pitneybowes.wd1",
+    "company": "Pitney Bowes",
+    "role": "Graduate Engineer Trainee",
+    "target_url": "https://pitneybowes.wd1.myworkdayjobs.com/en-US/PBCareers/job/IN-Pune/Graduate-Engineer-Trainee_R18485",
+    "final_url": "https://pitneybowes.wd1.myworkdayjobs.com/en-US/PBCareers/job/IN-Pune/Graduate-Engineer-Trainee_R18485",
+    "http_status": 200,
+    "load_time_ms": 687,
+    "page_title": "Careers",
+    "frameworks_detected": [
+      "React"
+    ],
+    "dom_metrics": {
+      "frameworks": [
+        "React"
+      ],
+      "custom_elements": [],
+      "wd_automation_ids": [
+        "accessibilitySkipToMainContent",
+        "legalNotice",
+        "legalNoticeToggleButton",
+        "legalNoticeDeclineButton",
+        "legalNoticeAcceptButton",
+        "header",
+        "logoLink",
+        "logo",
+        "headerTitle",
+        "navigationContainer",
+        "utilityButtonBar",
+        "utilityButtonBarLanguageMenu",
+        "utilityMenuButton",
+        "utility-button-bar-divider",
+        "utilityButtonSignIn",
+        "navigationItem-Careers at Pitney Bowes",
+        "navigationItem-Search for Jobs",
+        "navigationItem-Introduce Yourself",
+        "hammyMenuIcon",
+        "banner"
+      ],
+      "oj_controls_sample": [],
+      "counts": {
+        "inputs": 0,
+        "selects": 0,
+        "buttons": 10,
+        "iframes": 0
+      }
+    },
+    "apply_button_found": false,
+    "apply_button_text": "",
+    "apply_button_selector": "",
+    "navigation_action": null,
+    "first_step_url": "https://pitneybowes.wd1.myworkdayjobs.com/en-US/PBCareers/job/IN-Pune/Graduate-Engineer-Trainee_R18485",
+    "auth_gate_type": "account_password_login",
+    "input_controls_sample": [],
+    "synthetic_event_profile": {
+      "engine": "React 18 Synthetic Event Dispatcher",
+      "required_dispatch": [
+        "Object.getOwnPropertyDescriptor(window.HTMLInputElement.prototype, 'value').set.call(el, val)",
+        "el.dispatchEvent(new Event('input', { bubbles: true }))",
+        "el.dispatchEvent(new Event('change', { bubbles: true }))",
+        "el.dispatchEvent(new FocusEvent('blur', { bubbles: true }))"
+      ],
+      "playwright_best_practice": "page.locator('[data-automation-id=\"...\"]').fill(val)",
+      "critical_trap": "Never use el.value = 'val' directly without prototype setter; React 18 internal fiber ignores native DOM values."
+    },
+    "screenshot_path": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\deep_recon\\WD-05_pitney_bowes_workday.png",
+    "errors": [],
+    "file_inputs": []
+  },
+  {
+    "id": "OC-01",
+    "platform": "oracle_cloud",
+    "tenant": "egug.fa.us2",
+    "company": "American Express",
+    "role": "Analyst-Data Analytics (Agentic)",
+    "target_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26015040",
+    "final_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015040",
+    "http_status": 200,
+    "load_time_ms": 3885,
+    "page_title": "American Express Careers",
+    "frameworks_detected": [
+      "Oracle JET"
+    ],
+    "dom_metrics": {
+      "frameworks": [
+        "Oracle JET"
+      ],
+      "custom_elements": [
+        "skip-navigation-link",
+        "ai-assistant-skip-navigation-link",
+        "app-header-horizontal",
+        "company-logo",
+        "app-header-horizontal-navbar",
+        "sitemap-link",
+        "favourite-jobs",
+        "app-header-horizontal-user-login-button",
+        "user-menu",
+        "language-select",
+        "job-details-wrapper",
+        "job-details-checker",
+        "job-details-loader",
+        "job-details-header",
+        "job-expired"
+      ],
+      "wd_automation_ids": [],
+      "oj_controls_sample": [
+        "html",
+        "meta",
+        "meta",
+        "meta",
+        "meta",
+        "meta",
+        "meta",
+        "meta",
+        "meta",
+        "oj-dialog",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "oj-dialog",
+        "div"
+      ],
+      "counts": {
+        "inputs": 0,
+        "selects": 0,
+        "buttons": 15,
+        "iframes": 0
+      }
+    },
+    "apply_button_found": false,
+    "apply_button_text": "",
+    "apply_button_selector": "",
+    "navigation_action": null,
+    "first_step_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015040",
+    "auth_gate_type": "none",
+    "input_controls_sample": [
+      {
+        "tag": "textarea",
+        "type": "textarea",
+        "id": "oda-work-summary-text-area|input",
+        "name": "",
+        "placeholder": "",
+        "automation_id": "",
+        "aria_label": ""
+      }
+    ],
+    "synthetic_event_profile": {
+      "engine": "Oracle JET / Knockout Observable Dispatcher",
+      "required_dispatch": [
+        "input.dispatchEvent(new Event('input', { bubbles: true }))",
+        "input.dispatchEvent(new Event('change', { bubbles: true }))",
+        "ojComponent.setProperty('value', val) or ko.dataFor(el).value(val)"
+      ],
+      "playwright_best_practice": "page.locator('oj-input-text input').fill(val) + page.keyboard.press('Tab')",
+      "critical_trap": "Oracle JET oj-select-one and oj-combobox require waiting for .oj-listbox-drop to attach before selecting."
+    },
+    "screenshot_path": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\deep_recon\\OC-01_american_express_oracle_cloud.png",
+    "errors": [],
+    "file_inputs": []
+  },
+  {
+    "id": "OC-02",
+    "platform": "oracle_cloud",
+    "tenant": "edbz.fa.us2",
+    "company": "Texas Instruments",
+    "role": "Software Development Engineer",
+    "target_url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017214",
+    "final_url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017214",
+    "http_status": 200,
+    "load_time_ms": 1555,
+    "page_title": "Texas Instruments Careers",
+    "frameworks_detected": [
+      "Oracle JET"
+    ],
+    "dom_metrics": {
+      "frameworks": [
+        "Oracle JET"
+      ],
+      "custom_elements": [
+        "skip-navigation-link",
+        "ai-assistant-skip-navigation-link",
+        "app-header-hamburger",
+        "company-logo",
+        "sitemap-link",
+        "favourite-jobs",
+        "user-menu",
+        "app-menu-toggle",
+        "job-details-wrapper",
+        "job-details-checker",
+        "job-details-loader",
+        "job-details-header",
+        "job-expired",
+        "ai-assistant-container",
+        "language-select"
+      ],
+      "wd_automation_ids": [],
+      "oj_controls_sample": [
+        "html",
+        "meta",
+        "meta",
+        "meta",
+        "meta",
+        "meta",
+        "meta",
+        "meta",
+        "meta",
+        "oj-dialog",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "oj-dialog",
+        "div"
+      ],
+      "counts": {
+        "inputs": 0,
+        "selects": 1,
+        "buttons": 13,
+        "iframes": 0
+      }
+    },
+    "apply_button_found": false,
+    "apply_button_text": "",
+    "apply_button_selector": "",
+    "navigation_action": null,
+    "first_step_url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017214",
+    "auth_gate_type": "none",
+    "input_controls_sample": [
+      {
+        "tag": "textarea",
+        "type": "textarea",
+        "id": "oda-work-summary-text-area|input",
+        "name": "",
+        "placeholder": "",
+        "automation_id": "",
+        "aria_label": ""
+      },
+      {
+        "tag": "select",
+        "type": "select-one",
+        "id": "country-selector",
+        "name": "",
+        "placeholder": "",
+        "automation_id": "",
+        "aria_label": ""
+      },
+      {
+        "tag": "textarea",
+        "type": "textarea",
+        "id": "ti-chat-user-text-input",
+        "name": "",
+        "placeholder": "Ask me something",
+        "automation_id": "",
+        "aria_label": ""
+      }
+    ],
+    "synthetic_event_profile": {
+      "engine": "Oracle JET / Knockout Observable Dispatcher",
+      "required_dispatch": [
+        "input.dispatchEvent(new Event('input', { bubbles: true }))",
+        "input.dispatchEvent(new Event('change', { bubbles: true }))",
+        "ojComponent.setProperty('value', val) or ko.dataFor(el).value(val)"
+      ],
+      "playwright_best_practice": "page.locator('oj-input-text input').fill(val) + page.keyboard.press('Tab')",
+      "critical_trap": "Oracle JET oj-select-one and oj-combobox require waiting for .oj-listbox-drop to attach before selecting."
+    },
+    "screenshot_path": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\deep_recon\\OC-02_texas_instruments_oracle_cloud.png",
+    "errors": [],
+    "file_inputs": []
+  },
+  {
+    "id": "OC-03",
+    "platform": "oracle_cloud",
+    "tenant": "fa-etbm-saasfaprod1",
+    "company": "IBS Software Services",
+    "role": "Fullstack Developer",
+    "target_url": "https://fa-etbm-saasfaprod1.fa.ocs.oraclecloud.com//hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/2523/?mode=location",
+    "final_url": "https://fa-etbm-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2523",
+    "http_status": 200,
+    "load_time_ms": 3141,
+    "page_title": "Fullstack Developer - IBS Career Portal Careers",
+    "frameworks_detected": [
+      "Oracle JET"
+    ],
+    "dom_metrics": {
+      "frameworks": [
+        "Oracle JET"
+      ],
+      "custom_elements": [
+        "skip-navigation-link",
+        "ai-assistant-skip-navigation-link",
+        "app-header-hamburger",
+        "company-logo",
+        "sitemap-link",
+        "favourite-jobs",
+        "user-menu",
+        "app-menu-toggle",
+        "job-details-wrapper",
+        "job-details-checker",
+        "job-details-loader",
+        "job-details-page",
+        "job-details-header",
+        "share-widget",
+        "copy-link"
+      ],
+      "wd_automation_ids": [],
+      "oj_controls_sample": [
+        "html",
+        "meta",
+        "meta",
+        "meta",
+        "meta",
+        "meta",
+        "meta",
+        "meta",
+        "meta",
+        "oj-dialog",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "oj-dialog",
+        "div"
+      ],
+      "counts": {
+        "inputs": 1,
+        "selects": 0,
+        "buttons": 13,
+        "iframes": 0
+      }
+    },
+    "apply_button_found": true,
+    "apply_button_text": "Apply Now",
+    "apply_button_selector": ".job-details__section",
+    "navigation_action": "clicked_oracle_apply",
+    "first_step_url": "https://fa-etbm-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2523",
+    "auth_gate_type": "none",
+    "input_controls_sample": [
+      {
+        "tag": "textarea",
+        "type": "textarea",
+        "id": "oda-work-summary-text-area|input",
+        "name": "",
+        "placeholder": "",
+        "automation_id": "",
+        "aria_label": ""
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "id": "primary-email-0",
+        "name": "primary-email",
+        "placeholder": "",
+        "automation_id": "",
+        "aria_label": ""
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "id": "honey-pot-1",
+        "name": "honey-pot",
+        "placeholder": "",
+        "automation_id": "",
+        "aria_label": ""
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "id": "legal-disclaimer-checkbox",
+        "name": "",
+        "placeholder": "",
+        "automation_id": "",
+        "aria_label": ""
+      }
+    ],
+    "synthetic_event_profile": {
+      "engine": "Oracle JET / Knockout Observable Dispatcher",
+      "required_dispatch": [
+        "input.dispatchEvent(new Event('input', { bubbles: true }))",
+        "input.dispatchEvent(new Event('change', { bubbles: true }))",
+        "ojComponent.setProperty('value', val) or ko.dataFor(el).value(val)"
+      ],
+      "playwright_best_practice": "page.locator('oj-input-text input').fill(val) + page.keyboard.press('Tab')",
+      "critical_trap": "Oracle JET oj-select-one and oj-combobox require waiting for .oj-listbox-drop to attach before selecting."
+    },
+    "screenshot_path": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\deep_recon\\OC-03_ibs_software_services_oracle_cloud.png",
+    "errors": [],
+    "file_inputs": []
+  },
+  {
+    "id": "OC-04",
+    "platform": "oracle_cloud",
+    "tenant": "jpmc.fa",
+    "company": "JPMorgan Chase & Co",
+    "role": "Trading Services Associate I",
+    "target_url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/210797882",
+    "final_url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210797882",
+    "http_status": 200,
+    "load_time_ms": 3239,
+    "page_title": "Trading Services Associate I - JPMC Candidate Experience page Careers",
+    "frameworks_detected": [
+      "Oracle JET"
+    ],
+    "dom_metrics": {
+      "frameworks": [
+        "Oracle JET"
+      ],
+      "custom_elements": [
+        "skip-navigation-link",
+        "ai-assistant-skip-navigation-link",
+        "app-header-hamburger",
+        "company-logo",
+        "sitemap-link",
+        "favourite-jobs",
+        "user-menu",
+        "app-menu-toggle",
+        "job-details-wrapper",
+        "job-details-checker",
+        "job-details-loader",
+        "job-details-page",
+        "job-details-header",
+        "share-widget",
+        "copy-link"
+      ],
+      "wd_automation_ids": [],
+      "oj_controls_sample": [
+        "html",
+        "meta",
+        "meta",
+        "meta",
+        "meta",
+        "meta",
+        "meta",
+        "meta",
+        "meta",
+        "oj-dialog",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "oj-dialog",
+        "div"
+      ],
+      "counts": {
+        "inputs": 1,
+        "selects": 0,
+        "buttons": 25,
+        "iframes": 1
+      }
+    },
+    "apply_button_found": true,
+    "apply_button_text": "Apply Now",
+    "apply_button_selector": ".job-details__section",
+    "navigation_action": "clicked_oracle_apply",
+    "first_step_url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210797882",
+    "auth_gate_type": "none",
+    "input_controls_sample": [
+      {
+        "tag": "textarea",
+        "type": "textarea",
+        "id": "oda-work-summary-text-area|input",
+        "name": "",
+        "placeholder": "",
+        "automation_id": "",
+        "aria_label": ""
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "id": "primary-email-0",
+        "name": "primary-email",
+        "placeholder": "",
+        "automation_id": "",
+        "aria_label": ""
+      },
+      {
+        "tag": "textarea",
+        "type": "textarea",
+        "id": "g-recaptcha-response-0z4cu1vt253f",
+        "name": "g-recaptcha-response",
+        "placeholder": "",
+        "automation_id": "",
+        "aria_label": ""
+      },
+      {
+        "tag": "textarea",
+        "type": "textarea",
+        "id": "h-captcha-response-0z4cu1vt253f",
+        "name": "h-captcha-response",
+        "placeholder": "",
+        "automation_id": "",
+        "aria_label": ""
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "id": "honey-pot-1",
+        "name": "honey-pot",
+        "placeholder": "",
+        "automation_id": "",
+        "aria_label": ""
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "id": "legal-disclaimer-checkbox",
+        "name": "",
+        "placeholder": "",
+        "automation_id": "",
+        "aria_label": ""
+      },
+      {
+        "tag": "textarea",
+        "type": "textarea",
+        "id": "oda-chat-user-text-input",
+        "name": "",
+        "placeholder": "Ask Me Something",
+        "automation_id": "",
+        "aria_label": ""
+      }
+    ],
+    "synthetic_event_profile": {
+      "engine": "Oracle JET / Knockout Observable Dispatcher",
+      "required_dispatch": [
+        "input.dispatchEvent(new Event('input', { bubbles: true }))",
+        "input.dispatchEvent(new Event('change', { bubbles: true }))",
+        "ojComponent.setProperty('value', val) or ko.dataFor(el).value(val)"
+      ],
+      "playwright_best_practice": "page.locator('oj-input-text input').fill(val) + page.keyboard.press('Tab')",
+      "critical_trap": "Oracle JET oj-select-one and oj-combobox require waiting for .oj-listbox-drop to attach before selecting."
+    },
+    "screenshot_path": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\deep_recon\\OC-04_jpmorgan_chase_&_co_oracle_cloud.png",
+    "errors": [],
+    "file_inputs": []
+  },
+  {
+    "id": "OC-05",
+    "platform": "oracle_cloud",
+    "tenant": "fa-euxc-saasfaprod1",
+    "company": "Citco",
+    "role": "IT Developer",
+    "target_url": "https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/17166",
+    "final_url": "https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/17166",
+    "http_status": 200,
+    "load_time_ms": 4027,
+    "page_title": "The Citco Group Limited Careers",
+    "frameworks_detected": [
+      "Oracle JET"
+    ],
+    "dom_metrics": {
+      "frameworks": [
+        "Oracle JET"
+      ],
+      "custom_elements": [
+        "skip-navigation-link",
+        "ai-assistant-skip-navigation-link",
+        "app-header-hamburger",
+        "company-logo",
+        "sitemap-link",
+        "favourite-jobs",
+        "user-menu",
+        "app-menu-toggle",
+        "job-details-wrapper",
+        "job-details-checker",
+        "job-details-loader",
+        "job-details-header",
+        "job-expired",
+        "ai-assistant-container",
+        "internal-user-login-button"
+      ],
+      "wd_automation_ids": [],
+      "oj_controls_sample": [
+        "html",
+        "meta",
+        "meta",
+        "meta",
+        "meta",
+        "meta",
+        "meta",
+        "meta",
+        "meta",
+        "oj-dialog",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "oj-dialog",
+        "div"
+      ],
+      "counts": {
+        "inputs": 0,
+        "selects": 0,
+        "buttons": 12,
+        "iframes": 0
+      }
+    },
+    "apply_button_found": false,
+    "apply_button_text": "",
+    "apply_button_selector": "",
+    "navigation_action": null,
+    "first_step_url": "https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/17166",
+    "auth_gate_type": "none",
+    "input_controls_sample": [
+      {
+        "tag": "textarea",
+        "type": "textarea",
+        "id": "oda-work-summary-text-area|input",
+        "name": "",
+        "placeholder": "",
+        "automation_id": "",
+        "aria_label": ""
+      }
+    ],
+    "synthetic_event_profile": {
+      "engine": "Oracle JET / Knockout Observable Dispatcher",
+      "required_dispatch": [
+        "input.dispatchEvent(new Event('input', { bubbles: true }))",
+        "input.dispatchEvent(new Event('change', { bubbles: true }))",
+        "ojComponent.setProperty('value', val) or ko.dataFor(el).value(val)"
+      ],
+      "playwright_best_practice": "page.locator('oj-input-text input').fill(val) + page.keyboard.press('Tab')",
+      "critical_trap": "Oracle JET oj-select-one and oj-combobox require waiting for .oj-listbox-drop to attach before selecting."
+    },
+    "screenshot_path": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\deep_recon\\OC-05_citco_oracle_cloud.png",
+    "errors": [],
+    "file_inputs": []
+  }
+]

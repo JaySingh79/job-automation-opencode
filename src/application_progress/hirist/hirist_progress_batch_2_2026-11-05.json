@@ -1,0 +1,243 @@
+{
+  "worker": 2,
+  "batch": 2,
+  "target_applied": 20,
+  "applied_count": 18,
+  "parked_count": 8,
+  "already_applied_count": 0,
+  "all_results": [
+    {
+      "jobId": 1680663,
+      "title": "Kuku FM - AI Engineer (2-5 yrs)",
+      "company": "Kuku FM",
+      "status": "applied",
+      "applicationId": 79293015,
+      "timestamp": "2026-11-05T18:19:34.329Z"
+    },
+    {
+      "jobId": 1681461,
+      "title": "Mobifly - AI Programmer - Large Language Model & Document Parsing (2-5 yrs)",
+      "company": "Moonshine Food Ventures",
+      "status": "applied",
+      "applicationId": 79293043,
+      "message": null,
+      "timestamp": "2026-11-05T12:50:00.910Z"
+    },
+    {
+      "jobId": 1679204,
+      "title": "Hind Industec - Full Stack AI Engineer (2-5 yrs)",
+      "company": "Hind Industec Pvt Ltd",
+      "status": "applied",
+      "applicationId": 79293046,
+      "message": null,
+      "timestamp": "2026-11-05T12:50:02.889Z"
+    },
+    {
+      "jobId": 1680386,
+      "title": "Nomiso - Generative AI Engineer (2-4 yrs)",
+      "company": "NOMISO INDIA PRIVATE LIMITED",
+      "status": "parked_assessment",
+      "applicationId": null,
+      "message": "Assessment/ screening is required to apply for this Job",
+      "timestamp": "2026-11-05T12:50:04.798Z"
+    },
+    {
+      "jobId": 1678926,
+      "title": "Conversational AI Designer/Engineer - Prompt Engineering (2-5 yrs)",
+      "company": "SUPPORTEX PRIVATE LIMITED",
+      "status": "parked_assessment",
+      "applicationId": null,
+      "message": "Assessment/ screening is required to apply for this Job",
+      "timestamp": "2026-11-05T12:50:06.667Z"
+    },
+    {
+      "jobId": 1681028,
+      "title": "Data Scientist - Python/Pandas (2-3 yrs)",
+      "company": "D Square Consulting Services",
+      "status": "parked_assessment",
+      "applicationId": null,
+      "message": "Assessment/ screening is required to apply for this Job",
+      "timestamp": "2026-11-05T12:50:08.192Z"
+    },
+    {
+      "jobId": 1682369,
+      "title": "Backend Software Engineer - Platform APIs (2-4 yrs)",
+      "company": "Laksh Consultants",
+      "status": "applied",
+      "applicationId": 79293108,
+      "message": null,
+      "timestamp": "2026-11-05T12:50:59.698Z"
+    },
+    {
+      "jobId": 1680850,
+      "title": "AI Consultant - Solution Implementation (2-5 yrs)",
+      "company": "Grizmo Labs",
+      "status": "applied",
+      "applicationId": 79293110,
+      "message": null,
+      "timestamp": "2026-11-05T12:51:01.775Z"
+    },
+    {
+      "jobId": 1680430,
+      "title": "Data Scientist - Python/Power BI (2-5 yrs)",
+      "company": "D Square Consulting Services",
+      "status": "parked_assessment",
+      "applicationId": null,
+      "message": "Assessment/ screening is required to apply for this Job",
+      "timestamp": "2026-11-05T12:51:03.834Z"
+    },
+    {
+      "jobId": 1680432,
+      "title": "Data Scientist - Forecasting & Predictive Analysis (2-5 yrs)",
+      "company": "D Square Consulting Services",
+      "status": "parked_assessment",
+      "applicationId": null,
+      "message": "Assessment/ screening is required to apply for this Job",
+      "timestamp": "2026-11-05T12:51:06.064Z"
+    },
+    {
+      "jobId": 1680438,
+      "title": "Streamlit Developer/Junior Data Scientist (2-5 yrs)",
+      "company": "D Square Consulting Services",
+      "status": "parked_assessment",
+      "applicationId": null,
+      "message": "Assessment/ screening is required to apply for this Job",
+      "timestamp": "2026-11-05T12:51:08.102Z"
+    },
+    {
+      "jobId": 1681873,
+      "title": "PHP Developer - Laravel/Symfony (2-8 yrs)",
+      "company": "The Job Sphere",
+      "status": "applied",
+      "applicationId": 79293119,
+      "message": null,
+      "timestamp": "2026-11-05T12:51:09.844Z"
+    },
+    {
+      "jobId": 1681885,
+      "title": "Zenith - ITO Service Delivery Consultant II - Python/Automation (2-5 yrs)",
+      "company": "Zenith Services Inc.",
+      "status": "applied",
+      "applicationId": 79293122,
+      "message": null,
+      "timestamp": "2026-11-05T12:51:11.367Z"
+    },
+    {
+      "jobId": 1681755,
+      "title": "LoveLocal - Product Manager (2-6 yrs)",
+      "company": "MPaani Solutions",
+      "status": "parked_assessment",
+      "applicationId": null,
+      "message": "Assessment/ screening is required to apply for this Job",
+      "timestamp": "2026-11-05T12:51:13.579Z"
+    },
+    {
+      "jobId": 1681674,
+      "title": "Backend Software Engineer - Java/Node.js - Fintech Domain (2-5 yrs)",
+      "company": "HiringBlaze",
+      "status": "applied",
+      "applicationId": 79293125,
+      "message": null,
+      "timestamp": "2026-11-05T12:51:15.144Z"
+    },
+    {
+      "jobId": 1681684,
+      "title": "Data Engineer - ETL/PySpark (2-6 yrs)",
+      "company": "Geektrust",
+      "status": "parked_assessment",
+      "applicationId": null,
+      "message": "Assessment/ screening is required to apply for this Job",
+      "timestamp": "2026-11-05T12:51:17.280Z"
+    },
+    {
+      "jobId": 1681243,
+      "title": "Backend Engineer - Golang (2-5 yrs)",
+      "company": "Consulting Pandits",
+      "status": "applied",
+      "applicationId": 79293148,
+      "message": null,
+      "timestamp": "2026-11-05T12:51:31.370Z"
+    },
+    {
+      "jobId": 1681460,
+      "title": "Mobifly - DevOps Engineer - CI/CD Pipeline (2-4 yrs)",
+      "company": "Moonshine Food Ventures",
+      "status": "applied",
+      "applicationId": 79293151,
+      "message": null,
+      "timestamp": "2026-11-05T12:51:33.531Z"
+    },
+    {
+      "jobId": 1681464,
+      "title": "Mobifly - DevOps Engineer - Cloud Infrastructure (2-4 yrs)",
+      "company": "Moonshine Food Ventures",
+      "status": "applied",
+      "applicationId": 79293156,
+      "message": null,
+      "timestamp": "2026-11-05T12:51:35.762Z"
+    },
+    {
+      "jobId": 1680823,
+      "title": "Extreme Networks - Software Quality Assurance Engineer - Automation Testing (2-4 yrs)",
+      "company": "Extreme Networks",
+      "status": "applied",
+      "applicationId": 79293159,
+      "message": null,
+      "timestamp": "2026-11-05T12:51:37.684Z"
+    },
+    {
+      "jobId": 1680445,
+      "title": "Infosys - SAS Programmer - Statistical Analysis (2-5 yrs)",
+      "company": "Infosys Limited",
+      "status": "applied",
+      "applicationId": 79293162,
+      "message": null,
+      "timestamp": "2026-11-05T12:51:39.547Z"
+    },
+    {
+      "jobId": 1680480,
+      "title": "Senior Software Engineer - Java & API Integration (2-4 yrs)",
+      "company": "Talent Leads HR Solutions",
+      "status": "applied",
+      "applicationId": 79293166,
+      "message": null,
+      "timestamp": "2026-11-05T12:51:41.561Z"
+    },
+    {
+      "jobId": 1680149,
+      "title": "Application Security Engineer (2-5 yrs)",
+      "company": "HiringBlaze",
+      "status": "applied",
+      "applicationId": 79293168,
+      "message": null,
+      "timestamp": "2026-11-05T12:51:43.161Z"
+    },
+    {
+      "jobId": 1678686,
+      "title": "LeadSquared - Product Manager I (2-4 yrs)",
+      "company": "Leadsquared",
+      "status": "applied",
+      "applicationId": 79293174,
+      "message": null,
+      "timestamp": "2026-11-05T12:51:45.140Z"
+    },
+    {
+      "jobId": 1680003,
+      "title": "DSP Software Engineer - LIDAR/FreeRTOS (2-6 yrs)",
+      "company": "IIT Hyderabad-5G Project",
+      "status": "applied",
+      "applicationId": 79293177,
+      "message": null,
+      "timestamp": "2026-11-05T12:51:47.041Z"
+    },
+    {
+      "jobId": 1679842,
+      "title": "Exotel - Member of Technical Staff II - Billing Platform (2-5 yrs)",
+      "company": "EXOTEL TECHCOM PRIVATE LIMITED",
+      "status": "applied",
+      "applicationId": 79293182,
+      "message": null,
+      "timestamp": "2026-11-05T12:51:48.593Z"
+    }
+  ]
+}

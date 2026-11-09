@@ -1,0 +1,121 @@
+[
+  {
+    "id": 1671314,
+    "title": "Software Engineer - Rust",
+    "company": "Career Click",
+    "min": 3,
+    "max": 5,
+    "exp": "3-5 yrs",
+    "location": "Pune",
+    "tags": [
+      "Rust",
+      "Svelte.js",
+      "LanceDB",
+      "API Integration",
+      "VectorDB",
+      "AI Integration"
+    ],
+    "createdTime": 1789410600000
+  },
+  {
+    "id": 1671169,
+    "title": "Process Nine Technologies - .Net Core Backend Developer",
+    "company": "PROCESS NINE TECHNOLOGIES PVT.LTD.",
+    "min": 3,
+    "max": 7,
+    "exp": "3-7 yrs",
+    "location": "Gurgaon/Gurugram",
+    "tags": [
+      ".Net",
+      ".Net Core",
+      "C#",
+      "Backend Architecture",
+      "SQL Server",
+      "RESTful API",
+      "ASP",
+      "MVC",
+      "LINQ",
+      "OOPS",
+      "JWT"
+    ],
+    "createdTime": 1789324200000
+  },
+  {
+    "id": 1671082,
+    "title": "Zoop.One - Golang Developer - Backend Technologies",
+    "company": "ZOOP",
+    "min": 3,
+    "max": 6,
+    "exp": "3-6 yrs",
+    "location": "Pune",
+    "tags": [
+      "Golang",
+      "Distributed Systems",
+      "Kafka",
+      "AWS",
+      "ElasticSearch",
+      "Cassandra",
+      "Microservices Architecture"
+    ],
+    "createdTime": 1789151400000
+  },
+  {
+    "id": 1671094,
+    "title": "Level AI - Senior Backend Engineer - Python/Django",
+    "company": "Level AI",
+    "min": 3,
+    "max": 6,
+    "exp": "3-6 yrs",
+    "location": "Noida",
+    "tags": [
+      "Python",
+      "Django",
+      "FastAPI",
+      "PostgreSQL",
+      "MongoDB",
+      "RESTful",
+      "Redis",
+      "Algorithm",
+      "Data Structure"
+    ],
+    "createdTime": 1789151400000
+  },
+  {
+    "id": 1670627,
+    "title": "DriveX - Software Engineer - Python",
+    "company": "DriveX Mobility Private Limited",
+    "min": 3,
+    "max": 5,
+    "exp": "3-5 yrs",
+    "location": "Bangalore",
+    "tags": [
+      "Python",
+      "Django",
+      "RESTful API",
+      "PostgreSQL",
+      "Javascript",
+      "Flask",
+      "FastAPI"
+    ],
+    "createdTime": 1789065000000
+  },
+  {
+    "id": 1670269,
+    "title": "Software Development Engineer II - Backend Technologies",
+    "company": "Human Touch",
+    "min": 3,
+    "max": 7,
+    "exp": "3-7 yrs",
+    "location": "Mumbai",
+    "tags": [
+      "Backend Architecture",
+      "Node.js",
+      "Javascript",
+      "TypeScript",
+      "API",
+      "System Design",
+      "Insurance Apps"
+    ],
+    "createdTime": 1788978600000
+  }
+]

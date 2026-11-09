@@ -1,0 +1,98 @@
+{
+  "collected_at": "2026-10-08T14:05:00Z",
+  "filter": "minexp=0&maxexp=3 merged with minexp=2&maxexp=3, min<=2 enforced, India only, SDE/ML/AI/DS",
+  "source": "https://www.hirist.tech/c/ai-ml-jobs?minexp=0&maxexp=3",
+  "jobs": [
+    {
+      "company": "TELUS Digital",
+      "exp": "2-4 yrs",
+      "location": "Bangalore",
+      "resume": "ML_Vision",
+      "title": "Robotics Applied AI Engineer - Python",
+      "url": "https://www.hirist.tech/j/telus-digital-robotics-applied-ai-engineer-python-1676039"
+    },
+    {
+      "company": "Unknown",
+      "exp": "2-5 yrs",
+      "location": "Bangalore",
+      "resume": "GenAI_DS",
+      "title": "Senior AI/ML Engineer LangChain LangGraph",
+      "url": "https://www.hirist.tech/j/senior-ai-ml-engineer-langchain-langgraph-1675617"
+    },
+    {
+      "company": "KreditBee",
+      "exp": "1-6 yrs",
+      "location": "Bangalore",
+      "resume": "GenAI_DS",
+      "title": "AI Platform Engineer",
+      "url": "https://www.hirist.tech/j/kreditbee-ai-platform-engineer-1677325"
+    },
+    {
+      "company": "OZI",
+      "exp": "2-5 yrs",
+      "location": "Gurgaon",
+      "resume": "GenAI_DS",
+      "screening": [
+        "expected salary 22",
+        "current salary 4",
+        "Gurgaon living No"
+      ],
+      "title": "AI/ML Engineer",
+      "url": "https://www.hirist.tech/j/ozi-ai-ml-engineer-1676496"
+    },
+    {
+      "company": "Freecharge",
+      "exp": "2-4 yrs",
+      "location": "Gurgaon",
+      "resume": "GenAI_DS",
+      "screening": [
+        "current CTC 4 LPA",
+        "expected 22 LPA",
+        "notice Immediate",
+        "relocate Yes",
+        "relevant exp 1.5yr"
+      ],
+      "title": "Senior AI/ML Engineer",
+      "url": "https://www.hirist.tech/j/freecharge-payment-technologies-senior-ai-ml-engineer-1670198"
+    },
+    {
+      "company": "Brillio",
+      "exp": "1-5 yrs",
+      "location": "Bangalore",
+      "resume": "GenAI_DS",
+      "title": "Senior AI Engineer LLM",
+      "url": "https://www.hirist.tech/j/brillio-technologies-senior-ai-engineer-llm-1670016"
+    },
+    {
+      "company": "Syook",
+      "exp": "2-5 yrs",
+      "location": "Noida",
+      "resume": "ML_Vision",
+      "screening": [
+        "exp 1.5yr CV",
+        "location Gaya willing Noida",
+        "current 4 LPA",
+        "expected 22 LPA",
+        "notice Immediate"
+      ],
+      "title": "Applied Computer Vision Engineer",
+      "url": "https://www.hirist.tech/j/syook-applied-computer-vision-engineer-1674763"
+    },
+    {
+      "company": "Setu",
+      "exp": "2-4 yrs",
+      "location": "Bangalore",
+      "resume": "GenAI_DS",
+      "title": "Data Scientist II",
+      "url": "https://www.hirist.tech/j/setu-data-scientist-ii-1674280"
+    },
+    {
+      "company": "Exotel",
+      "exp": "2-5 yrs",
+      "location": "Bangalore",
+      "resume": "GenAI_DS",
+      "title": "SDE II Voicebot",
+      "url": "https://www.hirist.tech/j/exotel-software-development-engineer-ii-voicebot-1672857"
+    }
+  ]
+}

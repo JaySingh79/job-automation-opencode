@@ -1,0 +1,21 @@
+{
+  "allow_submit": true,
+  "authority": "User granted explicit permission to auto-click Apply/Submit after fill, for the 2026-10-17 100-job fresh batch",
+  "allow_submit_yes": true,
+  "constraints": [
+    "Never invent profile data; unknown fields go QUEUED, keep going",
+    "Filters: 0-3yr inclusive (Junior/Associate/Graduate/Trainee/Intern/Entry), skip Senior/4yr+; India hubs + India-remote + APAC/worldwide-remote India-eligible; role scope any tech-stack Backend + Full-stack + AI/ML + Data; EXCLUDE frontend-major roles",
+    "Include intern roles",
+    "One tab per job, work one tab at a time, close tab after submit",
+    "Resume variant per JD: GenAI_DS / ML_Vision / ML_Vision_RL",
+    "Stop after 3 failures per job; log and move to next"
+  ],
+  "date_granted": "2026-10-17",
+  "granted_via": "chat 2026-10-17: 'Auto-submit allowed' for 100-batch (option chosen), 0-3 years cap confirmed, role scope Backend/Full-stack/AI-ML/Data (frontend excluded), interns included",
+  "scope": [
+    "https://boards.greenhouse.io/* Apply/Submit buttons only",
+    "https://job-boards.greenhouse.io/* Apply/Submit buttons only",
+    "https://jobs.lever.co/* Apply/Submit buttons only",
+    "https://*.ashbyhq.com/* Apply/Submit buttons only"
+  ]
+}

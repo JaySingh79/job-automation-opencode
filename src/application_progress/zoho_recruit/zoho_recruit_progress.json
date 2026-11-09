@@ -1,0 +1,153 @@
+{
+  "platform": "zoho_recruit",
+  "last_updated": "2026-10-28T15:13:00.000Z",
+  "total_jobs": 8,
+  "summary": {
+    "total": 8,
+    "staged_ready_for_human_submission": 5,
+    "skipped_closed": 2,
+    "skipped_dead_portal": 1
+  },
+  "jobs": [
+    {
+      "job_id": "060426501738",
+      "company": "Synaptica Tech",
+      "title": "Graduate Trainee Engineer",
+      "url": "https://synapticatech.zohorecruit.in/jobs/careers/183438000003076224",
+      "status": "skipped_closed",
+      "reason": "Position closed: Page displays 'No longer accepting applications'."
+    },
+    {
+      "job_id": "060426501724",
+      "company": "Synaptica Tech",
+      "title": "Software Developer-Fresher",
+      "url": "https://synapticatech.zohorecruit.in/jobs/careers/183438000001813685",
+      "status": "skipped_closed",
+      "reason": "Position closed: Page displays 'No longer accepting applications'."
+    },
+    {
+      "job_id": "200226505610",
+      "company": "Futureacad",
+      "title": "AI Product Developer - Intern",
+      "url": "https://futureacad.zohorecruit.in/jobs/Careers/179505000001734372",
+      "status": "staged_ready_for_human_submission",
+      "tab_index": 0,
+      "resume_uploaded": "Jay Resume GenAI+DS 5th Aug.pdf",
+      "fields_completed": [
+        "First Name",
+        "Last Name",
+        "Email",
+        "Mobile",
+        "Highest Qualification",
+        "College Name",
+        "Branch of Study",
+        "Year of Graduation",
+        "Country",
+        "State",
+        "City",
+        "Zip/Postal Code",
+        "Address",
+        "Resume Attachment"
+      ]
+    },
+    {
+      "job_id": "261026504826",
+      "company": "Training Basket",
+      "title": "Agentic AI Engineer",
+      "url": "https://trainingbasket.zohorecruit.com/jobs/Careers/460790000042774097",
+      "status": "skipped_dead_portal",
+      "reason": "Tenant inactive / dead: 'trainingbasket.zohorecruit.in does not exist' error."
+    },
+    {
+      "job_id": "231122500033",
+      "company": "Akaike Technologies",
+      "title": "Data Scientist (Sr. Data Scientist)",
+      "url": "https://akaiketech.zohorecruit.in/jobs/Careers/46717000001300512/Sr-Data-Scientist?source=CareerSite",
+      "status": "staged_ready_for_human_submission",
+      "tab_index": 1,
+      "resume_uploaded": "Jay Resume GenAI+DS 5th Aug.pdf",
+      "fields_completed": [
+        "First Name",
+        "Last Name",
+        "Email",
+        "Mobile",
+        "Current Job Title",
+        "Current Employer",
+        "Experience in Years",
+        "Current Salary",
+        "Expected Salary",
+        "Highest Qualification Held",
+        "City",
+        "LinkedIn",
+        "Resume Attachment"
+      ],
+      "note": "Image captcha displayed on final submit step; awaiting human review and submission."
+    },
+    {
+      "job_id": "200226505622",
+      "company": "Futureacad",
+      "title": "Web Development with Gen AI - Intern",
+      "url": "https://futureacad.zohorecruit.in/jobs/Careers/179505000001734205",
+      "status": "staged_ready_for_human_submission",
+      "tab_index": 2,
+      "resume_uploaded": "Jay Resume GenAI+DS 5th Aug.pdf",
+      "fields_completed": [
+        "First Name",
+        "Last Name",
+        "Email",
+        "Mobile",
+        "Highest Qualification",
+        "College Name",
+        "Branch of Study",
+        "Year of Graduation",
+        "Country",
+        "State",
+        "City",
+        "Zip/Postal Code",
+        "Address",
+        "Resume Attachment"
+      ]
+    },
+    {
+      "job_id": "120526502352",
+      "company": "Galaxeye Space",
+      "title": "AI Researcher",
+      "url": "https://galaxeye-pranitgalaxeyespace.zohorecruit.in/jobs/Careers/214465000000581913",
+      "status": "staged_ready_for_human_submission",
+      "tab_index": 3,
+      "resume_uploaded": "Jay Resume GenAI+DS 5th Aug.pdf",
+      "fields_completed": [
+        "First Name",
+        "Last Name",
+        "Email",
+        "Mobile",
+        "Street",
+        "City",
+        "State",
+        "Zip Code",
+        "Country",
+        "Current Job Title",
+        "LinkedIn",
+        "Resume Attachment"
+      ],
+      "note": "Captcha displayed on final submit step; awaiting human review and submission."
+    },
+    {
+      "job_id": "010926504122",
+      "company": "HealthMinds",
+      "title": "IT Engineer",
+      "url": "https://healthminds.zohorecruit.in/jobs/Careers/181671000003457957",
+      "status": "staged_ready_for_human_submission",
+      "tab_index": 4,
+      "resume_uploaded": "Jay Resume GenAI+DS 5th Aug.pdf",
+      "fields_completed": [
+        "First Name",
+        "Last Name",
+        "Email",
+        "Mobile",
+        "LinkedIn",
+        "Resume Attachment"
+      ]
+    }
+  ]
+}

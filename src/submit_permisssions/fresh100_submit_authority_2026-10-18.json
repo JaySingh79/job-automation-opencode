@@ -1,0 +1,18 @@
+{
+  "allow_submit": true,
+  "authority": "User granted explicit permission in chat (2026-10-18) for rapid autonomous fill and submit across 100 new Ashby, Lever, and Greenhouse jobs",
+  "allow_submit_yes": true,
+  "date_granted": "2026-10-18",
+  "constraints": [
+    "Profile-backed answers only (18mo YoE, immediate notice, India auth, 22-26 LPA)",
+    "0-3 years experience (Fresher/Junior/Associate/Entry), no Senior/Staff/Lead",
+    "One tab per job, sequential execution, close tab immediately after submit",
+    "Resume variant mapped to JD: GenAI_DS / ML_Vision / ML_Vision_RL"
+  ],
+  "scope": [
+    "https://*.ashbyhq.com/* Apply/Submit buttons",
+    "https://jobs.lever.co/* Apply/Submit buttons",
+    "https://job-boards.greenhouse.io/* Apply/Submit buttons",
+    "https://boards.greenhouse.io/* Apply/Submit buttons"
+  ]
+}

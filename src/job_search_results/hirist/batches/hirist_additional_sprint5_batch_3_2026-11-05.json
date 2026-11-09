@@ -1,0 +1,348 @@
+{
+  "worker": 3,
+  "sprint": 5,
+  "target_applied": 12,
+  "total_jobs": 17,
+  "jobs": [
+    {
+      "id": 1648811,
+      "title": "Data Scientist - Python",
+      "company": "Aspyra HR Services ",
+      "min": 3,
+      "max": 10,
+      "exp": "3-10 yrs",
+      "location": "Gurgaon/Gurugram | Bangalore | Pune",
+      "tags": [
+        "Data Science",
+        "Data Scientist",
+        "Python",
+        "Machine Learning",
+        "Predictive Modeling"
+      ],
+      "createdTime": 1782412200000
+    },
+    {
+      "id": 1645611,
+      "title": "Unico Connect - Senior AI Engineer - LangGraph/LangChain",
+      "company": "Unico Connect",
+      "min": 3,
+      "max": 7,
+      "exp": "3-7 yrs",
+      "location": "Mumbai",
+      "tags": [
+        "Python",
+        "Artificial Intelligence",
+        "LLM",
+        "Generative AI",
+        "LangGraph",
+        "LangChain",
+        "Prompt Engineering"
+      ],
+      "createdTime": 1781634600000
+    },
+    {
+      "id": 1644393,
+      "title": "Machine Learning Engineer - PySpark/Python",
+      "company": "Gloify",
+      "min": 3,
+      "max": 4,
+      "exp": "3-4 yrs",
+      "location": "Remote | Anywhere in India/Multiple Locations",
+      "tags": [
+        "Machine Learning",
+        "PySpark",
+        "Python",
+        "Statistical Modeling",
+        "Azure Databricks",
+        "Artificial Intelligence"
+      ],
+      "createdTime": 1781202600000
+    },
+    {
+      "id": 1643320,
+      "title": "Data Scientist - Machine Learning/Python",
+      "company": "EXPEDITE HIRE",
+      "min": 3,
+      "max": 6,
+      "exp": "3-6 yrs",
+      "location": "Mumbai",
+      "tags": [
+        "Data Science",
+        "Data Scientist",
+        "Machine Learning",
+        "Python",
+        "NLP",
+        "Artificial Intelligence",
+        "PyTorch",
+        "Tensorflow"
+      ],
+      "createdTime": 1781029800000
+    },
+    {
+      "id": 1682426,
+      "title": "Haptik - L2 Backend Engineer - Voice/Agentic AI",
+      "company": "Haptik",
+      "min": 3,
+      "max": 6,
+      "exp": "3-6 yrs",
+      "location": "Mumbai",
+      "tags": [
+        "Agentic AI",
+        "Generative AI",
+        "Conversational AI",
+        "Python",
+        "WebRTC",
+        "Distributed Systems",
+        "Microservices Architecture",
+        "REST API",
+        "Cloud Computing"
+      ],
+      "createdTime": 1793817000000
+    },
+    {
+      "id": 1682441,
+      "title": "Backend Software Development Engineer II",
+      "company": "Incanus Technologies",
+      "min": 3,
+      "max": 8,
+      "exp": "3-8 yrs",
+      "location": "Remote",
+      "tags": [
+        "Java",
+        "Python",
+        "MySQL",
+        "PostgreSQL",
+        "RESTful API",
+        "Microservices Architecture",
+        "MongoDB",
+        "Node.js",
+        "Redis",
+        "Backend Architecture"
+      ],
+      "createdTime": 1793817000000
+    },
+    {
+      "id": 1680735,
+      "title": "Trendlyne - Backend Engineer - Python",
+      "company": "Giskard Datatech",
+      "min": 3,
+      "max": 6,
+      "exp": "3-6 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "Python",
+        "Django",
+        "Flask",
+        "FastAPI",
+        "PostgreSQL",
+        "MySQL",
+        "Redis"
+      ],
+      "createdTime": 1793125800000
+    },
+    {
+      "id": 1680736,
+      "title": "Trendlyne - Backend Engineer - Python",
+      "company": "Giskard Datatech",
+      "min": 3,
+      "max": 6,
+      "exp": "3-6 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "Python",
+        "Django",
+        "Flask",
+        "FastAPI",
+        "PostgreSQL",
+        "RESTful API",
+        "Backend Architecture"
+      ],
+      "createdTime": 1793125800000
+    },
+    {
+      "id": 1678320,
+      "title": "Medi Assist - .Net Developer - C#",
+      "company": "Medibuddy",
+      "min": 3,
+      "max": 5,
+      "exp": "3-5 yrs",
+      "location": "Bangalore",
+      "tags": [
+        ".Net Core",
+        "C#",
+        ".Net",
+        "Javascript",
+        "ASP",
+        "LINQ",
+        "Entity Framework",
+        "REST API",
+        "SQL Server"
+      ],
+      "createdTime": 1791916200000
+    },
+    {
+      "id": 1678285,
+      "title": "Medi Assist - Senior Backend Developer - .Net Core",
+      "company": "Medibuddy",
+      "min": 3,
+      "max": 7,
+      "exp": "3-7 yrs",
+      "location": "Remote | Anywhere in India/Multiple Locations",
+      "tags": [
+        "C#",
+        ".Net",
+        "RESTful API",
+        "SQL Server",
+        "Entity Framework",
+        "LINQ",
+        "ASP",
+        "WebAPI",
+        "MVC"
+      ],
+      "createdTime": 1791916200000
+    },
+    {
+      "id": 1682328,
+      "title": "iRage - Go Language Developer - Algorithmic Trading",
+      "company": "Irage Broking Services",
+      "min": 3,
+      "max": 5,
+      "exp": "3-5 yrs",
+      "location": "Mumbai",
+      "tags": [
+        "Trading Systems",
+        "RESTful API",
+        "Microservices Architecture",
+        "Golang",
+        "Backend Architecture",
+        "Concurrency Patterns",
+        "Algorithmic Trading",
+        "AWS"
+      ],
+      "createdTime": 1793817000000
+    },
+    {
+      "id": 1682160,
+      "title": "Senior Software Engineer - .Net",
+      "company": "Spectraforce Technologies",
+      "min": 3,
+      "max": 6,
+      "exp": "3-6 yrs",
+      "location": "Hyderabad",
+      "tags": [
+        ".Net",
+        "C#",
+        "System Design",
+        "SQL Server",
+        "RESTful Webservices",
+        "Data Structure",
+        "Microservices Architecture",
+        "Cloud Services",
+        ".Net Core"
+      ],
+      "createdTime": 1793730600000
+    },
+    {
+      "id": 1681824,
+      "title": "TrueFan AI - Software Development Engineer II - Python Frameworks",
+      "company": "TrueFan",
+      "min": 3,
+      "max": 5,
+      "exp": "3-5 yrs",
+      "location": "Gurgaon/Gurugram",
+      "tags": [
+        "Python",
+        "Cloud Cost Optimization",
+        "Celery",
+        "RabbitMQ",
+        "AWS",
+        "Redis",
+        "MySQL",
+        "Prometheus",
+        "Grafana"
+      ],
+      "createdTime": 1793557800000
+    },
+    {
+      "id": 1679657,
+      "title": "Accion Labs - Senior .Net Developer - Microservices Architecture",
+      "company": "Accion Labs",
+      "min": 3,
+      "max": 8,
+      "exp": "3-8 yrs",
+      "location": "Bangalore",
+      "tags": [
+        ".Net",
+        "C#",
+        "MVC",
+        "Backend Architecture",
+        "Server Side Component",
+        "Microservices Architecture",
+        "SQL Server",
+        "RESTful API",
+        "Entity Framework"
+      ],
+      "createdTime": 1792607400000
+    },
+    {
+      "id": 1682416,
+      "title": "Software Developer - PHP/Laravel",
+      "company": "Caprion",
+      "min": 3,
+      "max": 7,
+      "exp": "3-7 yrs",
+      "location": "Mumbai",
+      "tags": [
+        "Full Stack",
+        "PHP",
+        "Laravel",
+        "MySQL",
+        "RESTful API",
+        "OOPS",
+        "Loan Origination System",
+        "Loan Maintenance System"
+      ],
+      "createdTime": 1793817000000
+    },
+    {
+      "id": 1682373,
+      "title": "Software Development Engineer II - Backend Architecture",
+      "company": "HiringBlaze",
+      "min": 3,
+      "max": 5,
+      "exp": "3-5 yrs",
+      "location": "Bangalore | Hyderabad | Gurgaon/Gurugram",
+      "tags": [
+        "Backend Architecture",
+        "Microservices Architecture",
+        "Python",
+        "FastAPI",
+        "TypeScript",
+        "AWS",
+        "Data Structure",
+        "Algorithm"
+      ],
+      "createdTime": 1793817000000
+    },
+    {
+      "id": 1682376,
+      "title": "Software Development Engineer II - Python",
+      "company": "HiringBlaze",
+      "min": 3,
+      "max": 6,
+      "exp": "3-6 yrs",
+      "location": "Hyderabad | Bangalore",
+      "tags": [
+        "Python",
+        "Django",
+        "FastAPI",
+        "Microservices Architecture",
+        "AWS",
+        "Cloud",
+        "SQL",
+        "PostgreSQL"
+      ],
+      "createdTime": 1793817000000
+    }
+  ]
+}

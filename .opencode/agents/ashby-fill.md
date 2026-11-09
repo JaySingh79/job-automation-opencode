@@ -45,11 +45,10 @@ orchestrator's context window.
    dates, salary, visa status, or skills. Unknown required value → QUEUED, keep going; use the
    question tool ONLY when the missing value blocks all further progress (questions
    route to the user's live session), otherwise never interrupt.
-4. NEVER click Submit / Apply / Send / Finish. Stop on the terminal review step and report
-   `READY FOR HUMAN SUBMISSION`. Pause (don't stop) for logins, OTPs, CAPTCHAs.
-5. On finish: append the result to `ats_progress.json` (applied / blocked / skipped-with-reason),
-   add the link to `job_links.json`, and fold any new Ashby observation into
-   `ats/ashby/observation_importance.md` (create the folder if absent).
-6. Return a DISTILLED payload only — never raw snapshots or dumps:
+4. SUBMIT PROTOCOL: Check for user-granted submit authority in `src/submit_permisssions/*_submit_authority.json`. If present and valid for the posting, click Submit Application and verify server-side confirmation (`.../application` or `/submitted` with heading `Success`). If no authority file exists, stop on the review step and report `READY FOR HUMAN SUBMISSION`. Pause (don't stop) for logins, OTPs, CAPTCHAs.
+5. ASHBY INTERACTION RULES: Check for initial 'Apply' toggle button to mount the form. Location is a combobox (`Start typing`): click, type 'India', wait 500ms, and press Enter. Trigger React synthetic events (`input`/`change`/`blur`) or use Playwright native fill.
+6. On finish: append the result to `src/application_progress/ashby_lever_greenhouse/ats_progress.json` (applied / blocked / skipped-with-reason), add the link to `job_links.json`, append verified submissions to `src/applied/jobs_applied.json`, and close the tab immediately.
+7. Return a DISTILLED payload only — never raw snapshots or dumps:
    `RECON (counts) → PLAN (field|action|source table) → FILL → VERIFY (pass/fail)`,
-   plus filled/queued counts, the exact review-page state, and what the human must do next.
+   plus filled/queued counts, confirmation evidence, and human next action.
+

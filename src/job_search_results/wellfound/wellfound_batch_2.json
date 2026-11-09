@@ -1,0 +1,108 @@
+{
+  "batch_name": "wellfound_batch_2.json",
+  "count": 17,
+  "jobs": [
+    {
+      "id": "3629487-urgent-hiring-genai-engineer-2-years-of-experience-immediate-15-days-preferred",
+      "title": "Urgent Hiring Genai Engineer 2 Years Of Experience Immediate 15 Days Preferred",
+      "url": "https://wellfound.com/jobs/3629487-urgent-hiring-genai-engineer-2-years-of-experience-immediate-15-days-preferred",
+      "status": "pending"
+    },
+    {
+      "id": "4697938-python-developer-internship",
+      "title": "Python Developer Internship",
+      "url": "https://wellfound.com/jobs/4697938-python-developer-internship",
+      "status": "pending"
+    },
+    {
+      "id": "4246041-ai-ml-engineer",
+      "title": "Ai Ml Engineer",
+      "url": "https://wellfound.com/jobs/4246041-ai-ml-engineer",
+      "status": "pending"
+    },
+    {
+      "id": "4522702-mlops-engineer",
+      "title": "Mlops Engineer",
+      "url": "https://wellfound.com/jobs/4522702-mlops-engineer",
+      "status": "pending"
+    },
+    {
+      "id": "2859940-nlp-engineer",
+      "title": "Nlp Engineer",
+      "url": "https://wellfound.com/jobs/2859940-nlp-engineer",
+      "status": "pending"
+    },
+    {
+      "id": "3309567-python-developer",
+      "title": "Python Developer",
+      "url": "https://wellfound.com/jobs/3309567-python-developer",
+      "status": "pending"
+    },
+    {
+      "id": "4234006-python-developer-ai-geek",
+      "title": "Python Developer Ai Geek",
+      "url": "https://wellfound.com/jobs/4234006-python-developer-ai-geek",
+      "status": "pending"
+    },
+    {
+      "id": "4780401-data-scientist",
+      "title": "Data Scientist",
+      "url": "https://wellfound.com/jobs/4780401-data-scientist",
+      "status": "pending"
+    },
+    {
+      "id": "3497707-junior-data-engineer-intelligence",
+      "title": "Junior Data Engineer Intelligence",
+      "url": "https://wellfound.com/jobs/3497707-junior-data-engineer-intelligence",
+      "status": "pending"
+    },
+    {
+      "id": "3264404-mlops-engineer-platform",
+      "title": "Mlops Engineer Platform",
+      "url": "https://wellfound.com/jobs/3264404-mlops-engineer-platform",
+      "status": "pending"
+    },
+    {
+      "id": "4760754-mlops-engineer",
+      "title": "Mlops Engineer",
+      "url": "https://wellfound.com/jobs/4760754-mlops-engineer",
+      "status": "pending"
+    },
+    {
+      "id": "4574415-founding-engineer-ai-agent-security-governance-platform",
+      "title": "Founding Engineer Ai Agent Security Governance Platform",
+      "url": "https://wellfound.com/jobs/4574415-founding-engineer-ai-agent-security-governance-platform",
+      "status": "pending"
+    },
+    {
+      "id": "4627341-full-stack-developer-intern",
+      "title": "Full Stack Developer Intern",
+      "url": "https://wellfound.com/jobs/4627341-full-stack-developer-intern",
+      "status": "pending"
+    },
+    {
+      "id": "4201717-full-stack-engineering-intern",
+      "title": "Full Stack Engineering Intern",
+      "url": "https://wellfound.com/jobs/4201717-full-stack-engineering-intern",
+      "status": "pending"
+    },
+    {
+      "id": "4403125-full-stack-intern",
+      "title": "Full Stack Intern",
+      "url": "https://wellfound.com/jobs/4403125-full-stack-intern",
+      "status": "pending"
+    },
+    {
+      "id": "4571314-ai-engineer-intern",
+      "title": "Ai Engineer Intern",
+      "url": "https://wellfound.com/jobs/4571314-ai-engineer-intern",
+      "status": "pending"
+    },
+    {
+      "id": "4546042-python-developer-intern-web-scraping-data-engineering",
+      "title": "Python Developer Intern Web Scraping Data Engineering",
+      "url": "https://wellfound.com/jobs/4546042-python-developer-intern-web-scraping-data-engineering",
+      "status": "pending"
+    }
+  ]
+}

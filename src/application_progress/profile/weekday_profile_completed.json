@@ -1,0 +1,49 @@
+{
+  "platform": "Weekday",
+  "url": "https://jobs.weekday.works/profile",
+  "candidate": "Jay Singh",
+  "email": "jays.iitkgp@gmail.com",
+  "completed_at": "2026-10-29T12:49:15+05:30",
+  "completion_status": "100%",
+  "fields_completed": "15 of 15 fields complete",
+  "fields_summary": {
+    "identity": {
+      "first_name": "Jay",
+      "last_name": "Singh",
+      "email": "jays.iitkgp@gmail.com",
+      "phone": "+91 86512 74328",
+      "region": "India"
+    },
+    "compensation": {
+      "currency": "INR",
+      "fixed_lpa": "18",
+      "variable_bonus_lpa": "0",
+      "stocks_vesting_lpa": "0",
+      "expected_cash_lpa": "22"
+    },
+    "job_status": {
+      "currently": "Actively looking out",
+      "notice_period": "Immediate joining"
+    },
+    "skills_and_experience": {
+      "total_experience_years": "1.5",
+      "skills_count": 16,
+      "skills": [
+        "Python", "Machine Learning", "Deep Learning", "PyTorch", "Generative AI",
+        "Fastapi", "Langchain", "Docker", "Computer Vision", "SQL", "Agentic AI",
+        "Data Science", "Natural Language Processing", "Scikit-learn", "Git", "Pandas"
+      ],
+      "desired_locations_count": 10,
+      "desired_locations": [
+        "Bengaluru", "Bangalore", "Remote", "Hyderabad", "Pune",
+        "Gurgaon", "Gurugram", "Delhi NCR", "Noida", "Mumbai"
+      ]
+    },
+    "preferences": {
+      "feature_in_newsletter": true,
+      "open_to_giving_referrals": true,
+      "hide_from_current_employer": true
+    },
+    "resume": "Uploaded"
+  }
+}

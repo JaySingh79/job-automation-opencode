@@ -1,0 +1,1264 @@
+{
+  "worker": 5,
+  "target_applied": 40,
+  "total_candidates": 62,
+  "jobs": [
+    {
+      "id": 1677800,
+      "title": "Machine Learning Engineer - Python",
+      "company": "Axnode Immigration",
+      "min": 3,
+      "max": 12,
+      "exp": "3-12 yrs",
+      "location": "Anywhere in India/Multiple Locations | Overseas/International",
+      "tags": [
+        "Deep Learning",
+        "Python",
+        "Tensorflow",
+        "Data Science",
+        "Data Scientist",
+        "Java",
+        "Pandas",
+        "Numpy"
+      ],
+      "createdTime": 1791570600000
+    },
+    {
+      "id": 1677759,
+      "title": "Generative AI Engineer - LLM/RAG",
+      "company": "NovoTree Minds Consulting",
+      "min": 3,
+      "max": 6,
+      "exp": "3-6 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "Data Science",
+        "Data Scientist",
+        "Generative AI",
+        "Artificial Intelligence",
+        "Machine Learning",
+        "LLM"
+      ],
+      "createdTime": 1791484200000
+    },
+    {
+      "id": 1677556,
+      "title": "AI Engineer - Generative AI",
+      "company": "Big Ideas Social Media Recruitment",
+      "min": 3,
+      "max": 5,
+      "exp": "3-5 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "Generative AI",
+        "Python",
+        "LLM",
+        "LangChain",
+        "RAG",
+        "Cloud",
+        "Artificial Intelligence",
+        "Prompt Engineering",
+        "VectorDB",
+        "Agentic AI"
+      ],
+      "createdTime": 1791484200000
+    },
+    {
+      "id": 1677006,
+      "title": "Computer Vision AI Developer",
+      "company": "Sahana System Limited",
+      "min": 3,
+      "max": 6,
+      "exp": "3-6 yrs",
+      "location": "Ahmedabad | Gandhinagar | Rajasthan | Anywhere in India/Multiple Locations",
+      "tags": [
+        "Machine Learning",
+        "Computer Vision",
+        "Python",
+        "Deep Learning",
+        "OpenCV",
+        "Artificial Intelligence",
+        "Image Recognition",
+        "C++"
+      ],
+      "createdTime": 1791225000000
+    },
+    {
+      "id": 1675795,
+      "title": "Exponentia.ai - Machine Learning Engineer - MLOps",
+      "company": "Exponentia.ai",
+      "min": 3,
+      "max": 5,
+      "exp": "3-5 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "Python",
+        "AWS",
+        "MLOps",
+        "Machine Learning",
+        "CI/CD Pipeline",
+        "AWS SageMaker",
+        "Monitoring Tools",
+        "PyTorch",
+        "Tensorflow"
+      ],
+      "createdTime": 1790706600000
+    },
+    {
+      "id": 1675794,
+      "title": "Exponentia.ai - Data Scientist - Customer Analytics",
+      "company": "Exponentia.ai",
+      "min": 3,
+      "max": 5,
+      "exp": "3-5 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "Data Science",
+        "Python",
+        "Machine Learning",
+        "SQL",
+        "AWS",
+        "Data Scientist",
+        "Artificial Intelligence"
+      ],
+      "createdTime": 1790706600000
+    },
+    {
+      "id": 1673252,
+      "title": "Morningstar - Data Scientist - Artificial Intelligence/Machine Learning",
+      "company": "Morningstar",
+      "min": 3,
+      "max": 5,
+      "exp": "3-5 yrs",
+      "location": "Navi Mumbai | Mumbai | Thane | Maharashtra",
+      "tags": [
+        "Data Science",
+        "Python",
+        "Machine Learning",
+        "NLP",
+        "SQL",
+        "PyTorch",
+        "Tensorflow",
+        "LangChain",
+        "Generative AI",
+        "RAG"
+      ],
+      "createdTime": 1789929000000
+    },
+    {
+      "id": 1671837,
+      "title": "Pixelvide - Artificial Intelligence Engineer - Agentic AI",
+      "company": "Pixelvide",
+      "min": 3,
+      "max": 6,
+      "exp": "3-6 yrs",
+      "location": "Hyderabad",
+      "tags": [
+        "PostgreSQL",
+        "LangGraph",
+        "Agentic AI",
+        "Artificial Intelligence",
+        "LangChain",
+        "LLM",
+        "Observability Services"
+      ],
+      "createdTime": 1789497000000
+    },
+    {
+      "id": 1671445,
+      "title": "SatSure - Machine Learning Researcher - Deep Learning Models",
+      "company": "SatSure",
+      "min": 3,
+      "max": 6,
+      "exp": "3-6 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "Machine Learning",
+        "Deep Learning",
+        "Artificial Intelligence",
+        "Data Science",
+        "Algorithm",
+        "IT Research",
+        "PyTorch",
+        "Tensorflow",
+        "Python"
+      ],
+      "createdTime": 1789410600000
+    },
+    {
+      "id": 1670628,
+      "title": "Senior AI/ML Engineer - LLM/Python",
+      "company": "AB INFOTECH",
+      "min": 3,
+      "max": 7,
+      "exp": "3-7 yrs",
+      "location": "Hyderabad | Indore | Ahmedabad",
+      "tags": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "LLM",
+        "Python",
+        "RAG",
+        "AWS",
+        "SQL",
+        "Tensorflow",
+        "LangChain",
+        "LangGraph",
+        "NLP"
+      ],
+      "createdTime": 1789065000000
+    },
+    {
+      "id": 1665637,
+      "title": "AI Engineer II",
+      "company": "Ensemble Health Partners",
+      "min": 3,
+      "max": 6,
+      "exp": "3-6 yrs",
+      "location": "Hyderabad",
+      "tags": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "MLOps",
+        "LLM",
+        "OpenAI",
+        "Python",
+        "SQL",
+        "PySpark"
+      ],
+      "createdTime": 1787509800000
+    },
+    {
+      "id": 1669577,
+      "title": "Junior Machine Learning Engineer - Azure AI Foundry",
+      "company": "ibotix",
+      "min": 3,
+      "max": 5,
+      "exp": "3-5 yrs",
+      "location": "Mumbai",
+      "tags": [
+        "Machine Learning",
+        "Python",
+        "Azure",
+        "MLOps",
+        "Generative AI",
+        "Azure Foundry",
+        "LLM",
+        "RAG",
+        "OpenAI",
+        "Data Science"
+      ],
+      "createdTime": 1788805800000
+    },
+    {
+      "id": 1666912,
+      "title": "Lyric - Software Engineer - Artificial Intelligence",
+      "company": "Lyric - Clarity in motion",
+      "min": 3,
+      "max": 5,
+      "exp": "3-5 yrs",
+      "location": "Hyderabad",
+      "tags": [
+        "Machine Learning",
+        "Artificial Intelligence",
+        "Python",
+        "Kubernetes",
+        "RAG",
+        "LLM"
+      ],
+      "createdTime": 1787941800000
+    },
+    {
+      "id": 1666588,
+      "title": "AI/ML Engineer - Pharma Domain",
+      "company": "DILIGENTMINDS CONSULTING",
+      "min": 3,
+      "max": 6,
+      "exp": "3-6 yrs",
+      "location": "Delhi NCR | Bangalore",
+      "tags": [
+        "Machine Learning",
+        "Generative AI",
+        "Data Science",
+        "Python",
+        "Artificial Intelligence",
+        "LLM",
+        "Deep Learning",
+        "RAG"
+      ],
+      "createdTime": 1787769000000
+    },
+    {
+      "id": 1664136,
+      "title": "Lead Applied AI/LLM Engineer",
+      "company": "AKS INTELLIGENT SYSTEMS LLP ",
+      "min": 3,
+      "max": 7,
+      "exp": "3-7 yrs",
+      "location": "Gurgaon/Gurugram",
+      "tags": [
+        "Artificial Intelligence",
+        "LLM",
+        "RAG",
+        "Agentic AI",
+        "AI Integration",
+        "Python",
+        "PyTorch",
+        "Machine Learning",
+        "Deep Learning",
+        "Data Science"
+      ],
+      "createdTime": 1786991400000
+    },
+    {
+      "id": 1677204,
+      "title": "Eucloid - Data Scientist - Machine Learning",
+      "company": "Eucloid Data Solutions",
+      "min": 3,
+      "max": 5,
+      "exp": "3-5 yrs",
+      "location": "Gurgaon/Gurugram | Chennai",
+      "tags": [
+        "Data Science",
+        "Data Scientist",
+        "SQL",
+        "Machine Learning",
+        "Statistical Modeling",
+        "Regression Modeling",
+        "Tensorflow",
+        "Data Visualization Tools"
+      ],
+      "createdTime": 1791311400000
+    },
+    {
+      "id": 1677054,
+      "title": "Associate Data Scientist - Machine Learning",
+      "company": "Yo Hr Consultancy",
+      "min": 3,
+      "max": 5,
+      "exp": "3-5 yrs",
+      "location": "Mumbai | Surat | Gujarat",
+      "tags": [
+        "Data Science",
+        "Data Scientist",
+        "R",
+        "SQL",
+        "Python",
+        "Machine Learning",
+        "Predictive Modeling",
+        "Statistical Modeling",
+        "Generative AI"
+      ],
+      "createdTime": 1791311400000
+    },
+    {
+      "id": 1676771,
+      "title": "Associate Data Scientist - R/Python/SQL",
+      "company": "Career Click",
+      "min": 3,
+      "max": 5,
+      "exp": "3-5 yrs",
+      "location": "Mumbai | Surat | Gujarat",
+      "tags": [
+        "Data Science",
+        "Python",
+        "R",
+        "SQL",
+        "Machine Learning",
+        "Data Visualization",
+        "Predictive Analytics",
+        "Data Scientist",
+        "Artificial Intelligence"
+      ],
+      "createdTime": 1791225000000
+    },
+    {
+      "id": 1676241,
+      "title": "Data Scientist - Pharma Domain",
+      "company": "Success Jobs Organization",
+      "min": 3,
+      "max": 5,
+      "exp": "3-5 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "Data Scientist",
+        "Python",
+        "Machine Learning",
+        "R",
+        "Data Science",
+        "Deep Learning"
+      ],
+      "createdTime": 1790793000000
+    },
+    {
+      "id": 1675545,
+      "title": "Machine Learning Engineer",
+      "company": "Hula Global",
+      "min": 3,
+      "max": 6,
+      "exp": "3-6 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "Machine Learning",
+        "LLM",
+        "Tensorflow"
+      ],
+      "createdTime": 1790620200000
+    },
+    {
+      "id": 1675334,
+      "title": "Auxo AI - Senior Applied AI Engineer - AI Agents",
+      "company": "AuxoAI",
+      "min": 3,
+      "max": 8,
+      "exp": "3-8 yrs",
+      "location": "Bangalore | Hyderabad | Mumbai | Gurgaon/Gurugram",
+      "tags": [
+        "Machine Learning",
+        "Agentic AI",
+        "LLM",
+        "Python",
+        "Artificial Intelligence",
+        "Data Science",
+        "Data Scientist"
+      ],
+      "createdTime": 1790533800000
+    },
+    {
+      "id": 1674333,
+      "title": "Generative AI & Computer Vision Engineer",
+      "company": "Auriga IT Consulting Private Limited",
+      "min": 3,
+      "max": 5,
+      "exp": "3-5 yrs",
+      "location": "Anywhere in India/Multiple Locations",
+      "tags": [
+        "Python",
+        "Machine Learning",
+        "Generative AI",
+        "Computer Vision",
+        "LangChain",
+        "PyTorch",
+        "Tensorflow",
+        "AWS",
+        "Artificial Intelligence",
+        "LLama"
+      ],
+      "createdTime": 1790188200000
+    },
+    {
+      "id": 1673986,
+      "title": "RattanIndia - Artificial Intelligence/Machine Learning Engineer - Data Modeling",
+      "company": "RattanIndia Enterprises",
+      "min": 3,
+      "max": 5,
+      "exp": "3-5 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Data Modeling",
+        "Statistical Modeling",
+        "REST API",
+        "Python",
+        "Neural Networks",
+        "Computer Vision",
+        "Tensorflow",
+        "Cloud"
+      ],
+      "createdTime": 1790101800000
+    },
+    {
+      "id": 1673007,
+      "title": "BT Global - AI Engineer - RAG Pipelines",
+      "company": "BT E SERV INDIA PRIVATE LIMITED",
+      "min": 3,
+      "max": 6,
+      "exp": "3-6 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "Python",
+        "RAG",
+        "LangChain",
+        "LangGraph",
+        "FastAPI",
+        "PyTorch",
+        "PostgreSQL",
+        "Kafka",
+        "Artificial Intelligence",
+        "NLP",
+        "LORA"
+      ],
+      "createdTime": 1789929000000
+    },
+    {
+      "id": 1672627,
+      "title": "Data Scientist - AI/ML",
+      "company": "Workplace",
+      "min": 3,
+      "max": 10,
+      "exp": "3-10 yrs",
+      "location": "Anywhere in India/Multiple Locations",
+      "tags": [
+        "Data Science",
+        "Data Scientist",
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Generative AI",
+        "RAG",
+        "Agentic AI",
+        "Python",
+        "Tensorflow",
+        "PyTorch"
+      ],
+      "createdTime": 1789669800000
+    },
+    {
+      "id": 1672305,
+      "title": "Lecxe - Senior Software Development Engineer - AI Native Engineering",
+      "company": "LANEONE VENTURES ",
+      "min": 3,
+      "max": 5,
+      "exp": "3-5 yrs",
+      "location": "Gurgaon/Gurugram",
+      "tags": [
+        "System Design",
+        "FastAPI",
+        "API",
+        "Artificial Intelligence",
+        "Machine Learning",
+        "PostgreSQL"
+      ],
+      "createdTime": 1789583400000
+    },
+    {
+      "id": 1672209,
+      "title": "Solution Engineer - Artificial Intelligence/Machine Learning",
+      "company": "Employee Hub",
+      "min": 3,
+      "max": 5,
+      "exp": "3-5 yrs",
+      "location": "Gurgaon/Gurugram",
+      "tags": [
+        "Python",
+        "AWS",
+        "Machine Learning",
+        "LangChain",
+        "LangGraph",
+        "Generative AI",
+        "Java",
+        "AWS SageMaker",
+        "LLM",
+        "Artificial Intelligence"
+      ],
+      "createdTime": 1789583400000
+    },
+    {
+      "id": 1671659,
+      "title": "AI Product Manager",
+      "company": "Tekee",
+      "min": 3,
+      "max": 6,
+      "exp": "3-6 yrs",
+      "location": "Noida",
+      "tags": [
+        "Product Management",
+        "Product Roadmap",
+        "Product Strategy",
+        "AI Product Management",
+        "Agentic AI",
+        "Artificial Intelligence"
+      ],
+      "createdTime": 1789497000000
+    },
+    {
+      "id": 1671790,
+      "title": "Senior AI Engineer - LLM/Agentic AI",
+      "company": "Workplace",
+      "min": 3,
+      "max": 9,
+      "exp": "3-9 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "Artificial Intelligence",
+        "LLM",
+        "Agentic AI",
+        "LangGraph",
+        "Python",
+        "Golang",
+        "TypeScript"
+      ],
+      "createdTime": 1789497000000
+    },
+    {
+      "id": 1671354,
+      "title": "AI Full Stack Engineer - Python",
+      "company": "Swabhav Techlabs",
+      "min": 3,
+      "max": 10,
+      "exp": "3-10 yrs",
+      "location": "Mumbai | Navi Mumbai",
+      "tags": [
+        "Full Stack",
+        "Artificial Intelligence",
+        "Python",
+        "Machine Learning",
+        "IoT",
+        "Signal Processing",
+        "Telematics Systems",
+        "Edge AI"
+      ],
+      "createdTime": 1789410600000
+    },
+    {
+      "id": 1670373,
+      "title": "Accelirate - Generative AI Developer",
+      "company": "Accelirate",
+      "min": 3,
+      "max": 8,
+      "exp": "3-8 yrs",
+      "location": "Pune | Remote",
+      "tags": [
+        "Machine Learning",
+        "Python",
+        "Artificial Intelligence",
+        "Deep Learning",
+        "Data Science",
+        "LLM",
+        "LLama",
+        "RAG",
+        "PyTorch"
+      ],
+      "createdTime": 1788978600000
+    },
+    {
+      "id": 1670145,
+      "title": "Associate Lead Engineer - AI/ML",
+      "company": "Aritone Global Ventures",
+      "min": 3,
+      "max": 6,
+      "exp": "3-6 yrs",
+      "location": "Pune",
+      "tags": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Generative AI",
+        "PyTorch",
+        "Tensorflow",
+        "Data Science",
+        "NLP",
+        "Deep Learning",
+        "LLM",
+        "RAG",
+        "VectorDB"
+      ],
+      "createdTime": 1788892200000
+    },
+    {
+      "id": 1669762,
+      "title": "AI Agent Orchestration Engineer - Python",
+      "company": "The Reliable Jobs",
+      "min": 3,
+      "max": 12,
+      "exp": "3-12 yrs",
+      "location": "Remote | Anywhere in India/Multiple Locations",
+      "tags": [
+        "Agentic AI",
+        "Artificial Intelligence",
+        "Python",
+        "OpenAI",
+        "LLM",
+        "LangGraph",
+        "LangChain",
+        "FastAPI",
+        "RAG",
+        "VectorDB"
+      ],
+      "createdTime": 1788805800000
+    },
+    {
+      "id": 1669108,
+      "title": "AI Engineer",
+      "company": "JMJ Consultants",
+      "min": 3,
+      "max": 6,
+      "exp": "3-6 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "Artificial Intelligence",
+        "LLM",
+        "LangChain",
+        "Prompt Engineering",
+        "AWS",
+        "AWS SageMaker",
+        "Machine Learning"
+      ],
+      "createdTime": 1788719400000
+    },
+    {
+      "id": 1668887,
+      "title": "Techolution - Senior Conversational AI Engineer - Dialogflow CX",
+      "company": "Techolution",
+      "min": 3,
+      "max": 8,
+      "exp": "3-8 yrs",
+      "location": "Mumbai | Remote",
+      "tags": [
+        "Machine Learning",
+        "Conversational AI",
+        "Dialogflow",
+        "Python",
+        "Generative AI"
+      ],
+      "createdTime": 1788546600000
+    },
+    {
+      "id": 1668631,
+      "title": "Data Scientist - Machine Learning",
+      "company": "Skillventory",
+      "min": 3,
+      "max": 6,
+      "exp": "3-6 yrs",
+      "location": "Mumbai",
+      "tags": [
+        "Data Science",
+        "Data Scientist",
+        "Machine Learning",
+        "Statistical Modeling",
+        "SQL",
+        "Python",
+        "PySpark",
+        "Deep Learning"
+      ],
+      "createdTime": 1788460200000
+    },
+    {
+      "id": 1668362,
+      "title": "Data Scientist - Generative AI",
+      "company": "Aspyra HR Services ",
+      "min": 3,
+      "max": 8,
+      "exp": "3-8 yrs",
+      "location": "Gurgaon/Gurugram | Bangalore | Noida | Delhi",
+      "tags": [
+        "Data Science",
+        "Machine Learning",
+        "Python",
+        "SQL",
+        "RAG",
+        "LLM",
+        "Generative AI",
+        "Data Scientist",
+        "Agentic AI"
+      ],
+      "createdTime": 1788373800000
+    },
+    {
+      "id": 1668125,
+      "title": "Insurance Samadhan - Technical Lead - AI & Engineering",
+      "company": "Insurance Samadhan",
+      "min": 3,
+      "max": 5,
+      "exp": "3-5 yrs",
+      "location": "Noida",
+      "tags": [
+        "LLM",
+        "Technical Architect",
+        "Agentic AI",
+        "CI/CD Pipeline",
+        "Docker",
+        "Continuous Deployment",
+        "Monitoring Tools",
+        "Observability Services"
+      ],
+      "createdTime": 1788287400000
+    },
+    {
+      "id": 1667940,
+      "title": "Machine Learning Engineer - Medallion Architecture",
+      "company": "Recruise India Consulting",
+      "min": 3,
+      "max": 8,
+      "exp": "3-8 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "Machine Learning",
+        "Python",
+        "SQL",
+        "Algorithm",
+        "Generative AI",
+        "Data Pipeline"
+      ],
+      "createdTime": 1788287400000
+    },
+    {
+      "id": 1667598,
+      "title": "Java/AI Engineer",
+      "company": "Supersourcing",
+      "min": 3,
+      "max": 5,
+      "exp": "3-5 yrs",
+      "location": "Mumbai",
+      "tags": [
+        "Java",
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Generative AI",
+        "LLM",
+        "AI Integration",
+        "Spring Boot",
+        "NLP",
+        "Deep Learning"
+      ],
+      "createdTime": 1788201000000
+    },
+    {
+      "id": 1665823,
+      "title": "Data Scientist - Generative AI",
+      "company": "EPIQ India Support Services",
+      "min": 3,
+      "max": 5,
+      "exp": "3-5 yrs",
+      "location": "Pune",
+      "tags": [
+        "Data Science",
+        "Machine Learning",
+        "Generative AI",
+        "Python",
+        "NLP",
+        "LLM",
+        "Data Scientist",
+        "Deep Learning",
+        "PyTorch",
+        "RAG"
+      ],
+      "createdTime": 1787596200000
+    },
+    {
+      "id": 1665977,
+      "title": "Machine Learning Engineer - Document Intelligence Platform",
+      "company": "Enter",
+      "min": 3,
+      "max": 6,
+      "exp": "3-6 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "Machine Learning",
+        "Intelligent Document Processing",
+        "AI Integration",
+        "Python",
+        "MLOps",
+        "NLP",
+        "Generative AI",
+        "Image Processing"
+      ],
+      "createdTime": 1787596200000
+    },
+    {
+      "id": 1665579,
+      "title": "AI/ML Engineer - Generative AI",
+      "company": "Supersourcing",
+      "min": 3,
+      "max": 5,
+      "exp": "3-5 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "Machine Learning",
+        "Python",
+        "Generative AI",
+        "LLM",
+        "RAG",
+        "Artificial Intelligence",
+        "Agentic AI",
+        "LangChain",
+        "LangGraph"
+      ],
+      "createdTime": 1787509800000
+    },
+    {
+      "id": 1665094,
+      "title": "AI/ML Engineer - Large Language Models",
+      "company": "Terralogic Software Solutions Private Limited.",
+      "min": 3,
+      "max": 6,
+      "exp": "3-6 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "Machine Learning",
+        "Python",
+        "Kafka",
+        "Artificial Intelligence",
+        "LLM",
+        "Data Science"
+      ],
+      "createdTime": 1787250600000
+    },
+    {
+      "id": 1664594,
+      "title": "Senior Machine Learning Engineer - Voice AI",
+      "company": "Enter",
+      "min": 3,
+      "max": 6,
+      "exp": "3-6 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "Machine Learning",
+        "LLM",
+        "Python",
+        "RAG",
+        "Prompt Engineering",
+        "FastAPI",
+        "Conversational AI",
+        "Flask"
+      ],
+      "createdTime": 1787164200000
+    },
+    {
+      "id": 1663944,
+      "title": "AI Engineer - Python/Generative AI",
+      "company": "The Reliable Jobs",
+      "min": 3,
+      "max": 6,
+      "exp": "3-6 yrs",
+      "location": "Remote | Anywhere in India/Multiple Locations",
+      "tags": [
+        "Machine Learning",
+        "Python",
+        "NLP",
+        "Generative AI",
+        "Artificial Intelligence",
+        "Deep Learning",
+        "RAG",
+        "Prompt Engineering",
+        "LangGraph",
+        "LangChain",
+        "MLOps"
+      ],
+      "createdTime": 1786991400000
+    },
+    {
+      "id": 1663520,
+      "title": "Techolution - Senior Conversational AI Engineer",
+      "company": "Techolution",
+      "min": 3,
+      "max": 8,
+      "exp": "3-8 yrs",
+      "location": "Hyderabad",
+      "tags": [
+        "Machine Learning",
+        "Python",
+        "Dialogflow",
+        "Conversational AI",
+        "Artificial Intelligence",
+        "Speech Recognition",
+        "Contact Center Analytics",
+        "IP Telephony",
+        "Genesys"
+      ],
+      "createdTime": 1786905000000
+    },
+    {
+      "id": 1663299,
+      "title": "BizViz Technologies - AI Engineer - Python/RAG",
+      "company": "BizViz Technologies",
+      "min": 3,
+      "max": 5,
+      "exp": "3-5 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "Machine Learning",
+        "Python",
+        "MLOps",
+        "Generative AI",
+        "Artificial Intelligence",
+        "LLM",
+        "RAG"
+      ],
+      "createdTime": 1786645800000
+    },
+    {
+      "id": 1662790,
+      "title": "Senior Machine Learning Engineer - Computer Vision",
+      "company": "KS Smart Solutions",
+      "min": 3,
+      "max": 6,
+      "exp": "3-6 yrs",
+      "location": "Anywhere in India/Multiple Locations",
+      "tags": [
+        "Machine Learning",
+        "Computer Vision",
+        "Python",
+        "PyTorch",
+        "Docker",
+        "MLOps",
+        "Optical Character Recognition"
+      ],
+      "createdTime": 1786559400000
+    },
+    {
+      "id": 1662656,
+      "title": "Adapt Ready - AI/ML Engineer",
+      "company": "Adapt Ready",
+      "min": 3,
+      "max": 5,
+      "exp": "3-5 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "Machine Learning",
+        "LLM",
+        "API",
+        "Git",
+        "SaaS",
+        "Artificial Intelligence"
+      ],
+      "createdTime": 1786473000000
+    },
+    {
+      "id": 1660966,
+      "title": "Senior Data Scientist - AI/ML",
+      "company": "ConverzAI",
+      "min": 3,
+      "max": 5,
+      "exp": "3-5 yrs",
+      "location": "Anywhere in India/Multiple Locations",
+      "tags": [
+        "Python",
+        "Generative AI",
+        "Artificial Intelligence",
+        "Agentic AI",
+        "RAG",
+        "LLM",
+        "LangChain",
+        "LangGraph",
+        "Data Science",
+        "Data Scientist"
+      ],
+      "createdTime": 1785954600000
+    },
+    {
+      "id": 1660193,
+      "title": "Python Developer - Vision AI",
+      "company": "AIVeda",
+      "min": 3,
+      "max": 5,
+      "exp": "3-5 yrs",
+      "location": "Delhi",
+      "tags": [
+        "Python",
+        "Computer Vision",
+        "Data Science",
+        "Video Analytics",
+        "Image Processing",
+        "Machine Vision",
+        "Tensorflow",
+        "PyTorch"
+      ],
+      "createdTime": 1785781800000
+    },
+    {
+      "id": 1653098,
+      "title": "LendingTree - Senior Software Engineer - Artificial Intelligence",
+      "company": "LendingTree",
+      "min": 3,
+      "max": 5,
+      "exp": "3-5 yrs",
+      "location": "Hyderabad",
+      "tags": [
+        "Artificial Intelligence",
+        "Generative AI",
+        "LLM",
+        "Agentic AI",
+        "Data Science",
+        "LangChain",
+        "Python",
+        "OpenAI"
+      ],
+      "createdTime": 1783621800000
+    },
+    {
+      "id": 1654753,
+      "title": "Experity - Data Scientist - Machine Learning",
+      "company": "EXDION SOLUTIONS ",
+      "min": 3,
+      "max": 8,
+      "exp": "3-8 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "Data Science",
+        "Data Scientist",
+        "Machine Learning",
+        "Statistical Modeling",
+        "NLP",
+        "Generative AI",
+        "LLM",
+        "Predictive Analytics",
+        "Python",
+        "Tensorflow",
+        "PyTorch"
+      ],
+      "createdTime": 1784140200000
+    },
+    {
+      "id": 1654172,
+      "title": "AU Small Finance Bank - AI Engineer - LLM/RAG",
+      "company": "AU SMALL FINANCE BANK Limited",
+      "min": 3,
+      "max": 6,
+      "exp": "3-6 yrs",
+      "location": "Mumbai",
+      "tags": [
+        "Artificial Intelligence",
+        "Conversational AI",
+        "LLM",
+        "RAG",
+        "Copilot",
+        "Agentic AI",
+        "Prompt Engineering",
+        "LangGraph",
+        "LangChain"
+      ],
+      "createdTime": 1784053800000
+    },
+    {
+      "id": 1643285,
+      "title": "Bidaal Technology - Senior Solution Engineer",
+      "company": "Bidaal technology ",
+      "min": 3,
+      "max": 5,
+      "exp": "3-5 yrs",
+      "location": "Noida",
+      "tags": [
+        "Solution Design",
+        "Artificial Intelligence",
+        "Computer Vision",
+        "IoT",
+        "Solution Architect",
+        "System Integration",
+        "LLM"
+      ],
+      "createdTime": 1781029800000
+    },
+    {
+      "id": 1643511,
+      "title": "AI Engineer - Generative AI",
+      "company": "Damcosoft",
+      "min": 3,
+      "max": 10,
+      "exp": "3-10 yrs",
+      "location": "Anywhere in India/Multiple Locations | Delhi NCR | Punjab",
+      "tags": [
+        "Artificial Intelligence",
+        "Generative AI",
+        "Machine Learning",
+        "Agentic AI",
+        "Data Science"
+      ],
+      "createdTime": 1781029800000
+    },
+    {
+      "id": 1661254,
+      "title": "Agentic AI Engineer",
+      "company": "The vecA",
+      "min": 3,
+      "max": 8,
+      "exp": "3-8 yrs",
+      "location": "Gurgaon/Gurugram",
+      "tags": [
+        "Agentic AI",
+        "Artificial Intelligence",
+        "Python",
+        "LangGraph",
+        "LangChain",
+        "PostgreSQL",
+        "Azure",
+        "LLM",
+        "GPT",
+        "Snowflake DB"
+      ],
+      "createdTime": 1786041000000
+    },
+    {
+      "id": 1661278,
+      "title": "AI Engineer - LLM/Agentic AI",
+      "company": "Hula Global",
+      "min": 3,
+      "max": 6,
+      "exp": "3-6 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "Artificial Intelligence",
+        "LLM",
+        "Agentic AI",
+        "Machine Learning",
+        "WebSockets",
+        "Conversational AI"
+      ],
+      "createdTime": 1786041000000
+    },
+    {
+      "id": 1660965,
+      "title": "Data Scientist - Forecasting & Analytics",
+      "company": "Aspyra HR Services ",
+      "min": 3,
+      "max": 8,
+      "exp": "3-8 yrs",
+      "location": "Gurgaon/Gurugram | Bangalore | Pune",
+      "tags": [
+        "Data Science",
+        "Machine Learning",
+        "Python",
+        "SQL",
+        "Time Series Forecasting",
+        "Data Scientist",
+        "Predictive Analytics",
+        "Numpy",
+        "Pandas",
+        "EDA"
+      ],
+      "createdTime": 1785954600000
+    },
+    {
+      "id": 1660893,
+      "title": "Celebal Technologies - Data Scientist - Forecasting & Predictive Analytics",
+      "company": "Celebal Technologies",
+      "min": 3,
+      "max": 8,
+      "exp": "3-8 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "Data Science",
+        "Machine Learning",
+        "Python",
+        "SQL",
+        "Time Series Forecasting",
+        "Predictive Analytics",
+        "Predictive Modeling",
+        "Statistical Modeling",
+        "MLOps"
+      ],
+      "createdTime": 1785868200000
+    },
+    {
+      "id": 1660237,
+      "title": "AI Engineer - Python/LLM",
+      "company": "Workplace",
+      "min": 3,
+      "max": 10,
+      "exp": "3-10 yrs",
+      "location": "Anywhere in India/Multiple Locations | Remote",
+      "tags": [
+        "Artificial Intelligence",
+        "LLM",
+        "Python",
+        "RAG",
+        "OpenAI",
+        "GPT",
+        "LangChain",
+        "LangGraph",
+        "Prompt Engineering",
+        "Kafka"
+      ],
+      "createdTime": 1785781800000
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+[
+  {
+    "id": 1669316,
+    "title": "Quadient Inspire Developer - Document Composition Tools",
+    "company": "Upcruit",
+    "min": 3,
+    "max": 8,
+    "exp": "3-8 yrs",
+    "location": "Bangalore",
+    "tags": [
+      "Document Composition Tools",
+      "Workflows",
+      "Quadient",
+      "CRM",
+      "ERP"
+    ],
+    "createdTime": 1788719400000
+  },
+  {
+    "id": 1669211,
+    "title": "Java Developer - Backend Architecture",
+    "company": "Terralogic Software Solutions Private Limited.",
+    "min": 3,
+    "max": 5,
+    "exp": "3-5 yrs",
+    "location": "Bangalore",
+    "tags": [
+      "Backend Architecture",
+      "Java",
+      "REST API",
+      "Application Designing",
+      "Application Architecture"
+    ],
+    "createdTime": 1788719400000
+  },
+  {
+    "id": 1668919,
+    "title": "C# Developer - .Net/ASP",
+    "company": "Code Vyasa",
+    "min": 3,
+    "max": 6,
+    "exp": "3-6 yrs",
+    "location": "Gurgaon/Gurugram | Haryana",
+    "tags": [
+      "C#",
+      ".Net",
+      "ASP",
+      "SQL",
+      "OOPS",
+      "REST API",
+      "RDBMS",
+      "Microservices Architecture",
+      "Entity Framework"
+    ],
+    "createdTime": 1788546600000
+  },
+  {
+    "id": 1668723,
+    "title": "MediaMint - Python Desktop Automation Engineer",
+    "company": "VUCHI MEDIA",
+    "min": 3,
+    "max": 5,
+    "exp": "3-5 yrs",
+    "location": "Hyderabad",
+    "tags": [
+      "Python",
+      "Playwright Testing",
+      "REST API",
+      "Git",
+      "Sikuli",
+      "Document Management System",
+      "Application Packaging"
+    ],
+    "createdTime": 1788460200000
+  },
+  {
+    "id": 1668245,
+    "title": ".Net Developer - WebForms",
+    "company": "Programming.Com",
+    "min": 3,
+    "max": 9,
+    "exp": "3-9 yrs",
+    "location": "Mumbai | Chennai | Pune | Chandigarh | Gurgaon/Gurugram | Bangalore",
+    "tags": [
+      ".Net",
+      "WebForms",
+      ".Net Core",
+      "RDBMS",
+      "SQL Server",
+      "Javascript"
+    ],
+    "createdTime": 1788373800000
+  },
+  {
+    "id": 1668206,
+    "title": "Senior C++ Developer - Trading Systems",
+    "company": "Break into bfsi",
+    "min": 3,
+    "max": 8,
+    "exp": "3-8 yrs",
+    "location": "Mumbai",
+    "tags": [
+      "C++",
+      "Linux",
+      "Multithreading",
+      "Algorithmic Trading",
+      "Trading Systems",
+      "C++11",
+      "C++14"
+    ],
+    "createdTime": 1788373800000
+  }
+]

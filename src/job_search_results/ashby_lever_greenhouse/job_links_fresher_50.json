@@ -1,0 +1,552 @@
+[
+  {
+    "company": "Weblee Technologies Software Engineers -",
+    "role": "Weblee Technologies Software Engineers - Freshers",
+    "url": "https://jobs.smartrecruiters.com/WebleeTechnologies/743999656825380-software-engineers-freshers",
+    "platform": "smartrecruiters",
+    "location": "Kolkata, India",
+    "exp_tag": "Fresher/0-1yr (title)",
+    "verification": "scrape OK hasIndia=true hasApply=false",
+    "title_raw": "Weblee Technologies Software Engineers - Freshers"
+  },
+  {
+    "company": "JAVA Software Engineer (Developer) Fresh",
+    "role": "JAVA Software Engineer (Developer) Freshers at Indore",
+    "url": "https://jobs.smartrecruiters.com/EndeavorITSolution/743999657741390-java-software-engineer-developer-freshers-at-indore",
+    "platform": "smartrecruiters",
+    "location": "Indore, India",
+    "exp_tag": "Fresher/0-1yr (title)",
+    "verification": "scrape OK hasIndia=true hasApply=false",
+    "title_raw": "JAVA Software Engineer (Developer) Freshers at Indore"
+  },
+  {
+    "company": "Endeavor IT Solution Software Engineer -",
+    "role": "Endeavor IT Solution Software Engineer - Java - Fresher (0-0 yrs)",
+    "url": "https://jobs.smartrecruiters.com/EndeavorITSolution/743999651526185-software-engineer-java-fresher-0-0-yrs-",
+    "platform": "smartrecruiters",
+    "location": "Indore, India",
+    "exp_tag": "Fresher/0-1yr (title)",
+    "verification": "scrape OK hasIndia=true hasApply=true",
+    "title_raw": "Endeavor IT Solution Software Engineer - Java - Fresher (0-0 yrs)"
+  },
+  {
+    "company": "Endeavor IT Solution JAVA Software Devel",
+    "role": "Endeavor IT Solution JAVA Software Developer Interns !!! Freshers",
+    "url": "https://jobs.smartrecruiters.com/EndeavorITSolution/743999658315679-java-software-developer-interns-freshers",
+    "platform": "smartrecruiters",
+    "location": "Indore, India",
+    "exp_tag": "Fresher/0-1yr (title)",
+    "verification": "scrape OK hasIndia=true hasApply=true",
+    "title_raw": "Endeavor IT Solution JAVA Software Developer Interns !!! Freshers"
+  },
+  {
+    "company": "Endeavor IT Solution Software Engineer -",
+    "role": "Endeavor IT Solution Software Engineer - Java - Fresher",
+    "url": "https://jobs.smartrecruiters.com/EndeavorITSolution/743999651528856-software-engineer-java-fresher",
+    "platform": "smartrecruiters",
+    "location": "Indore, India",
+    "exp_tag": "Fresher/0-1yr (title)",
+    "verification": "scrape OK hasIndia=true hasApply=false",
+    "title_raw": "Endeavor IT Solution Software Engineer - Java - Fresher"
+  },
+  {
+    "company": "Immediate Hiring Software Engineer (PHP)",
+    "role": "Immediate Hiring Software Engineer (PHP) Fresher",
+    "url": "https://jobs.smartrecruiters.com/EndeavorITSolution/103415610-immediate-hiring-software-engineer-php-fresher",
+    "platform": "smartrecruiters",
+    "location": "Indore, India",
+    "exp_tag": "Fresher/0-1yr (title)",
+    "verification": "scrape OK hasIndia=true hasApply=true",
+    "title_raw": "Immediate Hiring Software Engineer (PHP) Fresher"
+  },
+  {
+    "company": "Endeavor IT Solution Freshers Jobs (Soft",
+    "role": "Endeavor IT Solution Freshers Jobs (Software Developer- JAVA)",
+    "url": "https://jobs.smartrecruiters.com/EndeavorITSolution/743999652925042-freshers-jobs-software-developer-java-",
+    "platform": "smartrecruiters",
+    "location": "Indore, India",
+    "exp_tag": "Fresher/0-1yr (title)",
+    "verification": "scrape OK hasIndia=true hasApply=true",
+    "title_raw": "Endeavor IT Solution Freshers Jobs (Software Developer- JAVA)"
+  },
+  {
+    "company": "BerryWorks Engineering Trainee - Full St",
+    "role": "BerryWorks Engineering Trainee - Full Stack and AI",
+    "url": "https://jobs.smartrecruiters.com/BerryWorks/743999833725418-engineering-trainee-full-stack-and-ai",
+    "platform": "smartrecruiters",
+    "location": "India",
+    "exp_tag": "Fresher/0-1yr (title)",
+    "verification": "scrape OK hasIndia=true hasApply=false",
+    "title_raw": "BerryWorks Engineering Trainee - Full Stack and AI | SmartRecruiters"
+  },
+  {
+    "company": "Software Engineer, Intern - Stripe Caree",
+    "role": "Software Engineer, Intern - Stripe Careers",
+    "url": "https://job-boards.greenhouse.io/stripe/jobs/8031833",
+    "platform": "greenhouse",
+    "location": "Bengaluru, India",
+    "exp_tag": "Fresher/0-1yr (title)",
+    "verification": "scrape OK hasIndia=false hasApply=false",
+    "title_raw": "Software Engineer, Intern - Stripe Careers"
+  },
+  {
+    "company": "Junior Software Engineer (Remote) - Poli",
+    "role": "Junior Software Engineer (Remote) - PolicyMe",
+    "url": "https://jobs.lever.co/policyme/2ad3fd98-21fc-4bbd-aa91-868befe5f699",
+    "platform": "lever",
+    "location": "Remote / India",
+    "exp_tag": "Fresher/0-1yr (title)",
+    "verification": "scrape OK hasIndia=true hasApply=true",
+    "title_raw": "Junior Software Engineer (Remote) - PolicyMe - Lever"
+  },
+  {
+    "company": "BRM",
+    "role": "Entry Level Software Engineer @ BRM",
+    "url": "https://jobs.ashbyhq.com/brm.ai/05cad7f7-2194-480d-8e70-7338cfd2a189",
+    "platform": "ashby",
+    "location": "India (via search)",
+    "exp_tag": "Fresher/0-1yr (title)",
+    "verification": "search-only (scrape 429)",
+    "title_raw": "Entry Level Software Engineer @ BRM - Jobs"
+  },
+  {
+    "company": "Netholabs",
+    "role": "Junior AI/ML Engineer @ Netholabs",
+    "url": "https://jobs.ashbyhq.com/netholabs/a16457f4-63a5-4a75-82d4-04ea2fc4e393",
+    "platform": "ashby",
+    "location": "India (via search)",
+    "exp_tag": "Fresher/0-1yr (title)",
+    "verification": "search-only (scrape 429)",
+    "title_raw": "Junior AI/ML Engineer @ Netholabs - Jobs"
+  },
+  {
+    "company": "Cohere",
+    "role": "Software Engineer Intern (Winter 2027) @ Cohere",
+    "url": "https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254",
+    "platform": "ashby",
+    "location": "India (via search)",
+    "exp_tag": "Fresher/0-1yr (title)",
+    "verification": "search-only (scrape 429)",
+    "title_raw": "Software Engineer Intern (Winter 2027) @ Cohere - Jobs"
+  },
+  {
+    "company": "Canals",
+    "role": "Junior Software Engineer @ Canals",
+    "url": "https://jobs.ashbyhq.com/canals/06a7ec78-d84f-4035-9799-747524dbdc49",
+    "platform": "ashby",
+    "location": "India (via search)",
+    "exp_tag": "Fresher/0-1yr (title)",
+    "verification": "scrape OK hasIndia=true hasApply=false",
+    "title_raw": "Junior Software Engineer @ Canals - Jobs"
+  },
+  {
+    "company": "Endeavor IT Solution JAVA Software Devel",
+    "role": "Endeavor IT Solution JAVA Software Developer - Fresher/Intern/Trainee",
+    "url": "https://jobs.smartrecruiters.com/EndeavorITSolution/743999658316773-java-software-developer-fresher-intern-trainee",
+    "platform": "smartrecruiters",
+    "location": "India (via search)",
+    "exp_tag": "Fresher/0-1yr (title)",
+    "verification": "scrape OK hasIndia=true hasApply=false",
+    "title_raw": "Endeavor IT Solution JAVA Software Developer - Fresher/Intern/Trainee"
+  },
+  {
+    "company": "Endeavor IT Solution Openings for JAVA (",
+    "role": "Endeavor IT Solution Openings for JAVA ( freshers )",
+    "url": "https://jobs.smartrecruiters.com/EndeavorITSolution/111194226-openings-for-java-freshers-",
+    "platform": "smartrecruiters",
+    "location": "India (via search)",
+    "exp_tag": "Fresher/0-1yr (title)",
+    "verification": "scrape OK hasIndia=true hasApply=true",
+    "title_raw": "Endeavor IT Solution Openings for JAVA ( freshers ) | SmartRecruiters"
+  },
+  {
+    "company": "Endeavor IT solution Walk-in for Junior",
+    "role": "Endeavor IT solution Walk-in for Junior Software Engineer",
+    "url": "https://jobs.smartrecruiters.com/EndeavorITSolution10/95365885-walk-in-for-junior-software-engineer",
+    "platform": "smartrecruiters",
+    "location": "India (via search)",
+    "exp_tag": "Fresher/0-1yr (title)",
+    "verification": "scrape OK hasIndia=true hasApply=true",
+    "title_raw": "Endeavor IT solution Walk-in for Junior Software Engineer"
+  },
+  {
+    "company": "Palantir Technologies - Software Enginee",
+    "role": "Palantir Technologies - Software Engineer, New Grad",
+    "url": "https://jobs.lever.co/palantir/15844944-fb69-4b57-9531-e988650b20c6/apply",
+    "platform": "lever",
+    "location": "India (via search)",
+    "exp_tag": "Fresher/Entry-level (search)",
+    "verification": "scrape OK hasIndia=false hasApply=true",
+    "title_raw": "Palantir Technologies - Software Engineer, New Grad - Lever"
+  },
+  {
+    "company": "Data Scientist Intern - GoTo Group - Lev",
+    "role": "Data Scientist Intern - GoTo Group",
+    "url": "https://jobs.lever.co/GoToGroup/dff2a165-d111-4542-bfec-ec3856892275",
+    "platform": "lever",
+    "location": "India (via search)",
+    "exp_tag": "Fresher/0-1yr (title)",
+    "verification": "scrape OK hasIndia=true hasApply=true",
+    "title_raw": "Data Scientist Intern - GoTo Group - Lever"
+  },
+  {
+    "company": "ShyftLabs - Associate AI Engineer - Leve",
+    "role": "ShyftLabs - Associate AI Engineer",
+    "url": "https://jobs.lever.co/shyftlabs/1a665cf5-1f3f-4610-be00-b46ffa13a675",
+    "platform": "lever",
+    "location": "India (via search)",
+    "exp_tag": "Fresher/0-1yr (title)",
+    "verification": "scrape OK hasIndia=true hasApply=true",
+    "title_raw": "ShyftLabs - Associate AI Engineer - Lever"
+  },
+  {
+    "company": "TSMG - Junior Project Manager (AI/ ML) -",
+    "role": "TSMG - Junior Project Manager (AI/ ML) - Asian market",
+    "url": "https://jobs.lever.co/tsmg/abaf63dd-fea4-4c81-996a-13cb0519cb93",
+    "platform": "lever",
+    "location": "India (via search)",
+    "exp_tag": "Fresher/0-1yr (title)",
+    "verification": "scrape OK hasIndia=true hasApply=true",
+    "title_raw": "TSMG - Junior Project Manager (AI/ ML) - Asian market - Lever"
+  },
+  {
+    "company": "Junior Software Engineer（AI&LLM - Binanc",
+    "role": "Junior Software Engineer（AI&LLM - Binance",
+    "url": "https://jobs.lever.co/binance/88fe7933-859b-47e7-a1a0-29c5e14de573",
+    "platform": "lever",
+    "location": "India (via search)",
+    "exp_tag": "Fresher/0-1yr (title)",
+    "verification": "scrape OK hasIndia=true hasApply=true",
+    "title_raw": "Junior Software Engineer（AI&LLM - Binance - Lever"
+  },
+  {
+    "company": "Job Application for Junior/Senior or Sta",
+    "role": "Job Application for Junior/Senior or Staff Software Engineer, Inference ...",
+    "url": "https://job-boards.greenhouse.io/togetherai/jobs/5213325007",
+    "platform": "greenhouse",
+    "location": "India",
+    "exp_tag": "Fresher/0-1yr (title)",
+    "verification": "scrape OK hasIndia=true hasApply=true",
+    "title_raw": "Job Application for Junior/Senior or Staff Software Engineer, Inference ..."
+  },
+  {
+    "company": "Playpower Labs",
+    "role": "Software Engineer @ Playpower Labs",
+    "url": "https://jobs.ashbyhq.com/playpowerlabs/6087e852-9d62-4103-aa77-c3773974549a",
+    "platform": "ashby",
+    "location": "Remote / India",
+    "exp_tag": "Fresher/Entry-level (search)",
+    "verification": "search-only (scrape 429)",
+    "title_raw": "Software Engineer @ Playpower Labs - Jobs"
+  },
+  {
+    "company": "AiPrise",
+    "role": "Software Engineer I (Bangalore, India) @ AiPrise",
+    "url": "https://jobs.ashbyhq.com/aiprise/3763c791-a387-4078-9ca4-00cbfbf9b1a6",
+    "platform": "ashby",
+    "location": "Bengaluru, India",
+    "exp_tag": "Fresher/Entry-level (search)",
+    "verification": "search-only (scrape 429)",
+    "title_raw": "Software Engineer I (Bangalore, India) @ AiPrise - Jobs"
+  },
+  {
+    "company": "Careway Health",
+    "role": "Software Engineer (Remote) @ Careway Health",
+    "url": "https://jobs.ashbyhq.com/careway/f7bc5fce-abe3-490e-ab6b-d3eb1e7be423",
+    "platform": "ashby",
+    "location": "Remote / India",
+    "exp_tag": "Fresher/Entry-level (search)",
+    "verification": "scrape OK hasIndia=true hasApply=false",
+    "title_raw": "Software Engineer (Remote) @ Careway Health - Jobs"
+  },
+  {
+    "company": "Cartesia",
+    "role": "Software Engineer, Platform (India) @ Cartesia",
+    "url": "https://jobs.ashbyhq.com/cartesia/9d9c6cc0-218c-4fd4-a478-3e4b37de1d76",
+    "platform": "ashby",
+    "location": "India",
+    "exp_tag": "Fresher/Entry-level (search)",
+    "verification": "scrape OK hasIndia=true hasApply=false",
+    "title_raw": "Software Engineer, Platform (India) @ Cartesia - Jobs"
+  },
+  {
+    "company": "Neural Concept",
+    "role": "Solutions Engineer - India @ Neural Concept",
+    "url": "https://jobs.ashbyhq.com/neuralconcept/fee6925c-964f-45b9-92ce-5295415af216",
+    "platform": "ashby",
+    "location": "India",
+    "exp_tag": "Fresher/Entry-level (search)",
+    "verification": "scrape OK hasIndia=true hasApply=false",
+    "title_raw": "Solutions Engineer - India @ Neural Concept - Jobs"
+  },
+  {
+    "company": "Reacher",
+    "role": "Backend Software Engineer - India @ Reacher",
+    "url": "https://jobs.ashbyhq.com/reacher/86a866da-dc3b-4d5d-ba94-599b642904ec",
+    "platform": "ashby",
+    "location": "India",
+    "exp_tag": "Fresher/Entry-level (search)",
+    "verification": "scrape OK hasIndia=true hasApply=false",
+    "title_raw": "Backend Software Engineer - India @ Reacher - Jobs"
+  },
+  {
+    "company": "Onedirect Software Development Engineer",
+    "role": "Onedirect Software Development Engineer (SDE-3)",
+    "url": "https://jobs.smartrecruiters.com/Onedirect1/743999815693746-software-development-engineer-sde-3-",
+    "platform": "smartrecruiters",
+    "location": "Remote / India",
+    "exp_tag": "Fresher/Entry-level (search)",
+    "verification": "scrape OK hasIndia=true hasApply=false",
+    "title_raw": "Onedirect Software Development Engineer (SDE-3) | SmartRecruiters"
+  },
+  {
+    "company": "Weblee Technologies Sr. Software Enginee",
+    "role": "Weblee Technologies Sr. Software Engineer, Kolkata",
+    "url": "https://jobs.smartrecruiters.com/WebleeTechnologies/743999657253013-sr-software-engineer-kolkata",
+    "platform": "smartrecruiters",
+    "location": "Kolkata, India",
+    "exp_tag": "Fresher/Entry-level (search)",
+    "verification": "scrape OK hasIndia=true hasApply=true",
+    "title_raw": "Weblee Technologies Sr. Software Engineer, Kolkata | SmartRecruiters"
+  },
+  {
+    "company": "Careers at Cloudflare — Open Positions",
+    "role": "Careers at Cloudflare — Open Positions",
+    "url": "https://job-boards.greenhouse.io/cloudflare/jobs/7465217?gh_jid=7465217",
+    "platform": "greenhouse",
+    "location": "Bengaluru, India",
+    "exp_tag": "Fresher/Entry-level (search)",
+    "verification": "scrape OK hasIndia=false hasApply=false",
+    "title_raw": "Careers at Cloudflare — Open Positions"
+  },
+  {
+    "company": "Search Page - GoDaddy Careers",
+    "role": "Search Page - GoDaddy Careers",
+    "url": "https://job-boards.greenhouse.io/godaddy/jobs/7823076003",
+    "platform": "greenhouse",
+    "location": "Gurgaon, India",
+    "exp_tag": "Fresher/Entry-level (search)",
+    "verification": "scrape OK hasIndia=true hasApply=false",
+    "title_raw": "Search Page - GoDaddy Careers"
+  },
+  {
+    "company": "Open roles - Waymo Careers",
+    "role": "Open roles - Waymo Careers",
+    "url": "https://job-boards.greenhouse.io/waymo/jobs/6563602",
+    "platform": "greenhouse",
+    "location": "India",
+    "exp_tag": "Fresher/Entry-level (search)",
+    "verification": "scrape OK hasIndia=true hasApply=false",
+    "title_raw": "Open roles - Waymo Careers"
+  },
+  {
+    "company": "Careers at Figma",
+    "role": "Careers at Figma",
+    "url": "https://boards.greenhouse.io/figma/jobs/6163045004",
+    "platform": "greenhouse",
+    "location": "Bengaluru, India",
+    "exp_tag": "Fresher/Entry-level (search)",
+    "verification": "scrape OK hasIndia=true hasApply=false",
+    "title_raw": "Careers at Figma"
+  },
+  {
+    "company": "Job Application for AI/ML Software Engin",
+    "role": "Job Application for AI/ML Software Engineer at bswift India - Greenhouse",
+    "url": "https://job-boards.greenhouse.io/bswiftindia/jobs/4684070006",
+    "platform": "greenhouse",
+    "location": "India",
+    "exp_tag": "Fresher/Entry-level (search)",
+    "verification": "search-only (scrape 429)",
+    "title_raw": "Job Application for AI/ML Software Engineer at bswift India - Greenhouse"
+  },
+  {
+    "company": "Endpoint Clinical - Software Developer -",
+    "role": "Endpoint Clinical - Software Developer - Sr",
+    "url": "https://jobs.lever.co/endpointclinical/dab7b302-4421-440d-9693-bdb93229c86e",
+    "platform": "lever",
+    "location": "Bengaluru, India",
+    "exp_tag": "Fresher/Entry-level (search)",
+    "verification": "search-only (scrape 429)",
+    "title_raw": "Endpoint Clinical - Software Developer - Sr - Lever"
+  },
+  {
+    "company": "Software Engineer, Full-Stack (Remote) -",
+    "role": "Software Engineer, Full-Stack (Remote) - Supermove",
+    "url": "https://jobs.lever.co/supermove/176fe130-a2cc-40da-b978-8c693fefc510",
+    "platform": "lever",
+    "location": "Remote / India",
+    "exp_tag": "Fresher/Entry-level (search)",
+    "verification": "scrape OK hasIndia=true hasApply=true",
+    "title_raw": "Software Engineer, Full-Stack (Remote) - Supermove - Lever"
+  },
+  {
+    "company": "Role: Software Developer",
+    "role": "Role: Software Developer",
+    "url": "https://careers.zohorecruit.com/recruit/WebFormServeServlet?rid=5e90d83898a3075530e6e8218f76009a6824d98a770a2e0e38a2353228cdb374gidf62d65585721aed69c3d0236e3a70183&fbclid=IwAR2G0-65NUCDK9ub8LaslkhKPjbVk6QXLKieVMJfmu8g8L6cVgZrt25SLmw",
+    "platform": "zoho",
+    "location": "India",
+    "exp_tag": "Fresher/Entry-level (search)",
+    "verification": "search-only",
+    "title_raw": "Role: Software Developer"
+  },
+  {
+    "company": "Technical Support Engineer Tenkasi",
+    "role": "Technical Support Engineer Tenkasi",
+    "url": "https://careers.zohorecruit.com/recruit/WebFormServeServlet?rid=de2dbddf5acbb924a8d6ce31f294ae5956356ba96fda64baf7de3ab68b41e82egidf62d65585721aed69c3d0236e3a70183",
+    "platform": "zoho",
+    "location": "India (via search)",
+    "exp_tag": "Fresher/Entry-level (search)",
+    "verification": "search-only",
+    "title_raw": "Technical Support Engineer Tenkasi"
+  },
+  {
+    "company": "Untitled",
+    "role": "Untitled",
+    "url": "https://careers.zohorecruit.com/recruit/WebFormServeServlet?rid=655c14791ac6a4c97f5657f60ba2ec3d81503ac3d9c8758d8eaef1eb5d3b95e1gidf62d65585721aed69c3d0236e3a70183",
+    "platform": "zoho",
+    "location": "India (via search)",
+    "exp_tag": "Fresher/Entry-level (search)",
+    "verification": "search-only",
+    "title_raw": "Untitled"
+  },
+  {
+    "company": "Registration Form",
+    "role": "Registration Form",
+    "url": "https://careers.zohorecruit.com/recruit/WebFormServeServlet?rid=30c916b3b12bded1a52d8da31e50ca32fdfe10eb4e671f0b1cb0ef84a31cf3d8gidf62d65585721aed69c3d0236e3a70183",
+    "platform": "zoho",
+    "location": "India (via search)",
+    "exp_tag": "Fresher/Entry-level (search)",
+    "verification": "search-only",
+    "title_raw": "Registration Form"
+  },
+  {
+    "company": "Untitled",
+    "role": "Untitled",
+    "url": "https://careers.zohorecruit.com/recruit/WebFormServeServlet?rid=c70d85cd961853300f314d13e73cad491d561b40471cc2fd0e7996e6547ace63gidf62d65585721aed69c3d0236e3a70183",
+    "platform": "zoho",
+    "location": "India (via search)",
+    "exp_tag": "Fresher/Entry-level (search)",
+    "verification": "search-only",
+    "title_raw": "Untitled"
+  },
+  {
+    "company": "AECOM Associate Director | SmartRecruite",
+    "role": "AECOM Associate Director",
+    "url": "https://jobs.smartrecruiters.com/AECOM2/744000147842079-associate-director",
+    "platform": "smartrecruiters",
+    "location": "India (via search)",
+    "exp_tag": "Fresher/0-1yr (title)",
+    "verification": "scrape OK hasIndia=true hasApply=false",
+    "title_raw": "AECOM Associate Director | SmartRecruiters"
+  },
+  {
+    "company": "Blue Spire Inc Java Software Engineer -",
+    "role": "Blue Spire Inc Java Software Engineer - Associate/Senior/Lead",
+    "url": "https://jobs.smartrecruiters.com/BlueSpireInc1/743999845912001-java-software-engineer-associate-senior-lead",
+    "platform": "smartrecruiters",
+    "location": "India (via search)",
+    "exp_tag": "Fresher/0-1yr (title)",
+    "verification": "scrape OK hasIndia=true hasApply=false",
+    "title_raw": "Blue Spire Inc Java Software Engineer - Associate/Senior/Lead"
+  },
+  {
+    "company": "Job Application for AI Engineer (Junior/",
+    "role": "Job Application for AI Engineer (Junior/Senior) at Schonfeld",
+    "url": "https://job-boards.greenhouse.io/schonfeld/jobs/7843962",
+    "platform": "greenhouse",
+    "location": "India (via search)",
+    "exp_tag": "Fresher/0-1yr (title)",
+    "verification": "scrape OK hasIndia=false hasApply=true",
+    "title_raw": "Job Application for AI Engineer (Junior/Senior) at Schonfeld"
+  },
+  {
+    "company": "Drivetrain - Engineering Intern – Gen AI",
+    "role": "Drivetrain - Engineering Intern – Gen AI for FP&A Platform",
+    "url": "https://jobs.lever.co/drivetrain/7266784e-530b-4eb5-a61b-b09557f6e98d",
+    "platform": "lever",
+    "location": "India (via search)",
+    "exp_tag": "Fresher/0-1yr (title)",
+    "verification": "scrape OK hasIndia=true hasApply=true",
+    "title_raw": "Drivetrain - Engineering Intern – Gen AI for FP&A Platform - Lever"
+  },
+  {
+    "company": "Outmarket AI",
+    "role": "Software Engineer @ Outmarket AI",
+    "url": "https://jobs.ashbyhq.com/outmarket/10a2487a-1594-4400-8404-9ad2e96eb253",
+    "platform": "ashby",
+    "location": "India (via search)",
+    "exp_tag": "Fresher/Entry-level (search)",
+    "verification": "scrape OK hasIndia=true hasApply=false",
+    "title_raw": "Software Engineer @ Outmarket AI - Jobs"
+  },
+  {
+    "company": "Applied Intuition",
+    "role": "Software Engineer (SDS Core - Evaluation) @ Applied Intuition",
+    "url": "https://jobs.ashbyhq.com/applied/e015ce66-91c0-4361-a789-70ddbccc4e06",
+    "platform": "ashby",
+    "location": "India (via search)",
+    "exp_tag": "Fresher/Entry-level (search)",
+    "verification": "scrape OK hasIndia=true hasApply=true",
+    "title_raw": "Software Engineer (SDS Core - Evaluation) @ Applied Intuition - Jobs"
+  },
+  {
+    "company": "SentiLink",
+    "role": "Applied ML Scientist @ SentiLink",
+    "url": "https://jobs.ashbyhq.com/sentilink/5217d6c6-2140-4956-89c3-640088c29ffe",
+    "platform": "ashby",
+    "location": "India (via search)",
+    "exp_tag": "Fresher/Entry-level (search)",
+    "verification": "scrape OK hasIndia=true hasApply=false",
+    "title_raw": "Applied ML Scientist @ SentiLink - Jobs"
+  },
+  {
+    "company": "Nightfall AI",
+    "role": "ML Engineer/Scientist, AI Platform @ Nightfall AI",
+    "url": "https://jobs.ashbyhq.com/nightfall-ai/8649ba81-c541-4d9e-921f-c3d521d4d97b",
+    "platform": "ashby",
+    "location": "India (via search)",
+    "exp_tag": "Fresher/Entry-level (search)",
+    "verification": "search-only (scrape 429)",
+    "title_raw": "ML Engineer/Scientist, AI Platform @ Nightfall AI - Jobs"
+  },
+  {
+    "company": "Augment",
+    "role": "Product Manager @ Augment",
+    "url": "https://jobs.ashbyhq.com/go-augment/af1f6c48-0e5f-4198-9c5f-fad4786a7246",
+    "platform": "ashby",
+    "location": "India (via search)",
+    "exp_tag": "Fresher/Entry-level (search)",
+    "verification": "search-only (scrape 429)",
+    "title_raw": "Product Manager @ Augment - Jobs"
+  },
+  {
+    "company": "Certa",
+    "role": "Software Development Engineer in Test - SDET @ Certa",
+    "url": "https://jobs.ashbyhq.com/certa/b11ff3f4-b175-426a-a05a-f1b687cd5eda",
+    "platform": "ashby",
+    "location": "India (via search)",
+    "exp_tag": "Fresher/Entry-level (search)",
+    "verification": "scrape OK hasIndia=true hasApply=false",
+    "title_raw": "Software Development Engineer in Test - SDET @ Certa - Jobs"
+  },
+  {
+    "company": "Range",
+    "role": "Software Engineer @ Range",
+    "url": "https://jobs.ashbyhq.com/range/c065eea6-197a-45f1-81c8-4e03af60e641",
+    "platform": "ashby",
+    "location": "India (via search)",
+    "exp_tag": "Fresher/Entry-level (search)",
+    "verification": "scrape OK hasIndia=false hasApply=false",
+    "title_raw": "Software Engineer @ Range - Jobs"
+  },
+  {
+    "company": "Weblee Technologies IT Software Develope",
+    "role": "Weblee Technologies IT Software Developer (IDC)",
+    "url": "https://jobs.smartrecruiters.com/WebleeTechnologies/743999658077119-it-software-developer-idc-",
+    "platform": "smartrecruiters",
+    "location": "India (via search)",
+    "exp_tag": "Fresher/Entry-level (search)",
+    "verification": "scrape OK hasIndia=true hasApply=true",
+    "title_raw": "Weblee Technologies IT Software Developer (IDC) | SmartRecruiters"
+  }
+]

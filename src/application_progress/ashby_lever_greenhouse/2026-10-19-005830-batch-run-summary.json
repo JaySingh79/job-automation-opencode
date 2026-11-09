@@ -1,0 +1,66 @@
+[
+  {
+    "status": "awaiting_human_captcha_submit",
+    "reason": "reCAPTCHA visual challenge presented on Ashby",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\cohere-captcha-challenge.png",
+    "url": "https://jobs.ashbyhq.com/cohere/556467eb-3dc8-46e2-b015-277872210997/application",
+    "job_url": "https://jobs.ashbyhq.com/cohere/556467eb-3dc8-46e2-b015-277872210997",
+    "company": "cohere",
+    "role": "Forward Deployed Engineer, Sovereign AI",
+    "platform": "ashby",
+    "duration_seconds": 17.9
+  },
+  {
+    "status": "FAILED",
+    "reason": "No submit button found on Greenhouse",
+    "job_url": "https://jobs.elastic.co/jobs?gh_jid=8237463&gh_jid=8237463",
+    "company": "elastic",
+    "role": "UX Engineer",
+    "platform": "greenhouse",
+    "duration_seconds": 9.8
+  },
+  {
+    "status": "awaiting_human_captcha_submit",
+    "reason": "hCaptcha challenge presented on Lever",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\paytm-captcha-challenge.png",
+    "url": "https://jobs.lever.co/paytm/fffdcfb1-fd6e-4401-b059-500838a6db0e/apply",
+    "job_url": "https://jobs.lever.co/paytm/fffdcfb1-fd6e-4401-b059-500838a6db0e",
+    "company": "paytm",
+    "role": "Backend - TL/STL",
+    "platform": "lever",
+    "duration_seconds": 17.4
+  },
+  {
+    "status": "awaiting_human_captcha_submit",
+    "reason": "reCAPTCHA visual challenge presented on Ashby",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\broccoli-captcha-challenge.png",
+    "url": "https://jobs.ashbyhq.com/broccoli/dad66a1f-e7e0-4d08-962f-33286478269f/application",
+    "job_url": "https://jobs.ashbyhq.com/broccoli/dad66a1f-e7e0-4d08-962f-33286478269f",
+    "company": "broccoli",
+    "role": "AI Tech Support (Early Shift)",
+    "platform": "ashby",
+    "duration_seconds": 21.0
+  },
+  {
+    "status": "awaiting_human_otp",
+    "reason": "Greenhouse email OTP challenge presented",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\appian-otp-challenge.png",
+    "url": "https://job-boards.greenhouse.io/appian/jobs/8053020",
+    "job_url": "https://job-boards.greenhouse.io/appian/jobs/8053020",
+    "company": "appian",
+    "role": "Test Automation Engineer",
+    "platform": "greenhouse",
+    "duration_seconds": 32.0
+  },
+  {
+    "status": "awaiting_human_captcha_submit",
+    "reason": "hCaptcha challenge presented on Lever",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\entrata-captcha-challenge.png",
+    "url": "https://jobs.lever.co/entrata/661bbcc5-3514-4ba3-b616-8838da6c53ec/apply",
+    "job_url": "https://jobs.lever.co/entrata/661bbcc5-3514-4ba3-b616-8838da6c53ec",
+    "company": "entrata",
+    "role": "Software Engineer",
+    "platform": "lever",
+    "duration_seconds": 19.8
+  }
+]

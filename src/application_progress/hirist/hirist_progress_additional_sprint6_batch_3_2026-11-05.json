@@ -1,0 +1,55 @@
+{
+  "worker": 3,
+  "batch": 3,
+  "sprint": 6,
+  "sweep": "additional_200",
+  "target_applied": 3,
+  "applied_count": 5,
+  "parked_count": 1,
+  "already_applied_count": 0,
+  "failed_count": 0,
+  "all_results": [
+    {
+      "jobId": 1671314,
+      "title": "Software Engineer - Rust",
+      "company": "Career Click",
+      "status": "applied",
+      "applicationId": 79305425
+    },
+    {
+      "jobId": 1671169,
+      "title": "Process Nine Technologies - .Net Core Backend Developer",
+      "company": "PROCESS NINE TECHNOLOGIES PVT.LTD.",
+      "status": "applied",
+      "applicationId": 79305426
+    },
+    {
+      "jobId": 1671082,
+      "title": "Zoop.One - Golang Developer - Backend Technologies",
+      "company": "ZOOP",
+      "status": "applied",
+      "applicationId": 79305427
+    },
+    {
+      "jobId": 1671094,
+      "title": "Level AI - Senior Backend Engineer - Python/Django",
+      "company": "Level AI",
+      "status": "applied",
+      "applicationId": 79305429
+    },
+    {
+      "jobId": 1670627,
+      "title": "DriveX - Software Engineer - Python",
+      "company": "DriveX Mobility Private Limited",
+      "status": "applied",
+      "applicationId": 79305432
+    },
+    {
+      "jobId": 1670269,
+      "title": "Software Development Engineer II - Backend Technologies",
+      "company": "Human Touch",
+      "status": "parked_assessment",
+      "reason": "Assessment/ screening is required to apply for this Job"
+    }
+  ]
+}

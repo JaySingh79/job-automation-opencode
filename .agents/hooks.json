@@ -1,0 +1,17 @@
+{
+  "opencode-permission-parity": {
+    "enabled": true,
+    "PreToolUse": [
+      {
+        "matcher": "view_file|write_to_file|replace_file_content|multi_replace_file_content|run_command",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "uv run --no-project python ../src/scripts/agy_permission_hook.py",
+            "timeout": 10
+          }
+        ]
+      }
+    ]
+  }
+}

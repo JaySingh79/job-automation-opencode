@@ -1,0 +1,1228 @@
+{
+  "worker": 3,
+  "target_applied": 40,
+  "total_candidates": 62,
+  "jobs": [
+    {
+      "id": 1682017,
+      "title": "Wobot AI - Backend Developer - Golang",
+      "company": "Wobot Intelligence Pvt. Ltd.",
+      "min": 2,
+      "max": 3,
+      "exp": "2-3 yrs",
+      "location": "Remote | Anywhere in India/Multiple Locations",
+      "tags": [
+        "Distributed Systems",
+        "Golang",
+        "Concurrency Patterns",
+        "TCP/IP",
+        "DNS",
+        "Linux",
+        "WebSockets"
+      ],
+      "createdTime": 1793644200000
+    },
+    {
+      "id": 1681457,
+      "title": "Mobifly - Senior .Net Developer",
+      "company": "Moonshine Food Ventures",
+      "min": 2,
+      "max": 5,
+      "exp": "2-5 yrs",
+      "location": "Delhi NCR | Gurgaon/Gurugram",
+      "tags": [
+        "C#",
+        "ASP",
+        ".Net",
+        "Backend Architecture",
+        "Server Side Component",
+        "REST API",
+        "SQL Server",
+        "Javascript",
+        "PostgreSQL"
+      ],
+      "createdTime": 1793298600000
+    },
+    {
+      "id": 1681458,
+      "title": "Mobifly - PHP Developer - Server Side Component",
+      "company": "Moonshine Food Ventures",
+      "min": 2,
+      "max": 4,
+      "exp": "2-4 yrs",
+      "location": "Delhi NCR | Gurgaon/Gurugram | Surat",
+      "tags": [
+        "PHP",
+        "Javascript",
+        "Backend Architecture",
+        "Server Side Component",
+        "MVC",
+        "JSON",
+        "MySQL"
+      ],
+      "createdTime": 1793298600000
+    },
+    {
+      "id": 1681543,
+      "title": "Software Engineer - Backend Developement",
+      "company": "HyrMe",
+      "min": 2,
+      "max": 4,
+      "exp": "2-4 yrs",
+      "location": "Anywhere in India/Multiple Locations",
+      "tags": [
+        "Golang",
+        "Kafka",
+        "Redis",
+        "MySQL",
+        "AWS",
+        "Backend Architecture"
+      ],
+      "createdTime": 1793298600000
+    },
+    {
+      "id": 1679262,
+      "title": "Volody - PHP Developer - MySQL/jQuery",
+      "company": "Volody",
+      "min": 2,
+      "max": 5,
+      "exp": "2-5 yrs",
+      "location": "Mumbai",
+      "tags": [
+        "PHP",
+        "Falcon",
+        "MySQL",
+        "jQuery",
+        "Ubuntu"
+      ],
+      "createdTime": 1792348200000
+    },
+    {
+      "id": 1678421,
+      "title": "VoloHealth - Senior Software Developer - Java",
+      "company": "Volo Health Insurance TPA",
+      "min": 2,
+      "max": 5,
+      "exp": "2-5 yrs",
+      "location": "Mumbai",
+      "tags": [
+        "Java",
+        "Spring Boot",
+        "Microservices Architecture",
+        "Kafka",
+        "Spring",
+        "REST API",
+        "AWS"
+      ],
+      "createdTime": 1791916200000
+    },
+    {
+      "id": 1678257,
+      "title": "Software Engineer - Backend Architecture'",
+      "company": "QuickHyre",
+      "min": 2,
+      "max": 7,
+      "exp": "2-7 yrs",
+      "location": "Remote",
+      "tags": [
+        "Distributed Systems",
+        "Microservices Architecture",
+        "SQL",
+        "Algorithm",
+        "Data Structure",
+        "System Design",
+        "Backend Architecture"
+      ],
+      "createdTime": 1791916200000
+    },
+    {
+      "id": 1677836,
+      "title": "Software Engineer - Backend Development",
+      "company": "QuickHyre",
+      "min": 2,
+      "max": 8,
+      "exp": "2-8 yrs",
+      "location": "Remote | Anywhere in India/Multiple Locations",
+      "tags": [
+        "Python",
+        "Java",
+        "Node.js",
+        "TypeScript",
+        "C++",
+        "Data Structure",
+        "Algorithm",
+        "Backend Architecture"
+      ],
+      "createdTime": 1791743400000
+    },
+    {
+      "id": 1676086,
+      "title": "Vedantu Innovations - Product Engineer - Java",
+      "company": "Vedantu Innovations",
+      "min": 2,
+      "max": 5,
+      "exp": "2-5 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "Java",
+        "Spring",
+        "Spring Boot",
+        "SQL",
+        "NoSQL",
+        "System Design",
+        "Backend Architecture"
+      ],
+      "createdTime": 1790706600000
+    },
+    {
+      "id": 1675621,
+      "title": "Senior Software Development Engineer - C#/.Net Core",
+      "company": "Leadsquared",
+      "min": 2,
+      "max": 4,
+      "exp": "2-4 yrs",
+      "location": "Bangalore",
+      "tags": [
+        ".Net",
+        "C#",
+        "MySQL",
+        "ASP",
+        ".Net Core",
+        "RESTful API",
+        "Microservices Architecture"
+      ],
+      "createdTime": 1790620200000
+    },
+    {
+      "id": 1671164,
+      "title": "Siemens - Golang Developer - Backend Services",
+      "company": "Siemens",
+      "min": 2,
+      "max": 6,
+      "exp": "2-6 yrs",
+      "location": "Pune",
+      "tags": [
+        "Golang",
+        "AWS",
+        "DynamoDB",
+        "API Gateway",
+        "Graph DBMS",
+        "SQS",
+        "AWS Lambda",
+        "Backend Architecture"
+      ],
+      "createdTime": 1789324200000
+    },
+    {
+      "id": 1668615,
+      "title": "PTC Software - Senior Software Specialist - Java",
+      "company": "PTC",
+      "min": 2,
+      "max": 5,
+      "exp": "2-5 yrs",
+      "location": "Pune",
+      "tags": [
+        "Design Patterns",
+        "Java",
+        "OOPS",
+        "REST API",
+        "Application Designing"
+      ],
+      "createdTime": 1788460200000
+    },
+    {
+      "id": 1672907,
+      "title": "Practo - Software Engineer II - Backend Development",
+      "company": "Practo",
+      "min": 2,
+      "max": 6,
+      "exp": "2-6 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "Data Structure",
+        "Algorithm",
+        "OOPS",
+        "PostgreSQL",
+        "MySQL",
+        "REST API",
+        "SaaS",
+        "AWS",
+        "Redis"
+      ],
+      "createdTime": 1789756200000
+    },
+    {
+      "id": 1671936,
+      "title": "Focalworks - Python Developer - Django",
+      "company": "Focalworks Solutions",
+      "min": 2,
+      "max": 6,
+      "exp": "2-6 yrs",
+      "location": "Mumbai | Navi Mumbai",
+      "tags": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Artificial Intelligence",
+        "Application Integration",
+        "LLM"
+      ],
+      "createdTime": 1789497000000
+    },
+    {
+      "id": 1671407,
+      "title": "FocalWorks - Software Engineer - Python & AI Applications",
+      "company": "Focalworks Solutions",
+      "min": 2,
+      "max": 5,
+      "exp": "2-5 yrs",
+      "location": "Navi Mumbai",
+      "tags": [
+        "Python",
+        "SQL",
+        "RESTful",
+        "JSON",
+        "Generative AI",
+        "FastAPI",
+        "Docker",
+        "Flask",
+        "Django",
+        "AI Integration"
+      ],
+      "createdTime": 1789410600000
+    },
+    {
+      "id": 1666419,
+      "title": "Amtech Software - Java Developer",
+      "company": "Amtech Software India Pvt Ltd",
+      "min": 2,
+      "max": 7,
+      "exp": "2-7 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "Java",
+        "J2EE",
+        "Hibernate",
+        "EJB",
+        "Swing",
+        "Servlets",
+        "JPA"
+      ],
+      "createdTime": 1787769000000
+    },
+    {
+      "id": 1665678,
+      "title": "Antino Labs - Backend Developer - Node.js",
+      "company": "Antino",
+      "min": 2,
+      "max": 4,
+      "exp": "2-4 yrs",
+      "location": "Gurgaon/Gurugram",
+      "tags": [
+        "Backend Architecture",
+        "Node.js",
+        "Express.js",
+        "NestJS",
+        "Javascript",
+        "TypeScript",
+        "RESTful API",
+        "RDBMS",
+        "AWS",
+        "Microservices Architecture",
+        "Distributed Systems"
+      ],
+      "createdTime": 1787509800000
+    },
+    {
+      "id": 1665225,
+      "title": "Infosec Ventures - Laravel Developer - PHP",
+      "company": "INFOSEC VENTURES",
+      "min": 2,
+      "max": 5,
+      "exp": "2-5 yrs",
+      "location": "Gurgaon/Gurugram",
+      "tags": [
+        "PHP",
+        "Laravel",
+        "MySQL",
+        "Vue.js",
+        "Javascript"
+      ],
+      "createdTime": 1787250600000
+    },
+    {
+      "id": 1661944,
+      "title": "Fibr.ai - Backend Product Engineer - Python",
+      "company": "Fibr.Ai",
+      "min": 2,
+      "max": 5,
+      "exp": "2-5 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "Python",
+        "FastAPI",
+        "MongoDB",
+        "Redis",
+        "AI Integration",
+        "API Integration"
+      ],
+      "createdTime": 1786300200000
+    },
+    {
+      "id": 1661878,
+      "title": "JForce Solutions - Java Developer - Spring Framework",
+      "company": "Jforce Solutions",
+      "min": 2,
+      "max": 3,
+      "exp": "2-3 yrs",
+      "location": "Mumbai",
+      "tags": [
+        "Java",
+        "Spring Boot",
+        "Spring Frameworks",
+        "Microservices Architecture",
+        "OOPS",
+        "MySQL",
+        "Version Control System",
+        "Javascript",
+        "Git"
+      ],
+      "createdTime": 1786300200000
+    },
+    {
+      "id": 1676152,
+      "title": "Ekfrazo Technologies - Software Development Engineer III - Golang",
+      "company": "EKFRAZO TECHNOLOGIES PRIVATE LIMITED",
+      "min": 2,
+      "max": 3,
+      "exp": "2-3 yrs",
+      "location": "Remote",
+      "tags": [
+        "Kubernetes",
+        "Docker",
+        "Golang",
+        "Cloud",
+        "API Integration",
+        "AI Integration",
+        "Backend Architecture"
+      ],
+      "createdTime": 1790706600000
+    },
+    {
+      "id": 1675261,
+      "title": "WhatsApp Automation Engineer - Node.js/Python",
+      "company": "Sumanel Technology Ventures",
+      "min": 2,
+      "max": 5,
+      "exp": "2-5 yrs",
+      "location": "Gurgaon/Gurugram",
+      "tags": [
+        "Chatbot",
+        "IT Automation",
+        "LCDP",
+        "REST API",
+        "Node.js",
+        "Python",
+        "JSON"
+      ],
+      "createdTime": 1790533800000
+    },
+    {
+      "id": 1674424,
+      "title": "Python Developer",
+      "company": "Value Lane Consulting",
+      "min": 2,
+      "max": 7,
+      "exp": "2-7 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "Python",
+        "FastAPI",
+        "Flask",
+        "Django",
+        "RESTful API",
+        "Azure",
+        "Backend Architecture",
+        "OOPS",
+        "Data Structure",
+        "Algorithm"
+      ],
+      "createdTime": 1790188200000
+    },
+    {
+      "id": 1674020,
+      "title": "Java Developer",
+      "company": "Nextloop Technologies",
+      "min": 2,
+      "max": 3,
+      "exp": "2-3 yrs",
+      "location": "Thane | Mumbai",
+      "tags": [
+        "Java",
+        "Backend Architecture",
+        "Spring Boot",
+        "REST API",
+        "OOPS",
+        "Spring Frameworks",
+        "SQL",
+        "PostgreSQL",
+        "GraphQL"
+      ],
+      "createdTime": 1790101800000
+    },
+    {
+      "id": 1673709,
+      "title": "Software Developer - Backend Architecture",
+      "company": "Skyleaf Consultants",
+      "min": 2,
+      "max": 7,
+      "exp": "2-7 yrs",
+      "location": "Gurgaon/Gurugram",
+      "tags": [
+        "Java",
+        "Python",
+        "C#",
+        "Javascript",
+        "Golang",
+        "Git",
+        "Backend Architecture",
+        "Version Control System"
+      ],
+      "createdTime": 1790015400000
+    },
+    {
+      "id": 1673618,
+      "title": "BlackLight Studio Works - Unity Developer - Game Development",
+      "company": "BlackLight Studio Works",
+      "min": 2,
+      "max": 7,
+      "exp": "2-7 yrs",
+      "location": "Noida",
+      "tags": [
+        "Unity3D",
+        "Game Design",
+        "Game Architecture",
+        "2D",
+        "Data Structure",
+        "Algorithm",
+        "OOPS"
+      ],
+      "createdTime": 1790015400000
+    },
+    {
+      "id": 1673040,
+      "title": "Software Engineer - Backend Technologies",
+      "company": "Northeast Recruitment Solution ",
+      "min": 2,
+      "max": 5,
+      "exp": "2-5 yrs",
+      "location": "Remote | Anywhere in India/Multiple Locations",
+      "tags": [
+        "Python",
+        "Java",
+        "C++",
+        "TypeScript",
+        "Rust"
+      ],
+      "createdTime": 1789929000000
+    },
+    {
+      "id": 1672987,
+      "title": "Backend Software Engineer - Python",
+      "company": "DevFyndr",
+      "min": 2,
+      "max": 4,
+      "exp": "2-4 yrs",
+      "location": "Anywhere in India/Multiple Locations",
+      "tags": [
+        "Python",
+        "RESTful API",
+        "AI Integration",
+        "AWS",
+        "API Integration"
+      ],
+      "createdTime": 1789842600000
+    },
+    {
+      "id": 1672985,
+      "title": "Software Engineer - Backend Development",
+      "company": "DevFyndr",
+      "min": 2,
+      "max": 6,
+      "exp": "2-6 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "Python",
+        "Backend Architecture",
+        "API",
+        "FastAPI",
+        "Django",
+        "Flask",
+        "Microservices Architecture",
+        "SQL",
+        "NoSQL",
+        "Cloud"
+      ],
+      "createdTime": 1789842600000
+    },
+    {
+      "id": 1672923,
+      "title": "Junior Azure Integration Support Engineer",
+      "company": "Promaynov Advisory Services",
+      "min": 2,
+      "max": 5,
+      "exp": "2-5 yrs",
+      "location": "Gurgaon/Gurugram | Bangalore",
+      "tags": [
+        "Azure",
+        "Monitoring Tools",
+        "Incident Management",
+        "IT Service Delivery",
+        "Ticketing System",
+        "SLA",
+        "HTTP",
+        "API Integration",
+        "Logic App",
+        "Problem Management"
+      ],
+      "createdTime": 1789756200000
+    },
+    {
+      "id": 1671085,
+      "title": "Python Developer - Django/Flask",
+      "company": "HFT Talent",
+      "min": 2,
+      "max": 5,
+      "exp": "2-5 yrs",
+      "location": "Gurgaon/Gurugram",
+      "tags": [
+        "Python",
+        "Django",
+        "Backend Architecture",
+        "Data Pipeline",
+        "Flask",
+        "FastAPI",
+        "Data Structure",
+        "Algorithm"
+      ],
+      "createdTime": 1789151400000
+    },
+    {
+      "id": 1670611,
+      "title": "Merchant Integration & Solutions Engineer - Payment Domain",
+      "company": "Employee Forums",
+      "min": 2,
+      "max": 4,
+      "exp": "2-4 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "API Integration",
+        "System Integration",
+        "Solution Integration",
+        "Payment Gateway",
+        "REST API"
+      ],
+      "createdTime": 1789065000000
+    },
+    {
+      "id": 1670672,
+      "title": "Josys - Senior Software Engineer - Backend Technologies",
+      "company": "Josys",
+      "min": 2,
+      "max": 5,
+      "exp": "2-5 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "Ruby on Rails",
+        "Node.js",
+        "AWS",
+        "RESTful API",
+        "System Design",
+        "Backend Architecture",
+        "OOPS",
+        "Cloud"
+      ],
+      "createdTime": 1789065000000
+    },
+    {
+      "id": 1670645,
+      "title": "Software Development Engineer I - Backend Architecture",
+      "company": "Supersourcing",
+      "min": 2,
+      "max": 3,
+      "exp": "2-3 yrs",
+      "location": "Remote | Anywhere in India/Multiple Locations",
+      "tags": [
+        "Python",
+        "Java",
+        "SQL",
+        "NoSQL",
+        "System Design",
+        "Algorithm",
+        "Data Structure",
+        "LLM",
+        "Backend Architecture"
+      ],
+      "createdTime": 1789065000000
+    },
+    {
+      "id": 1669056,
+      "title": "Backend & Microservices Developer",
+      "company": "Forward Eye Technologies",
+      "min": 2,
+      "max": 7,
+      "exp": "2-7 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "Backend Architecture",
+        "Microservices Architecture",
+        "ETL",
+        "Spring Boot",
+        "Java",
+        "REST API",
+        "API Integration",
+        "SQL",
+        "Cloud",
+        "PL-SQL",
+        "Docker"
+      ],
+      "createdTime": 1788719400000
+    },
+    {
+      "id": 1669268,
+      "title": "IFTAS - Python Developer - Backend Development",
+      "company": "Indian Financial Technology And Alliedservices",
+      "min": 2,
+      "max": 4,
+      "exp": "2-4 yrs",
+      "location": "Mumbai | Maharashtra",
+      "tags": [
+        "Python",
+        "Django",
+        "Flask",
+        "SQL",
+        "SQL Server",
+        "MySQL",
+        "ORM"
+      ],
+      "createdTime": 1788719400000
+    },
+    {
+      "id": 1668957,
+      "title": "Backend Microservices Developer",
+      "company": "Forward Eye Technologies",
+      "min": 2,
+      "max": 5,
+      "exp": "2-5 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "Java",
+        "Spring Boot",
+        "Microservices Architecture",
+        "Power Center",
+        "Kafka",
+        "ETL",
+        "Oracle MDM",
+        "API Integration",
+        "AWS"
+      ],
+      "createdTime": 1788546600000
+    },
+    {
+      "id": 1668397,
+      "title": "Backend Software Engineer - Core Java",
+      "company": "HumanWiz",
+      "min": 2,
+      "max": 6,
+      "exp": "2-6 yrs",
+      "location": "Bangalore | Chennai | Ahmedabad",
+      "tags": [
+        "Java",
+        "Microservices Architecture",
+        "System Integration",
+        "AI Tools",
+        "System Scalability"
+      ],
+      "createdTime": 1788373800000
+    },
+    {
+      "id": 1668466,
+      "title": "Backend Engineer - Java Technologies",
+      "company": "HR Works Consultancy",
+      "min": 2,
+      "max": 6,
+      "exp": "2-6 yrs",
+      "location": "Bangalore | Hyderabad | Chennai",
+      "tags": [
+        "Microservices Architecture",
+        "Java",
+        "System Design",
+        "Copilot",
+        "Github"
+      ],
+      "createdTime": 1788373800000
+    },
+    {
+      "id": 1668367,
+      "title": "Software Developer - Backend Architecture - Python/Django",
+      "company": "QuickSync",
+      "min": 2,
+      "max": 5,
+      "exp": "2-5 yrs",
+      "location": "Remote",
+      "tags": [
+        "Python",
+        "Django",
+        "REST API",
+        "AWS",
+        "Backend Architecture",
+        "RDBMS",
+        "API Integration"
+      ],
+      "createdTime": 1788373800000
+    },
+    {
+      "id": 1668051,
+      "title": "Software Engineer - Java",
+      "company": "TalentSyker",
+      "min": 2,
+      "max": 5,
+      "exp": "2-5 yrs",
+      "location": "Remote | Anywhere in India/Multiple Locations",
+      "tags": [
+        "Java",
+        "Spring Boot",
+        "Application Designing",
+        "REST API",
+        "React.js"
+      ],
+      "createdTime": 1788287400000
+    },
+    {
+      "id": 1666985,
+      "title": "Vehant Technologies - C++ Developer - CUDA Programming",
+      "company": "Vehant Technologies",
+      "min": 2,
+      "max": 4,
+      "exp": "2-4 yrs",
+      "location": "Noida",
+      "tags": [
+        "C++",
+        "C++11",
+        "C++14",
+        "OOPS",
+        "CUDA",
+        "Linux",
+        "Cmake",
+        "GPU"
+      ],
+      "createdTime": 1787941800000
+    },
+    {
+      "id": 1666907,
+      "title": "Liquiloans - Software Developer - PHP/Laravel",
+      "company": "LiquiLoans",
+      "min": 2,
+      "max": 6,
+      "exp": "2-6 yrs",
+      "location": "Mumbai",
+      "tags": [
+        "PHP",
+        "Laravel",
+        "SQL",
+        "OOPS",
+        "REST API",
+        "MVC",
+        "RDBMS"
+      ],
+      "createdTime": 1787941800000
+    },
+    {
+      "id": 1666647,
+      "title": "The Card Company - Software Development Engineer I/II - Backend Technologies",
+      "company": "The Card Company",
+      "min": 2,
+      "max": 4,
+      "exp": "2-4 yrs",
+      "location": "Gurgaon/Gurugram",
+      "tags": [
+        "Java",
+        "Spring Boot",
+        "Microservices Architecture",
+        "AWS",
+        "Apache Spark",
+        "Kafka",
+        "RESTful API"
+      ],
+      "createdTime": 1787769000000
+    },
+    {
+      "id": 1666377,
+      "title": "Senior Backend Developer - Python/Django",
+      "company": "Talent Quest Technologies",
+      "min": 2,
+      "max": 5,
+      "exp": "2-5 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "Backend Architecture",
+        "Python",
+        "Django",
+        "API",
+        "Rest Webservices",
+        "AWS",
+        "Redis",
+        "PostgreSQL"
+      ],
+      "createdTime": 1787682600000
+    },
+    {
+      "id": 1665722,
+      "title": "Senior Backend Engineer",
+      "company": "Scaling Theory Technologies",
+      "min": 2,
+      "max": 5,
+      "exp": "2-5 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "Java",
+        "Spring Boot",
+        "Python",
+        "Golang",
+        "Microservices Architecture",
+        "NoSQL",
+        ".Net",
+        "Backend Architecture",
+        "Concurrency Patterns"
+      ],
+      "createdTime": 1787596200000
+    },
+    {
+      "id": 1663063,
+      "title": "Software Developer - C++",
+      "company": "Youth4 Talent Solutions",
+      "min": 2,
+      "max": 6,
+      "exp": "2-6 yrs",
+      "location": "Mumbai | Gurgaon/Gurugram",
+      "tags": [
+        "C++",
+        "Data Structure",
+        "Algorithm",
+        "Solution Design",
+        "Solution Implementation",
+        "HFT",
+        "Algorithmic Trading",
+        "Operating Systems"
+      ],
+      "createdTime": 1786645800000
+    },
+    {
+      "id": 1662959,
+      "title": "Chat360 - Forward Deployed Engineer - Python",
+      "company": "Sumanel Technology Ventures",
+      "min": 2,
+      "max": 5,
+      "exp": "2-5 yrs",
+      "location": "Pune",
+      "tags": [
+        "Python",
+        "Django",
+        "REST API",
+        "PostgreSQL",
+        "AI Integration",
+        "LLM",
+        "MySQL"
+      ],
+      "createdTime": 1786559400000
+    },
+    {
+      "id": 1662725,
+      "title": "Senior Software Engineer - Backend Technologies",
+      "company": "Uniq You",
+      "min": 2,
+      "max": 4,
+      "exp": "2-4 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "Backend Architecture",
+        "Python",
+        "Java",
+        "Golang",
+        "Data Structure",
+        "Algorithm",
+        "System Design",
+        "RDBMS",
+        "NoSQL",
+        "Node.js"
+      ],
+      "createdTime": 1786473000000
+    },
+    {
+      "id": 1662660,
+      "title": "Software Engineer - Backend Technologies",
+      "company": "Tarlan",
+      "min": 2,
+      "max": 5,
+      "exp": "2-5 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "Backend Architecture",
+        "Python",
+        "FastAPI",
+        "PostgreSQL",
+        "Django",
+        "Flask"
+      ],
+      "createdTime": 1786473000000
+    },
+    {
+      "id": 1659102,
+      "title": "Python Developer - Django/Flask",
+      "company": "Supertal Tech",
+      "min": 2,
+      "max": 3,
+      "exp": "2-3 yrs",
+      "location": "Remote",
+      "tags": [
+        "Python",
+        "Django",
+        "Flask",
+        "FastAPI"
+      ],
+      "createdTime": 1785349800000
+    },
+    {
+      "id": 1656184,
+      "title": "Cumulations Technologies - .Net Developer - C#/ASP/Entity Framework",
+      "company": "Cumulations Technologies",
+      "min": 2,
+      "max": 4,
+      "exp": "2-4 yrs",
+      "location": "Bangalore",
+      "tags": [
+        ".Net",
+        "Solution Architect",
+        "Backend Architecture",
+        "AWS",
+        "C#",
+        "ASP",
+        ".Net Core",
+        "MVC",
+        "WebAPI",
+        "Entity Framework"
+      ],
+      "createdTime": 1784572200000
+    },
+    {
+      "id": 1656145,
+      "title": "Volopay - Senior Ruby on Rails Developer",
+      "company": "Volopay",
+      "min": 2,
+      "max": 6,
+      "exp": "2-6 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "Ruby on Rails",
+        "Ruby Programming",
+        "Design Patterns",
+        "RESTful API",
+        "Version Control System",
+        "Rspec"
+      ],
+      "createdTime": 1784572200000
+    },
+    {
+      "id": 1655901,
+      "title": "OneStream Developer - VB/.Net",
+      "company": "Anlage Infotech",
+      "min": 2,
+      "max": 7,
+      "exp": "2-7 yrs",
+      "location": "Hyderabad | Bangalore | Pune | Chennai",
+      "tags": [
+        "OneStream",
+        "OneStream Implementation",
+        "Streaming Protocols",
+        "EPM",
+        "VB",
+        ".Net"
+      ],
+      "createdTime": 1784485800000
+    },
+    {
+      "id": 1654594,
+      "title": "Groundtruth - Software Engineer - Java & Scala",
+      "company": "GroundTruth",
+      "min": 2,
+      "max": 5,
+      "exp": "2-5 yrs",
+      "location": "Remote",
+      "tags": [
+        "Scala",
+        "Java",
+        "Python",
+        "Data Structure",
+        "Algorithm",
+        "Distributed Systems",
+        "System Design",
+        "Design Patterns",
+        "Concurrency Patterns",
+        "AWS",
+        "AWS EMR"
+      ],
+      "createdTime": 1784140200000
+    },
+    {
+      "id": 1649286,
+      "title": "AIonOS  - Software Engineer - AI Agent Platform",
+      "company": "IndiGo",
+      "min": 2,
+      "max": 6,
+      "exp": "2-6 yrs",
+      "location": "Hyderabad",
+      "tags": [
+        "Python",
+        "Golang",
+        "TypeScript",
+        "System Design",
+        "Node.js",
+        "Java",
+        "AWS",
+        "SQL",
+        "AI Integration",
+        "Kafka",
+        "Microservices Architecture"
+      ],
+      "createdTime": 1782671400000
+    },
+    {
+      "id": 1653719,
+      "title": "Altinvest Online Platform - Laravel Developer - PHP/MySQL",
+      "company": "Altinvest",
+      "min": 2,
+      "max": 10,
+      "exp": "2-10 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "Laravel",
+        "Backend Architecture",
+        "MySQL",
+        "API",
+        "PHP",
+        "Microservices Architecture",
+        "OOPS",
+        "Design Patterns",
+        "AWS"
+      ],
+      "createdTime": 1783881000000
+    },
+    {
+      "id": 1647437,
+      "title": "Senior Software Engineer - C#/.Net",
+      "company": "UST",
+      "min": 2,
+      "max": 7,
+      "exp": "2-7 yrs",
+      "location": "Anywhere in India/Multiple Locations",
+      "tags": [
+        "C#",
+        ".Net",
+        "LIMS",
+        "ASP",
+        ".Net Core",
+        "SQL Server",
+        "REST API",
+        "OOPS",
+        "Azure"
+      ],
+      "createdTime": 1782153000000
+    },
+    {
+      "id": 1652908,
+      "title": "Itilite Technologies - Senior Software Engineer - Python",
+      "company": "ITILITE",
+      "min": 2,
+      "max": 5,
+      "exp": "2-5 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "Python",
+        "Product Design",
+        "IT Product Architecture",
+        "Data Structure",
+        "Algorithm",
+        "OOPS",
+        "Distributed Systems",
+        "NoSQL",
+        "MongoDB",
+        "Flask",
+        "Django"
+      ],
+      "createdTime": 1783621800000
+    },
+    {
+      "id": 1652978,
+      "title": "Java Developer - Microservices Architecture",
+      "company": "Appzlogic Mobility Solutions",
+      "min": 2,
+      "max": 6,
+      "exp": "2-6 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "Java",
+        "J2EE",
+        "Spring",
+        "Spring Boot",
+        "Microservices Architecture",
+        "Hibernate",
+        "RESTful Webservices",
+        "SQL",
+        "Maven",
+        "JUnit",
+        "Git"
+      ],
+      "createdTime": 1783621800000
+    },
+    {
+      "id": 1651862,
+      "title": "Ripik AI - Backend Engineer - Java/Spring Boot",
+      "company": "Ripik Technology",
+      "min": 2,
+      "max": 5,
+      "exp": "2-5 yrs",
+      "location": "Noida",
+      "tags": [
+        "Java",
+        "AWS",
+        "SQL",
+        "Multithreading",
+        "Spring Boot",
+        "PostgreSQL",
+        "MySQL"
+      ],
+      "createdTime": 1783362600000
+    },
+    {
+      "id": 1651663,
+      "title": "Deepwatch - Software Engineer - Java",
+      "company": "Deepwatch",
+      "min": 2,
+      "max": 4,
+      "exp": "2-4 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "System Design",
+        "Distributed Systems",
+        "Kafka",
+        "Microservices Architecture",
+        "Java",
+        "Python",
+        "Data Structure",
+        "Algorithm",
+        "SQL"
+      ],
+      "createdTime": 1783276200000
+    }
+  ]
+}

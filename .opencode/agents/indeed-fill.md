@@ -54,7 +54,7 @@ orchestrator's context window.
    in.indeed.com only. If absent or false, fill everything, stop on the review step and
    report `READY FOR HUMAN SUBMISSION`. Pause (don't stop) for Sign in, OTPs, CAPTCHAs —
    no Indeed password is stored, so ask for credentials via the question tool and wait.
-5. On finish: append the result to `ats_progress.json` (applied / blocked / skipped-with-reason),
+5. On finish: append the result to `src/application_progress/indeed/indeed_progress.json` (applied / blocked / skipped-with-reason),
    append `{company, role, location, salary, url, status}` to `jobs_applied.json`, add the link
    to `job_links.json`, and fold any new Indeed observation into
    `ats/indeed/observation_importance.md` (create the folder if absent). Defer EXTERNAL_FLOW

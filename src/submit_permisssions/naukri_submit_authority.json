@@ -1,0 +1,9 @@
+{
+  "platform": "naukri",
+  "granted_by_user": true,
+  "granted_at": "2026-10-28T17:32:00+05:30",
+  "scope": "naukri_internal_native_apply",
+  "batches": [1, 2, 3, 4],
+  "max_jobs": 40,
+  "user_selection": "Yes, grant submit authority (auto-apply native 1-click & recruiter questionnaire submissions)"
+}

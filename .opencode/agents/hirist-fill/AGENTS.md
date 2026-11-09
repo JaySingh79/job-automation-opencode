@@ -85,7 +85,7 @@ Per job, in this order, no deviations:
 
 ## 5. Ledgers + output
 
-- Queue: `src/job_search_results/hirist_<label>_<date>.json` (`{company,role,url,id,min,max,loc,status}`).
+- Queue: `src/job_search_results/hirist/hirist_<label>_<date>.json` (`{company,role,url,id,min,max,loc,status}`).
 - Applied: `src/applied/hirist_<date>.json` (`{jobId,applicationId,title,company,url}` + `pending_assessment[]` with questions).
 - New recurring observations → `src/knowledge_source/hirist/bottlenecks.md` (only 3+ time hindrances).
 - Pending-item URLs (manual handoff): `https://www.hirist.tech/j/<slug>-<id>` where slug =
@@ -95,3 +95,8 @@ Per job, in this order, no deviations:
 ## 6. Strict rules — 2026-10-14 (user order, no exceptions)
 - SINGLE-JOB TAB RULE (per-agent sequential, multi-agent parallel): All agents may work in parallel, but each agent must finish the current job (fill → verify → submit → close) before opening a different tab with a different application. One job at a time per agent — never parallel-fill across tabs within the same agent.
 - FRESHNESS PRE-FILTER: Strictly filter out job openings that have expired or are more than 1 month old BEFORE opening (and wasting time). Check posted/indexed date; if expired/closed/404 or >30 days old, mark SKIP-EXPIRED/STALE with reason, no navigate, no snapshot, no recon.
+- ANTI-BOT DETECTION HUMAN EMULATION (MANDATORY):
+  1. DEFINITELY SCROLL 4 TIMES: On every Hirist page, perform at least 4 smooth scrolls (25%, 50%, 75%, 100% of viewport) to trigger viewport observers, lazy components, and human behavior telemetry.
+  2. SEQUENTIAL TOP-TO-BOTTOM ORDER: Complete fields in top-to-bottom visual order per modal/page.
+  3. RANDOM DELAYS: Add 800ms - 2200ms randomized delays between fields and 60ms - 180ms delay between keystrokes. Never perform instantaneous bulk DOM sets.
+  4. 5 AGENTS MAX: Process at most 5 jobs/agents at a time.

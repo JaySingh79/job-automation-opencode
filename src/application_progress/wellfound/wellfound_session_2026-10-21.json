@@ -1,0 +1,36 @@
+{
+  "timestamp": "2026-10-21T01:39:00+05:30",
+  "platform": "Wellfound",
+  "total_fresh_pool": 50,
+  "subagents_count": 4,
+  "results": {
+    "applied_count": 23,
+    "skipped_count": 21,
+    "blocked_count": 6
+  },
+  "applied_jobs": [
+    {"id": "4844645", "company": "Artha Labs (Attention Tag)", "role": "Machine Learning Engineer"},
+    {"id": "4829557", "company": "Neoware Technology Solutions", "role": "Data Scientist"},
+    {"id": "4863292", "company": "meerixa", "role": "AI Engineer"},
+    {"id": "4863291", "company": "meerixa", "role": "Agentic AI Engineer"},
+    {"id": "4867019", "company": "CDSpace Robotics", "role": "Robotics Perception & Edge AI Engineer"},
+    {"id": "4829680", "company": "AVYAM LABS", "role": "AI/ML Intern"},
+    {"id": "4867027", "company": "Ind-US Target", "role": "AI Engineer"},
+    {"id": "4126022", "company": "Alchemyst AI", "role": "Full Stack AI Engineer Intern"},
+    {"id": "4808123", "company": "Vraify", "role": "Math Expert – Terminal Bench"},
+    {"id": "4791922", "company": "Begig.", "role": "AI Engineer"},
+    {"id": "4746834", "company": "Runmivo", "role": "AI Agent Engineer Intern"},
+    {"id": "3299524", "company": "Dobbe AI", "role": "AI Engineer Intern (Agentic AI)"},
+    {"id": "4799697", "company": "Brenin Technologies", "role": "Python Automation & Reconciliation Engineer"},
+    {"id": "3372475", "company": "Brenin Technologies", "role": "Full Stack Developer (Python/ML)"},
+    {"id": "4385637", "company": "Tech Startup", "role": "Machine learning Engineer"},
+    {"id": "4622534", "company": "Tech Startup", "role": "Data Science Intern — Agentic AI"},
+    {"id": "3116022", "company": "Tech Startup", "role": "Data Scientist"},
+    {"id": "3767863", "company": "Tech Startup", "role": "Data Scientist"},
+    {"id": "4779087", "company": "Gandiva.ai", "role": "Founder's Office (CTO) - Agentic AI Engineer"},
+    {"id": "4594798", "company": "Tech Startup", "role": "Data & Machine Learning Engineer"},
+    {"id": "4544828", "company": "Tech Startup", "role": "AI Engineer"},
+    {"id": "3298168", "company": "Tech Startup", "role": "AI/ML Engineer"},
+    {"id": "2876154", "company": "EveoAI", "role": "Data Scientist Junior (8 positions)"}
+  ]
+}

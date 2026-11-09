@@ -1,0 +1,351 @@
+{
+  "worker": 1,
+  "sprint": 5,
+  "target_applied": 12,
+  "total_jobs": 17,
+  "jobs": [
+    {
+      "id": 1659266,
+      "title": "Associate Lead/Engineer  - AI/ML",
+      "company": "Talent Pro",
+      "min": 3,
+      "max": 6,
+      "exp": "3-6 yrs",
+      "location": "Pune",
+      "tags": [
+        "Python",
+        "Machine Learning",
+        "Artificial Intelligence",
+        "Deep Learning",
+        "SQL",
+        "Data Analytics",
+        "RAG",
+        "VectorDB",
+        "Spark",
+        "PySpark",
+        "Tensorflow"
+      ],
+      "createdTime": 1785349800000
+    },
+    {
+      "id": 1658525,
+      "title": "Senior AI Engineer - Python",
+      "company": "Tristone Strategic Partners LLP",
+      "min": 3,
+      "max": 11,
+      "exp": "3-11 yrs",
+      "location": "Mumbai",
+      "tags": [
+        "Generative AI",
+        "Python",
+        "LangChain",
+        "LangGraph",
+        "Agentic AI",
+        "RAG",
+        "LLM",
+        "Observability Services"
+      ],
+      "createdTime": 1785177000000
+    },
+    {
+      "id": 1657897,
+      "title": "Hexalog - Artificial Intelligence Engineer - LangGraph",
+      "company": "Hexalog",
+      "min": 3,
+      "max": 6,
+      "exp": "3-6 yrs",
+      "location": "Gurgaon/Gurugram",
+      "tags": [
+        "Artificial Intelligence",
+        "LangGraph",
+        "LLM",
+        "Workflows",
+        "Python"
+      ],
+      "createdTime": 1785090600000
+    },
+    {
+      "id": 1657943,
+      "title": "LLM Engineer",
+      "company": "ANP HR Consultancy",
+      "min": 3,
+      "max": 6,
+      "exp": "3-6 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "Artificial Intelligence",
+        "LLM",
+        "Generative AI",
+        "Prompt Engineering",
+        "Agentic AI",
+        "RAG",
+        "Python",
+        "Pandas"
+      ],
+      "createdTime": 1785090600000
+    },
+    {
+      "id": 1656666,
+      "title": "Straive - Senior Data Scientist - Machine Learning Models",
+      "company": "SPI TECHNOLOGIES INDIA PRIVATE LIMITED",
+      "min": 3,
+      "max": 8,
+      "exp": "3-8 yrs",
+      "location": "Hyderabad | Gurgaon/Gurugram | Bangalore",
+      "tags": [
+        "Data Science",
+        "Data Scientist",
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Data Modeling",
+        "AWS",
+        "Python",
+        "SQL"
+      ],
+      "createdTime": 1784658600000
+    },
+    {
+      "id": 1656729,
+      "title": "Machine Learning Engineer",
+      "company": "Recruit Me",
+      "min": 3,
+      "max": 4,
+      "exp": "3-4 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "Machine Learning",
+        "Deep Learning",
+        "Python",
+        "SQL",
+        "Data Science",
+        "Data Scientist",
+        "PySpark",
+        "Azure Databricks",
+        "LLM"
+      ],
+      "createdTime": 1784658600000
+    },
+    {
+      "id": 1654533,
+      "title": "Senior Software Engineer - Legacy Modernization & AI",
+      "company": "Geek Technologies",
+      "min": 3,
+      "max": 6,
+      "exp": "3-6 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "Legacy Modernization",
+        "Artificial Intelligence",
+        "Applications Support",
+        "Performance Tuning"
+      ],
+      "createdTime": 1784053800000
+    },
+    {
+      "id": 1654174,
+      "title": "CDM Smith - Data Science Specialist",
+      "company": "CDM Smith",
+      "min": 3,
+      "max": 6,
+      "exp": "3-6 yrs",
+      "location": "Bangalore | Chennai | Pune",
+      "tags": [
+        "Data Science",
+        "Data Scientist",
+        "Generative AI",
+        "NLP",
+        "LLM",
+        "Machine Learning",
+        "Deep Learning",
+        "OpenAI",
+        "Prompt Engineering"
+      ],
+      "createdTime": 1784053800000
+    },
+    {
+      "id": 1654119,
+      "title": "Senior AI/ML Researcher - LLM",
+      "company": "IAI Solution",
+      "min": 3,
+      "max": 6,
+      "exp": "3-6 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Data Science",
+        "Data Scientist",
+        "R&D",
+        "PyTorch",
+        "Predictive Modeling",
+        "Deep Learning"
+      ],
+      "createdTime": 1783967400000
+    },
+    {
+      "id": 1653512,
+      "title": "Data Scientist",
+      "company": "Impetus Career Consultants",
+      "min": 3,
+      "max": 15,
+      "exp": "3-15 yrs",
+      "location": "Anywhere in India/Multiple Locations | Remote",
+      "tags": [
+        "Data Science",
+        "Data Scientist",
+        "Machine Learning",
+        "Statistical Modeling",
+        "Python",
+        "R",
+        "SQL",
+        "NLP",
+        "Predictive Modeling"
+      ],
+      "createdTime": 1783881000000
+    },
+    {
+      "id": 1653511,
+      "title": "AI/ML Engineer",
+      "company": "Impetus Career Consultants",
+      "min": 3,
+      "max": 15,
+      "exp": "3-15 yrs",
+      "location": "Anywhere in India/Multiple Locations | Remote",
+      "tags": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Deep Learning",
+        "NLP",
+        "Computer Vision",
+        "Generative AI",
+        "MLOps",
+        "Predictive Analytics",
+        "PyTorch",
+        "Tensorflow"
+      ],
+      "createdTime": 1783881000000
+    },
+    {
+      "id": 1653503,
+      "title": "Senior Data Scientist - Machine Learning Solutions",
+      "company": "Jubilant HR Consultants",
+      "min": 3,
+      "max": 5,
+      "exp": "3-5 yrs",
+      "location": "Mumbai",
+      "tags": [
+        "Data Science",
+        "Data Scientist",
+        "Python",
+        "Algorithm",
+        "Statistical Modeling",
+        "NLP",
+        "Deep Learning",
+        "Predictive Modeling",
+        "Time Series Forecasting",
+        "Machine Learning"
+      ],
+      "createdTime": 1783881000000
+    },
+    {
+      "id": 1653499,
+      "title": "Data Scientist - Machine Learning",
+      "company": "D Square Consulting Services",
+      "min": 3,
+      "max": 5,
+      "exp": "3-5 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "Data Science",
+        "Data Scientist",
+        "SQL",
+        "Python",
+        "Machine Learning",
+        "Statistical Modeling",
+        "Deep Learning",
+        "AWS",
+        "Tableau",
+        "Power BI"
+      ],
+      "createdTime": 1783881000000
+    },
+    {
+      "id": 1652913,
+      "title": "Data Scientist - Machine Learning & Predictive Modeling",
+      "company": "Aspyra HR Services ",
+      "min": 3,
+      "max": 8,
+      "exp": "3-8 yrs",
+      "location": "Gurgaon/Gurugram | Bangalore | Pune",
+      "tags": [
+        "Python",
+        "Machine Learning",
+        "Data Science",
+        "Predictive Modeling",
+        "Statistical Modeling",
+        "Credit Risk Modeling",
+        "SQL",
+        "ETL"
+      ],
+      "createdTime": 1783621800000
+    },
+    {
+      "id": 1653118,
+      "title": "Data Scientist - Python/Machine Learning",
+      "company": "Aspyra HR Services ",
+      "min": 3,
+      "max": 10,
+      "exp": "3-10 yrs",
+      "location": "Pune | Bangalore | Delhi NCR",
+      "tags": [
+        "Python",
+        "Machine Learning",
+        "Data Science",
+        "Data Scientist",
+        "Predictive Modeling",
+        "SQL",
+        "Artificial Intelligence"
+      ],
+      "createdTime": 1783621800000
+    },
+    {
+      "id": 1653001,
+      "title": "Data Scientist - Python",
+      "company": "Mount Talent Consulting",
+      "min": 3,
+      "max": 8,
+      "exp": "3-8 yrs",
+      "location": "Bangalore | Chennai",
+      "tags": [
+        "Data Science",
+        "Data Scientist",
+        "Python",
+        "Predictive Analytics",
+        "Machine Learning",
+        "Artificial Intelligence",
+        "Predictive Modeling"
+      ],
+      "createdTime": 1783621800000
+    },
+    {
+      "id": 1652770,
+      "title": "Fast Track Construction - AIOps Engineer",
+      "company": "Fast Track Projects & Services",
+      "min": 3,
+      "max": 7,
+      "exp": "3-7 yrs",
+      "location": "Hyderabad",
+      "tags": [
+        "AIOps",
+        "Python",
+        "LLM",
+        "Artificial Intelligence",
+        "LangChain",
+        "MLOps",
+        "AI Integration",
+        "RAG"
+      ],
+      "createdTime": 1783535400000
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+[2026-10-19 20:19:33.556] [INFO    ] [test_playwright_captcha.py:403] ================================================================================
+[2026-10-19 20:19:33.557] [INFO    ] [test_playwright_captcha.py:404] PLAYWRIGHT-CAPTCHA TEST RUN STARTED AT 2026-10-19T20:19:33.557425
+[2026-10-19 20:19:33.558] [INFO    ] [test_playwright_captcha.py:405] Configuration: test=turnstile, headless=True, log_file=src\application_progress\captcha_test_run_20261019_201933.log
+[2026-10-19 20:19:33.558] [INFO    ] [test_playwright_captcha.py:406] ================================================================================
+[2026-10-19 20:19:35.238] [INFO    ] [test_playwright_captcha.py:411] Launching Chromium browser instance...
+[2026-10-19 20:19:35.601] [INFO    ] [test_playwright_captcha.py:416] Browser launched successfully.
+[2026-10-19 20:19:35.990] [INFO    ] [test_playwright_captcha.py:254] ======================================================================
+[2026-10-19 20:19:35.991] [INFO    ] [test_playwright_captcha.py:255] STARTING TEST: Cloudflare Turnstile Click Solver
+[2026-10-19 20:19:35.991] [INFO    ] [test_playwright_captcha.py:256] Target URL: https://2captcha.com/demo/cloudflare-turnstile
+[2026-10-19 20:19:35.991] [INFO    ] [test_playwright_captcha.py:257] ======================================================================
+[2026-10-19 20:19:35.991] [INFO    ] [test_playwright_captcha.py:261] [Step 1] Navigating to Cloudflare Turnstile demo page...
+[2026-10-19 20:19:42.323] [INFO    ] [test_playwright_captcha.py:264] [Step 1] Page loaded in 6.33s
+[2026-10-19 20:19:45.339] [INFO    ] [test_playwright_captcha.py:268] [Step 2] Searching for Turnstile container (#cf-turnstile)...
+[2026-10-19 20:19:45.613] [INFO    ] [test_playwright_captcha.py:271] [Step 2] Found #cf-turnstile count: 1
+[2026-10-19 20:19:45.614] [INFO    ] [test_playwright_captcha.py:275] [Step 3] Initializing ClickSolver and attempting solve_captcha...
+[2026-10-19 20:19:45.665] [INFO    ] [base_solver.py:347] Solving cloudflare_turnstile captcha, attempt 1/2
+[2026-10-19 20:19:45.665] [DEBUG   ] [click.py:26] Solving Cloudflare Turnstile captcha using click...
+[2026-10-19 20:19:45.665] [INFO    ] [solve_by_click.py:46] Starting Cloudflare turnstile challenge solving by click...
+[2026-10-19 20:19:45.666] [DEBUG   ] [detection.py:33] Detecting Cloudflare challenge...
+[2026-10-19 20:19:45.716] [DEBUG   ] [detection.py:53] Cloudflare challenge not detected
+[2026-10-19 20:19:45.716] [DEBUG   ] [detection.py:24] Detecting expected content with selector: None
+[2026-10-19 20:19:45.716] [INFO    ] [solve_by_click.py:52] No Cloudflare challenge detected
+[2026-10-19 20:19:45.717] [DEBUG   ] [click.py:37] Solved Cloudflare Turnstile captcha
+[2026-10-19 20:19:45.717] [INFO    ] [test_playwright_captcha.py:285] [Step 3] ClickSolver.solve_captcha executed successfully.
+[2026-10-19 20:19:45.717] [INFO    ] [base_solver.py:205] Cleaning up Click-based Captcha Solver...
+[2026-10-19 20:19:45.717] [INFO    ] [base_solver.py:214] Click-based Captcha Solver cleanup completed
+[2026-10-19 20:19:45.718] [INFO    ] [test_playwright_captcha.py:296] [Step 4] Checking submit button and verification result...
+[2026-10-19 20:19:49.441] [INFO    ] [test_playwright_captcha.py:305] [Step 4] 'Captcha is passed successfully!' visible: False
+[2026-10-19 20:19:49.486] [INFO    ] [test_playwright_captcha.py:316] Closed test page for Cloudflare Turnstile.
+[2026-10-19 20:19:49.487] [INFO    ] [test_playwright_captcha.py:429] Closing browser...
+[2026-10-19 20:19:49.708] [INFO    ] [test_playwright_captcha.py:431] Browser closed.
+[2026-10-19 20:19:49.751] [INFO    ] [test_playwright_captcha.py:433] ================================================================================
+[2026-10-19 20:19:49.752] [INFO    ] [test_playwright_captcha.py:434] TEST SUITE SUMMARY REPORT:
+[2026-10-19 20:19:49.752] [INFO    ] [test_playwright_captcha.py:436] -> Test: Cloudflare Turnstile Click Solver
+[2026-10-19 20:19:49.752] [INFO    ] [test_playwright_captcha.py:438]    - container_search: {'found': True}
+[2026-10-19 20:19:49.753] [INFO    ] [test_playwright_captcha.py:438]    - solve_attempt: {'success': True, 'error_or_note': None}
+[2026-10-19 20:19:49.753] [INFO    ] [test_playwright_captcha.py:438]    - form_result: {'passed': False}
+[2026-10-19 20:19:49.755] [INFO    ] [test_playwright_captcha.py:439] Detailed debug log written to: D:\Projects\PRACTICE\firecrawl_test\src\application_progress\captcha_test_run_20261019_201933.log
+[2026-10-19 20:19:49.755] [INFO    ] [test_playwright_captcha.py:440] ================================================================================

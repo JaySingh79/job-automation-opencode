@@ -1,0 +1,18 @@
+const fs = require('fs');
+let p = 'D:/Projects/PRACTICE/firecrawl_test/src/application_progress/wellfound_progress.json';
+let d = JSON.parse(fs.readFileSync(p, 'utf8'));
+if (!d.applied.includes('4670227 Spheresmith-AI-Eng')) d.applied.push('4670227 Spheresmith-AI-Eng');
+if (!d.skipped.includes('4391339 TRAKO-CLOSED')) d.skipped.push('4391339 TRAKO-CLOSED');
+d.done = d.applied.length;
+fs.writeFileSync(p, JSON.stringify(d, null, 2));
+console.log('progress done=' + d.done);
+let q = 'D:/Projects/PRACTICE/firecrawl_test/src/applied/jobs_applied.json';
+let j = JSON.parse(fs.readFileSync(q, 'utf8'));
+j.wellfound.push({company: 'Spheresmith', role: 'AI Engineer', location: 'Bangalore Urban (In office, WFH flexibility)', salary: 'not listed', url: 'https://wellfound.com/jobs/4670227-ai-engineer', status: 'applied', date: '2026-09-26', note: 'Discovery: 2-7y exact LangGraph/RAG identity; Variant A; disabled Applied x2'});
+fs.writeFileSync(q, JSON.stringify(j, null, 2));
+console.log('wellfound len=' + j.wellfound.length);
+let r = 'D:/Projects/PRACTICE/firecrawl_test/src/job_search_results/job_links.json';
+let l = JSON.parse(fs.readFileSync(r, 'utf8'));
+l['Spheresmith'] = 'https://wellfound.com/jobs/4670227-ai-engineer';
+fs.writeFileSync(r, JSON.stringify(l, null, 2));
+console.log('links ok');

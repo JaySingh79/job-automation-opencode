@@ -21,6 +21,7 @@ idfc_content.html
 oracle-*.md
 # tool scratch and caches - regenerated, never reviewed
 .playwright-mcp/
+.playwright/
 .serena/
 .claude/.headroom_wrap_marker.json
 necessary_browsing_automation\chat_history_gemini.md
@@ -58,3 +59,42 @@ package.json
 field_map.json
 user_profile.json
 package-lock.json
+
+# Credentials, secrets & leak checks
+Neo4j-*.txt
+*neo4j*.txt
+check_env_leak.txt
+.agents/**/mcp_config.json
+
+# Databases, external repos & tool caches
+cocoindex.db/
+30-Days-Of-JavaScript/
+residual_skills/
+.claude/*.lock
+
+# Snapshots with applicant PII & large binaries
+src/accessability_snapshot/
+
+# Session cookies & authentication tokens
+*_cookies.json
+*cookies*.json
+
+# Test & execution log files
+*.log
+
+# Temporary, scratch & report files
+src/scripts/*.json
+report.html
+report.json
+rtest.json
+temp.json
+transcripts.json
+policybazaar.ipynb
+01-initial-data.cypher
+gmail_mcp_server.md
+CLAUDE2.md
+CLAUDE3.md
+job_links.json
+ats_progress.json
+run_intellohire_batch.py
+update_smart.py

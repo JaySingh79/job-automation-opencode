@@ -1,0 +1,44 @@
+{
+  "CRED": {
+    "ta": [],
+    "leaders": []
+  },
+  "Darwinbox": {
+    "ta": [],
+    "leaders": []
+  },
+  "Ather Energy": {
+    "ta": [],
+    "leaders": []
+  },
+  "Moneyview": {
+    "ta": [
+      {
+        "name": "Divyapriya Divyapriya",
+        "title": "Senior Talent Acquisition Specialist",
+        "person_id": "aaaa9f3cc55ea45cffcf628d",
+        "linkedin_url": null,
+        "company": "Moneyview"
+      },
+      {
+        "name": "Satish D",
+        "title": "Talent Acquisition Specialist",
+        "person_id": "aaaa0d206f3c49345f88989c",
+        "linkedin_url": null,
+        "company": "Moneyview"
+      },
+      {
+        "name": "Nikita Waghmare",
+        "title": "Senior Talent Acquisition Specialist",
+        "person_id": "aaaa028bc44ac7fcd79989ea",
+        "linkedin_url": null,
+        "company": "Moneyview"
+      }
+    ],
+    "leaders": []
+  },
+  "Zepto": {
+    "ta": [],
+    "leaders": []
+  }
+}

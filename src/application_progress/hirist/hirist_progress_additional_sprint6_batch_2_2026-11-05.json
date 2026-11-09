@@ -1,0 +1,60 @@
+{
+  "worker": 2,
+  "batch": 2,
+  "sprint": 6,
+  "sweep": "additional_200",
+  "target_applied": 3,
+  "applied_count": 4,
+  "parked_count": 2,
+  "already_applied_count": 0,
+  "all_results": [
+    {
+      "jobId": 1673725,
+      "title": "Software Developer",
+      "company": "Axnode Immigration",
+      "status": "applied",
+      "applicationId": 79305434,
+      "timestamp": "2026-11-05T18:46:45.245Z"
+    },
+    {
+      "jobId": 1673727,
+      "title": "Software Engineer",
+      "company": "Axnode Immigration",
+      "status": "applied",
+      "applicationId": 79305437,
+      "timestamp": "2026-11-05T18:46:47.605Z"
+    },
+    {
+      "jobId": 1673134,
+      "title": "PHP Engineer",
+      "company": "TechGrit",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job",
+      "timestamp": "2026-11-05T18:46:50.463Z"
+    },
+    {
+      "jobId": 1672265,
+      "title": "PayRup - Tech Lead - Golang",
+      "company": "PayRup",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job",
+      "timestamp": "2026-11-05T18:46:52.923Z"
+    },
+    {
+      "jobId": 1672185,
+      "title": "Senior Java Developer - Spring Boot/Hibernate",
+      "company": "Employee Forums",
+      "status": "applied",
+      "applicationId": 79305449,
+      "timestamp": "2026-11-05T18:46:55.485Z"
+    },
+    {
+      "jobId": 1671371,
+      "title": "Software Engineer - C++/Windows OS",
+      "company": "Unicornhead Online Ventures India",
+      "status": "applied",
+      "applicationId": 79305450,
+      "timestamp": "2026-11-05T18:46:57.592Z"
+    }
+  ]
+}

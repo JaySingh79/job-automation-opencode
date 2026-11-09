@@ -1,0 +1,564 @@
+[
+  {
+    "job_id": "151026016759",
+    "title": "Specialist Programmer (Trainee)",
+    "company": "Infosys",
+    "url": "https://www.naukri.com/job-listings-specialist-programmer-trainee-infosys-hyderabad-bengaluru-delhi-ncr-0-to-2-years-151026016759",
+    "applied_at": "2026-10-28T17:41:08.803297",
+    "status": "applied",
+    "verification": "SaveApply HTTP 200 (Apply Confirmation)"
+  },
+  {
+    "job_id": "261026005898",
+    "title": "Software Engineer",
+    "company": "Qualcomm",
+    "url": "https://www.naukri.com/job-listings-software-engineer-qualcomm-bengaluru-0-to-1-years-261026005898",
+    "applied_at": "2026-10-28T17:41:17.911441",
+    "status": "applied",
+    "verification": "SaveApply HTTP 200 (Apply Confirmation)"
+  },
+  {
+    "job_id": "231026930132",
+    "title": "Engineer",
+    "company": "Qualcomm",
+    "url": "https://www.naukri.com/job-listings-engineer-qualcomm-india-pvt-ltd-bengaluru-0-to-5-years-231026930132",
+    "applied_at": "2026-10-28T17:41:24.355124",
+    "status": "skipped",
+    "verification": "No native apply button found"
+  },
+  {
+    "job_id": "271026021740",
+    "title": "Data Science Engineer(Jr)",
+    "company": "Nexacore",
+    "url": "https://www.naukri.com/job-listings-data-science-engineer-jr-nexacore-noida-hyderabad-bengaluru-0-to-2-years-271026021740",
+    "applied_at": "2026-10-28T17:41:31.984108",
+    "status": "applied",
+    "verification": "SaveApply HTTP 200 (Apply Confirmation)"
+  },
+  {
+    "job_id": "131026036420",
+    "title": "AI/ML Engineer with Knowledge of Front End",
+    "company": "Visioapps Technology",
+    "url": "https://www.naukri.com/job-listings-ai-ml-engineer-with-knowledge-of-front-end-visioapps-technology-gurugram-0-to-4-years-131026036420",
+    "applied_at": "2026-10-28T17:41:37.275783",
+    "status": "applied",
+    "verification": "SaveApply HTTP 200 (Apply Confirmation)"
+  },
+  {
+    "job_id": "071026020153",
+    "title": "Data Scientist",
+    "company": "Info Edge",
+    "url": "https://www.naukri.com/job-listings-data-scientist-info-edge-noida-0-to-3-years-071026020153",
+    "applied_at": "2026-10-28T17:41:44.430054",
+    "status": "applied",
+    "verification": "SaveApply HTTP 200 (Apply Confirmation)"
+  },
+  {
+    "job_id": "290926016989",
+    "title": "Data Scientist",
+    "company": "Info Edge",
+    "url": "https://www.naukri.com/job-listings-data-scientist-info-edge-noida-0-to-1-years-290926016989",
+    "applied_at": "2026-10-28T17:41:51.488859",
+    "status": "skipped",
+    "verification": "No native apply button found"
+  },
+  {
+    "job_id": "061026002836",
+    "title": "Software Engineer",
+    "company": "Qualcomm",
+    "url": "https://www.naukri.com/job-listings-software-engineer-qualcomm-hyderabad-0-to-1-years-061026002836",
+    "applied_at": "2026-10-28T17:41:58.059373",
+    "status": "skipped",
+    "verification": "No native apply button found"
+  },
+  {
+    "job_id": "300926018042",
+    "title": "Fullstack Developer (Agentic/ Gen AI)",
+    "company": "Tech Mahindra",
+    "url": "https://www.naukri.com/job-listings-fullstack-developer-agentic-gen-ai-tech-mahindra-noida-pune-bengaluru-0-to-5-years-300926018042",
+    "applied_at": "2026-10-28T17:42:03.585479",
+    "status": "skipped",
+    "verification": "No native apply button found"
+  },
+  {
+    "job_id": "250926005072",
+    "title": "Artificial Intelligence- Engineer",
+    "company": "Stage Technologies",
+    "url": "https://www.naukri.com/job-listings-artificial-intelligence-engineer-stage-technologies-noida-0-to-3-years-250926005072",
+    "applied_at": "2026-10-28T17:42:10.378692",
+    "status": "skipped",
+    "verification": "No native apply button found"
+  },
+  {
+    "job_id": "261026021216",
+    "title": "FullSatck Engineer - Apply via Link in Description Only",
+    "company": "Babblebots",
+    "applied_at": "2026-10-28T18:25:52.958116",
+    "status": "applied",
+    "verification": "confirmation"
+  },
+  {
+    "job_id": "141026040702",
+    "title": "Software Development Engineer at A FinTech Company",
+    "company": "Talentzo Delhi",
+    "applied_at": "2026-10-28T18:26:37.177497",
+    "status": "applied",
+    "verification": "confirmation"
+  },
+  {
+    "job_id": "261026027398",
+    "title": "Site Reliability Engineer",
+    "company": "Highradius",
+    "applied_at": "2026-10-28T18:32:07.528297",
+    "status": "applied",
+    "verification": "confirmation"
+  },
+  {
+    "job_id": "030926010300",
+    "title": "SDE - 1",
+    "company": "Atmos Care",
+    "applied_at": "2026-10-28T18:34:28.322155",
+    "status": "applied",
+    "verification": "confirmation"
+  },
+  {
+    "job_id": "161026026801",
+    "title": "Data Analyst",
+    "company": "Talentstream",
+    "applied_at": "2026-10-28T18:35:57.256258",
+    "status": "applied",
+    "verification": "confirmation"
+  },
+  {
+    "job_id": "231026922937",
+    "title": "Engineer - Camera Systems (3A)",
+    "company": "Qualcomm",
+    "applied_at": "2026-10-28T18:36:59.165588",
+    "status": "skipped",
+    "verification": "Apply on company site"
+  },
+  {
+    "job_id": "211026919102",
+    "title": "Associate",
+    "company": "Axtria",
+    "applied_at": "2026-10-28T18:37:24.856351",
+    "status": "applied",
+    "verification": "confirmation"
+  },
+  {
+    "job_id": "121026011450",
+    "title": "Advanced Software Engineer - .NET",
+    "company": "Epam Systems",
+    "applied_at": "2026-10-28T18:39:51.540534",
+    "status": "applied",
+    "verification": "confirmation"
+  },
+  {
+    "job_id": "061026007859",
+    "title": "Camera Systems_Qualcomm Hyderabad_Virtual Hiring Drive October 10",
+    "company": "Qualcomm",
+    "applied_at": "2026-10-28T18:41:11.174923",
+    "status": "applied",
+    "verification": "confirmation"
+  },
+  {
+    "job_id": "231026925042",
+    "title": "AI Researcher",
+    "company": "Fujitsu",
+    "applied_at": "2026-10-28T18:41:50.643816",
+    "status": "skipped",
+    "verification": "External company site button"
+  },
+  {
+    "job_id": "261026922005",
+    "title": "Anaplan Consultant",
+    "company": "Infosys",
+    "applied_at": "2026-10-28T18:44:47.544545",
+    "status": "applied",
+    "verification": "confirmation"
+  },
+  {
+    "job_id": "201026008397",
+    "title": "DEVOPS ENGINEER L3",
+    "company": "Wipro",
+    "applied_at": "2026-10-28T18:44:48.152718",
+    "status": "applied",
+    "verification": "confirmation"
+  },
+  {
+    "job_id": "221026026105",
+    "title": "Data Steward-BIU",
+    "company": "Hdfc Bank",
+    "applied_at": "2026-10-28T18:46:22.921880",
+    "status": "applied",
+    "verification": "confirmation"
+  },
+  {
+    "job_id": "151026033391",
+    "title": "Software Engineer - Night Shift - Fully Remote - Pan India",
+    "company": "Techbyte Coders",
+    "applied_at": "2026-10-28T18:46:25.809010",
+    "status": "applied",
+    "verification": "confirmation"
+  },
+  {
+    "job_id": "310726018300",
+    "title": "Software Development Engineer 1",
+    "company": "Sunrise Biztech Systems",
+    "applied_at": "2026-10-28T18:47:45.313649",
+    "status": "error",
+    "verification": "server_406_incomplete_information"
+  },
+  {
+    "job_id": "101026000196",
+    "title": "Agentic Evaluation Specialist Freelance",
+    "company": "Innodata India",
+    "applied_at": "2026-10-28T18:48:07.968397",
+    "status": "applied",
+    "verification": "confirmation"
+  },
+  {
+    "job_id": "011223006220",
+    "title": "Physician Consultant- Medical Coding",
+    "company": "Xpertdox",
+    "applied_at": "2026-10-28T18:48:31.446049",
+    "status": "applied",
+    "verification": "confirmation"
+  },
+  {
+    "job_id": "270726007509",
+    "title": "Quality Analyst",
+    "company": "Highradius",
+    "applied_at": "2026-10-28T18:49:07.053775",
+    "status": "applied",
+    "verification": "confirmation"
+  },
+  {
+    "job_id": "191026918087",
+    "title": "SW Applications Engineer",
+    "company": "Applied Materials",
+    "applied_at": "2026-10-28T18:49:31.822517",
+    "status": "skipped",
+    "verification": "Apply on company site"
+  },
+  {
+    "job_id": "261026014708",
+    "title": "GIS Modeller",
+    "company": "Moody's Analytics",
+    "applied_at": "2026-10-28T18:50:17.161803",
+    "status": "ready_for_human_submission",
+    "verification": "long_recruiter_chat_staged"
+  },
+  {
+    "job_id": "211026919092",
+    "title": "Associate",
+    "company": "Axtria",
+    "applied_at": "2026-10-28T18:50:23.463760",
+    "status": "applied",
+    "verification": "confirmation"
+  },
+  {
+    "job_id": "211026008546",
+    "title": "Factor Analytics Product Specialist",
+    "company": "MSCI Services",
+    "applied_at": "2026-10-28T18:50:23.675650",
+    "status": "applied",
+    "verification": "confirmation"
+  },
+  {
+    "job_id": "211026922858",
+    "title": "Associate",
+    "company": "Axtria",
+    "applied_at": "2026-10-28T18:50:24.123789",
+    "status": "applied",
+    "verification": "confirmation"
+  },
+  {
+    "job_id": "051026931370",
+    "title": "Business Technology Solutions Associate- Anaplan",
+    "company": "ZS",
+    "applied_at": "2026-10-28T18:50:24.792148",
+    "status": "applied",
+    "verification": "confirmation"
+  },
+  {
+    "job_id": "080426034452",
+    "title": "SDE -2",
+    "company": "Deloitte US-India Offices",
+    "applied_at": "2026-10-28T18:50:25.493490",
+    "status": "applied",
+    "verification": "confirmation"
+  },
+  {
+    "job_id": "261026031067",
+    "title": "Python Developer",
+    "company": "MBS GLOBAL",
+    "applied_at": "2026-10-28T18:50:42.832112",
+    "status": "applied",
+    "verification": "confirmation"
+  },
+  {
+    "job_id": "231026929924",
+    "title": "Engineer - RF SW - M.Tech - Communication background - 2025/26",
+    "company": "Qualcomm",
+    "applied_at": "2026-10-28T19:07:01.901134",
+    "status": "skipped",
+    "verification": "Apply on company site"
+  },
+  {
+    "job_id": "121026035176",
+    "title": "SDE - I (Frontend)",
+    "company": "Recruito",
+    "applied_at": "2026-10-28T19:07:33.780558",
+    "status": "applied",
+    "verification": "confirmation"
+  },
+  {
+    "job_id": "151026033955",
+    "title": "Urgent Opening For Java Developer who Can join immediately",
+    "company": "Altimetrik",
+    "applied_at": "2026-10-28T19:08:27.672419",
+    "status": "skipped",
+    "verification": "Pure Java / 6 yrs experience required in JD"
+  },
+  {
+    "job_id": "020922501934",
+    "title": "Business Development Executive - IT Software",
+    "company": "Letscms",
+    "applied_at": "2026-10-28T19:09:22.977046",
+    "status": "applied",
+    "verification": "confirmation"
+  },
+  {
+    "job_id": "021026014318",
+    "title": "Data Analyst (Bangla Speaker - India)",
+    "company": "Peroptyx",
+    "applied_at": "2026-10-28T19:10:21.445828",
+    "status": "applied",
+    "verification": "confirmation"
+  },
+  {
+    "job_id": "231026025350",
+    "title": "Data Analyst (Marathi Speaker - India)",
+    "company": "Peroptyx",
+    "applied_at": "2026-10-28T19:11:31.249219",
+    "status": "applied",
+    "verification": "confirmation"
+  },
+  {
+    "job_id": "231026025403",
+    "title": "Data Analyst - Odia Speaker (India)",
+    "company": "Peroptyx",
+    "applied_at": "2026-10-28T19:12:02.514577",
+    "status": "applied",
+    "verification": "confirmation"
+  },
+  {
+    "job_id": "121026013943",
+    "title": "Data Analyst (Punjabi Speaker - India)",
+    "company": "Peroptyx",
+    "applied_at": "2026-10-28T19:12:48.645328",
+    "status": "applied",
+    "verification": "confirmation"
+  },
+  {
+    "job_id": "131026946742",
+    "title": "Market Risk Analyst",
+    "company": "EY",
+    "applied_at": "2026-10-28T19:13:04.608354",
+    "status": "applied",
+    "verification": "confirmation"
+  },
+  {
+    "job_id": "231026025421",
+    "title": "Data Analyst (Punjabi Speaker - India)",
+    "company": "Peroptyx",
+    "applied_at": "2026-10-28T19:13:28.482689",
+    "status": "applied",
+    "verification": "confirmation"
+  },
+  {
+    "job_id": "021026014324",
+    "title": "Data Analyst (Punjabi Speaker - India)",
+    "company": "Peroptyx",
+    "applied_at": "2026-10-28T19:13:55.366768",
+    "status": "applied",
+    "verification": "confirmation"
+  },
+  {
+    "job_id": "131026946248",
+    "title": "IRB Risk Consultant",
+    "company": "EY",
+    "applied_at": "2026-10-28T19:14:02.596632",
+    "status": "applied",
+    "verification": "confirmation"
+  },
+  {
+    "job_id": "121026013863",
+    "title": "Data Analyst - Kannada Speaker (India)",
+    "company": "Peroptyx",
+    "applied_at": "2026-10-28T19:16:05.604242",
+    "status": "applied",
+    "verification": "confirmation"
+  },
+  {
+    "job_id": "021026014311",
+    "title": "Data Analyst (Marathi Speaker - India)",
+    "company": "Peroptyx",
+    "applied_at": "2026-10-28T19:19:36.386634",
+    "status": "applied",
+    "verification": "confirmation"
+  },
+  {
+    "job_id": "081026036215",
+    "title": "Forward Deployed AI Solutions Engineer",
+    "company": "Blubridge",
+    "applied_at": "2026-10-28T19:19:59.843969",
+    "status": "applied",
+    "verification": "saveApply HTTP 200"
+  },
+  {
+    "job_id": "111026004601",
+    "title": "Fullstack Developer",
+    "company": "Aon",
+    "applied_at": "2026-10-28T19:20:02.206672",
+    "status": "ready_for_human_submission",
+    "verification": "staged_for_review"
+  },
+  {
+    "job_id": "300926017847",
+    "title": "Machine Learning Engineer (0-5)",
+    "company": "Tech Mahindra",
+    "applied_at": "2026-10-28T19:20:23.046382",
+    "status": "ready_for_human_submission",
+    "verification": "staged_for_review"
+  },
+  {
+    "job_id": "021026014314",
+    "title": "Data Analyst (Odia Speaker - India)",
+    "company": "Peroptyx",
+    "applied_at": "2026-10-28T19:20:43.262917",
+    "status": "applied",
+    "verification": "confirmation"
+  },
+  {
+    "job_id": "191026504056",
+    "title": "RAIQL AI Developer",
+    "company": "Pcds Infotech",
+    "applied_at": "2026-10-28T19:20:50.982251",
+    "status": "applied",
+    "verification": "confirmation"
+  },
+  {
+    "job_id": "141026934002",
+    "title": "Associate Consultant - Business Consulting - Digital Risk",
+    "company": "EY",
+    "applied_at": "2026-10-28T19:21:04.297900",
+    "status": "ready_for_human_submission",
+    "verification": "staged_for_review"
+  },
+  {
+    "job_id": "091026912262",
+    "title": "Azure .NET Full stack Developer(Reactjs or Angular)",
+    "company": "Capgemini",
+    "applied_at": "2026-10-28T19:22:12.422757",
+    "status": "skipped",
+    "verification": "No native apply button found"
+  },
+  {
+    "job_id": "250926504150",
+    "title": "Technical Administrator (Zoom, LMS)",
+    "company": "Al Balagh Academy",
+    "applied_at": "2026-10-28T19:22:32.234929",
+    "status": "applied",
+    "verification": "confirmation"
+  },
+  {
+    "job_id": "300926011454",
+    "title": "Data Analyst",
+    "company": "Job Nexus India",
+    "applied_at": "2026-10-28T19:22:49.026200",
+    "status": "applied",
+    "verification": "confirmation"
+  },
+  {
+    "job_id": "020726503993",
+    "title": "Back-end developer",
+    "company": "Kode Infotech",
+    "applied_at": "2026-10-28T19:24:17.393885",
+    "status": "skipped",
+    "verification": "No native apply button found"
+  },
+  {
+    "job_id": "260926006738",
+    "title": "Assistant Professor - Computer Science and Technology",
+    "company": "Karunya University",
+    "applied_at": "2026-10-28T19:24:27.044788",
+    "status": "skipped",
+    "verification": "Previously applied on Naukri"
+  },
+  {
+    "job_id": "231026033307",
+    "title": "Data & AI - Trainee Analyst",
+    "company": "Tiger Analytics",
+    "applied_at": "2026-10-28T19:24:32.208386",
+    "status": "skipped",
+    "verification": "No native apply button found"
+  },
+  {
+    "job_id": "231026031925",
+    "title": "Software Engineer, Backend",
+    "company": "Talent Corner HR Services",
+    "applied_at": "2026-10-28T19:24:47.721704",
+    "status": "ready_for_human_submission",
+    "verification": "staged_for_review"
+  },
+  {
+    "job_id": "141026931039",
+    "title": "Consultant - Business Consulting - Actuarial",
+    "company": "EY",
+    "applied_at": "2026-10-28T19:25:18.967992",
+    "status": "applied",
+    "verification": "saveApply HTTP 200"
+  },
+  {
+    "job_id": "121026034917",
+    "title": "Data Analyst",
+    "company": "Recruito",
+    "applied_at": "2026-10-28T19:25:19.872857",
+    "status": "applied",
+    "verification": "confirmation"
+  },
+  {
+    "job_id": "280126012563",
+    "title": "Business Intelligence Analyst -Data Engineering",
+    "company": "Medpace Clinical Research India",
+    "applied_at": "2026-10-28T19:25:40.926098",
+    "status": "ready_for_human_submission",
+    "verification": "staged_for_review"
+  },
+  {
+    "job_id": "211026008620",
+    "title": "Gis Analyst, spatial data scientist, remote sensing specialist, LiDAR",
+    "company": "A Large Geospatial Tech Company",
+    "applied_at": "2026-10-28T19:25:56.080541",
+    "status": "applied",
+    "verification": "confirmation"
+  },
+  {
+    "job_id": "280926030884",
+    "title": "Business Analyst",
+    "company": "Incanus Technologies",
+    "applied_at": "2026-10-28T19:25:59.543225",
+    "status": "error",
+    "verification": "server_406_incomplete_information"
+  },
+  {
+    "job_id": "251026004089",
+    "title": "AI Analyst",
+    "company": "Sparkl Edventure",
+    "applied_at": "2026-10-28T19:26:10.660077",
+    "status": "ready_for_human_submission",
+    "verification": "staged_for_review"
+  }
+]

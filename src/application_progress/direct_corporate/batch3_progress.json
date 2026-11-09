@@ -1,0 +1,198 @@
+{
+  "platform": "successfactors_and_cloud_ats",
+  "timestamp": "2026-10-29T08:02:53.213884+00:00",
+  "total_jobs": 18,
+  "summary": {
+    "staged_ready": 1,
+    "blocked_auth_required": 13,
+    "skipped": 4,
+    "expired_or_closed": 0,
+    "error": 0
+  },
+  "jobs": [
+    {
+      "job_id": "300326502718",
+      "company": "PayU",
+      "title": "Data Scientist",
+      "url": "https://careers.payu.in/PayU/job/Gurgaon-Data-Scientist/53331580/",
+      "status": "BLOCKED_AUTH_REQUIRED",
+      "reason": "Direct apply form not exposed on public view; requires candidate portal account login/registration.",
+      "updated_at": "2026-10-29T08:03:06.532091+00:00",
+      "snapshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\payu\\300326502718_no_form.png"
+    },
+    {
+      "job_id": "121026502652",
+      "company": "EY",
+      "title": "Associate Consultant",
+      "url": "https://careers.ey.com/ey/job/Mumbai-Associate-Consultant-Business-Consulting-Risk-FS-CNS-RISK-ACTUARIAL-Mumbai-Delhi-MH-400028/1444331333/",
+      "status": "BLOCKED_AUTH_REQUIRED",
+      "reason": "EY SuccessFactors Talent Community requires corporate candidate login / email verification before application form access.",
+      "updated_at": "2026-10-29T08:03:47.650371+00:00",
+      "snapshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\ey\\121026502652_sf_auth.png",
+      "portal_url": "https://careers.ey.com/"
+    },
+    {
+      "job_id": "161026503214",
+      "company": "EY",
+      "title": "Consultant",
+      "url": "https://careers.ey.com/ey/job/Mumbai-Consultant-Business-Consulting-Risk-IRB-FSRM-MumbaiDelhiBangalore-MH-400028/1437459733/",
+      "status": "BLOCKED_AUTH_REQUIRED",
+      "reason": "EY SuccessFactors Talent Community requires corporate candidate login / email verification before application form access.",
+      "updated_at": "2026-10-29T08:04:28.206331+00:00",
+      "snapshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\ey\\161026503214_sf_auth.png",
+      "portal_url": "https://careers.ey.com/"
+    },
+    {
+      "job_id": "121026502651",
+      "company": "EY",
+      "title": "Consultant",
+      "url": "https://careers.ey.com/ey/job/Mumbai-Consultant-Business-Consulting-Risk-FS-CNS-RISK-ACTUARIAL-MumbaiDelhi-MH-400028/1444376833/",
+      "status": "BLOCKED_AUTH_REQUIRED",
+      "reason": "EY SuccessFactors Talent Community requires corporate candidate login / email verification before application form access.",
+      "updated_at": "2026-10-29T08:05:09.210831+00:00",
+      "snapshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\ey\\121026502651_sf_auth.png",
+      "portal_url": "https://careers.ey.com/"
+    },
+    {
+      "job_id": "241024504059",
+      "company": "Unitech Technocrats",
+      "title": "Embedded Software Developer",
+      "url": "http://career.utplindia.in/",
+      "status": "BLOCKED_AUTH_REQUIRED",
+      "reason": "Direct apply form not exposed on public view; requires candidate portal account login/registration.",
+      "updated_at": "2026-10-29T08:05:22.539295+00:00",
+      "snapshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\unitech_technocrats\\241024504059_no_form.png"
+    },
+    {
+      "job_id": "180326502137",
+      "company": "Teesta Investment",
+      "title": "Quantitative Developer",
+      "url": "https://jobs.reczee.com/teesta/Xk2JP/apply",
+      "status": "STAGED_READY",
+      "reason": "Application fields filled (6 fields, resume attached). Staged on review/submission step - awaiting human submission authority.",
+      "updated_at": "2026-10-29T08:05:42.401015+00:00",
+      "snapshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\reczee\\180326502137_staged_review.png",
+      "fields_filled": 6
+    },
+    {
+      "job_id": "141026500613",
+      "company": "Newton School",
+      "title": "Assistant Professor- AI/ML",
+      "url": "https://careers.newtonschool.co/newtonschool/jobview/assistant-professor-ai-ml--202609301515463",
+      "status": "BLOCKED_AUTH_REQUIRED",
+      "reason": "Direct apply form not exposed on public view; requires candidate portal account login/registration.",
+      "updated_at": "2026-10-29T08:05:52.916394+00:00",
+      "snapshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\newtonschool\\141026500613_no_form.png"
+    },
+    {
+      "job_id": "040324500550",
+      "company": "Avataar",
+      "title": "Research Engineer",
+      "url": "https://avataarcareers.turbohire.co/job/publicjobs/2OKky7YZ_F4ExxeJTNiNMHe1GPyx5h3t7DVVLsLXQyenbEcLkGZzHxt56KQfEPKB",
+      "status": "BLOCKED_AUTH_REQUIRED",
+      "reason": "Direct apply form not exposed on public view; requires candidate portal account login/registration.",
+      "updated_at": "2026-10-29T08:06:05.588575+00:00",
+      "snapshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\turbohire\\040324500550_no_form.png"
+    },
+    {
+      "job_id": "121225501867",
+      "company": "Data Axle Solutions",
+      "title": "Software Engineer",
+      "url": "https://myjobs.adp.com/dataaxleindia/cx/job-listing",
+      "status": "BLOCKED_AUTH_REQUIRED",
+      "reason": "Direct apply form not exposed on public view; requires candidate portal account login/registration.",
+      "updated_at": "2026-10-29T08:06:15.368344+00:00",
+      "snapshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\adp\\121225501867_no_form.png"
+    },
+    {
+      "job_id": "271026502689",
+      "company": "Akasa Air",
+      "title": "Senior Software Engineer - Full stack",
+      "url": "https://careers-akasa.peoplestrong.com/portal/job/detail/SNV_SSE-FS_1888556",
+      "status": "SKIPPED",
+      "reason": "Seniority gate: Title 'Senior Software Engineer - Full stack' specifies senior level exceeding target profile (0-2 YoE).",
+      "updated_at": "2026-10-29T08:06:16.885824+00:00"
+    },
+    {
+      "job_id": "191026503136",
+      "company": "Electrifex",
+      "title": "Embedded Software Engineer (C/C++) JAIN Pool Drive",
+      "url": "https://talents.electrifex.com/",
+      "status": "SKIPPED",
+      "reason": "Domain/Stack gate: Electrifex role is hardware-focused Automotive Embedded C/C++ (JTAG, RTOS, Logic Analyzers) with no Python/AI/Data scope.",
+      "updated_at": "2026-10-29T08:06:55.522037+00:00",
+      "snapshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\electrifex\\191026503136_portal.png",
+      "portal_url": "https://talents.electrifex.com/"
+    },
+    {
+      "job_id": "080526501996",
+      "company": "M&S Consulting",
+      "title": "Software Engineer I Salesforce Integration (Tier 2 Security Clearance)",
+      "url": "https://mandsc.applytojob.com/apply/oxEXxmWzn1/Software-Engineer-I-Salesforce-Integration-Tier-2-Security-Clearance",
+      "status": "SKIPPED",
+      "reason": "Eligibility constraint: Title specifies 'Software Engineer I Salesforce Integration (Tier 2 Security Clearance)' requiring US government security clearance, candidate ineligible.",
+      "updated_at": "2026-10-29T08:06:57.139949+00:00"
+    },
+    {
+      "job_id": "151026501851",
+      "company": "Electrifex",
+      "title": "Embedded Software Engineer (C/C++)",
+      "url": "https://talents.electrifex.com/",
+      "status": "SKIPPED",
+      "reason": "Domain/Stack gate: Electrifex role is hardware-focused Automotive Embedded C/C++ (JTAG, RTOS, Logic Analyzers) with no Python/AI/Data scope.",
+      "updated_at": "2026-10-29T08:07:35.389929+00:00",
+      "snapshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\electrifex\\151026501851_portal.png",
+      "portal_url": "https://talents.electrifex.com/"
+    },
+    {
+      "job_id": "080126503083",
+      "company": "Medpace Clinical Research India",
+      "title": "Entry Level Software QA Test Engineer",
+      "url": "https://careers.medpace.com/jobs/11947?lang=en-us",
+      "status": "BLOCKED_AUTH_REQUIRED",
+      "reason": "Direct apply form not exposed on public view; requires candidate portal account login/registration.",
+      "updated_at": "2026-10-29T08:07:55.638509+00:00",
+      "snapshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\medpace\\080126503083_no_form.png"
+    },
+    {
+      "job_id": "011225501372",
+      "company": "Micro1",
+      "title": "Junior AI Engineer (India)",
+      "url": "https://jobs.micro1.ai/post/b351c947-9e3c-4c40-a88a-4338a3c6d303",
+      "status": "BLOCKED_AUTH_REQUIRED",
+      "reason": "Direct apply form not exposed on public view; requires candidate portal account login/registration.",
+      "updated_at": "2026-10-29T08:08:06.532982+00:00",
+      "snapshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\micro1\\011225501372_no_form.png"
+    },
+    {
+      "job_id": "040826501343",
+      "company": "Wander On Experiences",
+      "title": "Full Stack Developer",
+      "url": "https://career.hrone.cloud/apply-job?appId=edow-QMzcFH_vIbRHnMw-AyY4QDJRZdw9plIHAqfg7LNU0ozUeWp927QVUz_V5UvtHDFdZdYff9gPFWZEKufSDi-KYxJeRDS7bgeuDf6gC1MBqiWMAEKv-UiGgRLrmc7&dc=wanderonexperiences&rqt=UVozgs-AUV1ILPLBxDlf7A&cc=PeVuEJO4lR2SqalocB9AIBcs05OYbWPShiPGGw1SnDBuiziep-_BQ0ze4tAJsQI5&pid=QZWGOMM3ZHF9bzxN3HPsyg&dptc=r0_XPJmvFT_oCLGRN8jpfg&st=-n_C2-YChNaZnubp3_OPew&fm=CR&headerColor=%2301AFD1&fontSize=14&buttonColor=FEE60B",
+      "status": "BLOCKED_AUTH_REQUIRED",
+      "reason": "Direct apply form not exposed on public view; requires candidate portal account login/registration.",
+      "updated_at": "2026-10-29T08:08:22.206344+00:00",
+      "snapshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\hrone\\040826501343_no_form.png"
+    },
+    {
+      "job_id": "060326505494",
+      "company": "Wanderon Experiences",
+      "title": "Full Stack Developer",
+      "url": "https://career.hrone.cloud/apply-job?appId=edow-QMzcFH_vIbRHnMw-AyY4QDJRZdw9plIHAqfg7LNU0ozUeWp927QVUz_V5UvtHDFdZdYff9gPFWZEKufSDi-KYxJeRDS7bgeuDf6gC1MBqiWMAEKv-UiGgRLrmc7&dc=wanderonexperiences&rqt=UVozgs-AUV1ILPLBxDlf7A&cc=PeVuEJO4lR2SqalocB9AIBcs05OYbW",
+      "status": "BLOCKED_AUTH_REQUIRED",
+      "reason": "Direct apply form not exposed on public view; requires candidate portal account login/registration.",
+      "updated_at": "2026-10-29T08:08:31.482413+00:00",
+      "snapshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\hrone\\060326505494_no_form.png"
+    },
+    {
+      "job_id": "030426501529",
+      "company": "Micro1",
+      "title": "Junior Data Science Associate Consultant",
+      "url": "https://jobs.micro1.ai/post/c8d7f2fd-1696-4040-a9bf-6fabaebd1f93",
+      "status": "BLOCKED_AUTH_REQUIRED",
+      "reason": "Direct apply form not exposed on public view; requires candidate portal account login/registration.",
+      "updated_at": "2026-10-29T08:08:42.584446+00:00",
+      "snapshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\micro1\\030426501529_no_form.png"
+    }
+  ]
+}

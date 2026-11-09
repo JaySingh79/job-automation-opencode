@@ -1,0 +1,55 @@
+{
+  "source_file": "src/job_search_results/naukri/naukri_fresher_direct_company_urls.json",
+  "total_direct_apply_jobs": 287,
+  "platforms_count": 12,
+  "breakdown": {
+    "custom_company_careers": {
+      "count": 157,
+      "file": "custom_company_careers.json"
+    },
+    "oracle_cloud": {
+      "count": 54,
+      "file": "oracle_cloud.json"
+    },
+    "workday": {
+      "count": 28,
+      "file": "workday.json"
+    },
+    "intellohire": {
+      "count": 14,
+      "file": "intellohire.json"
+    },
+    "keka": {
+      "count": 9,
+      "file": "keka.json"
+    },
+    "zoho_recruit": {
+      "count": 8,
+      "file": "zoho_recruit.json"
+    },
+    "smartrecruiters": {
+      "count": 6,
+      "file": "smartrecruiters.json"
+    },
+    "darwinbox": {
+      "count": 4,
+      "file": "darwinbox.json"
+    },
+    "greenhouse": {
+      "count": 3,
+      "file": "greenhouse.json"
+    },
+    "ripplehire": {
+      "count": 2,
+      "file": "ripplehire.json"
+    },
+    "icims": {
+      "count": 1,
+      "file": "icims.json"
+    },
+    "eightfold": {
+      "count": 1,
+      "file": "eightfold.json"
+    }
+  }
+}

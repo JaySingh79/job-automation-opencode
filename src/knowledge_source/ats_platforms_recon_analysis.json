@@ -1,0 +1,609 @@
+{
+  "timestamp": "2026-10-28T19:42:33",
+  "platforms": {
+    "workday": {
+      "total_jobs_in_partition": 28,
+      "samples_tested": [
+        {
+          "url": "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/Artificial-Intelligence-Engineer_REQ2025063830",
+          "load_time_ms": 1589,
+          "http_status": 200,
+          "frameworks": [],
+          "dom_features": {
+            "title": "",
+            "iframes": 0,
+            "shadow_roots": 0,
+            "forms": 0,
+            "apply_buttons": []
+          },
+          "security_anti_bot": [],
+          "apply_flow_type": "landing_redirect",
+          "smoothness_score": "fast_responsive",
+          "company": "Valeo",
+          "title": "Artificial Intelligence Engineer"
+        },
+        {
+          "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Hyderabad-India/Software-Engineer_2018611",
+          "load_time_ms": 2296,
+          "http_status": 200,
+          "frameworks": [],
+          "dom_features": {
+            "title": "",
+            "iframes": 0,
+            "shadow_roots": 0,
+            "forms": 0,
+            "apply_buttons": []
+          },
+          "security_anti_bot": [],
+          "apply_flow_type": "landing_redirect",
+          "smoothness_score": "fast_responsive",
+          "company": "Cisco",
+          "title": "Software Engineer"
+        },
+        {
+          "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Data-Scientist-I_R-278159",
+          "load_time_ms": 3921,
+          "http_status": 200,
+          "frameworks": [],
+          "dom_features": {
+            "title": "",
+            "iframes": 0,
+            "shadow_roots": 0,
+            "forms": 0,
+            "apply_buttons": []
+          },
+          "security_anti_bot": [],
+          "apply_flow_type": "landing_redirect",
+          "smoothness_score": "moderate",
+          "company": "Mastercard",
+          "title": "Data Scientist I"
+        }
+      ]
+    },
+    "oracle_cloud": {
+      "total_jobs_in_partition": 54,
+      "samples_tested": [
+        {
+          "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26015040",
+          "load_time_ms": 5425,
+          "http_status": 200,
+          "frameworks": [
+            "Oracle JET"
+          ],
+          "dom_features": {
+            "title": "American Express",
+            "iframes": 0,
+            "shadow_roots": 0,
+            "forms": 0,
+            "apply_buttons": []
+          },
+          "security_anti_bot": [],
+          "apply_flow_type": "landing_redirect",
+          "smoothness_score": "moderate",
+          "company": "AMERICAN EXPRESS",
+          "title": "Analyst-Data Analytics (Agentic)"
+        },
+        {
+          "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26014247",
+          "load_time_ms": 2289,
+          "http_status": 200,
+          "frameworks": [
+            "Oracle JET"
+          ],
+          "dom_features": {
+            "title": "American Express Careers",
+            "iframes": 0,
+            "shadow_roots": 0,
+            "forms": 0,
+            "apply_buttons": []
+          },
+          "security_anti_bot": [],
+          "apply_flow_type": "landing_redirect",
+          "smoothness_score": "fast_responsive",
+          "company": "AMERICAN EXPRESS",
+          "title": "Analyst - Data Science"
+        },
+        {
+          "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26013746",
+          "load_time_ms": 1682,
+          "http_status": 200,
+          "frameworks": [
+            "Oracle JET"
+          ],
+          "dom_features": {
+            "title": "American Express Careers",
+            "iframes": 0,
+            "shadow_roots": 0,
+            "forms": 0,
+            "apply_buttons": []
+          },
+          "security_anti_bot": [],
+          "apply_flow_type": "landing_redirect",
+          "smoothness_score": "fast_responsive",
+          "company": "AMERICAN EXPRESS",
+          "title": "Analyst-Data Science"
+        }
+      ]
+    },
+    "greenhouse": {
+      "total_jobs_in_partition": 3,
+      "samples_tested": [
+        {
+          "url": "https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8764240002",
+          "load_time_ms": 1850,
+          "http_status": 200,
+          "frameworks": [],
+          "dom_features": {
+            "title": "Job Application for Software Engineer (2027 Graduate) at Graviton Research Capital LLP",
+            "iframes": 0,
+            "shadow_roots": 0,
+            "forms": 1,
+            "apply_buttons": [
+              "Apply",
+              "Submit application"
+            ]
+          },
+          "security_anti_bot": [
+            "Google reCAPTCHA"
+          ],
+          "apply_flow_type": "single_page_form",
+          "smoothness_score": "fast_responsive",
+          "company": "Graviton Research Capital",
+          "title": "Software Engineer (2027 Graduate)"
+        },
+        {
+          "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4006731005",
+          "load_time_ms": 516,
+          "http_status": 200,
+          "frameworks": [],
+          "dom_features": {
+            "title": "Job Application for Software Engineer, Backend at Glean",
+            "iframes": 3,
+            "shadow_roots": 0,
+            "forms": 1,
+            "apply_buttons": [
+              "Apply",
+              "Submit application"
+            ]
+          },
+          "security_anti_bot": [
+            "Google reCAPTCHA"
+          ],
+          "apply_flow_type": "single_page_form",
+          "smoothness_score": "fast_responsive",
+          "company": "Glean",
+          "title": "Software Engineer, Backend"
+        },
+        {
+          "url": "https://job-boards.greenhouse.io/tide/jobs/7703991003",
+          "load_time_ms": 1070,
+          "http_status": 200,
+          "frameworks": [],
+          "dom_features": {
+            "title": "Job Application for Staff Software Engineer, Agentic Platform at Careers at Tide",
+            "iframes": 3,
+            "shadow_roots": 0,
+            "forms": 1,
+            "apply_buttons": [
+              "Apply",
+              "Submit application"
+            ]
+          },
+          "security_anti_bot": [
+            "Google reCAPTCHA"
+          ],
+          "apply_flow_type": "single_page_form",
+          "smoothness_score": "fast_responsive",
+          "company": "Tide Software",
+          "title": "Staff Software Engineer, Agentic Platform"
+        }
+      ]
+    },
+    "smartrecruiters": {
+      "total_jobs_in_partition": 6,
+      "samples_tested": [
+        {
+          "url": "https://jobs.smartrecruiters.com/Blend360/744000081031745",
+          "load_time_ms": 2588,
+          "http_status": 200,
+          "frameworks": [
+            "jQuery"
+          ],
+          "dom_features": {
+            "title": "Blend360 Data Engineer | SmartRecruiters",
+            "iframes": 1,
+            "shadow_roots": 10,
+            "forms": 0,
+            "apply_buttons": []
+          },
+          "security_anti_bot": [],
+          "apply_flow_type": "landing_redirect",
+          "smoothness_score": "fast_responsive",
+          "company": "Blend360 India",
+          "title": "Data Engineer"
+        },
+        {
+          "url": "https://jobs.smartrecruiters.com/Indusa/743999665564163-exciting-opportunity-for-java-developer-in-ahmedabad-with-indusa",
+          "load_time_ms": 1052,
+          "http_status": 200,
+          "frameworks": [
+            "jQuery"
+          ],
+          "dom_features": {
+            "title": "Indusa Exciting opportunity for Java Developer in Ahmedabad with INDUSA | SmartRecruiters",
+            "iframes": 0,
+            "shadow_roots": 6,
+            "forms": 0,
+            "apply_buttons": []
+          },
+          "security_anti_bot": [],
+          "apply_flow_type": "landing_redirect",
+          "smoothness_score": "fast_responsive",
+          "company": "Indusa",
+          "title": "Java Developer"
+        },
+        {
+          "url": "https://jobs.smartrecruiters.com/oceanstarshipscom/86436179",
+          "load_time_ms": 940,
+          "http_status": 200,
+          "frameworks": [
+            "jQuery"
+          ],
+          "dom_features": {
+            "title": "oceanstarships.com Requirement of Deck Cadet For Oil Tanker | SmartRecruiters",
+            "iframes": 0,
+            "shadow_roots": 6,
+            "forms": 0,
+            "apply_buttons": []
+          },
+          "security_anti_bot": [],
+          "apply_flow_type": "landing_redirect",
+          "smoothness_score": "fast_responsive",
+          "company": "Ocean Star Ships",
+          "title": "Deck Cadet For Oil Tanker"
+        }
+      ]
+    },
+    "keka": {
+      "total_jobs_in_partition": 9,
+      "samples_tested": [
+        {
+          "url": "https://skylarkdrones.keka.com/careers/jobdetails/117611",
+          "load_time_ms": 1544,
+          "http_status": 200,
+          "frameworks": [
+            "jQuery"
+          ],
+          "dom_features": {
+            "title": "AI and Automation Engineer -Founders Office",
+            "iframes": 0,
+            "shadow_roots": 0,
+            "forms": 0,
+            "apply_buttons": [
+              "Apply for this job"
+            ]
+          },
+          "security_anti_bot": [],
+          "apply_flow_type": "landing_redirect",
+          "smoothness_score": "fast_responsive",
+          "company": "Skylark Drones",
+          "title": "AI and Automation Engineer -Founders Office"
+        },
+        {
+          "url": "https://coditation.keka.com/careers/jobdetails/62801",
+          "load_time_ms": 500,
+          "http_status": 200,
+          "frameworks": [
+            "jQuery"
+          ],
+          "dom_features": {
+            "title": "",
+            "iframes": 0,
+            "shadow_roots": 0,
+            "forms": 0,
+            "apply_buttons": [
+              "Apply for this job"
+            ]
+          },
+          "security_anti_bot": [],
+          "apply_flow_type": "landing_redirect",
+          "smoothness_score": "fast_responsive",
+          "company": "Coditation Systems",
+          "title": "Python Developer"
+        },
+        {
+          "url": "https://smartdocs.keka.com/careers/jobdetails/122766",
+          "load_time_ms": 564,
+          "http_status": 200,
+          "frameworks": [
+            "jQuery"
+          ],
+          "dom_features": {
+            "title": "",
+            "iframes": 0,
+            "shadow_roots": 0,
+            "forms": 0,
+            "apply_buttons": [
+              "Apply for this job"
+            ]
+          },
+          "security_anti_bot": [],
+          "apply_flow_type": "landing_redirect",
+          "smoothness_score": "fast_responsive",
+          "company": "SmartDocs Business Solutions",
+          "title": "Software Developer"
+        }
+      ]
+    },
+    "zoho_recruit": {
+      "total_jobs_in_partition": 8,
+      "samples_tested": [
+        {
+          "url": "https://synapticatech.zohorecruit.in/jobs/careers/183438000003076224",
+          "load_time_ms": 4121,
+          "http_status": 200,
+          "frameworks": [],
+          "dom_features": {
+            "title": "Synaptica Tech - Graduate Trainee Engineer in Visakhapatnam (Urban)",
+            "iframes": 0,
+            "shadow_roots": 0,
+            "forms": 0,
+            "apply_buttons": []
+          },
+          "security_anti_bot": [],
+          "apply_flow_type": "landing_redirect",
+          "smoothness_score": "moderate",
+          "company": "Synaptica Tech",
+          "title": "Graduate Trainee Engineer"
+        },
+        {
+          "url": "https://synapticatech.zohorecruit.in/jobs/careers/183438000001813685",
+          "load_time_ms": 1569,
+          "http_status": 200,
+          "frameworks": [],
+          "dom_features": {
+            "title": "Synaptica Tech - Software Developer-Fresher in Hyderabad",
+            "iframes": 0,
+            "shadow_roots": 0,
+            "forms": 0,
+            "apply_buttons": []
+          },
+          "security_anti_bot": [],
+          "apply_flow_type": "landing_redirect",
+          "smoothness_score": "fast_responsive",
+          "company": "Synaptica Tech",
+          "title": "Software Developer-Fresher"
+        },
+        {
+          "url": "https://futureacad.zohorecruit.in/jobs/Careers/179505000001734372",
+          "load_time_ms": 2033,
+          "http_status": 200,
+          "frameworks": [],
+          "dom_features": {
+            "title": "Futureacad - AI Product Developer - Intern in Bangalore",
+            "iframes": 0,
+            "shadow_roots": 0,
+            "forms": 0,
+            "apply_buttons": [
+              "Apply Now",
+              "Apply Now"
+            ]
+          },
+          "security_anti_bot": [],
+          "apply_flow_type": "landing_redirect",
+          "smoothness_score": "fast_responsive",
+          "company": "Futureacad",
+          "title": "AI Product Developer - Intern"
+        }
+      ]
+    },
+    "darwinbox": {
+      "total_jobs_in_partition": 4,
+      "samples_tested": [
+        {
+          "url": "https://upstox.darwinbox.in/ms/candidatev2/main/careers/jobDetails/a6abb7810a31b9",
+          "load_time_ms": 2691,
+          "http_status": 200,
+          "frameworks": [
+            "Angular",
+            "jQuery"
+          ],
+          "dom_features": {
+            "title": "",
+            "iframes": 0,
+            "shadow_roots": 2,
+            "forms": 0,
+            "apply_buttons": []
+          },
+          "security_anti_bot": [],
+          "apply_flow_type": "landing_redirect",
+          "smoothness_score": "fast_responsive",
+          "company": "Upstox",
+          "title": "Software Developement Engineer III (JAVA+Rust)"
+        },
+        {
+          "url": "https://hrmsashoka.darwinbox.in/ms/candidatev2/main/careers/jobDetails/a6ac6330d2f4f5",
+          "load_time_ms": 1727,
+          "http_status": 200,
+          "frameworks": [
+            "Angular",
+            "jQuery"
+          ],
+          "dom_features": {
+            "title": "",
+            "iframes": 0,
+            "shadow_roots": 2,
+            "forms": 0,
+            "apply_buttons": []
+          },
+          "security_anti_bot": [],
+          "apply_flow_type": "landing_redirect",
+          "smoothness_score": "fast_responsive",
+          "company": "Ashoka University",
+          "title": "Project Research Scientist I (AI/ML)"
+        },
+        {
+          "url": "https://hrmsashoka.darwinbox.in/ms/candidatev2/main/careers/jobDetails/a6ac62c9a84e30",
+          "load_time_ms": 1123,
+          "http_status": 200,
+          "frameworks": [
+            "Angular",
+            "jQuery"
+          ],
+          "dom_features": {
+            "title": "mainPage.jobDetailsPage",
+            "iframes": 0,
+            "shadow_roots": 2,
+            "forms": 0,
+            "apply_buttons": [
+              "Apply Now"
+            ]
+          },
+          "security_anti_bot": [],
+          "apply_flow_type": "auth_wall_required",
+          "smoothness_score": "fast_responsive",
+          "company": "Ashoka University",
+          "title": "Project Research Scientist I (Human Immunology)"
+        }
+      ]
+    },
+    "intellohire": {
+      "total_jobs_in_partition": 14,
+      "samples_tested": [
+        {
+          "url": "https://app.intellohire.com/public/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZXNvdXJjZSI6eyJvcmdhbml6YXRpb24iOjM5Nn19.FVmOkFldcowxdAQsyZn6uTT8Uw3axXiIbMRH360VtZc/15291/job-description",
+          "load_time_ms": 1570,
+          "http_status": 200,
+          "frameworks": [
+            "jQuery"
+          ],
+          "dom_features": {
+            "title": "Java Full Stack Developer-HCL",
+            "iframes": 0,
+            "shadow_roots": 0,
+            "forms": 1,
+            "apply_buttons": []
+          },
+          "security_anti_bot": [],
+          "apply_flow_type": "single_page_form",
+          "smoothness_score": "fast_responsive",
+          "company": "Logic Planet",
+          "title": "Java Full Stack Developer"
+        },
+        {
+          "url": "https://app.intellohire.com/public/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZXNvdXJjZSI6eyJvcmdhbml6YXRpb24iOjM5Nn19.FVmOkFldcowxdAQsyZn6uTT8Uw3axXiIbMRH360VtZc/12461/job-description",
+          "load_time_ms": 739,
+          "http_status": 200,
+          "frameworks": [
+            "jQuery"
+          ],
+          "dom_features": {
+            "title": "Full Stack",
+            "iframes": 0,
+            "shadow_roots": 0,
+            "forms": 1,
+            "apply_buttons": []
+          },
+          "security_anti_bot": [],
+          "apply_flow_type": "single_page_form",
+          "smoothness_score": "fast_responsive",
+          "company": "Logic Planet",
+          "title": "full stack developer"
+        },
+        {
+          "url": "https://app.intellohire.com/public/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZXNvdXJjZSI6eyJvcmdhbml6YXRpb24iOjM5Nn19.FVmOkFldcowxdAQsyZn6uTT8Uw3axXiIbMRH360VtZc/21392/job-description",
+          "load_time_ms": 340,
+          "http_status": 200,
+          "frameworks": [
+            "jQuery"
+          ],
+          "dom_features": {
+            "title": "MuleSoft developer,,Karnataka,Tamil Nadu,Uttar Pradesh",
+            "iframes": 0,
+            "shadow_roots": 0,
+            "forms": 1,
+            "apply_buttons": []
+          },
+          "security_anti_bot": [],
+          "apply_flow_type": "single_page_form",
+          "smoothness_score": "fast_responsive",
+          "company": "Logic Planet",
+          "title": "MuleSoft developer"
+        }
+      ]
+    },
+    "custom_company_careers": {
+      "total_jobs_in_partition": 157,
+      "samples_tested": [
+        {
+          "url": "https://careers.payu.in/PayU/job/Gurgaon-Data-Scientist/53331580/",
+          "load_time_ms": 1599,
+          "http_status": 200,
+          "frameworks": [
+            "jQuery"
+          ],
+          "dom_features": {
+            "title": "Data Scientist Job Details | PayU Payments",
+            "iframes": 0,
+            "shadow_roots": 0,
+            "forms": 1,
+            "apply_buttons": [
+              "Apply now \u00bb",
+              "Apply now \u00bb"
+            ]
+          },
+          "security_anti_bot": [],
+          "apply_flow_type": "single_page_form",
+          "smoothness_score": "fast_responsive",
+          "company": "PayU",
+          "title": "Data Scientist"
+        },
+        {
+          "url": "https://flymediatech.com/current-job-opening/",
+          "load_time_ms": 1566,
+          "http_status": 200,
+          "frameworks": [],
+          "dom_features": {
+            "title": "Current Job Opening at Flymedia Technology",
+            "iframes": 3,
+            "shadow_roots": 1,
+            "forms": 0,
+            "apply_buttons": [
+              "Apply For Job"
+            ]
+          },
+          "security_anti_bot": [],
+          "apply_flow_type": "auth_wall_required",
+          "smoothness_score": "fast_responsive",
+          "company": "Flymedia Technology",
+          "title": "Intern For AI/ML"
+        },
+        {
+          "url": "https://careers.tesco.com/en_GB/careers/JobDetail/Data-Scientist/140615",
+          "load_time_ms": 5453,
+          "http_status": 200,
+          "frameworks": [
+            "React",
+            "jQuery"
+          ],
+          "dom_features": {
+            "title": "Data Scientist - Bengaluru, Karnataka, India, India - 140615 - Tesco Careers",
+            "iframes": 3,
+            "shadow_roots": 0,
+            "forms": 0,
+            "apply_buttons": [
+              "Apply",
+              "Apply",
+              "Apply"
+            ]
+          },
+          "security_anti_bot": [],
+          "apply_flow_type": "landing_redirect",
+          "smoothness_score": "moderate",
+          "company": "Tesco",
+          "title": "Data Scientist"
+        }
+      ]
+    }
+  }
+}

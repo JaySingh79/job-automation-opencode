@@ -1,0 +1,30 @@
+{
+  "company": "SanDisk",
+  "job_id": "3116",
+  "role": "Data and AI Engineer",
+  "url": "https://avature.sandisk.com/Careers/JobDetail/Data-and-AI-Engineer/3116?src=LinkedIn",
+  "success_url": "https://avature.sandisk.com/Careers/Success?jobId=3116",
+  "completed_at": "2026-10-29T16:26:25+05:30",
+  "status": "applied",
+  "account_created": {
+    "email": "jays.iitkgp@gmail.com",
+    "password_rule": "random-secure"
+  },
+  "fields_filled": {
+    "legal_first_name": "Jay",
+    "legal_last_name": "Singh",
+    "country": "India",
+    "state": "Bihar",
+    "city": "Gaya",
+    "phone": "+91 8651274328",
+    "education": "IIT Kharagpur (B.Tech)",
+    "experience": [
+      "Pibit AI",
+      "Pascal AI Labs",
+      "Innovaccer",
+      "Cambridge Judge Business School"
+    ],
+    "skills": 25,
+    "compliance": "9/9 answered"
+  }
+}

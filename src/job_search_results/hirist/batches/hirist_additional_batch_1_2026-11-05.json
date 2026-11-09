@@ -1,0 +1,1237 @@
+{
+  "worker": 1,
+  "target_applied": 40,
+  "total_candidates": 62,
+  "jobs": [
+    {
+      "id": 1668696,
+      "title": "AI Vibe Coding Engineer - Prototyping",
+      "company": "K-Logix Partnering Solutions",
+      "min": 0,
+      "max": 3,
+      "exp": "0-3 yrs",
+      "location": "Remote",
+      "tags": [
+        "Generative AI",
+        "Python",
+        "React.js",
+        "Agentic AI",
+        "AI Integration",
+        "RAG",
+        "LLM",
+        "Claude",
+        "ChatGPT",
+        "Vibe Coding",
+        "Code Generation Tools"
+      ],
+      "createdTime": 1788460200000
+    },
+    {
+      "id": 1657066,
+      "title": "ML/AI Engineer - Foundation Model Engineering",
+      "company": "Scaling Theory Technologies",
+      "min": 0,
+      "max": 7,
+      "exp": "0-7 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "Machine Learning",
+        "Artificial Intelligence",
+        "Deep Learning",
+        "PySpark",
+        "Memory Management",
+        "GPU",
+        "Distributed Computing"
+      ],
+      "createdTime": 1784745000000
+    },
+    {
+      "id": 1653242,
+      "title": "Senior AI/ML Researcher",
+      "company": "IAI Solution",
+      "min": 0,
+      "max": 8,
+      "exp": "0-8 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "R&D",
+        "Data Science",
+        "LLM",
+        "PyTorch",
+        "Deep Learning"
+      ],
+      "createdTime": 1783621800000
+    },
+    {
+      "id": 1668404,
+      "title": "Software Development Engineer I - Backend Technologies",
+      "company": "Incanus Technologies",
+      "min": 0,
+      "max": 2,
+      "exp": "0-2 yrs",
+      "location": "Anywhere in India/Multiple Locations | Remote",
+      "tags": [
+        "Java",
+        "Python",
+        "C++",
+        "Golang",
+        "Node.js",
+        "OOPS",
+        "System Design",
+        "NoSQL",
+        "AWS"
+      ],
+      "createdTime": 1788373800000
+    },
+    {
+      "id": 1674507,
+      "title": "Binocs - Software Development Engineer I - Backend Architecture",
+      "company": "Bluecrux",
+      "min": 0,
+      "max": 1,
+      "exp": "0-1 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "Python",
+        "Java",
+        "Node.js",
+        "Backend Architecture",
+        "Golang",
+        "SQL",
+        "NoSQL",
+        "RESTful API",
+        "Multithreading",
+        "OOAD",
+        "Concurrency Patterns"
+      ],
+      "createdTime": 1790188200000
+    },
+    {
+      "id": 1671890,
+      "title": "HFT Developer - C++ - IIT",
+      "company": "Callisto Talent Solutions",
+      "min": 0,
+      "max": 1,
+      "exp": "0-1 yrs",
+      "location": "Singapore | Bangalore",
+      "tags": [
+        "C++",
+        "Data Structure",
+        "Algorithm",
+        "Multithreading",
+        "Linux",
+        "OOPS",
+        "TCP/IP",
+        "Trading Systems",
+        "HFT"
+      ],
+      "createdTime": 1789497000000
+    },
+    {
+      "id": 1670052,
+      "title": "PACE - Backend Developer - Python",
+      "company": "Pace Stock Broking Services",
+      "min": 0,
+      "max": 2,
+      "exp": "0-2 yrs",
+      "location": "Gurgaon/Gurugram",
+      "tags": [
+        "Python",
+        "RESTful API",
+        "Redis",
+        "Django",
+        "PostgreSQL",
+        "Pandas",
+        "Numpy",
+        "HFT"
+      ],
+      "createdTime": 1788892200000
+    },
+    {
+      "id": 1666381,
+      "title": "Junior Backend Developer - Python/Django",
+      "company": "Talent Quest Technologies",
+      "min": 0,
+      "max": 2,
+      "exp": "0-2 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Fuse",
+        "REST API",
+        "Javascript",
+        "jQuery",
+        "ORM",
+        "Redis"
+      ],
+      "createdTime": 1787682600000
+    },
+    {
+      "id": 1658227,
+      "title": "Backend Developer - Server Side Programming",
+      "company": "HireSource.ai",
+      "min": 0,
+      "max": 3,
+      "exp": "0-3 yrs",
+      "location": "Noida",
+      "tags": [
+        "Python",
+        "Java",
+        "Golang",
+        "Node.js",
+        "PostgreSQL",
+        "MySQL",
+        "Redis",
+        "Kafka",
+        "RabbitMQ",
+        "Server Side Component"
+      ],
+      "createdTime": 1785177000000
+    },
+    {
+      "id": 1653491,
+      "title": "PHP Developer",
+      "company": "Peoplite",
+      "min": 0,
+      "max": 6,
+      "exp": "0-6 yrs",
+      "location": "Anywhere in India/Multiple Locations",
+      "tags": [
+        "PHP",
+        "Javascript",
+        "CodeIgniter",
+        "SQL Server",
+        "MySQL",
+        "Frontend Architecture"
+      ],
+      "createdTime": 1783881000000
+    },
+    {
+      "id": 1647815,
+      "title": "Software Engineer I - Artificial Intelligence",
+      "company": "Getaight.ai",
+      "min": 0,
+      "max": 3,
+      "exp": "0-3 yrs",
+      "location": "Delhi NCR",
+      "tags": [
+        "Artificial Intelligence",
+        "LLM",
+        "API",
+        "OpenAI",
+        "Python",
+        "Google Cloud Platform",
+        "CI/CD",
+        "Multithreading",
+        "Node.js",
+        "React.js",
+        "Azure"
+      ],
+      "createdTime": 1782153000000
+    },
+    {
+      "id": 1680685,
+      "title": "Policybazaar - Machine Learning Engineer - Generative AI",
+      "company": "Policybazaar",
+      "min": 1,
+      "max": 3,
+      "exp": "1-3 yrs",
+      "location": "Gurgaon/Gurugram",
+      "tags": [
+        "Machine Learning",
+        "Data Science",
+        "Python",
+        "NLP",
+        "Generative AI",
+        "Speech Recognition",
+        "Tensorflow",
+        "PyTorch",
+        "Big Data"
+      ],
+      "createdTime": 1793125800000
+    },
+    {
+      "id": 1681085,
+      "title": "PurpleTalk - Principal AI Scientist",
+      "company": "PurpleTalk",
+      "min": 1,
+      "max": 5,
+      "exp": "1-5 yrs",
+      "location": "Hyderabad",
+      "tags": [
+        "Artificial Intelligence",
+        "LLM",
+        "RAG",
+        "PyTorch",
+        "Tensorflow",
+        "Python",
+        "Deep Learning",
+        "Machine Learning",
+        "Algorithm",
+        "IT Research",
+        "AI Architecture"
+      ],
+      "createdTime": 1793212200000
+    },
+    {
+      "id": 1677833,
+      "title": "Principal Machine Learning Engineer - Rust & AI Infrastructure",
+      "company": "SHAIL.AI",
+      "min": 1,
+      "max": 3,
+      "exp": "1-3 yrs",
+      "location": "US | Anywhere in India/Multiple Locations | Overseas/International",
+      "tags": [
+        "Machine Learning",
+        "Rust",
+        "Deep Learning",
+        "Linux",
+        "Virtualization",
+        "Security",
+        "Artificial Intelligence"
+      ],
+      "createdTime": 1791743400000
+    },
+    {
+      "id": 1681878,
+      "title": "AI Engineer - LLM Agents & Workflow Automation",
+      "company": "HiringBlaze",
+      "min": 1,
+      "max": 3,
+      "exp": "1-3 yrs",
+      "location": "Anywhere in India/Multiple Locations | Any Location | Remote",
+      "tags": [
+        "Artificial Intelligence",
+        "Python",
+        "LangChain",
+        "LangGraph",
+        "Agentic AI",
+        "Generative AI",
+        "AI Integration",
+        "API",
+        "LLM",
+        "Workflows"
+      ],
+      "createdTime": 1793644200000
+    },
+    {
+      "id": 1681679,
+      "title": "AI Engineer - LLM/RAG - Supply Chain Intelligence Domain",
+      "company": "HiringBlaze",
+      "min": 1,
+      "max": 3,
+      "exp": "1-3 yrs",
+      "location": "Gurgaon/Gurugram",
+      "tags": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Python",
+        "Generative AI",
+        "NLP",
+        "LangChain",
+        "AWS",
+        "MLOps",
+        "LLM"
+      ],
+      "createdTime": 1793557800000
+    },
+    {
+      "id": 1680581,
+      "title": "AI Engineer - Python/Machine Learning",
+      "company": "Bulwark Software Research",
+      "min": 1,
+      "max": 2,
+      "exp": "1-2 yrs",
+      "location": "Gurgaon/Gurugram",
+      "tags": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Python",
+        "Generative AI",
+        "LangChain",
+        "Deep Learning",
+        "Next.js",
+        "FastAPI",
+        "Node.js",
+        "Prompt Engineering",
+        "Distributed Systems"
+      ],
+      "createdTime": 1793039400000
+    },
+    {
+      "id": 1677546,
+      "title": "LLM Trainer - Code Security",
+      "company": "The Reliable Jobs",
+      "min": 1,
+      "max": 3,
+      "exp": "1-3 yrs",
+      "location": "Remote | Anywhere in India/Multiple Locations",
+      "tags": [
+        "Security",
+        "VAPT",
+        "Python",
+        "Javascript",
+        "Generative AI",
+        "Security Architect - AI",
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Applications Security",
+        "AI Training",
+        "AI Evaluation"
+      ],
+      "createdTime": 1791484200000
+    },
+    {
+      "id": 1667632,
+      "title": "AI/ML Engineer",
+      "company": "Unico Talent",
+      "min": 1,
+      "max": 4,
+      "exp": "1-4 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Generative AI",
+        "LLM",
+        "Prompt Engineering"
+      ],
+      "createdTime": 1788201000000
+    },
+    {
+      "id": 1667144,
+      "title": "AI/ML Engineer - GEO",
+      "company": "Rivet HR",
+      "min": 1,
+      "max": 5,
+      "exp": "1-5 yrs",
+      "location": "Pune",
+      "tags": [
+        "Machine Learning",
+        "Artificial Intelligence",
+        "GEO",
+        "LLM",
+        "Generative AI",
+        "RAG",
+        "VectorDB"
+      ],
+      "createdTime": 1788114600000
+    },
+    {
+      "id": 1666256,
+      "title": "AI/ML Engineer - Generative AI",
+      "company": "Hire Global",
+      "min": 1,
+      "max": 4,
+      "exp": "1-4 yrs",
+      "location": "Pune",
+      "tags": [
+        "Machine Learning",
+        "Generative AI",
+        "LLM",
+        "Python",
+        "Artificial Intelligence",
+        "NLP",
+        "RAG",
+        "VectorDB"
+      ],
+      "createdTime": 1787682600000
+    },
+    {
+      "id": 1663813,
+      "title": "TechRAQ - AI/ML Engineer",
+      "company": "TechRAQ Info Solutions",
+      "min": 1,
+      "max": 5,
+      "exp": "1-5 yrs",
+      "location": "Hyderabad",
+      "tags": [
+        "Python",
+        "Machine Learning",
+        "Artificial Intelligence",
+        "LLM",
+        "Numpy",
+        "NLP",
+        "Agentic AI",
+        "LangChain"
+      ],
+      "createdTime": 1786905000000
+    },
+    {
+      "id": 1659332,
+      "title": "Data & AI Engineer",
+      "company": "Neovara",
+      "min": 1,
+      "max": 3,
+      "exp": "1-3 yrs",
+      "location": "Bangalore | Karnataka",
+      "tags": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "AWS",
+        "Data Scientist",
+        "Data Science",
+        "AI Integration",
+        "Agentic AI"
+      ],
+      "createdTime": 1785349800000
+    },
+    {
+      "id": 1658924,
+      "title": "Valiance Solutions - Computer Vision Engineer",
+      "company": "Valiance Analytics",
+      "min": 1,
+      "max": 3,
+      "exp": "1-3 yrs",
+      "location": "Delhi NCR",
+      "tags": [
+        "Computer Vision",
+        "OpenCV",
+        "Deep Learning",
+        "PyTorch",
+        "Tensorflow",
+        "Python",
+        "AWS",
+        "MLOps"
+      ],
+      "createdTime": 1785263400000
+    },
+    {
+      "id": 1654256,
+      "title": "Navtech - AI/ML Engineer",
+      "company": "Navaratan Technologies",
+      "min": 1,
+      "max": 4,
+      "exp": "1-4 yrs",
+      "location": "Hyderabad",
+      "tags": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "NLP",
+        "Python",
+        "Tensorflow",
+        "Generative AI",
+        "LLM",
+        "MLOps",
+        "Deep Learning"
+      ],
+      "createdTime": 1784053800000
+    },
+    {
+      "id": 1653612,
+      "title": "LLM Trainer",
+      "company": "The Reliable Jobs",
+      "min": 1,
+      "max": 4,
+      "exp": "1-4 yrs",
+      "location": "Anywhere in India/Multiple Locations",
+      "tags": [
+        "LLM",
+        "Technical Training",
+        "Training Support",
+        "AI Training",
+        "Generative AI",
+        "GPT",
+        "Python",
+        "SQL"
+      ],
+      "createdTime": 1783881000000
+    },
+    {
+      "id": 1651397,
+      "title": "TymeX - Scorecard Developer - Machine Learning",
+      "company": "Tyme",
+      "min": 1,
+      "max": 5,
+      "exp": "1-5 yrs",
+      "location": "Bangalore | Mumbai",
+      "tags": [
+        "Machine Learning",
+        "Decisioning Framework",
+        "Decision Science",
+        "SQL",
+        "Python"
+      ],
+      "createdTime": 1783103400000
+    },
+    {
+      "id": 1648674,
+      "title": "i2V Systems - Computer Vision Engineer",
+      "company": "i2V Systems",
+      "min": 1,
+      "max": 3,
+      "exp": "1-3 yrs",
+      "location": "Gurgaon/Gurugram",
+      "tags": [
+        "Computer Vision",
+        "Surveillance Tools",
+        "GPU",
+        "C++",
+        "Python",
+        "Image Processing",
+        "OpenCV",
+        "Machine Learning",
+        "PyTorch",
+        "Tensorflow"
+      ],
+      "createdTime": 1782325800000
+    },
+    {
+      "id": 1647334,
+      "title": "AI Solutions Engineer",
+      "company": "Talent Pro",
+      "min": 1,
+      "max": 3,
+      "exp": "1-3 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "Artificial Intelligence",
+        "Generative AI",
+        "AI Integration",
+        "Forward Deployment Engineering",
+        "Python",
+        "Claude",
+        "LLama",
+        "RAG",
+        "LangChain"
+      ],
+      "createdTime": 1782066600000
+    },
+    {
+      "id": 1682085,
+      "title": "Software Engineer - Node.js Platform",
+      "company": "Seventh Contact Hiring Solutions",
+      "min": 1,
+      "max": 2,
+      "exp": "1-2 yrs",
+      "location": "Pune",
+      "tags": [
+        "Node.js",
+        "Backend Architecture",
+        "Javascript",
+        "TypeScript",
+        "REST API",
+        "GraphQL",
+        "AI Integration",
+        "PostgreSQL",
+        "OOPS",
+        "Data Structure",
+        "Algorithm"
+      ],
+      "createdTime": 1793730600000
+    },
+    {
+      "id": 1678002,
+      "title": "Sciative Solutions - Software Developer - Python/Django/Flask",
+      "company": "Sciative - We Price Right",
+      "min": 1,
+      "max": 3,
+      "exp": "1-3 yrs",
+      "location": "Mumbai | Navi Mumbai",
+      "tags": [
+        "Application Architecture",
+        "Python",
+        "RESTful API",
+        "AngularJS",
+        "MVC",
+        "SQL",
+        "Django",
+        "Flask",
+        "MySQL",
+        "Ruby on Rails",
+        "Node.js"
+      ],
+      "createdTime": 1791829800000
+    },
+    {
+      "id": 1669122,
+      "title": "StashFin - Software Engineer - Backend Architecture",
+      "company": "Stashfin",
+      "min": 1,
+      "max": 3,
+      "exp": "1-3 yrs",
+      "location": "Gurgaon/Gurugram",
+      "tags": [
+        "Backend Architecture",
+        "Data Structure",
+        "Algorithm",
+        "OOAD",
+        "RDBMS",
+        "Node.js",
+        "Javascript"
+      ],
+      "createdTime": 1788719400000
+    },
+    {
+      "id": 1663034,
+      "title": "Zaggle - Senior Software Engineer - Java Technologies",
+      "company": "Zaggle Prepaid Ocean Services",
+      "min": 1,
+      "max": 3,
+      "exp": "1-3 yrs",
+      "location": "Hyderabad",
+      "tags": [
+        "Backend Architecture",
+        "Java",
+        "Spring Boot",
+        "Microservices Architecture",
+        "RDBMS",
+        "NoSQL",
+        "OOAD",
+        "Hibernate",
+        "Algorithm",
+        "Design Patterns",
+        "C#"
+      ],
+      "createdTime": 1786559400000
+    },
+    {
+      "id": 1673138,
+      "title": "Java Backend Developer - Spring Boot/Microservices Architecture",
+      "company": "Techno Comp",
+      "min": 1,
+      "max": 10,
+      "exp": "1-10 yrs",
+      "location": "Bangalore | Hyderabad | Gurgaon/Gurugram",
+      "tags": [
+        "Java",
+        "Spring Boot",
+        "Microservices Architecture",
+        "Hibernate",
+        "JPA",
+        "RDBMS",
+        "OOPS",
+        "Design Patterns",
+        "MVC",
+        "Play Framework",
+        "Spark"
+      ],
+      "createdTime": 1789929000000
+    },
+    {
+      "id": 1672848,
+      "title": "Technical/Application Support Engineer - Java",
+      "company": "Neemtree",
+      "min": 1,
+      "max": 2,
+      "exp": "1-2 yrs",
+      "location": "Pune",
+      "tags": [
+        "Technical Support",
+        "Applications Support",
+        "Java",
+        "Troubleshooting",
+        "Production Support",
+        "Monitoring Tools",
+        "OOPS",
+        "SQL",
+        "Spring Boot",
+        "Microservices Architecture"
+      ],
+      "createdTime": 1789756200000
+    },
+    {
+      "id": 1672549,
+      "title": "SplashLearn - Backend Developer - Java/Ruby on Rails",
+      "company": "SplashLearn",
+      "min": 1,
+      "max": 2,
+      "exp": "1-2 yrs",
+      "location": "Gurgaon/Gurugram",
+      "tags": [
+        "Backend Architecture",
+        "Java",
+        "Spring Boot",
+        "SQL",
+        "Ruby on Rails",
+        "Ruby Programming",
+        "NoSQL"
+      ],
+      "createdTime": 1789669800000
+    },
+    {
+      "id": 1671983,
+      "title": "PHP Developer - CodeIgniter Framework",
+      "company": "Mesitus",
+      "min": 1,
+      "max": 4,
+      "exp": "1-4 yrs",
+      "location": "Delhi",
+      "tags": [
+        "PHP",
+        "CodeIgniter",
+        "SaaS",
+        "MySQL",
+        "API Integration",
+        "REST API",
+        "YII"
+      ],
+      "createdTime": 1789497000000
+    },
+    {
+      "id": 1670868,
+      "title": "C Developer -",
+      "company": "Aanet Talent Global Solutions",
+      "min": 1,
+      "max": 4,
+      "exp": "1-4 yrs",
+      "location": "Mumbai",
+      "tags": [
+        "C",
+        "Backend Architecture",
+        "SQL",
+        "Unix",
+        "Linux",
+        "Windows OS"
+      ],
+      "createdTime": 1789065000000
+    },
+    {
+      "id": 1670707,
+      "title": "Quant Developer - Rust/C++",
+      "company": "White Squire Technologies",
+      "min": 1,
+      "max": 3,
+      "exp": "1-3 yrs",
+      "location": "Gurgaon/Gurugram",
+      "tags": [
+        "C++",
+        "Quant",
+        "Rust",
+        "Algorithmic Trading",
+        "HFT",
+        "Data Observability"
+      ],
+      "createdTime": 1789065000000
+    },
+    {
+      "id": 1665240,
+      "title": "Java Backend Engineer - Golang/Microservices Architecture",
+      "company": "heyaura",
+      "min": 1,
+      "max": 5,
+      "exp": "1-5 yrs",
+      "location": "Delhi NCR",
+      "tags": [
+        "Java",
+        "Golang",
+        "GraphQL",
+        "REST API",
+        "Microservices Architecture",
+        "NoSQL",
+        "SQL",
+        "OAuth"
+      ],
+      "createdTime": 1787337000000
+    },
+    {
+      "id": 1665284,
+      "title": "heyaura - Backend Engineer - Voice AI Platform",
+      "company": "heyaura",
+      "min": 1,
+      "max": 3,
+      "exp": "1-3 yrs",
+      "location": "Gurgaon/Gurugram",
+      "tags": [
+        "Backend Architecture",
+        "Golang",
+        "Microservices Architecture",
+        "AI Integration",
+        "Workflows",
+        "IT Automation",
+        "LLM",
+        "Java",
+        "Conversational AI"
+      ],
+      "createdTime": 1787337000000
+    },
+    {
+      "id": 1662224,
+      "title": "Aristocrat - Game Mathematician",
+      "company": "Aristocrat",
+      "min": 1,
+      "max": 6,
+      "exp": "1-6 yrs",
+      "location": "Noida | Gurgaon/Gurugram",
+      "tags": [
+        "UE Simulator",
+        "Game Design",
+        "Mathematical Modeling",
+        "C++",
+        "Python",
+        "RTP"
+      ],
+      "createdTime": 1786386600000
+    },
+    {
+      "id": 1656305,
+      "title": "Software Development Engineer I - Java/Python",
+      "company": "HackCulture",
+      "min": 1,
+      "max": 5,
+      "exp": "1-5 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "Java",
+        "Python",
+        "Kafka",
+        "Data Structure",
+        "PostgreSQL"
+      ],
+      "createdTime": 1784572200000
+    },
+    {
+      "id": 1653763,
+      "title": "WheelsEye - Software Backend Engineer",
+      "company": "Wheelseye Technology",
+      "min": 1,
+      "max": 3,
+      "exp": "1-3 yrs",
+      "location": "Gurgaon/Gurugram",
+      "tags": [
+        "SQL",
+        "NoSQL",
+        "Data Structure",
+        "Algorithm",
+        "System Design"
+      ],
+      "createdTime": 1783881000000
+    },
+    {
+      "id": 1651419,
+      "title": "Game Developer - Java/LibGDX",
+      "company": "YO IT CONSULTING",
+      "min": 1,
+      "max": 10,
+      "exp": "1-10 yrs",
+      "location": "Remote | Anywhere in India/Multiple Locations",
+      "tags": [
+        "Game Design",
+        "Game Architecture",
+        "Java",
+        "LibGDX",
+        "2D",
+        "Game Engine"
+      ],
+      "createdTime": 1783103400000
+    },
+    {
+      "id": 1651423,
+      "title": "Software Engineer - Backend Development",
+      "company": "YO IT CONSULTING",
+      "min": 1,
+      "max": 10,
+      "exp": "1-10 yrs",
+      "location": "Remote | Anywhere in India/Multiple Locations",
+      "tags": [
+        "Backend Architecture",
+        "Java",
+        "Node.js",
+        "Golang",
+        "Rust",
+        "System Design"
+      ],
+      "createdTime": 1783103400000
+    },
+    {
+      "id": 1651413,
+      "title": "Junior Python Game Developer - Panda3D",
+      "company": "YO IT CONSULTING",
+      "min": 1,
+      "max": 10,
+      "exp": "1-10 yrs",
+      "location": "Remote | Anywhere in India/Multiple Locations",
+      "tags": [
+        "Python",
+        "Game Design",
+        "Game Architecture",
+        "C++",
+        "Panda3D",
+        "Game Engine"
+      ],
+      "createdTime": 1783103400000
+    },
+    {
+      "id": 1651445,
+      "title": "Python Developer",
+      "company": "YO IT CONSULTING",
+      "min": 1,
+      "max": 10,
+      "exp": "1-10 yrs",
+      "location": "Anywhere in India/Multiple Locations | Others",
+      "tags": [
+        "Python",
+        "Backend Architecture",
+        "RESTful",
+        "GraphQL",
+        "System Design"
+      ],
+      "createdTime": 1783103400000
+    },
+    {
+      "id": 1651382,
+      "title": "Game Developer - Graphics Programming",
+      "company": "YO IT CONSULTING",
+      "min": 1,
+      "max": 10,
+      "exp": "1-10 yrs",
+      "location": "Remote | Anywhere in India/Multiple Locations",
+      "tags": [
+        "Game Design",
+        "Game Architecture",
+        "C++",
+        "Graphics Programming",
+        "DirectX",
+        "OpenGL",
+        "GPU",
+        "Shader Programming",
+        "Unreal Engine"
+      ],
+      "createdTime": 1783103400000
+    },
+    {
+      "id": 1650702,
+      "title": "Miko.ai - Junior Java Developer - Spring Boot",
+      "company": "RN Chidakashi Technologies",
+      "min": 1,
+      "max": 3,
+      "exp": "1-3 yrs",
+      "location": "Mumbai",
+      "tags": [
+        "Java",
+        "Spring Boot",
+        "Spring MVC",
+        "Multithreading",
+        "Linux",
+        "MySQL",
+        "PostgreSQL",
+        "Microservices Architecture"
+      ],
+      "createdTime": 1782930600000
+    },
+    {
+      "id": 1649515,
+      "title": "Trendlyne - Backend Engineer - Python",
+      "company": "Giskard Datatech",
+      "min": 1,
+      "max": 3,
+      "exp": "1-3 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "Python",
+        "Django",
+        "Flask",
+        "FastAPI",
+        "REST API",
+        "PostgreSQL",
+        "Javascript"
+      ],
+      "createdTime": 1782671400000
+    },
+    {
+      "id": 1659558,
+      "title": "Software Development Engineer - Java/Python",
+      "company": "HackCulture",
+      "min": 1,
+      "max": 5,
+      "exp": "1-5 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "Java",
+        "Python",
+        "Kafka",
+        "PostgreSQL",
+        "Data Structure",
+        "Distributed Systems",
+        "System Design",
+        "Spring Boot"
+      ],
+      "createdTime": 1785436200000
+    },
+    {
+      "id": 1658376,
+      "title": "Forward Deployed Engineer - Python",
+      "company": "Scaling Theory Technologies",
+      "min": 1,
+      "max": 4,
+      "exp": "1-4 yrs",
+      "location": "Remote | Bangalore",
+      "tags": [
+        "Forward Deployment Engineering",
+        "System Integration",
+        "Solution Implementation",
+        "Python",
+        "Javascript"
+      ],
+      "createdTime": 1785177000000
+    },
+    {
+      "id": 1658105,
+      "title": "NCR Voyix - Software Engineer II - Golang",
+      "company": "Terafina",
+      "min": 1,
+      "max": 7,
+      "exp": "1-7 yrs",
+      "location": "Hyderabad",
+      "tags": [
+        "Golang",
+        "Linux",
+        "Multithreading",
+        "Bash Scripting",
+        "Scripting",
+        "System Design"
+      ],
+      "createdTime": 1785090600000
+    },
+    {
+      "id": 1657117,
+      "title": "QClairvoyance Quantum Labs - Python Backend Developer - Flask/FastAPI",
+      "company": "QClairvoyance Quantum Labs",
+      "min": 1,
+      "max": 3,
+      "exp": "1-3 yrs",
+      "location": "Mumbai",
+      "tags": [
+        "Python",
+        "Backend Architecture",
+        "PostgreSQL",
+        "Microservices Architecture",
+        "FastAPI",
+        "Flask",
+        "AWS"
+      ],
+      "createdTime": 1784745000000
+    },
+    {
+      "id": 1653515,
+      "title": "Java Developer - Spring/Hibernate",
+      "company": "Jobato HR Consultancy",
+      "min": 1,
+      "max": 5,
+      "exp": "1-5 yrs",
+      "location": "Mumbai | Pune | Vadodara/Baroda",
+      "tags": [
+        "Java",
+        "J2EE",
+        "Spring",
+        "Hibernate",
+        "RESTful Webservices",
+        "JPA"
+      ],
+      "createdTime": 1783881000000
+    },
+    {
+      "id": 1651537,
+      "title": "Java Technical Lead - Spring Boot/Multithreading",
+      "company": "AJM Talentrix",
+      "min": 1,
+      "max": 5,
+      "exp": "1-5 yrs",
+      "location": "Pune",
+      "tags": [
+        "Java",
+        "Spring Boot",
+        "SQL",
+        "AWS",
+        "NoSQL",
+        "Node.js",
+        "Python",
+        "Data Structure",
+        "Multithreading",
+        "OOPS"
+      ],
+      "createdTime": 1783276200000
+    },
+    {
+      "id": 1651492,
+      "title": "Junior Python Game Developer - Panda3D",
+      "company": "Yo Hr Consultancy",
+      "min": 1,
+      "max": 10,
+      "exp": "1-10 yrs",
+      "location": "Bangalore | Anywhere in India/Multiple Locations | Remote",
+      "tags": [
+        "Python",
+        "Github",
+        "C++",
+        "Panda3D"
+      ],
+      "createdTime": 1783103400000
+    },
+    {
+      "id": 1651496,
+      "title": "Game Developer - Java/LibGDX",
+      "company": "Yo Hr Consultancy",
+      "min": 1,
+      "max": 10,
+      "exp": "1-10 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "Java",
+        "LibGDX",
+        "Gaming",
+        "Git",
+        "Github",
+        "Version Control System"
+      ],
+      "createdTime": 1783103400000
+    },
+    {
+      "id": 1651497,
+      "title": "Python Game Developer - Panda3D",
+      "company": "Yo Hr Consultancy",
+      "min": 1,
+      "max": 10,
+      "exp": "1-10 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "C++",
+        "Python",
+        "Github",
+        "Panda3D",
+        "Game Design"
+      ],
+      "createdTime": 1783103400000
+    },
+    {
+      "id": 1650243,
+      "title": "Software Development Engineer I - Server Side Component",
+      "company": "NPrep",
+      "min": 1,
+      "max": 5,
+      "exp": "1-5 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "Node.js",
+        "NoSQL",
+        "Server Side Component",
+        "SQL",
+        "Solution Design"
+      ],
+      "createdTime": 1782844200000
+    },
+    {
+      "id": 1649612,
+      "title": "EY - Application Backend Engineer - Java/Python",
+      "company": "Ernsy",
+      "min": 1,
+      "max": 10,
+      "exp": "1-10 yrs",
+      "location": "Hyderabad",
+      "tags": [
+        "Java",
+        "Spring Boot",
+        "Python",
+        "AWS Lambda",
+        "API",
+        "Cloud",
+        "AWS"
+      ],
+      "createdTime": 1782757800000
+    }
+  ]
+}

@@ -1,0 +1,847 @@
+{
+ "date": "2026-10-17",
+ "total": 100,
+ "summary": {
+  "applied": 3,
+  "skipped_expired": 0,
+  "skipped_senior_or_mismatch": 0,
+  "failed": 0,
+  "skipped_user_skip": 2
+ },
+ "jobs": [
+  {
+   "key": "greenhouse:cloudsek:6222340004",
+   "title": "SDE Intern - Backend   ",
+   "org": "cloudsek",
+   "url": "https://job-boards.greenhouse.io/cloudsek/jobs/6222340004",
+   "wave": 0,
+   "status": "applied",
+   "applied_at": "2026-10-17T08:35:00+05:30",
+   "note": "submitted; confirmation URL + Thank you for applying; GenAI_DS resume; fixed JayJay append trap"
+  },
+  {
+   "key": "greenhouse:coherehealth:7693298003",
+   "title": "Associate SDET Engineer",
+   "org": "coherehealth",
+   "url": "https://job-boards.greenhouse.io/coherehealth/jobs/7693298003",
+   "wave": 0,
+   "status": "applied",
+   "applied_at": "2026-10-17T09:00:00+05:30",
+   "note": "retry attempt-2 succeeded; prior CSP/recaptcha block cleared; /confirmation reached; all screening answers refilled"
+  },
+  {
+   "key": "greenhouse:anaplan:8571200002",
+   "title": "Engineer I",
+   "org": "anaplan",
+   "url": "https://job-boards.greenhouse.io/anaplan/jobs/8571200002",
+   "wave": 0,
+   "status": "skipped_senior_or_mismatch",
+   "note": "JD body = Infrastructure Capacity Engineer (Data Analytics); requires 3+ yrs Power BI/DAX/Power Query; profile 18mo no Power BI — domain+experience mismatch"
+  },
+  {
+   "key": "greenhouse:bswiftindia:4699956006",
+   "title": "Software Engineer  ",
+   "org": "bswiftindia",
+   "url": "https://job-boards.greenhouse.io/bswiftindia/jobs/4699956006",
+   "wave": 0,
+   "status": "skipped_senior_or_mismatch",
+   "note": "JD requires 3-5 yrs professional experience; stack C#/Java/NodeJS/TypeScript (no Python) — experience floor + stack mismatch"
+  },
+  {
+   "key": "greenhouse:coinbase:8165441",
+   "title": "Software Engineer, Security Platform",
+   "org": "coinbase",
+   "url": "https://www.coinbase.com/careers/positions/8165441?gh_jid=8165441",
+   "wave": 0,
+   "status": "skipped_senior_or_mismatch",
+   "note": "JD requires 3+ yrs SWE; stack Golang/Java (no Python); senior-flavored duties (mentor teams, long-term vision)"
+  },
+  {
+   "key": "greenhouse:databricks:8771566002",
+   "title": "Forward Deployed Engineer",
+   "org": "databricks",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8771566002",
+   "wave": 0,
+   "status": "skipped_senior_or_mismatch",
+   "note": "JD requires 6+ yrs experience in data engineering/software; also Spark deep expertise + Databricks cert — far above fresher band"
+  },
+  {
+   "key": "greenhouse:databricks:8829029002",
+   "title": "Software Engineer, Infrastructure",
+   "org": "databricks",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8829029002",
+   "wave": 0,
+   "status": "skipped_senior_or_mismatch",
+   "note": "JD requires 3-5 yrs hands-on SWE; infra-heavy stack (Terraform/Pulumi, EKS, GitHub Actions, Datadog) — above 0-3yr band"
+  },
+  {
+   "key": "greenhouse:doordashindia:8200625",
+   "title": "Software Engineer, Data Engineering",
+   "org": "doordashindia",
+   "url": "https://job-boards.greenhouse.io/doordashindia/jobs/8200625",
+   "wave": 0,
+   "status": "skipped_senior_or_mismatch",
+   "note": "JD requires 3+ yrs professional + 3+ yrs data eng + 3+ yrs Airflow + 3+ yrs Spark/Kafka — above 18mo profile"
+  },
+  {
+   "key": "greenhouse:gitlab:8894531002",
+   "title": "Intermediate Backend Engineer - Code Security",
+   "org": "gitlab",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8894531002",
+   "wave": 0,
+   "status": "skipped_user_skip",
+   "reason": "user: skip gitlab pair 2026-10-17",
+   "detail": "[2026-10-17] never submitted (~80% filled then user-cancelled); file; not submitted"
+  },
+  {
+   "key": "greenhouse:gitlab:8775507002",
+   "title": "Intermediate Backend Engineer, India",
+   "org": "gitlab",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8775507002",
+   "wave": 0,
+   "status": "applied",
+   "reason": "user: skip gitlab pair 2026-10-17",
+   "why": "submitted during wave-0 run before user-cancel; /confirmation 'Thank you for applying' verified 2026-10-17"
+  },
+  {
+   "key": "greenhouse:gitlab:8867756002",
+   "title": "Site Reliability Engineer, Cells Infrastructure",
+   "org": "gitlab",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8867756002",
+   "wave": 1,
+   "status": "skipped_user_skip",
+   "reason": "user: skip gitlab pair 2026-10-17",
+   "detail": "[2026-10-17] never submitted (~80% filled then user-cancelled); file; not submitted"
+  },
+  {
+   "key": "greenhouse:godaddy:7728661003",
+   "title": "Network Security Automation Engineer",
+   "org": "godaddy",
+   "url": "https://careers.godaddy/jobs?gh_jid=7728661003",
+   "wave": 1,
+   "status": "applied",
+   "reason": "submitted successfully",
+   "datetime": "2026-10-17T15:25:00+05:30"
+  },
+  {
+   "key": "greenhouse:gravitonresearchcapital:8781321002",
+   "title": "Application Reliability Engineer",
+   "org": "gravitonresearchcapital",
+   "url": "https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8781321002",
+   "wave": 1,
+   "status": "applied",
+   "reason": "submitted via greenhouse board with user auto-submit authority (fresh100_submit_authority_2026-10-17.json)",
+   "datetime": "2026-10-17T15:46:04+05:30"
+  },
+  {
+   "key": "greenhouse:gravitonresearchcapital:8147013002",
+   "title": "Software Engineer- Python",
+   "org": "gravitonresearchcapital",
+   "url": "https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8147013002",
+   "wave": 1,
+   "status": "applied",
+   "reason": "JD-gate passed: Python SWE, Gurugram India, no senior marker, min requirement 2 yrs (<=3), no PhD-only; 18mo profile stretch flagged, never padded",
+   "datetime": "2026-10-17T15:20:00+05:30"
+  },
+  {
+   "key": "greenhouse:hackerrank:7461142",
+   "title": "Forward Deployed Engineer",
+   "org": "hackerrank",
+   "url": "https://job-boards.greenhouse.io/hackerrank/jobs/7461142",
+   "wave": 1,
+   "status": "applied",
+   "reason": "FDE role, Bengaluru hybrid, level unlisted (no senior marker, no YoE bar on form) — eligible per 0-3yr gate; submitted with user submit authority fresh100_submit_authority_2026-10-17.json",
+   "datetime": "2026-10-17T15:16:54+05:30"
+  },
+  {
+   "key": "greenhouse:rubrik:8220011",
+   "title": "Security Engineer - Identity and Access ",
+   "org": "rubrik",
+   "url": "https://www.rubrik.com/company/careers/departments/job.8220011?gh_jid=8220011",
+   "wave": 1,
+   "status": "skipped_senior_or_mismatch",
+   "reason": "JD-gate fail: requires minimum 6 years IAM experience (SailPoint/Okta/CyberArk, PAM/IGA/NHI specialist role). Candidate has 18 months total experience — far outside 0-3yr fresher filter.",
+   "datetime": "2026-10-17T15:05:00+05:30"
+  },
+  {
+   "key": "greenhouse:stripe:7543868",
+   "title": "Software Engineer, Internal Systems",
+   "org": "stripe",
+   "url": "https://stripe.com/jobs/search?gh_jid=7543868",
+   "wave": 1,
+   "status": "skipped_senior_or_mismatch",
+   "reason": "JD-gate fail: minimum requirements demand 8+ years of experience designing, implementing, and operating large-scale high-performance APIs and services (Ruby/Mongo/MySQL/Redshift stack). Far above the 4+yr skip threshold and the 0-3yr batch cap; candidate has 18 months total experience.",
+   "datetime": "2026-10-17T15:38:13+05:30"
+  },
+  {
+   "key": "greenhouse:anaplan:8571210002",
+   "title": "Infrastructure Engineer",
+   "org": "anaplan",
+   "url": "https://job-boards.greenhouse.io/anaplan/jobs/8571210002",
+   "wave": 1,
+   "status": "queued"
+  },
+  {
+   "key": "greenhouse:anaplan:8650329002",
+   "title": "Platform DR & Capacity Engineer ",
+   "org": "anaplan",
+   "url": "https://job-boards.greenhouse.io/anaplan/jobs/8650329002",
+   "wave": 1,
+   "status": "queued"
+  },
+  {
+   "key": "greenhouse:bitgo:7344201002",
+   "title": "Backend Engineer E3 - Ecosystem",
+   "org": "bitgo",
+   "url": "https://job-boards.greenhouse.io/bitgo/jobs/7344201002",
+   "wave": 1,
+   "status": "skipped_senior_or_mismatch",
+   "reason": "JD_GATE_FAIL_EXPERIENCE: posting requires 'At least 6+ years of back-end, server-side software development' (Required section); profile truth = 18 months total experience. Gate rule: skip if 5+/senior. Also stack mismatch: strong TypeScript/Node.JS required, profile is Python/ML — cannot honestly claim required backend stack.",
+   "datetime": "2026-10-17T15:39:23+05:30"
+  },
+  {
+   "key": "greenhouse:bitgo:8869949002",
+   "title": "Backend Engineer E3 - India",
+   "org": "bitgo",
+   "url": "https://job-boards.greenhouse.io/bitgo/jobs/8869949002",
+   "wave": 2,
+   "status": "queued"
+  },
+  {
+   "key": "greenhouse:bitgo:8879340002",
+   "title": "Mobile Engineer E2 - (React Native)   ",
+   "org": "bitgo",
+   "url": "https://job-boards.greenhouse.io/bitgo/jobs/8879340002",
+   "wave": 2,
+   "status": "queued"
+  },
+  {
+   "key": "greenhouse:coherehealth:7741414003",
+   "title": "Data Scientist",
+   "org": "coherehealth",
+   "url": "https://job-boards.greenhouse.io/coherehealth/jobs/7741414003",
+   "wave": 2,
+   "status": "skipped_senior_or_mismatch",
+   "reason": "JD-gate fail: posting explicitly requires 4+ years of hands-on Python experience (Required Qualification #1) plus advanced SQL optimization for large datasets. Profile truth is 18 months total experience; orchestrator gate = skip if 4+ yrs / senior, submit-authority constraints = 0-3yr inclusive. Honest screening answer to 'How many years of relevant data scientist experience do you have?' would be ~1.5, below their stated bar.",
+   "datetime": "2026-10-17T00:00:00+05:30"
+  },
+  {
+   "key": "greenhouse:coherehealth:7980642003",
+   "title": "Software Engineer",
+   "org": "coherehealth",
+   "url": "https://job-boards.greenhouse.io/coherehealth/jobs/7980642003",
+   "wave": 2,
+   "status": "skipped_senior_or_mismatch",
+   "reason": "JD gate failed: posting requires 'Minimum of 4 - 6 years of full time experience in software development lifecycle, required'. Candidate holds 18 months total (mostly internships). Primary stack Java/Groovy + React full-stack; candidate is Python/GenAI. Orchestrator gate 'skip if 4+ yrs / senior; eligible if <=3 yrs or unlisted level' evaluates FALSE (level explicitly listed at 4-6 yrs required). Required form question 'How many years of experience in Java and Groovy' would truthfully be 0 -> guaranteed mismatch.",
+   "datetime": "2026-10-17T15:42:16+05:30"
+  },
+  {
+   "key": "greenhouse:okta:8243101",
+   "title": "Site Reliability Engineer",
+   "org": "okta",
+   "url": "https://www.okta.com/company/careers/opportunity/8243101?gh_jid=8243101",
+   "wave": 2,
+   "status": "queued"
+  },
+  {
+   "key": "greenhouse:redwoodsoftware:4361976009",
+   "title": "Software Engineer",
+   "org": "redwoodsoftware",
+   "url": "https://job-boards.greenhouse.io/redwoodsoftware/jobs/4361976009",
+   "wave": 2,
+   "status": "queued"
+  },
+  {
+   "key": "greenhouse:redwoodsoftware:4451141009",
+   "title": "Software Engineer – AI CoE",
+   "org": "redwoodsoftware",
+   "url": "https://job-boards.greenhouse.io/redwoodsoftware/jobs/4451141009",
+   "wave": 2,
+   "status": "queued"
+  },
+  {
+   "key": "greenhouse:dscout:4370266009",
+   "title": "Software Engineer - India",
+   "org": "dscout",
+   "url": "https://job-boards.greenhouse.io/dscout/jobs/4370266009",
+   "wave": 2,
+   "status": "queued"
+  },
+  {
+   "key": "greenhouse:gravitonresearchcapital:5099344002",
+   "title": "Software Engineer",
+   "org": "gravitonresearchcapital",
+   "url": "https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/5099344002",
+   "wave": 2,
+   "status": "queued"
+  },
+  {
+   "key": "greenhouse:lynxanalytics:8520230002",
+   "title": "Fullstack Developer (India)",
+   "org": "lynxanalytics",
+   "url": "https://job-boards.greenhouse.io/lynxanalytics/jobs/8520230002",
+   "wave": 2,
+   "status": "queued"
+  },
+  {
+   "key": "greenhouse:skildai-careers:5263541008",
+   "title": "Camera Systems Software Engineer - India ",
+   "org": "skildai-careers",
+   "url": "https://job-boards.greenhouse.io/skildai-careers/jobs/5263541008",
+   "wave": 3,
+   "status": "queued"
+  },
+  {
+   "key": "greenhouse:skildai-careers:5031480008",
+   "title": "Computer Vision AI & ML Engineer",
+   "org": "skildai-careers",
+   "url": "https://job-boards.greenhouse.io/skildai-careers/jobs/5031480008",
+   "wave": 3,
+   "status": "queued"
+  },
+  {
+   "key": "greenhouse:okta:8056119",
+   "title": "Software Engineer, Professional Services R&D",
+   "org": "okta",
+   "url": "https://www.okta.com/company/careers/opportunity/8056119?gh_jid=8056119",
+   "wave": 3,
+   "status": "queued"
+  },
+  {
+   "key": "greenhouse:okta:6839581",
+   "title": "Solution Engineer",
+   "org": "okta",
+   "url": "https://www.okta.com/company/careers/opportunity/6839581?gh_jid=6839581",
+   "wave": 3,
+   "status": "queued"
+  },
+  {
+   "key": "greenhouse:singlestore:8212152",
+   "title": "Cloud Platform Engineer",
+   "org": "singlestore",
+   "url": "https://job-boards.greenhouse.io/singlestore/jobs/8212152",
+   "wave": 3,
+   "status": "queued"
+  },
+  {
+   "key": "greenhouse:singlestore:8212128",
+   "title": "Software Engineer",
+   "org": "singlestore",
+   "url": "https://job-boards.greenhouse.io/singlestore/jobs/8212128",
+   "wave": 3,
+   "status": "queued"
+  },
+  {
+   "key": "greenhouse:singlestore:8000966",
+   "title": "Software Engineer | Database Engine",
+   "org": "singlestore",
+   "url": "https://job-boards.greenhouse.io/singlestore/jobs/8000966",
+   "wave": 3,
+   "status": "queued"
+  },
+  {
+   "key": "greenhouse:tegnaindia:5049585007",
+   "title": "Cloud Engineer",
+   "org": "tegnaindia",
+   "url": "https://job-boards.greenhouse.io/tegnaindia/jobs/5049585007",
+   "wave": 3,
+   "status": "queued"
+  },
+  {
+   "key": "ashby:interview-kickstart:bf2a4802-4180-440b-b5bf-5f8058e69846",
+   "title": "Intern - Software Development Engineer ( Backend )",
+   "org": "interview-kickstart",
+   "url": "https://jobs.ashbyhq.com/interview-kickstart/bf2a4802-4180-440b-b5bf-5f8058e69846",
+   "wave": 4,
+   "status": "queued"
+  },
+  {
+   "key": "ashby:meraki-labs:38e05386-b0ac-4c63-9780-5ec391a116be",
+   "title": "Research Associate - SparX",
+   "org": "meraki-labs",
+   "url": "https://jobs.ashbyhq.com/meraki-labs/38e05386-b0ac-4c63-9780-5ec391a116be",
+   "wave": 4,
+   "status": "queued"
+  },
+  {
+   "key": "ashby:handshake:f632f0c3-0b9c-49a7-984b-de92e18e6d0b",
+   "title": "Forward Deployed Engineer I",
+   "org": "handshake",
+   "url": "https://jobs.ashbyhq.com/handshake/f632f0c3-0b9c-49a7-984b-de92e18e6d0b",
+   "wave": 4,
+   "status": "queued"
+  },
+  {
+   "key": "ashby:handshake:607e1d72-e7e8-4476-938f-b74dbe7ac9ef",
+   "title": "Forward Deployed Engineer I",
+   "org": "handshake",
+   "url": "https://jobs.ashbyhq.com/handshake/607e1d72-e7e8-4476-938f-b74dbe7ac9ef",
+   "wave": 4,
+   "status": "queued"
+  },
+  {
+   "key": "ashby:interview-kickstart:178e3e0d-1a58-4715-87f5-8ddb14a87f88",
+   "title": "Software Engineer 1 (Backend)",
+   "org": "interview-kickstart",
+   "url": "https://jobs.ashbyhq.com/interview-kickstart/178e3e0d-1a58-4715-87f5-8ddb14a87f88",
+   "wave": 4,
+   "status": "queued"
+  },
+  {
+   "key": "ashby:ande:9b4b95ad-7ed1-481f-acc8-02480ec765a2",
+   "title": "Full Stack Engineer, Payments",
+   "org": "ande",
+   "url": "https://jobs.ashbyhq.com/ande/9b4b95ad-7ed1-481f-acc8-02480ec765a2",
+   "wave": 4,
+   "status": "queued"
+  },
+  {
+   "key": "ashby:bjakcareer:6f616052-0ca8-4f2e-a5cf-8c73731f2d9b",
+   "title": "Android Developer",
+   "org": "bjakcareer",
+   "url": "https://jobs.ashbyhq.com/bjakcareer/6f616052-0ca8-4f2e-a5cf-8c73731f2d9b",
+   "wave": 4,
+   "status": "queued"
+  },
+  {
+   "key": "ashby:bjakcareer:4dce95e8-aceb-4bd8-bf02-1d7f4f212ce6",
+   "title": "Android Developer - AI Finance Agent",
+   "org": "bjakcareer",
+   "url": "https://jobs.ashbyhq.com/bjakcareer/4dce95e8-aceb-4bd8-bf02-1d7f4f212ce6",
+   "wave": 4,
+   "status": "queued"
+  },
+  {
+   "key": "ashby:bjakcareer:763c619d-c688-41e0-bf11-155220e86c03",
+   "title": "Android Software Engineer",
+   "org": "bjakcareer",
+   "url": "https://jobs.ashbyhq.com/bjakcareer/763c619d-c688-41e0-bf11-155220e86c03",
+   "wave": 5,
+   "status": "queued"
+  },
+  {
+   "key": "ashby:bjakcareer:8ae8267f-b14a-4762-af95-0a933eea9fcf",
+   "title": "Android Software Engineer - AI Finance Agent ",
+   "org": "bjakcareer",
+   "url": "https://jobs.ashbyhq.com/bjakcareer/8ae8267f-b14a-4762-af95-0a933eea9fcf",
+   "wave": 5,
+   "status": "queued"
+  },
+  {
+   "key": "ashby:bjakcareer:82349fdc-fc80-4da1-a39e-1f70dee09ba5",
+   "title": "Android Software Engineer - AI Neobank App",
+   "org": "bjakcareer",
+   "url": "https://jobs.ashbyhq.com/bjakcareer/82349fdc-fc80-4da1-a39e-1f70dee09ba5",
+   "wave": 5,
+   "status": "queued"
+  },
+  {
+   "key": "ashby:bjakcareer:e8406b78-3cb3-436c-8a22-6e1d44cf8816",
+   "title": "Applied AI Engineer - AI Finance Agent",
+   "org": "bjakcareer",
+   "url": "https://jobs.ashbyhq.com/bjakcareer/e8406b78-3cb3-436c-8a22-6e1d44cf8816",
+   "wave": 5,
+   "status": "queued"
+  },
+  {
+   "key": "ashby:bjakcareer:91d1eff2-5941-4842-be80-568701debc16",
+   "title": "Backend Developer",
+   "org": "bjakcareer",
+   "url": "https://jobs.ashbyhq.com/bjakcareer/91d1eff2-5941-4842-be80-568701debc16",
+   "wave": 5,
+   "status": "queued"
+  },
+  {
+   "key": "ashby:bjakcareer:7f6692fb-eed1-4134-9baa-76cb68850037",
+   "title": "Backend Software Engineer - AI Finance Agent",
+   "org": "bjakcareer",
+   "url": "https://jobs.ashbyhq.com/bjakcareer/7f6692fb-eed1-4134-9baa-76cb68850037",
+   "wave": 5,
+   "status": "queued"
+  },
+  {
+   "key": "ashby:certa:da4d5879-d94d-4f8c-ada4-24bd955520e3",
+   "title": "AI Engineer",
+   "org": "certa",
+   "url": "https://jobs.ashbyhq.com/certa/da4d5879-d94d-4f8c-ada4-24bd955520e3",
+   "wave": 5,
+   "status": "queued"
+  },
+  {
+   "key": "ashby:certa:0b101c4d-6e2e-4711-9a70-6302d0c094e1",
+   "title": "Forward Deployed Engineer",
+   "org": "certa",
+   "url": "https://jobs.ashbyhq.com/certa/0b101c4d-6e2e-4711-9a70-6302d0c094e1",
+   "wave": 5,
+   "status": "queued"
+  },
+  {
+   "key": "ashby:certa:f526ed60-d978-46a6-b44a-a0bdb17ce7ea",
+   "title": "Solution Engineer - Post Implementation",
+   "org": "certa",
+   "url": "https://jobs.ashbyhq.com/certa/f526ed60-d978-46a6-b44a-a0bdb17ce7ea",
+   "wave": 5,
+   "status": "queued"
+  },
+  {
+   "key": "ashby:certifyos:4be4bd2f-0ebf-41a4-937b-21290aae4878",
+   "title": "Software Engineer",
+   "org": "certifyos",
+   "url": "https://jobs.ashbyhq.com/certifyos/4be4bd2f-0ebf-41a4-937b-21290aae4878",
+   "wave": 5,
+   "status": "queued"
+  },
+  {
+   "key": "ashby:ema:748c829c-cb1d-48cf-90da-780593e89bea",
+   "title": "Platform Engineer",
+   "org": "ema",
+   "url": "https://jobs.ashbyhq.com/ema/748c829c-cb1d-48cf-90da-780593e89bea",
+   "wave": 6,
+   "status": "queued"
+  },
+  {
+   "key": "ashby:ema:6d5f59a2-68c0-49ea-b575-478f0ae3b75c",
+   "title": "Site Reliability Engineer",
+   "org": "ema",
+   "url": "https://jobs.ashbyhq.com/ema/6d5f59a2-68c0-49ea-b575-478f0ae3b75c",
+   "wave": 6,
+   "status": "queued"
+  },
+  {
+   "key": "ashby:gradera:0635c034-c61f-459c-a3dc-4ef3ae8a7cb3",
+   "title": "Data Engineer",
+   "org": "gradera",
+   "url": "https://jobs.ashbyhq.com/gradera/0635c034-c61f-459c-a3dc-4ef3ae8a7cb3",
+   "wave": 6,
+   "status": "queued"
+  },
+  {
+   "key": "ashby:hirehangar:d512bb18-424b-4312-9c6c-e303d4b6c477",
+   "title": "Windows Endpoint Security Developer",
+   "org": "hirehangar",
+   "url": "https://jobs.ashbyhq.com/hirehangar/d512bb18-424b-4312-9c6c-e303d4b6c477",
+   "wave": 6,
+   "status": "queued"
+  },
+  {
+   "key": "ashby:kantiv:02fa27cf-29e5-4995-89d2-24247cccfd86",
+   "title": "Data Scientist",
+   "org": "kantiv",
+   "url": "https://jobs.ashbyhq.com/kantiv/02fa27cf-29e5-4995-89d2-24247cccfd86",
+   "wave": 6,
+   "status": "queued"
+  },
+  {
+   "key": "ashby:level-ai:a71f73a6-5964-4420-a789-107dd6b3d66a",
+   "title": "Forward Deployed Engineer - Agents(Remote)",
+   "org": "level-ai",
+   "url": "https://jobs.ashbyhq.com/level-ai/a71f73a6-5964-4420-a789-107dd6b3d66a",
+   "wave": 6,
+   "status": "queued"
+  },
+  {
+   "key": "ashby:meraki-labs:02a8eecd-af9d-4231-8988-6f91f53dca35",
+   "title": "AI Evaluation Engineer - Proofline",
+   "org": "meraki-labs",
+   "url": "https://jobs.ashbyhq.com/meraki-labs/02a8eecd-af9d-4231-8988-6f91f53dca35",
+   "wave": 6,
+   "status": "queued"
+  },
+  {
+   "key": "ashby:meraki-labs:57817c37-f0d4-4332-84d0-14b1d2cf2792",
+   "title": "Founding AI Engineer - Proofline",
+   "org": "meraki-labs",
+   "url": "https://jobs.ashbyhq.com/meraki-labs/57817c37-f0d4-4332-84d0-14b1d2cf2792",
+   "wave": 6,
+   "status": "queued"
+  },
+  {
+   "key": "ashby:outmarket:d9eab5ed-5911-4c3a-abcf-1a224fdb703d",
+   "title": "DevOps Engineer",
+   "org": "outmarket",
+   "url": "https://jobs.ashbyhq.com/outmarket/d9eab5ed-5911-4c3a-abcf-1a224fdb703d",
+   "wave": 6,
+   "status": "queued"
+  },
+  {
+   "key": "ashby:plane:188f905e-3f6f-4569-9a32-d8ec48dfe656",
+   "title": "Software Engineer, Backend (Node.js)",
+   "org": "plane",
+   "url": "https://jobs.ashbyhq.com/plane/188f905e-3f6f-4569-9a32-d8ec48dfe656",
+   "wave": 6,
+   "status": "queued"
+  },
+  {
+   "key": "ashby:plane:00beeb42-56c0-48ce-9082-9fba93836b54",
+   "title": "Software Engineer, Backend (Python)",
+   "org": "plane",
+   "url": "https://jobs.ashbyhq.com/plane/00beeb42-56c0-48ce-9082-9fba93836b54",
+   "wave": 7,
+   "status": "queued"
+  },
+  {
+   "key": "ashby:sciencelogic:2c829057-fab9-4707-9c1f-467023404ef1",
+   "title": "Data Scientist",
+   "org": "sciencelogic",
+   "url": "https://jobs.ashbyhq.com/sciencelogic/2c829057-fab9-4707-9c1f-467023404ef1",
+   "wave": 7,
+   "status": "queued"
+  },
+  {
+   "key": "ashby:notion:79c18580-c927-456c-9d5f-72efbc6c43cb",
+   "title": "Forward Deployed Engineer, India",
+   "org": "notion",
+   "url": "https://jobs.ashbyhq.com/notion/79c18580-c927-456c-9d5f-72efbc6c43cb",
+   "wave": 7,
+   "status": "queued"
+  },
+  {
+   "key": "ashby:notion:49bdf081-6e20-4323-8c73-6d6b19544ff5",
+   "title": "Software Engineer, Developer Experience",
+   "org": "notion",
+   "url": "https://jobs.ashbyhq.com/notion/49bdf081-6e20-4323-8c73-6d6b19544ff5",
+   "wave": 7,
+   "status": "queued"
+  },
+  {
+   "key": "ashby:fal-ai:0acf2909-a4c4-4ad5-a0fb-61fba66eb89e",
+   "title": "Software Engineer, Distributed Systems ",
+   "org": "fal-ai",
+   "url": "https://jobs.ashbyhq.com/fal-ai/0acf2909-a4c4-4ad5-a0fb-61fba66eb89e",
+   "wave": 7,
+   "status": "queued"
+  },
+  {
+   "key": "ashby:runpod:25e7d414-e338-42dc-a206-ca4727f3f98f",
+   "title": "Forward Deployed Engineer APAC",
+   "org": "runpod",
+   "url": "https://jobs.ashbyhq.com/runpod/25e7d414-e338-42dc-a206-ca4727f3f98f",
+   "wave": 7,
+   "status": "queued"
+  },
+  {
+   "key": "lever:drivetrain:bc1c17bc-86ac-4f00-a1e3-0eb85aae4fdc",
+   "title": "Engineering Intern – Gen AI for FP&A Platform",
+   "org": "drivetrain",
+   "url": "https://jobs.lever.co/drivetrain/bc1c17bc-86ac-4f00-a1e3-0eb85aae4fdc",
+   "wave": 8,
+   "status": "queued"
+  },
+  {
+   "key": "lever:hevodata:993a3ed3-3014-432f-b0f4-28d300d58d9a",
+   "title": "Associate Software Development Engineer (SDE)",
+   "org": "hevodata",
+   "url": "https://jobs.lever.co/hevodata/993a3ed3-3014-432f-b0f4-28d300d58d9a",
+   "wave": 8,
+   "status": "queued"
+  },
+  {
+   "key": "lever:jobgether:ce9486f9-533a-475f-8240-5aef4c45b814",
+   "title": "Associate Systems Engineer",
+   "org": "jobgether",
+   "url": "https://jobs.lever.co/jobgether/ce9486f9-533a-475f-8240-5aef4c45b814",
+   "wave": 8,
+   "status": "queued"
+  },
+  {
+   "key": "lever:weloglobal:7903f79a-fe0f-46e3-ac8b-83b607574453",
+   "title": "Associate Technical Publication Engineer",
+   "org": "weloglobal",
+   "url": "https://jobs.lever.co/weloglobal/7903f79a-fe0f-46e3-ac8b-83b607574453",
+   "wave": 8,
+   "status": "queued"
+  },
+  {
+   "key": "lever:hevodata:6cbbe304-e065-4711-bf3e-756795d2bc2a",
+   "title": "SDE I",
+   "org": "hevodata",
+   "url": "https://jobs.lever.co/hevodata/6cbbe304-e065-4711-bf3e-756795d2bc2a",
+   "wave": 8,
+   "status": "queued"
+  },
+  {
+   "key": "lever:jobgether:248e4baf-c4c8-4094-a0ac-8c358689a645",
+   "title": "Software Development Engineer 1",
+   "org": "jobgether",
+   "url": "https://jobs.lever.co/jobgether/248e4baf-c4c8-4094-a0ac-8c358689a645",
+   "wave": 8,
+   "status": "queued"
+  },
+  {
+   "key": "lever:jobgether:9a29fed2-9055-43c1-9e76-746de3d31de1",
+   "title": "Software Development Engineer I",
+   "org": "jobgether",
+   "url": "https://jobs.lever.co/jobgether/9a29fed2-9055-43c1-9e76-746de3d31de1",
+   "wave": 8,
+   "status": "queued"
+  },
+  {
+   "key": "lever:netomi:02b45afd-5a49-41b2-a244-b0ca76306692",
+   "title": "Data Engineer I",
+   "org": "netomi",
+   "url": "https://jobs.lever.co/netomi/02b45afd-5a49-41b2-a244-b0ca76306692",
+   "wave": 8,
+   "status": "queued"
+  },
+  {
+   "key": "lever:smart-working-solutions:5ef858da-c3ca-4158-8d93-309bb4e964dc",
+   "title": "Mobile Developer - .NET MAUI & C# (Remote, Full-Time) [AS338]",
+   "org": "smart-working-solutions",
+   "url": "https://jobs.lever.co/smart-working-solutions/5ef858da-c3ca-4158-8d93-309bb4e964dc",
+   "wave": 8,
+   "status": "queued"
+  },
+  {
+   "key": "lever:drivetrain:e2aafad8-a785-4515-9e3f-2b4981b727b8",
+   "title": "Backend Engineer",
+   "org": "drivetrain",
+   "url": "https://jobs.lever.co/drivetrain/e2aafad8-a785-4515-9e3f-2b4981b727b8",
+   "wave": 8,
+   "status": "queued"
+  },
+  {
+   "key": "lever:drivetrain:d1bc29ad-d0aa-47c8-8785-1094f279ccff",
+   "title": "Site Reliability Engineer - SRE",
+   "org": "drivetrain",
+   "url": "https://jobs.lever.co/drivetrain/d1bc29ad-d0aa-47c8-8785-1094f279ccff",
+   "wave": 9,
+   "status": "queued"
+  },
+  {
+   "key": "lever:endpointclinical:98889651-3d5e-48cc-9dc7-0b4248fd547f",
+   "title": "Software Developer, Product",
+   "org": "endpointclinical",
+   "url": "https://jobs.lever.co/endpointclinical/98889651-3d5e-48cc-9dc7-0b4248fd547f",
+   "wave": 9,
+   "status": "queued"
+  },
+  {
+   "key": "lever:hevodata:a7f26742-f965-4a59-840d-f7afa0a28176",
+   "title": "AI Solution Engineer",
+   "org": "hevodata",
+   "url": "https://jobs.lever.co/hevodata/a7f26742-f965-4a59-840d-f7afa0a28176",
+   "wave": 9,
+   "status": "queued"
+  },
+  {
+   "key": "lever:jobgether:0526ea67-c4ef-4362-9043-5783e11ca58a",
+   "title": ".NET Developer",
+   "org": "jobgether",
+   "url": "https://jobs.lever.co/jobgether/0526ea67-c4ef-4362-9043-5783e11ca58a",
+   "wave": 9,
+   "status": "queued"
+  },
+  {
+   "key": "lever:jobgether:9a308f4a-109a-4a10-9cf6-fca94afa8a99",
+   "title": "AI Evaluation Engineer",
+   "org": "jobgether",
+   "url": "https://jobs.lever.co/jobgether/9a308f4a-109a-4a10-9cf6-fca94afa8a99",
+   "wave": 10,
+   "status": "queued"
+  },
+  {
+   "key": "lever:jobgether:4c7b8f27-180b-4db8-b6e9-7643486626fe",
+   "title": "Cloud Engineer",
+   "org": "jobgether",
+   "url": "https://jobs.lever.co/jobgether/4c7b8f27-180b-4db8-b6e9-7643486626fe",
+   "wave": 10,
+   "status": "queued"
+  },
+  {
+   "key": "lever:jobgether:ef8f74b7-e5b0-4680-959f-e0ffb6bf4547",
+   "title": "Compiler Performance Engineer",
+   "org": "jobgether",
+   "url": "https://jobs.lever.co/jobgether/ef8f74b7-e5b0-4680-959f-e0ffb6bf4547",
+   "wave": 10,
+   "status": "queued"
+  },
+  {
+   "key": "lever:jobgether:fe692a0b-1876-446b-9e39-d66e03b1edc3",
+   "title": "Data Analyst",
+   "org": "jobgether",
+   "url": "https://jobs.lever.co/jobgether/fe692a0b-1876-446b-9e39-d66e03b1edc3",
+   "wave": 10,
+   "status": "queued"
+  },
+  {
+   "key": "lever:jobgether:3f1a3d3a-f5fe-48f9-9654-a4cb27e48e49",
+   "title": "Data Developer",
+   "org": "jobgether",
+   "url": "https://jobs.lever.co/jobgether/3f1a3d3a-f5fe-48f9-9654-a4cb27e48e49",
+   "wave": 10,
+   "status": "queued"
+  },
+  {
+   "key": "lever:jobgether:b0aedca3-3f00-4ba8-8897-c25bd10a28c3",
+   "title": "Engineer, Computer Software Assurance",
+   "org": "jobgether",
+   "url": "https://jobs.lever.co/jobgether/b0aedca3-3f00-4ba8-8897-c25bd10a28c3",
+   "wave": 10,
+   "status": "queued"
+  },
+  {
+   "key": "lever:levelai:498dfb1d-2f80-4a74-8d08-ecadccd8a221",
+   "title": "Forward Deployed Engineer - Agents(Remote)",
+   "org": "levelai",
+   "url": "https://jobs.lever.co/levelai/498dfb1d-2f80-4a74-8d08-ecadccd8a221",
+   "wave": 10,
+   "status": "queued"
+  },
+  {
+   "key": "lever:veeva:872bb725-148e-4c57-875c-52b157ec7183",
+   "title": "Software Engineer - Automation Platform",
+   "org": "veeva",
+   "url": "https://jobs.lever.co/veeva/872bb725-148e-4c57-875c-52b157ec7183",
+   "wave": 10,
+   "status": "queued"
+  },
+  {
+   "key": "lever:veeva:79256ab7-1862-4195-9f8b-87735247d017",
+   "title": "Software Engineer - Infra",
+   "org": "veeva",
+   "url": "https://jobs.lever.co/veeva/79256ab7-1862-4195-9f8b-87735247d017",
+   "wave": 10,
+   "status": "queued"
+  },
+  {
+   "key": "lever:veeva:361ccc4a-7175-43d8-8e1c-bd442f77b9fe",
+   "title": "Software Engineer - Test Automation",
+   "org": "veeva",
+   "url": "https://jobs.lever.co/veeva/361ccc4a-7175-43d8-8e1c-bd442f77b9fe",
+   "wave": 10,
+   "status": "queued"
+  },
+  {
+   "key": "lever:zimperium:62345dc6-5179-4e47-8736-0fb3530f4211",
+   "title": "Python Developer - Bangalore, India",
+   "org": "zimperium",
+   "url": "https://jobs.lever.co/zimperium/62345dc6-5179-4e47-8736-0fb3530f4211",
+   "wave": 11,
+   "status": "queued"
+  },
+  {
+   "key": "lever:zimperium:29aff3bb-b00f-457c-9ebb-70f3804c3fa6",
+   "title": "Site Reliability Engineer - India",
+   "org": "zimperium",
+   "url": "https://jobs.lever.co/zimperium/29aff3bb-b00f-457c-9ebb-70f3804c3fa6",
+   "wave": 11,
+   "status": "queued"
+  },
+  {
+   "key": "lever:thinkahead:9bb45260-8225-4175-972e-a15c3213bf30",
+   "title": "AI Platform Engineer",
+   "org": "thinkahead",
+   "url": "https://jobs.lever.co/thinkahead/9bb45260-8225-4175-972e-a15c3213bf30",
+   "wave": 11,
+   "status": "queued"
+  },
+  {
+   "key": "lever:thinkahead:6d62e87c-292e-4be1-b329-3e3c7cf47369",
+   "title": "Operational Technology Engineer",
+   "org": "thinkahead",
+   "url": "https://jobs.lever.co/thinkahead/6d62e87c-292e-4be1-b329-3e3c7cf47369",
+   "wave": 11,
+   "status": "queued"
+  }
+ ]
+}

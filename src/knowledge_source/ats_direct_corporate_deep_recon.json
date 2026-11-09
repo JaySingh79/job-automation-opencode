@@ -1,0 +1,610 @@
+[
+  {
+    "id": "CORP-01",
+    "company": "Google",
+    "role": "Software Engineer (University Graduate 2026)",
+    "platform_type": "google_careers",
+    "target_url": "https://www.google.com/about/careers/applications/jobs/results/111007517923779270-software-engineer-university-graduate-2026",
+    "final_url": "https://www.google.com/about/careers/applications/jobs/results/111007517923779270-software-engineer-university-graduate-2026",
+    "http_status": 200,
+    "load_time_ms": 3237,
+    "page_title": "Jobs search \u2014 Google Careers",
+    "frameworks_detected": [],
+    "dom_metrics": {
+      "frameworks": [],
+      "custom_elements": [
+        "c-wiz",
+        "c-data",
+        "gm-raised-drawer"
+      ],
+      "is_stale": true,
+      "honeypots": [],
+      "counts": {
+        "inputs": 0,
+        "selects": 0,
+        "buttons": 27
+      }
+    },
+    "apply_button_found": false,
+    "apply_button_text": "",
+    "apply_button_selector": "",
+    "navigation_action": null,
+    "first_step_url": null,
+    "auth_gate_type": "unknown",
+    "honeypot_detected": false,
+    "honeypot_selectors": [],
+    "input_controls_sample": [],
+    "synthetic_event_profile": {
+      "engine": "Standard HTML5 / DOM Events",
+      "recommendation": "Native Playwright page.locator().fill() with human delay."
+    },
+    "screenshot_path": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\deep_recon\\CORP-01_google_google_careers.png",
+    "errors": []
+  },
+  {
+    "id": "CORP-02",
+    "company": "Apple",
+    "role": "Software Development Engineer - Automation Tools",
+    "platform_type": "apple_jobs",
+    "target_url": "https://jobs.apple.com/en-in/details/200675618-0321/software-development-engineer-automation-tools?team=HRDWR",
+    "final_url": "https://jobs.apple.com/en-in/details/200675618-0321/software-development-engineer-automation-tools?team=HRDWR",
+    "http_status": 200,
+    "load_time_ms": 6954,
+    "page_title": "Software Development Engineer - Automation & Tools - Jobs at Apple (IN)",
+    "frameworks_detected": [
+      "React"
+    ],
+    "dom_metrics": {
+      "frameworks": [
+        "React"
+      ],
+      "custom_elements": [],
+      "is_stale": false,
+      "honeypots": [],
+      "counts": {
+        "inputs": 2,
+        "selects": 0,
+        "buttons": 32
+      }
+    },
+    "apply_button_found": false,
+    "apply_button_text": "",
+    "apply_button_selector": "",
+    "navigation_action": null,
+    "first_step_url": null,
+    "auth_gate_type": "unknown",
+    "honeypot_detected": false,
+    "honeypot_selectors": [],
+    "input_controls_sample": [],
+    "synthetic_event_profile": {
+      "engine": "React Prototype Setter",
+      "recommendation": "Use page.locator().fill() or React prototype setter with input, change, and blur event dispatch."
+    },
+    "screenshot_path": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\deep_recon\\CORP-02_apple_apple_jobs.png",
+    "errors": []
+  },
+  {
+    "id": "CORP-03",
+    "company": "Barclays",
+    "role": "Software Engineer",
+    "platform_type": "phenom_people",
+    "target_url": "https://search.jobs.barclays/job/pune/software-engineer/13015/95536470528",
+    "final_url": "https://search.jobs.barclays/job/pune/software-engineer/13015/95536470528",
+    "http_status": 200,
+    "load_time_ms": 9496,
+    "page_title": "Software Engineer at Barclays",
+    "frameworks_detected": [
+      "jQuery"
+    ],
+    "dom_metrics": {
+      "frameworks": [
+        "jQuery"
+      ],
+      "custom_elements": [],
+      "is_stale": false,
+      "honeypots": [
+        {
+          "name": "EmailConfirm",
+          "id": "form-field-2",
+          "auto_id": "",
+          "isHidden": true
+        }
+      ],
+      "counts": {
+        "inputs": 6,
+        "selects": 1,
+        "buttons": 24
+      }
+    },
+    "apply_button_found": false,
+    "apply_button_text": "",
+    "apply_button_selector": "",
+    "navigation_action": null,
+    "first_step_url": null,
+    "auth_gate_type": "unknown",
+    "honeypot_detected": true,
+    "honeypot_selectors": [
+      {
+        "name": "EmailConfirm",
+        "id": "form-field-2",
+        "auto_id": "",
+        "isHidden": true
+      }
+    ],
+    "input_controls_sample": [],
+    "synthetic_event_profile": {
+      "engine": "Standard HTML5 / DOM Events",
+      "recommendation": "Native Playwright page.locator().fill() with human delay."
+    },
+    "screenshot_path": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\deep_recon\\CORP-03_barclays_phenom_people.png",
+    "errors": []
+  },
+  {
+    "id": "CORP-04",
+    "company": "EY",
+    "role": "Associate Consultant",
+    "platform_type": "sap_successfactors",
+    "target_url": "https://careers.ey.com/ey/job/Mumbai-Associate-Consultant-Business-Consulting-Risk-FS-CNS-RISK-ACTUARIAL-Mumbai-Delhi-MH-400028/1444331333/",
+    "final_url": "https://careers.ey.com/ey/job/Mumbai-Associate-Consultant-Business-Consulting-Risk-FS-CNS-RISK-ACTUARIAL-Mumbai-Delhi-MH-400028/1444331333/",
+    "http_status": 200,
+    "load_time_ms": 4816,
+    "page_title": "Associate Consultant - Business Consulting Risk - FS - CNS - RISK - ACTUARIAL - Mumbai / Delhi Job Details | EY",
+    "frameworks_detected": [
+      "jQuery"
+    ],
+    "dom_metrics": {
+      "frameworks": [
+        "jQuery"
+      ],
+      "custom_elements": [],
+      "is_stale": false,
+      "honeypots": [
+        {
+          "name": "q",
+          "id": "",
+          "auto_id": "",
+          "isHidden": true
+        }
+      ],
+      "counts": {
+        "inputs": 14,
+        "selects": 3,
+        "buttons": 26
+      }
+    },
+    "apply_button_found": true,
+    "apply_button_text": "Apply now",
+    "apply_button_selector": "btn btn-primary btn-large btn-lg dropdown-toggle",
+    "navigation_action": null,
+    "first_step_url": null,
+    "auth_gate_type": "unknown",
+    "honeypot_detected": true,
+    "honeypot_selectors": [
+      {
+        "name": "q",
+        "id": "",
+        "auto_id": "",
+        "isHidden": true
+      }
+    ],
+    "input_controls_sample": [],
+    "synthetic_event_profile": {
+      "engine": "Standard HTML5 / DOM Events",
+      "recommendation": "Native Playwright page.locator().fill() with human delay."
+    },
+    "screenshot_path": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\deep_recon\\CORP-04_ey_sap_successfactors.png",
+    "errors": []
+  },
+  {
+    "id": "CORP-05",
+    "company": "Crisil",
+    "role": "Associate Engineer-Gen AI",
+    "platform_type": "custom_enterprise_taleo",
+    "target_url": "https://career.crisil.com/crisil/jobview/associate-engineer-gen-ai-pune-maharashtra-india-2026083113512451",
+    "final_url": null,
+    "http_status": null,
+    "load_time_ms": 0,
+    "page_title": "",
+    "frameworks_detected": [],
+    "dom_metrics": {},
+    "apply_button_found": false,
+    "apply_button_text": "",
+    "apply_button_selector": "",
+    "navigation_action": null,
+    "first_step_url": null,
+    "auth_gate_type": "unknown",
+    "honeypot_detected": false,
+    "honeypot_selectors": [],
+    "input_controls_sample": [],
+    "synthetic_event_profile": {},
+    "screenshot_path": null,
+    "errors": [
+      "Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://career.crisil.com/crisil/jobview/associate-engineer-gen-ai-pune-maharashtra-india-2026083113512451\nCall log:\n  - navigating to \"https://career.crisil.com/crisil/jobview/associate-engineer-gen-ai-pune-maharashtra-india-2026083113512451\", waiting until \"domcontentloaded\"\n"
+    ]
+  },
+  {
+    "id": "CORP-06",
+    "company": "Synopsys",
+    "role": "Intern",
+    "platform_type": "phenom_people",
+    "target_url": "https://careers.synopsys.com/job/bengaluru/intern/44408/95298114432",
+    "final_url": "https://careers.synopsys.com/",
+    "http_status": 200,
+    "load_time_ms": 4989,
+    "page_title": "Working at Synopsys",
+    "frameworks_detected": [
+      "jQuery"
+    ],
+    "dom_metrics": {
+      "frameworks": [
+        "jQuery"
+      ],
+      "custom_elements": [],
+      "is_stale": false,
+      "honeypots": [
+        {
+          "name": "vendor-search-handler",
+          "id": "vendor-search-handler",
+          "auto_id": "",
+          "isHidden": true
+        }
+      ],
+      "counts": {
+        "inputs": 11,
+        "selects": 0,
+        "buttons": 62
+      }
+    },
+    "apply_button_found": true,
+    "apply_button_text": "Apply",
+    "apply_button_selector": "filter-apply-handler",
+    "navigation_action": null,
+    "first_step_url": null,
+    "auth_gate_type": "unknown",
+    "honeypot_detected": true,
+    "honeypot_selectors": [
+      {
+        "name": "vendor-search-handler",
+        "id": "vendor-search-handler",
+        "auto_id": "",
+        "isHidden": true
+      }
+    ],
+    "input_controls_sample": [],
+    "synthetic_event_profile": {
+      "engine": "Standard HTML5 / DOM Events",
+      "recommendation": "Native Playwright page.locator().fill() with human delay."
+    },
+    "screenshot_path": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\deep_recon\\CORP-06_synopsys_phenom_people.png",
+    "errors": []
+  },
+  {
+    "id": "CORP-07",
+    "company": "PayU",
+    "role": "Data Scientist",
+    "platform_type": "sap_successfactors",
+    "target_url": "https://careers.payu.in/PayU/job/Gurgaon-Data-Scientist/53331580/",
+    "final_url": "https://careers.payu.in/PayU/job/Gurgaon-Data-Scientist/53331580/",
+    "http_status": 200,
+    "load_time_ms": 1395,
+    "page_title": "Data Scientist Job Details | PayU Payments",
+    "frameworks_detected": [
+      "jQuery"
+    ],
+    "dom_metrics": {
+      "frameworks": [
+        "jQuery"
+      ],
+      "custom_elements": [],
+      "is_stale": false,
+      "honeypots": [],
+      "counts": {
+        "inputs": 5,
+        "selects": 0,
+        "buttons": 12
+      }
+    },
+    "apply_button_found": false,
+    "apply_button_text": "",
+    "apply_button_selector": "",
+    "navigation_action": null,
+    "first_step_url": null,
+    "auth_gate_type": "unknown",
+    "honeypot_detected": false,
+    "honeypot_selectors": [],
+    "input_controls_sample": [],
+    "synthetic_event_profile": {
+      "engine": "Standard HTML5 / DOM Events",
+      "recommendation": "Native Playwright page.locator().fill() with human delay."
+    },
+    "screenshot_path": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\deep_recon\\CORP-07_payu_sap_successfactors.png",
+    "errors": []
+  },
+  {
+    "id": "CORP-08",
+    "company": "Tesco",
+    "role": "Data Scientist",
+    "platform_type": "bespoke_tesco",
+    "target_url": "https://careers.tesco.com/en_GB/careers/JobDetail/Data-Scientist/140615",
+    "final_url": "https://careers.tesco.com/en_GB/careers/JobDetail/Data-Scientist/140615",
+    "http_status": 200,
+    "load_time_ms": 3858,
+    "page_title": "Data Scientist - Bengaluru, Karnataka, India, India - 140615 - Tesco Careers",
+    "frameworks_detected": [
+      "React",
+      "jQuery"
+    ],
+    "dom_metrics": {
+      "frameworks": [
+        "React",
+        "jQuery"
+      ],
+      "custom_elements": [
+        "portal-data"
+      ],
+      "is_stale": false,
+      "honeypots": [
+        {
+          "name": "vendor-search-handler",
+          "id": "vendor-search-handler",
+          "auto_id": "",
+          "isHidden": true
+        }
+      ],
+      "counts": {
+        "inputs": 23,
+        "selects": 0,
+        "buttons": 34
+      }
+    },
+    "apply_button_found": true,
+    "apply_button_text": "Apply",
+    "apply_button_selector": "button button--primary",
+    "navigation_action": "clicked_apply",
+    "first_step_url": "https://careers.tesco.com/en_GB/careers/ApplicationMethods?jobId=140615",
+    "auth_gate_type": "account_password_gate",
+    "honeypot_detected": true,
+    "honeypot_selectors": [
+      {
+        "name": "vendor-search-handler",
+        "id": "vendor-search-handler",
+        "auto_id": "",
+        "isHidden": true
+      }
+    ],
+    "input_controls_sample": [
+      {
+        "tag": "input",
+        "type": "text",
+        "id": "username",
+        "name": "username",
+        "placeholder": "",
+        "aria_label": ""
+      },
+      {
+        "tag": "input",
+        "type": "password",
+        "id": "password",
+        "name": "password",
+        "placeholder": "",
+        "aria_label": ""
+      },
+      {
+        "tag": "input",
+        "type": "file",
+        "id": "resumeFile",
+        "name": "resumeFile",
+        "placeholder": "",
+        "aria_label": ""
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "id": "",
+        "name": "",
+        "placeholder": "",
+        "aria_label": ""
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "id": "",
+        "name": "",
+        "placeholder": "",
+        "aria_label": ""
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "id": "",
+        "name": "",
+        "placeholder": "",
+        "aria_label": ""
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "id": "",
+        "name": "",
+        "placeholder": "",
+        "aria_label": ""
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "id": "ot-group-id-exp01",
+        "name": "ot-group-id-exp01",
+        "placeholder": "",
+        "aria_label": ""
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "id": "ot-sub-group-id-IAB2V2_1",
+        "name": "switch",
+        "placeholder": "",
+        "aria_label": "Store and/or access information on a device"
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "id": "ot-group-id-V2STACK42",
+        "name": "ot-group-id-V2STACK42",
+        "placeholder": "",
+        "aria_label": ""
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "id": "ot-sub-group-id-adv01",
+        "name": "switch",
+        "placeholder": "",
+        "aria_label": "Advertising Cookies"
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "id": "ot-sub-group-id-IAB2V2_3",
+        "name": "switch",
+        "placeholder": "",
+        "aria_label": "Create profiles for personalised advertising"
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "id": "ot-sub-group-id-IAB2V2_4",
+        "name": "switch",
+        "placeholder": "",
+        "aria_label": "Use profiles to select personalised advertising"
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "id": "ot-sub-group-id-IAB2V2_5",
+        "name": "switch",
+        "placeholder": "",
+        "aria_label": "Create profiles to personalise content"
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "id": "ot-sub-group-id-IAB2V2_6",
+        "name": "switch",
+        "placeholder": "",
+        "aria_label": "Use profiles to select personalised content"
+      }
+    ],
+    "synthetic_event_profile": {
+      "engine": "React Prototype Setter",
+      "recommendation": "Use page.locator().fill() or React prototype setter with input, change, and blur event dispatch."
+    },
+    "screenshot_path": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\deep_recon\\CORP-08_tesco_bespoke_tesco.png",
+    "errors": []
+  },
+  {
+    "id": "CORP-09",
+    "company": "Interactive Brokers",
+    "role": "Jr Engineer - Software (iOS)",
+    "platform_type": "dayforce_hcm",
+    "target_url": "https://jobs.dayforcehcm.com/en-US/ibgllc/CANDIDATEPORTAL/jobs/1495",
+    "final_url": "https://jobs.dayforcehcm.com/en-US/ibgllc/CANDIDATEPORTAL/jobs/1495",
+    "http_status": 200,
+    "load_time_ms": 3129,
+    "page_title": "Jr Engineer - Software (iOS) | Dayforce Jobs",
+    "frameworks_detected": [],
+    "dom_metrics": {
+      "frameworks": [],
+      "custom_elements": [
+        "next-route-announcer"
+      ],
+      "is_stale": false,
+      "honeypots": [],
+      "counts": {
+        "inputs": 1,
+        "selects": 0,
+        "buttons": 3
+      }
+    },
+    "apply_button_found": true,
+    "apply_button_text": "Apply",
+    "apply_button_selector": "ant-btn css-jq8mjt ant-btn-round ant-btn-primary",
+    "navigation_action": "clicked_apply",
+    "first_step_url": "https://jobs.dayforcehcm.com/en-US/ibgllc/CANDIDATEPORTAL/jobs/1495",
+    "auth_gate_type": "none_or_guest",
+    "honeypot_detected": false,
+    "honeypot_selectors": [],
+    "input_controls_sample": [],
+    "synthetic_event_profile": {
+      "engine": "Standard HTML5 / DOM Events",
+      "recommendation": "Native Playwright page.locator().fill() with human delay."
+    },
+    "screenshot_path": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\deep_recon\\CORP-09_interactive_brokers_dayforce_hcm.png",
+    "errors": []
+  },
+  {
+    "id": "CORP-10",
+    "company": "Findoc Investmart",
+    "role": "Quant Researcher Machine Learning",
+    "platform_type": "custom_startup_portal",
+    "target_url": "https://www.findoc.com/career/671573000008854035",
+    "final_url": "https://www.findoc.com/career/671573000008854035",
+    "http_status": 200,
+    "load_time_ms": 1411,
+    "page_title": "Current Job Openings at Findoc - Apply Now",
+    "frameworks_detected": [],
+    "dom_metrics": {
+      "frameworks": [],
+      "custom_elements": [
+        "next-route-announcer"
+      ],
+      "is_stale": false,
+      "honeypots": [
+        {
+          "name": "hiddenfield",
+          "id": "hidden_:r1:",
+          "auto_id": "",
+          "isHidden": true
+        },
+        {
+          "name": "hiddenfield",
+          "id": "hidden_:r2:",
+          "auto_id": "",
+          "isHidden": true
+        }
+      ],
+      "counts": {
+        "inputs": 5,
+        "selects": 0,
+        "buttons": 26
+      }
+    },
+    "apply_button_found": false,
+    "apply_button_text": "",
+    "apply_button_selector": "",
+    "navigation_action": null,
+    "first_step_url": null,
+    "auth_gate_type": "unknown",
+    "honeypot_detected": true,
+    "honeypot_selectors": [
+      {
+        "name": "hiddenfield",
+        "id": "hidden_:r1:",
+        "auto_id": "",
+        "isHidden": true
+      },
+      {
+        "name": "hiddenfield",
+        "id": "hidden_:r2:",
+        "auto_id": "",
+        "isHidden": true
+      }
+    ],
+    "input_controls_sample": [],
+    "synthetic_event_profile": {
+      "engine": "Standard HTML5 / DOM Events",
+      "recommendation": "Native Playwright page.locator().fill() with human delay."
+    },
+    "screenshot_path": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\deep_recon\\CORP-10_findoc_investmart_custom_startup_portal.png",
+    "errors": []
+  }
+]

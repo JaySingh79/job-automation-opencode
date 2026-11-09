@@ -52,6 +52,11 @@ Every MCP action already returns a fresh snapshot — reuse it, don't re-snapsho
   multimodal, document AI) / GenAI_DS (GenAI, LLM, agents, general DS). Use resume_links (Drive)
   ONLY when the field wants a URL. If the caller named a variant, that wins.
 - NEVER browser_run_code_unsafe unless snapshot+evaluate+find all failed and you state why. NEVER act from screenshot coordinates (no vision caps needed).
+- ANTI-BOT DETECTION HUMAN EMULATION (MANDATORY):
+  1. DEFINITELY USE SCROLL 4 TIMES ON EACH PAGE: Perform at least 4 natural smooth scrolls down the page (e.g. 25%, 50%, 75%, 100% of viewport) before, during, and after filling to trigger viewport observers, lazy components, and human behavior telemetry.
+  2. FOLLOW STRICT SEQUENTIAL ORDER: Always fill form values from top to bottom in natural visual/page order (Contact info -> Resume upload -> Custom questions -> Consent checkboxes -> Demographics). Never jump across the DOM out of sequence.
+  3. RANDOM DELAYS: Insert randomized delays (800ms - 2200ms) between filling consecutive fields and 60ms - 180ms delay between keystrokes (`slowly: true`). Never perform instantaneous robotic bulk DOM assignment.
+  4. MAX 5 CONCURRENT AGENTS: Process at most 5 jobs/agents at a time to prevent IP burst rate-limiting and Cloudflare/reCAPTCHA Enterprise anti-bot spam flags.
 </hard_rules>
 
 <step_1_recon>

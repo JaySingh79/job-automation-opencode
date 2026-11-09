@@ -1,0 +1,9 @@
+{
+  "authority": "User granted explicit permission in chat: 'YOU HAVE THE SUBMIT AUTHORITY, FILL AND SUBMIT IMMEDIATELY'",
+  "platform": "amazon",
+  "scope": "https://*.amazon.jobs/*",
+  "date_granted": "2026-10-21",
+  "allow_submit": true,
+  "granted_by_user": true,
+  "instructions": "Fill all fields and click Submit application immediately across all Amazon jobs"
+}

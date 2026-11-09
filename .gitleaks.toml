@@ -1,0 +1,17 @@
+[extend]
+useDefault = true
+
+[allowlist]
+description = "Allowlist test reports and scratch files"
+paths = [
+  '''gitleaks.*report\.json''',
+  '''scratch/'''
+]
+
+[[rules]]
+id = "jwt"
+[rules.allowlist]
+description = "Allowlist public Intellohire job board routing JWT tokens"
+regexes = [
+  '''eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9\.eyJyZXNvdXJjZSI6eyJvcmdhbml6YXRpb24iOjM5Nn19'''
+]

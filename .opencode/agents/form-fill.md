@@ -51,7 +51,7 @@ single-page form builder), end to end, without diluting the orchestrator's conte
 4. NEVER click Submit / Send / Clear form. Stop with the form fully filled and report
    `READY FOR HUMAN SUBMISSION`. Long prose goes through the base64 React-setter path
    (per AGENTS.md) — never typed raw.
-5. On finish: append the result to `ats_progress.json`, add the link to `job_links.json`,
+5. On finish: append the result to `src/application_progress/form/ats_progress.json`, add the link to `job_links.json`,
    and fold any new form observation into `ats/google-forms/` or `ats/microsoft-forms/`
    (or a new `ats/<builder>/` folder for unseen builders).
 6. Return a DISTILLED payload only: field checklist with values+sources, radio states,

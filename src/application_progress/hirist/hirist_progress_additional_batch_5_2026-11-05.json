@@ -1,0 +1,23 @@
+{
+  "worker": 5,
+  "batch": 5,
+  "sweep": "additional_200",
+  "target_applied": 40,
+  "total_batch_jobs": 62,
+  "applied_count": 10,
+  "parked_count": 52,
+  "already_applied_count": 0,
+  "status": "BATCH_EXHAUSTED",
+  "all_results": [
+    { "jobId": 1677800, "applicationId": 79305088, "title": "Machine Learning Engineer - Python", "company": "Axnode Immigration", "status": "applied" },
+    { "jobId": 1677759, "applicationId": 79305094, "title": "Generative AI Engineer - LLM/RAG", "company": "NovoTree Minds Consulting", "status": "applied" },
+    { "jobId": 1671445, "applicationId": 79305123, "title": "SatSure - Machine Learning Researcher - Deep Learning Models", "company": "SatSure", "status": "applied" },
+    { "jobId": 1670628, "applicationId": 79305124, "title": "Senior AI/ML Engineer - LLM/Python", "company": "AB INFOTECH", "status": "applied" },
+    { "jobId": 1665637, "applicationId": 79305126, "title": "AI Engineer II", "company": "Ensemble Health Partners", "status": "applied" },
+    { "jobId": 1677204, "applicationId": 79305154, "title": "Eucloid - Data Scientist - Machine Learning", "company": "Eucloid Data Solutions", "status": "applied" },
+    { "jobId": 1676771, "applicationId": 79305161, "title": "Associate Data Scientist - R/Python/SQL", "company": "Career Click", "status": "applied" },
+    { "jobId": 1676241, "applicationId": 79305166, "title": "Data Scientist - Pharma Domain", "company": "Success Jobs Organization", "status": "applied" },
+    { "jobId": 1674333, "applicationId": 79305181, "title": "Generative AI & Computer Vision Engineer", "company": "Auriga IT Consulting Private Limited", "status": "applied" },
+    { "jobId": 1671659, "applicationId": 79305203, "title": "AI Product Manager", "company": "Tekee", "status": "applied" }
+  ]
+}

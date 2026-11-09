@@ -1,0 +1,108 @@
+{
+  "batch_name": "wellfound_batch_3.json",
+  "count": 17,
+  "jobs": [
+    {
+      "id": "3827039-data-science-intern",
+      "title": "Data Science Intern",
+      "url": "https://wellfound.com/jobs/3827039-data-science-intern",
+      "status": "pending"
+    },
+    {
+      "id": "4814815-genai-llm-engineer-clone",
+      "title": "Genai Llm Engineer Clone",
+      "url": "https://wellfound.com/jobs/4814815-genai-llm-engineer-clone",
+      "status": "pending"
+    },
+    {
+      "id": "4814813-ai-ml-engineer",
+      "title": "Ai Ml Engineer",
+      "url": "https://wellfound.com/jobs/4814813-ai-ml-engineer",
+      "status": "pending"
+    },
+    {
+      "id": "4709961-data-analyst",
+      "title": "Data Analyst",
+      "url": "https://wellfound.com/jobs/4709961-data-analyst",
+      "status": "pending"
+    },
+    {
+      "id": "4627328-research-analyst-intern-ai-ml-deeptech",
+      "title": "Research Analyst Intern Ai Ml Deeptech",
+      "url": "https://wellfound.com/jobs/4627328-research-analyst-intern-ai-ml-deeptech",
+      "status": "pending"
+    },
+    {
+      "id": "4584279-ai-engineer-intern",
+      "title": "Ai Engineer Intern",
+      "url": "https://wellfound.com/jobs/4584279-ai-engineer-intern",
+      "status": "pending"
+    },
+    {
+      "id": "4760722-ai-engineer-intern-4-months-in-office",
+      "title": "Ai Engineer Intern 4 Months In Office",
+      "url": "https://wellfound.com/jobs/4760722-ai-engineer-intern-4-months-in-office",
+      "status": "pending"
+    },
+    {
+      "id": "3783479-ai-engineer-internship-deep-learning-research-focus",
+      "title": "Ai Engineer Internship Deep Learning Research Focus",
+      "url": "https://wellfound.com/jobs/3783479-ai-engineer-internship-deep-learning-research-focus",
+      "status": "pending"
+    },
+    {
+      "id": "4797048-computer-vision-intern",
+      "title": "Computer Vision Intern",
+      "url": "https://wellfound.com/jobs/4797048-computer-vision-intern",
+      "status": "pending"
+    },
+    {
+      "id": "4746833-engineering-intern-clone",
+      "title": "Engineering Intern Clone",
+      "url": "https://wellfound.com/jobs/4746833-engineering-intern-clone",
+      "status": "pending"
+    },
+    {
+      "id": "1388493-junior-backend-engineer",
+      "title": "Junior Backend Engineer",
+      "url": "https://wellfound.com/jobs/1388493-junior-backend-engineer",
+      "status": "pending"
+    },
+    {
+      "id": "4435283-backend-developer-python-fastapi",
+      "title": "Backend Developer Python Fastapi",
+      "url": "https://wellfound.com/jobs/4435283-backend-developer-python-fastapi",
+      "status": "pending"
+    },
+    {
+      "id": "4463424-junior-software-developer-mes-support",
+      "title": "Junior Software Developer Mes Support",
+      "url": "https://wellfound.com/jobs/4463424-junior-software-developer-mes-support",
+      "status": "pending"
+    },
+    {
+      "id": "4544645-backend-engineer-python",
+      "title": "Backend Engineer Python",
+      "url": "https://wellfound.com/jobs/4544645-backend-engineer-python",
+      "status": "pending"
+    },
+    {
+      "id": "3737326-backend-developer",
+      "title": "Backend Developer",
+      "url": "https://wellfound.com/jobs/3737326-backend-developer",
+      "status": "pending"
+    },
+    {
+      "id": "4361940-junior-machine-learning-engineer",
+      "title": "Junior Machine Learning Engineer",
+      "url": "https://wellfound.com/jobs/4361940-junior-machine-learning-engineer",
+      "status": "pending"
+    },
+    {
+      "id": "4463106-software-development-engineer-intern",
+      "title": "Software Development Engineer Intern",
+      "url": "https://wellfound.com/jobs/4463106-software-development-engineer-intern",
+      "status": "pending"
+    }
+  ]
+}

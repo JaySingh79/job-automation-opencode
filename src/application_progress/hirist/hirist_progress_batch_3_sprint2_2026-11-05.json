@@ -1,0 +1,60 @@
+{
+  "worker": 3,
+  "batch": 3,
+  "sprint": 2,
+  "total_jobs": 6,
+  "applied_count": 2,
+  "parked_count": 4,
+  "already_applied_count": 0,
+  "failed_count": 0,
+  "all_results": [
+    {
+      "jobId": 1680735,
+      "title": "Trendlyne - Backend Engineer - Python (3-6 yrs)",
+      "company": "Giskard Datatech",
+      "status": "parked_assessment",
+      "applicationId": null,
+      "message": "Assessment required"
+    },
+    {
+      "jobId": 1680736,
+      "title": "Trendlyne - Backend Engineer - Python (3-6 yrs)",
+      "company": "Giskard Datatech",
+      "status": "parked_assessment",
+      "applicationId": null,
+      "message": "Assessment required"
+    },
+    {
+      "jobId": 1680647,
+      "title": "Embark Group - Senior Site Reliability Engineer - Azure Infrastructure (3-7 yrs)",
+      "company": "Embark Group",
+      "status": "applied",
+      "applicationId": 79293847,
+      "message": null
+    },
+    {
+      "jobId": 1680681,
+      "title": "Python Test Automation Engineer (3-7 yrs)",
+      "company": "Terralogic Software Solutions Private Limited.",
+      "status": "parked_assessment",
+      "applicationId": null,
+      "message": "Assessment required"
+    },
+    {
+      "jobId": 1680714,
+      "title": "Full Stack Engineer - Node.js/React.js - Fintech Domain (3-10 yrs)",
+      "company": "margo",
+      "status": "applied",
+      "applicationId": 79293851,
+      "message": null
+    },
+    {
+      "jobId": 1680802,
+      "title": "Product Manager - AI/ML Marketplace (3-5 yrs)",
+      "company": "BrandMyHR",
+      "status": "parked_assessment",
+      "applicationId": null,
+      "message": "Assessment required"
+    }
+  ]
+}

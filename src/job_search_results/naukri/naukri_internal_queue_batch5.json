@@ -1,0 +1,305 @@
+{
+  "batch_id": 5,
+  "subagent": "naukri-fill-5",
+  "total_jobs": 15,
+  "jobs": [
+    {
+      "job_id": "231026930132",
+      "title": "Engineer",
+      "company": "Qualcomm",
+      "experience": "0-5 Yrs",
+      "salary": "Filtered >= 15 LPA",
+      "location": "Bengaluru",
+      "tags": [
+        "Review",
+        "Peer Reviews",
+        "Tools",
+        "Program",
+        "Features",
+        "Data",
+        "Gitlab CI",
+        "Perforce"
+      ],
+      "posted_date": "3 days ago",
+      "url": "https://www.naukri.com/job-listings-engineer-qualcomm-india-pvt-ltd-bengaluru-0-to-5-years-231026930132"
+    },
+    {
+      "job_id": "290926016989",
+      "title": "Data Scientist",
+      "company": "Info Edge",
+      "experience": "0-1 Yrs",
+      "salary": "Filtered >= 15 LPA",
+      "location": "Noida",
+      "tags": [
+        "Python",
+        "Decision Tree",
+        "Logistic Regression",
+        "Lstm",
+        "Langchain",
+        "K-Means",
+        "Chatbot",
+        "Boosting"
+      ],
+      "posted_date": "3+ weeks ago",
+      "url": "https://www.naukri.com/job-listings-data-scientist-info-edge-noida-0-to-1-years-290926016989"
+    },
+    {
+      "job_id": "061026002836",
+      "title": "Software Engineer",
+      "company": "Qualcomm",
+      "experience": "0-1 Yrs",
+      "salary": "15-25 Lacs PA",
+      "location": "Hyderabad",
+      "tags": [
+        "Signal Processing",
+        "Processing",
+        "Signalling",
+        "Software engineering",
+        "Process",
+        "Software"
+      ],
+      "posted_date": "3 weeks ago",
+      "url": "https://www.naukri.com/job-listings-software-engineer-qualcomm-hyderabad-0-to-1-years-061026002836"
+    },
+    {
+      "job_id": "300926018042",
+      "title": "Fullstack Developer (Agentic/ Gen AI)",
+      "company": "Tech Mahindra",
+      "experience": "0-5 Yrs",
+      "salary": "5-15 Lacs PA",
+      "location": "Noida, Pune, Bengaluru",
+      "tags": [
+        "generative ai",
+        "Fast API",
+        "React.js",
+        "Python",
+        "SQL",
+        "Agentic Ai",
+        "Fullstack Development",
+        "Javascript"
+      ],
+      "posted_date": "3 weeks ago",
+      "url": "https://www.naukri.com/job-listings-fullstack-developer-agentic-gen-ai-tech-mahindra-noida-pune-bengaluru-0-to-5-years-300926018042"
+    },
+    {
+      "job_id": "250926005072",
+      "title": "Artificial Intelligence- Engineer",
+      "company": "Stage Technologies",
+      "experience": "0-3 Yrs",
+      "salary": "Filtered >= 15 LPA",
+      "location": "Noida",
+      "tags": [
+        "Agentic Ai",
+        "Gstack",
+        "Large Language Model",
+        "TDD",
+        "Retrieval Augmented Generation",
+        "Languages",
+        "Large",
+        "Engineering"
+      ],
+      "posted_date": "3+ weeks ago",
+      "url": "https://www.naukri.com/job-listings-artificial-intelligence-engineer-stage-technologies-noida-0-to-3-years-250926005072"
+    },
+    {
+      "job_id": "231026925042",
+      "title": "AI Researcher",
+      "company": "Fujitsu",
+      "experience": "0-2 Yrs",
+      "salary": "Filtered >= 15 LPA",
+      "location": "Bengaluru",
+      "tags": [
+        "Algorithms",
+        "Artificial Intelligence",
+        "Machine learning",
+        "Machine",
+        "Research",
+        "Healthcare",
+        "Ml",
+        "Finance"
+      ],
+      "posted_date": "4 days ago",
+      "url": "https://www.naukri.com/job-listings-ai-researcher-fujitsu-consulting-india-pvt-ltd-bengaluru-0-to-2-years-231026925042"
+    },
+    {
+      "job_id": "310726018300",
+      "title": "Software Development Engineer 1",
+      "company": "Sunrise Biztech Systems",
+      "experience": "0-2 Yrs",
+      "salary": "Filtered >= 15 LPA",
+      "location": "Hyderabad",
+      "tags": [
+        "Github",
+        "CAD infrastructure",
+        "Python",
+        "Linux",
+        "AI tools",
+        "Bash",
+        "Git fundamentals",
+        "UNIX"
+      ],
+      "posted_date": "3 weeks ago",
+      "url": "https://www.naukri.com/job-listings-software-development-engineer-1-sunrise-biztech-systems-hyderabad-0-to-2-years-310726018300"
+    },
+    {
+      "job_id": "261026014708",
+      "title": "GIS Modeller",
+      "company": "Moody's Analytics",
+      "experience": "0-4 Yrs",
+      "salary": "12-20 Lacs PA",
+      "location": "Noida, Bengaluru",
+      "tags": [
+        "Geographical information system",
+        "Processing",
+        "Modeler",
+        "Remote",
+        "Recognition",
+        "Qgis",
+        "Modeling",
+        "System"
+      ],
+      "posted_date": "1 day ago",
+      "url": "https://www.naukri.com/job-listings-gis-modeller-moody-s-analytics-noida-bengaluru-0-to-4-years-261026014708"
+    },
+    {
+      "job_id": "231026922937",
+      "title": "Engineer - Camera Systems (3A)",
+      "company": "Qualcomm",
+      "experience": "0-4 Yrs",
+      "salary": "Filtered >= 15 LPA",
+      "location": "Hyderabad",
+      "tags": [
+        "Processing",
+        "Automotive",
+        "Program",
+        "Rest Assured",
+        "Rest",
+        "Programming",
+        "Computer",
+        "Multimedia"
+      ],
+      "posted_date": "4 days ago",
+      "url": "https://www.naukri.com/job-listings-engineer-camera-systems-3a-qualcomm-india-pvt-ltd-hyderabad-0-to-4-years-231026922937"
+    },
+    {
+      "job_id": "191026918087",
+      "title": "SW Applications Engineer",
+      "company": "Applied Materials",
+      "experience": "0-4 Yrs",
+      "salary": "Filtered >= 15 LPA",
+      "location": "Mumbai",
+      "tags": [
+        "Electronics",
+        "CAD",
+        "Electronics engineering",
+        "Diagnostics",
+        "Debugging",
+        "Application",
+        "Algorithms",
+        "Customer focus"
+      ],
+      "posted_date": "1 week ago",
+      "url": "https://www.naukri.com/job-listings-sw-applications-engineer-applied-materials-india-private-limited-mumbai-0-to-4-years-191026918087"
+    },
+    {
+      "job_id": "191026918063",
+      "title": "Software Engineer(Unity 3D)",
+      "company": "Applied Materials",
+      "experience": "0-5 Yrs",
+      "salary": "Filtered >= 15 LPA",
+      "location": "Bengaluru",
+      "tags": [
+        "C#",
+        "Program",
+        "Integration",
+        "Continuous Integration",
+        "Continuous Integration",
+        "Framework",
+        "Communication skills",
+        "Platform Development"
+      ],
+      "posted_date": "1 week ago",
+      "url": "https://www.naukri.com/job-listings-software-engineer-unity-3d-applied-materials-india-private-limited-bengaluru-0-to-5-years-191026918063"
+    },
+    {
+      "job_id": "131026048916",
+      "title": "Analyst-CPRA-Retail",
+      "company": "Hdfc Bank",
+      "experience": "0-1 Yrs",
+      "salary": "Filtered >= 15 LPA",
+      "location": "Gurugram",
+      "tags": [
+        "Assortment Planning",
+        "Retail Analysis",
+        "Category Management",
+        "Retail Sales",
+        "Retail Operations",
+        "Shrinkage Control",
+        "Merchandising",
+        "Store Management"
+      ],
+      "posted_date": "1 week ago",
+      "url": "https://www.naukri.com/job-listings-analyst-cpra-retail-hdfc-bank-limited-gurugram-0-to-1-years-131026048916"
+    },
+    {
+      "job_id": "270726007497",
+      "title": "Agent Developer Test III",
+      "company": "Highradius",
+      "experience": "0 Yrs",
+      "salary": "Filtered >= 15 LPA",
+      "location": "Hyderabad",
+      "tags": [
+        "Test Automation Framework",
+        "Programming",
+        "Ci/Cd",
+        "Microservices",
+        "Docker",
+        "API Testing",
+        "Javascript",
+        "Microsoft Azure"
+      ],
+      "posted_date": "1 week ago",
+      "url": "https://www.naukri.com/job-listings-agent-developer-test-iii-highradius-technologies-pvt-ltd-hyderabad-0-to-0-years-270726007497"
+    },
+    {
+      "job_id": "141026931039",
+      "title": "Consultant - Business Consulting - Actuarial",
+      "company": "EY",
+      "experience": "0-5 Yrs",
+      "salary": "10-50+ LPA (Applied Filter)",
+      "location": "Mumbai",
+      "tags": [
+        "Accounting",
+        "Compliance",
+        "Negotiation Skills",
+        "Legal",
+        "Ifrs Reporting",
+        "Product Development",
+        "Communication Skills",
+        "Business Planning"
+      ],
+      "posted_date": "1 week ago",
+      "url": "https://www.naukri.com/job-listings-consultant-business-consulting-actuarial-ernst-young-llp-mumbai-0-to-5-years-141026931039"
+    },
+    {
+      "job_id": "261026011510",
+      "title": "Analyst",
+      "company": "Crisil",
+      "experience": "0-3 Yrs",
+      "salary": "10-50+ LPA (Applied Filter)",
+      "location": "Mumbai",
+      "tags": [
+        "Climate change",
+        "GIS",
+        "Finance",
+        "Master planning",
+        "Architecture",
+        "Smart",
+        "Research",
+        "Management"
+      ],
+      "posted_date": "1 day ago",
+      "url": "https://www.naukri.com/job-listings-analyst-crisil-limited-mumbai-0-to-3-years-261026011510"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "job_id": "011026504418",
+    "title": "Software Developement Engineer III (JAVA+Rust)",
+    "company": "Upstox",
+    "url": "https://upstox.darwinbox.in/ms/candidatev2/main/careers/jobDetails/a6abb7810a31b9",
+    "applied_at": "2026-10-28T15:15:30Z",
+    "status": "skipped",
+    "verification": "Seniority SDE III exceeds 1.5 YoE profile"
+  },
+  {
+    "job_id": "091026504125",
+    "title": "Project Research Scientist I (AI/ML)",
+    "company": "Ashoka University",
+    "url": "https://hrmsashoka.darwinbox.in/ms/candidatev2/main/careers/jobDetails/a6ac6330d2f4f5",
+    "applied_at": "2026-10-28T15:15:30Z",
+    "status": "blocked_auth_required",
+    "verification": "Darwinbox tenant login/registration required; deadline passed 21 Oct 2026"
+  },
+  {
+    "job_id": "091026504095",
+    "title": "Project Research Scientist I (Human Immunology)",
+    "company": "Ashoka University",
+    "url": "https://hrmsashoka.darwinbox.in/ms/candidatev2/main/careers/jobDetails/a6ac62c9a84e30",
+    "applied_at": "2026-10-28T15:15:30Z",
+    "status": "skipped",
+    "verification": "Non-tech immunology domain skipped"
+  },
+  {
+    "job_id": "180626506365",
+    "title": "SDE 1",
+    "company": "Coding Ninjas",
+    "url": "https://codingninjas.darwinbox.in/ms/candidatev2/main/careers/jobDetails/a68c7fee0c6f61",
+    "applied_at": "2026-10-28T15:15:30Z",
+    "status": "blocked_auth_required",
+    "verification": "Darwinbox tenant login/registration required; account does not exist; CAPTCHA present"
+  }
+]

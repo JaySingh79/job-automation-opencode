@@ -1,0 +1,218 @@
+{
+  "worker": 3,
+  "batch": 3,
+  "target_applied": 20,
+  "applied_count": 17,
+  "parked_count": 9,
+  "already_applied_count": 0,
+  "failed_count": 0,
+  "all_results": [
+    {
+      "jobId": 1679962,
+      "title": "Aliaxis - Data Engineer - Data Lake & AI Enablement (2-5 yrs)",
+      "company": "Aliaxis",
+      "status": "applied",
+      "applicationId": 79293101
+    },
+    {
+      "jobId": 1679971,
+      "title": "Aditya Birla Group - Data Analyst (2-6 yrs)",
+      "company": "UltraTech Cement",
+      "status": "applied",
+      "applicationId": 79293130,
+      "message": null
+    },
+    {
+      "jobId": 1679307,
+      "title": "Tracxn - Backend Developer (2-4 yrs)",
+      "company": "Tracxn Technologies Ltd",
+      "status": "applied",
+      "applicationId": 79293133,
+      "message": null
+    },
+    {
+      "jobId": 1679348,
+      "title": "Volody - PHP Developer - Laravel (2-5 yrs)",
+      "company": "Volody",
+      "status": "applied",
+      "applicationId": 79293136,
+      "message": null
+    },
+    {
+      "jobId": 1679446,
+      "title": "Akamai Technologies - Cloud Support Engineer - AWS/Azure (2-4 yrs)",
+      "company": "Akamai Technologies",
+      "status": "applied",
+      "applicationId": 79293138,
+      "message": null
+    },
+    {
+      "jobId": 1679487,
+      "title": "Crompton - Delivery Manager - Analytics (2-7 yrs)",
+      "company": "Crompton Greaves Consumer Electricals",
+      "status": "parked_assessment",
+      "applicationId": null,
+      "message": "Assessment required"
+    },
+    {
+      "jobId": 1679153,
+      "title": "Tuco AI - Founding Engineer - Production Support (2-5 yrs)",
+      "company": "Tuco AI",
+      "status": "parked_assessment",
+      "applicationId": null,
+      "message": "Assessment required"
+    },
+    {
+      "jobId": 1678890,
+      "title": "Zebra Technologies - Senior Test Automation Engineer (2-6 yrs)",
+      "company": "Zebra Technologies",
+      "status": "applied",
+      "applicationId": 79293164,
+      "message": null
+    },
+    {
+      "jobId": 1678991,
+      "title": "Data Engineer - Python/Django (2-5 yrs)",
+      "company": "Harmony Data Integration Technologies",
+      "status": "applied",
+      "applicationId": 79293167,
+      "message": null
+    },
+    {
+      "jobId": 1678650,
+      "title": "Anthropic Product & Platform Expert/Technical Specialist (2-5 yrs)",
+      "company": "ArdbergAI",
+      "status": "parked_assessment",
+      "applicationId": null,
+      "message": "Assessment required"
+    },
+    {
+      "jobId": 1678421,
+      "title": "VoloHealth - Senior Software Developer - Java (2-5 yrs)",
+      "company": "Volo Health Insurance TPA",
+      "status": "parked_assessment",
+      "applicationId": null,
+      "message": "Assessment required"
+    },
+    {
+      "jobId": 1678043,
+      "title": "Python Test Automation Engineer (2-5 yrs)",
+      "company": "GenZS Recruitment Solutions",
+      "status": "applied",
+      "applicationId": 79293181,
+      "message": null
+    },
+    {
+      "jobId": 1676086,
+      "title": "Vedantu Innovations - Product Engineer - Java (2-5 yrs)",
+      "company": "Vedantu Innovations",
+      "status": "parked_assessment",
+      "applicationId": null,
+      "message": "Assessment required"
+    },
+    {
+      "jobId": 1677640,
+      "title": "Ennoventure - Product Manager - Roadmap & Strategy (2-4 yrs)",
+      "company": "Ennoventure Technologies",
+      "status": "applied",
+      "applicationId": 79293228,
+      "message": null
+    },
+    {
+      "jobId": 1677532,
+      "title": "Infosys - PySpark Developer - ETL Pipelines (2-9 yrs)",
+      "company": "Infosys Limited",
+      "status": "applied",
+      "applicationId": 79293230,
+      "message": null
+    },
+    {
+      "jobId": 1677378,
+      "title": "Site Reliability Engineer - Cloud Infrastructure (2-4 yrs)",
+      "company": "Scaling Theory Technologies",
+      "status": "applied",
+      "applicationId": 79293234,
+      "message": null
+    },
+    {
+      "jobId": 1677171,
+      "title": "Embitel Technologies - Software Development Engineer - Linux/Embedded System (2-7 yrs)",
+      "company": "Embitel Technologies",
+      "status": "applied",
+      "applicationId": 79293239,
+      "message": null
+    },
+    {
+      "jobId": 1677217,
+      "title": "Coverfox Insurance - Backend Developer - Python/Django (2-6 yrs)",
+      "company": "CoverStack",
+      "status": "applied",
+      "applicationId": 79293241,
+      "message": null
+    },
+    {
+      "jobId": 1677043,
+      "title": "Hevo Data - Solution Engineer (2-6 yrs)",
+      "company": "Heva Data",
+      "status": "parked_assessment",
+      "applicationId": null,
+      "message": "Assessment required"
+    },
+    {
+      "jobId": 1677134,
+      "title": "Business Analyst (2-5 yrs)",
+      "company": "HireSource.ai",
+      "status": "applied",
+      "applicationId": 79293281,
+      "message": null
+    },
+    {
+      "jobId": 1677196,
+      "title": "Android Stack Developer - AOSP (2-5 yrs)",
+      "company": "Hire Global",
+      "status": "parked_assessment",
+      "applicationId": null,
+      "message": "Assessment required"
+    },
+    {
+      "jobId": 1677206,
+      "title": "Cloverleaf Developer - Healthcare Integration (2-4 yrs)",
+      "company": "Wilco Source",
+      "status": "applied",
+      "applicationId": 79293286,
+      "message": null
+    },
+    {
+      "jobId": 1677010,
+      "title": "Full Stack Engineer - Node.js/React.js (2-6 yrs)",
+      "company": "Whitetable",
+      "status": "applied",
+      "applicationId": 79293290,
+      "message": null
+    },
+    {
+      "jobId": 1675050,
+      "title": "Mindtickle - Software Engineer - Business Systems (2-4 yrs)",
+      "company": "MindTickle",
+      "status": "applied",
+      "applicationId": 79293292,
+      "message": null
+    },
+    {
+      "jobId": 1676548,
+      "title": "Junior Full Stack Developer - Backend & Frontend Architecture (2-4 yrs)",
+      "company": "BXP Support And Solutions",
+      "status": "parked_assessment",
+      "applicationId": null,
+      "message": "Assessment required"
+    },
+    {
+      "jobId": 1676463,
+      "title": "Data Analyst (2-4 yrs)",
+      "company": "GCC Nexus",
+      "status": "parked_assessment",
+      "applicationId": null,
+      "message": "Assessment required"
+    }
+  ]
+}

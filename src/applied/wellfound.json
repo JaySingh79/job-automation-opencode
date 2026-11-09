@@ -1,0 +1,366 @@
+[
+  {
+    "id": "4628490",
+    "company": "Evam Labs",
+    "role": "AI Engineer",
+    "applied_at": "2026-10-26T07:26:10.677509+00:00",
+    "verified": true
+  },
+  {
+    "id": "2859940",
+    "company": "EveoAI",
+    "role": "NLP Engineer",
+    "applied_at": "2026-10-26T07:26:10.677509+00:00",
+    "verified": true
+  },
+  {
+    "id": "3280338",
+    "company": "senzcraft technologies",
+    "role": "Junior Python Developer",
+    "applied_at": "2026-10-26T07:26:10.677509+00:00",
+    "verified": true
+  },
+  {
+    "id": "4717817",
+    "company": "Planso",
+    "role": "Junior Backend Developer",
+    "applied_at": "2026-10-26T07:26:10.677509+00:00",
+    "verified": true
+  },
+  {
+    "id": "4762758",
+    "company": "Binocs.co",
+    "role": "SDE-I",
+    "applied_at": "2026-10-26T07:26:10.677509+00:00",
+    "verified": true
+  },
+  {
+    "id": "2657129",
+    "company": "MikeLegal",
+    "role": "Backend Intern",
+    "applied_at": "2026-10-26T07:26:10.677509+00:00",
+    "verified": true
+  },
+  {
+    "id": "2761004",
+    "company": "OneAssure",
+    "role": "SDE Intern",
+    "applied_at": "2026-10-26T07:26:10.677509+00:00",
+    "verified": true
+  },
+  {
+    "id": "3693428",
+    "company": "BillionNexus Software",
+    "role": "Python Backend Intern (AI/OpenAI)",
+    "applied_at": "2026-10-26T07:26:10.677509+00:00",
+    "verified": true
+  },
+  {
+    "id": "4872307",
+    "company": "Daxani Technologies",
+    "role": "Founding AI Engineer",
+    "applied_at": "2026-10-26T08:17:48.263064+00:00",
+    "verified": true
+  },
+  {
+    "id": "4496853",
+    "company": "Certa",
+    "role": "AI Engineer",
+    "applied_at": "2026-10-26T08:17:48.263064+00:00",
+    "verified": true
+  },
+  {
+    "id": "4855237",
+    "company": "AuxoAI",
+    "role": "Data Engineer AWS Databricks",
+    "applied_at": "2026-10-26T08:17:48.263064+00:00",
+    "verified": true
+  },
+  {
+    "id": "4844571",
+    "company": "Loyalty Juggernaut",
+    "role": "Data Scientist",
+    "applied_at": "2026-10-26T08:17:48.263064+00:00",
+    "verified": true
+  },
+  {
+    "id": "3025954",
+    "company": "Monsoon CreditTech",
+    "role": "Python Developer",
+    "applied_at": "2026-10-26T08:17:48.263064+00:00",
+    "verified": true
+  },
+  {
+    "id": "3094756",
+    "company": "Sosuv Consulting",
+    "role": "Fullstack Developer",
+    "applied_at": "2026-10-26T08:17:48.263064+00:00",
+    "verified": true
+  },
+  {
+    "id": "4756721",
+    "company": "Enterleap Consulting",
+    "role": "Python Developer Cybersecurity",
+    "applied_at": "2026-10-26T08:17:48.263064+00:00",
+    "verified": true
+  },
+  {
+    "id": "4875063",
+    "company": "Vested Finance",
+    "role": "Junior QA Engineer",
+    "applied_at": "2026-10-26T08:17:48.263064+00:00",
+    "verified": true
+  },
+  {
+    "id": "4890545",
+    "company": "IDfy - Baldor Technologies",
+    "role": "Software Engineer",
+    "applied_at": "2026-10-26T08:17:48.263064+00:00",
+    "verified": true
+  },
+  {
+    "id": "4377418",
+    "company": "ClearFeed",
+    "role": "Software Engineer",
+    "applied_at": "2026-10-26T08:17:48.263064+00:00",
+    "verified": true
+  },
+  {
+    "id": "1720070",
+    "company": "ClearFeed",
+    "role": "Implementation Solutions Engineer",
+    "applied_at": "2026-10-26T08:17:48.263064+00:00",
+    "verified": true
+  },
+  {
+    "id": "4750174",
+    "company": "Navtech",
+    "role": "Performance Engineer",
+    "applied_at": "2026-10-26T08:17:48.263064+00:00",
+    "verified": true
+  },
+  {
+    "id": "4748564",
+    "company": "Shipthis Inc",
+    "role": "Software Engineer",
+    "applied_at": "2026-10-26T08:17:48.263064+00:00",
+    "verified": true
+  },
+  {
+    "id": "4884645",
+    "company": "MiPrep AI",
+    "role": "QA Engineer",
+    "applied_at": "2026-10-26T08:56:15.215548+00:00",
+    "verified": true
+  },
+  {
+    "id": "4884639",
+    "company": "MiPrep AI",
+    "role": "AI Engineer",
+    "applied_at": "2026-10-26T08:56:15.215548+00:00",
+    "verified": true
+  },
+  {
+    "id": "4849870",
+    "company": "Neutals",
+    "role": "Software Engineering Experts ( Freshers )",
+    "applied_at": "2026-10-26T08:56:15.215548+00:00",
+    "verified": true
+  },
+  {
+    "id": "4824641",
+    "company": "zero4genz.in",
+    "role": "Forward Deployed Builder (Full Stack + AI)",
+    "applied_at": "2026-10-26T08:56:15.215548+00:00",
+    "verified": true
+  },
+  {
+    "id": "4881191",
+    "company": "Veloxio Technologies",
+    "role": "Junior Data Scientist",
+    "applied_at": "2026-10-26T08:56:15.215548+00:00",
+    "verified": true
+  },
+  {
+    "id": "4869663",
+    "company": "ZUNTRA Digital",
+    "role": "AI Agentic & Automation Intern",
+    "applied_at": "2026-10-26T09:52:25.418633+00:00",
+    "verified": true
+  },
+  {
+    "id": "4894463",
+    "company": "AITAINMENT",
+    "role": "AI Engineer Intern",
+    "applied_at": "2026-10-26T09:52:25.418633+00:00",
+    "verified": true
+  },
+  {
+    "id": "4884610",
+    "company": "V2S",
+    "role": "AI / Computer Vision Engineer",
+    "applied_at": "2026-10-26T09:52:25.418633+00:00",
+    "verified": true
+  },
+  {
+    "id": "4893909",
+    "company": "AweTales",
+    "role": "ML Inference Engineer (LLM/TTS)",
+    "applied_at": "2026-10-26T09:52:25.418633+00:00",
+    "verified": true
+  },
+  {
+    "id": "4809468",
+    "company": "Recro",
+    "role": "Data Scientist (2.5 YoE)",
+    "applied_at": "2026-10-26T09:52:25.418633+00:00",
+    "verified": true
+  },
+  {
+    "id": "4817710",
+    "company": "DrishtIQ",
+    "role": "Forward Deployed AI Engineer",
+    "applied_at": "2026-10-26T09:52:25.418633+00:00",
+    "verified": true
+  },
+  {
+    "id": "4844691",
+    "company": "IIT GUWAHATI - TIH",
+    "role": "Computer Vision Developer Intern",
+    "applied_at": "2026-10-26T09:52:25.418633+00:00",
+    "verified": true
+  },
+  {
+    "id": "4824537",
+    "company": "PurpleCodeAI",
+    "role": "Software Engineering Intern (Python APIs, AI/ML & Modern UI)",
+    "applied_at": "2026-10-26T11:00:36.572004+00:00",
+    "verified": true
+  },
+  {
+    "id": "4860593",
+    "company": "Ziro.digital",
+    "role": "Java Developer Intern (Fresher)",
+    "applied_at": "2026-10-26T11:00:36.572004+00:00",
+    "verified": true
+  },
+  {
+    "id": "4748673",
+    "company": "Timbre",
+    "role": "Backend Engineering Intern",
+    "applied_at": "2026-10-26T11:00:36.572004+00:00",
+    "verified": true
+  },
+  {
+    "id": "4688521",
+    "company": "Auroscale",
+    "role": "Full Stack Engineer Intern",
+    "applied_at": "2026-10-26T11:00:36.572004+00:00",
+    "verified": true
+  },
+  {
+    "id": "4867013",
+    "company": "Taskwiser",
+    "role": "Software Engineering Intern",
+    "applied_at": "2026-10-26T11:00:36.572004+00:00",
+    "verified": true
+  },
+  {
+    "id": "4860594",
+    "company": "Atharva Food & Agro",
+    "role": "QA Intern (Manual Testing) \u2013 Web Applications",
+    "applied_at": "2026-10-26T11:00:36.572004+00:00",
+    "verified": true
+  },
+  {
+    "id": "4683437",
+    "company": "Fluexy",
+    "role": "AI Software Engineering Intern",
+    "applied_at": "2026-10-26T11:00:36.572004+00:00",
+    "verified": true
+  },
+  {
+    "id": "4851892",
+    "company": "Fit Future Program",
+    "role": "Full Stack Developer Intern (AI + Frontend + Backend)",
+    "applied_at": "2026-10-26T11:00:36.572004+00:00",
+    "verified": true
+  },
+  {
+    "id": "4865522",
+    "company": "Ziro.digital",
+    "role": "Associate Data Forward Deployed Engineer",
+    "applied_at": "2026-10-26T11:00:36.572004+00:00",
+    "verified": true
+  },
+  {
+    "id": "4852449",
+    "company": "Nirmaan",
+    "role": "Founder's Office Intern - Tech",
+    "applied_at": "2026-10-26T11:00:36.572004+00:00",
+    "verified": true
+  },
+  {
+    "id": "4762814",
+    "company": "Arivihan Technologies",
+    "role": "Frontend Engineer",
+    "applied_at": "2026-10-26T11:00:36.572004+00:00",
+    "verified": true
+  },
+  {
+    "id": "4866667",
+    "company": "DataraAI",
+    "role": "Isaac Sim Simulation Engineer",
+    "applied_at": "2026-10-26T11:00:36.572004+00:00",
+    "verified": true
+  },
+  {
+    "id": "4754610",
+    "company": "Steps AI",
+    "role": "Software Development Engineer (SDE) \u2013 Full Stack",
+    "applied_at": "2026-10-26T11:00:36.572004+00:00",
+    "verified": true
+  },
+  {
+    "id": "4866665",
+    "company": "Gridbricks",
+    "role": "Full Stack Software Engineer Intern",
+    "applied_at": "2026-10-26T11:00:36.572004+00:00",
+    "verified": true
+  },
+  {
+    "id": "4656706",
+    "company": "Timebase",
+    "role": "Remote Full Stack Developer (6 Months Internship)",
+    "applied_at": "2026-10-26T11:00:36.572004+00:00",
+    "verified": true
+  },
+  {
+    "id": "4855181",
+    "company": "GoPratle",
+    "role": "Full-Stack Developer Intern, MERN + Next.js",
+    "applied_at": "2026-10-26T11:00:36.572004+00:00",
+    "verified": true
+  },
+  {
+    "id": "4748725",
+    "company": "Lupira",
+    "role": "Django Developer Intern (Mobile App Backend)",
+    "applied_at": "2026-10-26T11:00:36.572004+00:00",
+    "verified": true
+  },
+  {
+    "id": "4717812",
+    "company": "Planso",
+    "role": "Junior AI Engineer",
+    "applied_at": "2026-10-26T11:00:36.572004+00:00",
+    "verified": true
+  },
+  {
+    "id": "4772639",
+    "company": "Vraify",
+    "role": "AI Benchmark Quality Reviewer",
+    "applied_at": "2026-10-26T11:00:36.572004+00:00",
+    "verified": true
+  }
+]

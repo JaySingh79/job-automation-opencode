@@ -1,0 +1,1364 @@
+{
+ "run_date": "2026-09-14",
+ "date_filter": "qdr:w (Past week per SOP \u00a75.2)",
+ "total_raw": 212,
+ "total_unique": 172,
+ "already_in_ledgers": 0,
+ "fresh_count": 172,
+ "query_log": {
+  "Q01": {
+   "results": 10,
+   "date_filter": "qdr:w (Past week)",
+   "search_id": "01a09f02-e1d8-74b2-a41f-0bcef70715f1",
+   "credits": 2
+  },
+  "Q02": {
+   "results": 10,
+   "date_filter": "qdr:w (Past week)",
+   "search_id": "01a09f05-a804-720d-865d-86cae6ac0079",
+   "credits": 2
+  },
+  "Q03": {
+   "results": 10,
+   "date_filter": "qdr:w (Past week)",
+   "search_id": "01a09f05-fcda-706b-8472-d33c9dd378a2",
+   "credits": 2
+  },
+  "Q04": {
+   "results": 10,
+   "date_filter": "qdr:w (Past week)",
+   "search_id": "01a09f06-097e-76cb-a351-f89ce587de78",
+   "credits": 2
+  },
+  "Q05": {
+   "results": 10,
+   "date_filter": "qdr:w (Past week)",
+   "search_id": "01a09f0d-1852-7284-97b8-15f22beb9b3f",
+   "credits": 2
+  },
+  "Q07": {
+   "results": 10,
+   "date_filter": "qdr:w (Past week)",
+   "search_id": "01a09f06-cff4-7379-af4a-2c929b976a9e",
+   "credits": 2
+  },
+  "Q08": {
+   "results": 10,
+   "date_filter": "qdr:w (Past week)",
+   "search_id": "01a09f06-dc64-7008-ae6e-be6e018a823f",
+   "credits": 2
+  },
+  "Q09": {
+   "results": 1,
+   "date_filter": "qdr:w (Past week)",
+   "search_id": "01a09f06-edb7-74ce-b031-3623677ee814",
+   "credits": 2
+  },
+  "Q10": {
+   "results": 10,
+   "date_filter": "qdr:w (Past week)",
+   "search_id": "01a09f07-0381-76d9-b46d-73311c4a7717",
+   "credits": 2
+  },
+  "Q11": {
+   "results": 10,
+   "date_filter": "qdr:w (Past week)",
+   "search_id": "01a09f07-10aa-7724-8f4e-1a4109b2da6b",
+   "credits": 2
+  },
+  "Q12": {
+   "results": 10,
+   "date_filter": "qdr:w (Past week)",
+   "search_id": "01a09f07-1eee-70ac-b7ba-9a64dc334407",
+   "credits": 2
+  },
+  "Q13": {
+   "results": 10,
+   "date_filter": "qdr:w (Past week)",
+   "search_id": "01a09f07-2bd8-76ca-b856-e85fd35df592",
+   "credits": 2
+  },
+  "Q14": {
+   "results": 10,
+   "date_filter": "qdr:w (Past week)",
+   "search_id": "01a09f07-5614-70ed-a04f-411957871fdb",
+   "credits": 2
+  },
+  "Q15": {
+   "results": 10,
+   "date_filter": "qdr:w (Past week)",
+   "search_id": "01a09f07-6473-75ec-97b8-fbb20e7251aa",
+   "credits": 2
+  },
+  "Q16": {
+   "results": 10,
+   "date_filter": "qdr:w (Past week)",
+   "search_id": "01a09f0d-61c9-77ed-86ce-d9f0884243c0",
+   "credits": 2
+  },
+  "Q17": {
+   "results": 10,
+   "date_filter": "qdr:w (Past week)",
+   "search_id": "01a09f0d-a88d-755c-bdde-51b8d73a898b",
+   "credits": 2
+  },
+  "Q18": {
+   "results": 10,
+   "date_filter": "qdr:w (Past week)",
+   "search_id": "01a09f0d-f0b6-705e-8740-9378df53cb46",
+   "credits": 2
+  },
+  "Q19": {
+   "results": 10,
+   "date_filter": "qdr:w (Past week)",
+   "search_id": "01a09f0e-38da-74ef-b76c-10182b523d74",
+   "credits": 2
+  },
+  "Q20": {
+   "results": 10,
+   "date_filter": "qdr:w (Past week)",
+   "search_id": "01a09f07-b5d9-74a8-83e7-a0547c919bee",
+   "credits": 2
+  },
+  "Q21": {
+   "results": 10,
+   "date_filter": "qdr:w (Past week)",
+   "search_id": "01a09f07-e992-71ee-a1b1-4bcb1543dca9",
+   "credits": 2
+  },
+  "Q22": {
+   "results": 10,
+   "date_filter": "qdr:w (Past week)",
+   "search_id": "01a09f07-f998-7793-aa1f-c5b7a5166c1d",
+   "credits": 2
+  },
+  "Q24": {
+   "results": 10,
+   "date_filter": "qdr:w (Past week)",
+   "search_id": "01a09f0f-0193-75af-b5ff-0a1eb009425f",
+   "credits": 2
+  },
+  "Q25": {
+   "results": 1,
+   "date_filter": "qdr:w (Past week)",
+   "search_id": "01a09f0f-49ff-705b-bf1d-eec5d989e2d1",
+   "credits": 2
+  },
+  "Q06": {
+   "results": 0,
+   "date_filter": "qdr:w (Past week)",
+   "note": "No results found (CLI)"
+  },
+  "Q23": {
+   "results": 0,
+   "date_filter": "qdr:w (Past week)",
+   "note": "No results found (CLI)"
+  }
+ },
+ "fresh_results": [
+  {
+   "qid": "Q01",
+   "title": "AI Engineer @ Baseten - Jobs",
+   "url": "https://jobs.ashbyhq.com/baseten/64181d8a-960d-4aa4-8d98-3cb22b1e0616",
+   "desc": "# AI Engineer\n## Location\nSan Francisco\n\n## Department\nG&ACompute",
+   "ats": "ashby"
+  },
+  {
+   "qid": "Q01",
+   "title": "Helm.ai - Machine Learning Engineer - Jobs",
+   "url": "https://jobs.ashbyhq.com/helm-ai/1e14146a-a343-4e58-b8d0-7552e334b3a6",
+   "desc": "- [![Helm.ai](https://app.ashbyhq.com/api/images/org-theme-wordmark/1bf628d2-40af-4cb9-bcd6-90e969250b45/4671c5fd-7946-4576-b424-7f6b209728b4/d95829a6-1510-4bb1-8b24-b99e428254e0.png)](https://helm.ai/)\n\n# Machine Learning Engineer\n## Location\nRemote - US\n\n## Employment Type\nFull time\n\n## Department\nAI/ML\n\nSpecifically, you will:\n\n**You have:**\n\n**We offer:**\n\n[Helm.ai](http://helm.ai/) is proud t",
+   "ats": "ashby"
+  },
+  {
+   "qid": "Q01",
+   "title": "Applied Machine Learning Engineer, Economist @ Mercor - Jobs",
+   "url": "https://jobs.ashbyhq.com/mercor/589c1474-0e16-4292-a823-3a2412632eed",
+   "desc": "1 day ago \u00b7 Applied Machine Learning Engineer, Economist. Location. San Francisco. Employment Type. Full time. Location Type. On-site. Department. EngineeringCore ...",
+   "ats": "ashby"
+  },
+  {
+   "qid": "Q01",
+   "title": "Foodsmart - Staff AI Engineer - Lever",
+   "url": "https://jobs.lever.co/foodsmart/1ff054fc-a9d5-4831-ba9d-c56729d01a59",
+   "desc": "## Staff AI Engineer\nRemote (US)\n\nEngineering /\n\nFull-Time /\n\nRemote\n\n[apply for this job](https://jobs.lever.co/foodsmart/1ff054fc-a9d5-4831-ba9d-c56729d01a59/apply)\n\n### You have\n- 1+ years deploying ML/AI models to production, with hands-on experience fine-tuning LLMs or transformer-based models\n\n$190,000 - $210,000 a year\n\nRole: Staff AI Engineer",
+   "ats": "lever"
+  },
+  {
+   "qid": "Q01",
+   "title": "Machine Learning Engineer @ DeepJudge - Jobs",
+   "url": "https://jobs.ashbyhq.com/deepjudge/cbec610a-9fb7-4d86-bd3d-f97089a2d6c3",
+   "desc": "# Machine Learning Engineer\n## Location\nZurich HQ\n\n## Employment Type\nFull time\n\n## Location Type\nOn-site\n\n## Department\nEngineeringMachine Learning Engineering\n\n**About us:**\n\nFounded by former Google search engineers with PhDs in AI from ETH Zurich, DeepJudge helps legal teams unlock and apply the knowledge inside their organizations through world-class enterprise search and AI infrastructure \u2013 ",
+   "ats": "ashby"
+  },
+  {
+   "qid": "Q01",
+   "title": "Applied AI Engineer @ Arena Intelligence, Inc. - Jobs",
+   "url": "https://jobs.ashbyhq.com/arena/d82adca7-5bd5-4c54-b201-3d027968764d",
+   "desc": "# Applied AI Engineer\n## Location\nBay Area",
+   "ats": "ashby"
+  },
+  {
+   "qid": "Q01",
+   "title": "Senior Machine Learning Engineer, AI Platform @ Whoop - Jobs",
+   "url": "https://jobs.ashbyhq.com/whoop/2f0f7250-a2ca-4062-b8e5-57f3e3b8e955",
+   "desc": "1 day ago \u00b7 ... ML Engineer to help scale the intelligence layer behind WHOOP's AI ... Senior Machine Learning Engineer, AI Platform. Location. Boston, MA ...",
+   "ats": "ashby"
+  },
+  {
+   "qid": "Q01",
+   "title": "Senior Applied AI Engineer @ Mintlify - Jobs",
+   "url": "https://jobs.ashbyhq.com/mintlify/0050e75d-c840-44a8-ae87-28a7024fcc9d",
+   "desc": "# Senior Applied AI Engineer\n## Location\nSan Francisco\n\n## Address\nSan Francisco, California\n\n## Location Type\nOn-site",
+   "ats": "ashby"
+  },
+  {
+   "qid": "Q01",
+   "title": "Machine Learning Engineer, Discovery @ Whatnot - Jobs",
+   "url": "https://jobs.ashbyhq.com/whatnot/1ef7144a-265d-4abf-a1d1-a3e2efe8e80d",
+   "desc": "# Machine Learning Engineer, Discovery\n## Location\nNew York, NY\n\n## Location Type\nHybrid\n\n## **\ud83d\udcbb Role**\n**US Based:**\n\n## **\ud83d\udc9b EOE**\nCompensation Range: $180K - $245K\n\n[Apply for this Job](https://jobs.ashbyhq.com/whatnot/1ef7144a-265d-4abf-a1d1-a3e2efe8e80d/application)",
+   "ats": "ashby"
+  },
+  {
+   "qid": "Q01",
+   "title": "Senior Machine Learning Engineer - Embedded AI @ Pennylane SAS",
+   "url": "https://jobs.ashbyhq.com/pennylane/57614043-7914-40b1-94a2-ed5203c4c0d4",
+   "desc": "# Senior Machine Learning Engineer - Embedded AI\n## About us\n### **WHY this position is of utmost importance to reach our mission**\nBy joining us as a **Machine Learning Engineer \u2014 Embedded AI**, you will turn difficult accounting problems into trusted ML products used every day.\n\n### **HOW you will contribute as a Machine Learning Engineer \u2014 Embedded AI**\nYou will join the **Embedded AI** team wi",
+   "ats": "ashby"
+  },
+  {
+   "qid": "Q02",
+   "title": "Entry Level Ai Ml jobs in Remote - Indeed",
+   "url": "https://www.indeed.com/q-entry-level-ai-ml-l-remote-jobs.html",
+   "desc": "# entry level ai ml jobs in Remote\nSort by: **relevance** - **date**\n\n- We're looking for motivated individuals who are eager to contribute to the development of cutting-edge **AI** systems.\n- Salary Search: [English Language Specialist (US Only) - Freelance AI Trainer Project salaries in Remote](https://www.indeed.com/career/language-specialist/salaries?campaignid=serp-more&fromjk=9637c3e032adeaf",
+   "ats": "other"
+  },
+  {
+   "qid": "Q02",
+   "title": "Entry level machine learning engineer remote jobs - Indeed",
+   "url": "https://www.indeed.com/q-entry-level-machine-learning-engineer-remote-jobs.html",
+   "desc": "# entry level machine learning engineer remote jobs\n- [Software Developer, Entry Level](https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0DTzw0zn44BO44LK8f4_Y13TpucPElJIokUgmYe5ewoU8tTrECIE3cW5UObYW7Wq24R5oBbJPreb7Ux9iRg3_hR1dd4gZBbiz5v_nb-0jjxdorMjLH4KOEEbZnEOfPJ4TnQA1DodLOOX9mr6p0QgXFu3VDASbLZUqqtASGNH4Be8AtsHiu4sxvAE9Lp-tYtw72Zdpk6tcsfahUzZGgW5_yHO_Hb6Ib7lgoGvjqt7IxFShd1IlunpWdJr90m8eT8w5KA3B",
+   "ats": "other"
+  },
+  {
+   "qid": "Q02",
+   "title": "Junior AI & Product Enablement Specialist - Sysdig - Lever",
+   "url": "https://jobs.lever.co/sysdig/af7fe5ab-9d5a-453c-8d6b-45772713246c",
+   "desc": "2 days ago \u00b7 Junior AI & Product Enablement Specialist. Flexible - Spain / Flexible - Costa Rica. Support \u2013 SUPPORT ENGINEER /. Regular - Full Time /. Remote. apply for this ...",
+   "ats": "lever"
+  },
+  {
+   "qid": "Q02",
+   "title": "Entry Level Software Engineer, Recommendations - Rover.com",
+   "url": "https://jobs.lever.co/rover/303b3b2f-9679-4a77-8908-456e29240486",
+   "desc": "## Entry Level Software Engineer, Recommendations\n### Compensation:\nRover is an equal opportunity employer.",
+   "ats": "lever"
+  },
+  {
+   "qid": "Q02",
+   "title": "Welo Global - Associate Project Manager- Gen AI Operations - Lever",
+   "url": "https://jobs.lever.co/weloglobal/b1e0450f-3f8e-4c0d-8db5-f2e40278f8fa/apply",
+   "desc": "6 days ago \u00b7 Associate Project Manager- Gen AI Operations. Gurgaon, India. Welo Data \u2013 AI Operations /. Full Time /. Hybrid. Submit your application. LinkedIn profile.",
+   "ats": "lever"
+  },
+  {
+   "qid": "Q02",
+   "title": "Associate Director, Machine Learning (Core Algorithms) @ Whoop - Jobs",
+   "url": "https://jobs.ashbyhq.com/whoop/35c239db-539f-4c5e-bf80-765cd55a6930",
+   "desc": "1 day ago \u00b7 Associate Director, Machine Learning (Core Algorithms). Location. Boston, MA ... Directly manage applied ML scientists and ML engineers; provide coaching ...",
+   "ats": "ashby"
+  },
+  {
+   "qid": "Q02",
+   "title": "Junior Engineer (AI) @ Almedia - Jobs",
+   "url": "https://jobs.ashbyhq.com/almedia/86be9b83-2f9e-48a8-8b25-4c955ef834b7",
+   "desc": "3 days ago \u00b7 Junior Engineer (AI). (\u20ac60K \u2013 \u20ac75K). About the Role. You will join our data team as an AI-native engineer focused on automating data flows and building self ...",
+   "ats": "ashby"
+  },
+  {
+   "qid": "Q02",
+   "title": "Factor - Sales Associate, AI Enablement - Lever",
+   "url": "https://jobs.lever.co/factor/bc5387d3-0fd9-44d1-8de3-7777355c2e1d",
+   "desc": "6 days ago \u00b7 ... entry-level sales path. You'll learn consultative enterprise selling in a high-growth AI category, gain fluency in modern GTM motions, and develop expertise ...",
+   "ats": "lever"
+  },
+  {
+   "qid": "Q02",
+   "title": "Junior AI/ML Engineer (GenAI, AWS) - Provectus - Lever",
+   "url": "https://jobs.lever.co/provectus/af2e5b71-9860-4dd1-a3b1-98341b6d2060",
+   "desc": "## Junior AI/ML Engineer (GenAI, AWS)\nUkraine / Spain / Serbia / Yerevan / Poland\n\nEngineering \u2013 AI practice - David Sarkisyan /\n\nFull-time /\n\nRemote\n\n[apply for this job](https://jobs.lever.co/provectus/af2e5b71-9860-4dd1-a3b1-98341b6d2060/apply)",
+   "ats": "lever"
+  },
+  {
+   "qid": "Q02",
+   "title": "Associate, AI & Robotics @ Marble - Jobs",
+   "url": "https://jobs.ashbyhq.com/marble/0124860a-2fb1-4178-a724-4605db3c8cbe",
+   "desc": "2 days ago \u00b7 Associate, AI & Robotics. Location. Paris. Address. 5 parv. Alan Turing ... Technical expertise in AI/ML applied to physical systems, robotics and autonomy.",
+   "ats": "ashby"
+  },
+  {
+   "qid": "Q03",
+   "title": "AI/ML Engineer @ The Agency Fund - Jobs",
+   "url": "https://jobs.ashbyhq.com/the%20agency%20fund/7250e7d0-993e-4df1-8c7e-4ab3cbde9930",
+   "desc": "# AI/ML Engineer\n## Location\nGlobal\n\n## Location Type\nRemote\n\n## The Role\nWe're looking for an AI/ML Engineer to join our team. You'll design, build, evaluate, deploy and improve AI/ML systems that power Agency Fund's platforms and partner applications, like evaluation infrastructure for non-profits, AI coaches for training field workers, copilots to support nurses and doctors, chatbots that provi",
+   "ats": "ashby"
+  },
+  {
+   "qid": "Q03",
+   "title": "Jobgether - Full-Stack AI Engineer - Lever",
+   "url": "https://jobs.lever.co/jobgether/da70229a-b875-4c05-a2c9-a1aae3be5f26",
+   "desc": "## Full-Stack AI Engineer\nIndia\n\nRemote\n\n[apply for this job](https://jobs.lever.co/jobgether/da70229a-b875-4c05-a2c9-a1aae3be5f26/apply)\n\n**Our partner is looking for a Full-Stack AI Engineer based in India.**\n\n### **Benefits**\n- Fully remote, full-time employment with flexibility in how you structure your working day.",
+   "ats": "lever"
+  },
+  {
+   "qid": "Q03",
+   "title": "Netomi - Staff Agentic AI Engineer - Marketing - Lever",
+   "url": "https://jobs.lever.co/netomi/60fa8c9b-e031-476e-a9d3-011966c4b495",
+   "desc": "## Staff Agentic AI Engineer - Marketing\nFull Time - Remote /\n\nRemote",
+   "ats": "lever"
+  },
+  {
+   "qid": "Q03",
+   "title": "Senior AI Engineer, Location AI @ Mapbox - Jobs",
+   "url": "https://jobs.ashbyhq.com/mapbox/cb999882-00a6-4b6e-9335-d1d6f183a452",
+   "desc": "# Senior AI Engineer, Location AI\n## Location Type\nRemote\n\n## Employment Requirements\n- Location/Hybrid Policy: Remote (from any city in Germany)\n\n## How we support you\n#LI-Remote",
+   "ats": "ashby"
+  },
+  {
+   "qid": "Q03",
+   "title": "Jobgether - Full-Stack AI Engineer - Lever",
+   "url": "https://jobs.lever.co/jobgether/08c52989-1954-41bd-9d93-006998606bcd",
+   "desc": "## Full-Stack AI Engineer\nIndia\n\nRemote\n\n**Our partner is looking for a Full-Stack AI Engineer based in India.**\n\nYou will work at the intersection of AI, product engineering, and user experience, building the retrieval, generation, orchestration, and logic that make the assistant useful and dependable.\n\n### Benefits\n- Fully remote, full-time opportunity with flexibility in how you structure your ",
+   "ats": "lever"
+  },
+  {
+   "qid": "Q03",
+   "title": "Jobgether - Lead Voice AI Engineer - Lever",
+   "url": "https://jobs.lever.co/jobgether/e2eab762-cf52-40fb-9d33-c452923ccd5e",
+   "desc": "6 days ago \u00b7 Our partner is looking for a Lead Voice AI Engineer based in India. This is ... Flexible remote work model, allowing the role to be performed remotely ...",
+   "ats": "lever"
+  },
+  {
+   "qid": "Q03",
+   "title": "Jobgether - ServiceNow AI Engineer - Lever",
+   "url": "https://jobs.lever.co/jobgether/272dd01a-ac73-40f7-b0d3-8310448390fd",
+   "desc": "6 days ago \u00b7 ServiceNow AI Engineer. India. Security & IT \u2013 IT /. Full-time /. Remote. apply for this job. This position is listed on behalf of a partner company, who ...",
+   "ats": "lever"
+  },
+  {
+   "qid": "Q03",
+   "title": "Brillio - Lead AI Engineer I - R01571162 - Lever",
+   "url": "https://jobs.lever.co/brillio-2/df0baced-8074-4381-b73e-ee029c321739",
+   "desc": "## Lead AI Engineer I - R01571162\nBangalore, Karnataka, India\n\n**Lead AI Engineer I**",
+   "ats": "lever"
+  },
+  {
+   "qid": "Q03",
+   "title": "Senior AI Engineer, Conversational AI & Agentic Systems - Voice Required",
+   "url": "https://jobs.ashbyhq.com/blooming-health/a6d265bd-7e70-4225-9a8c-d49d552bf710",
+   "desc": "# Senior AI Engineer, Conversational AI & Agentic Systems - Voice Required\n## Location Type\nRemote",
+   "ats": "ashby"
+  },
+  {
+   "qid": "Q04",
+   "title": "REDICA Systems AI Engineer (India) | SmartRecruiters",
+   "url": "https://jobs.smartrecruiters.com/REDICASystems/744000148844601-ai-engineer-india-",
+   "desc": "4 days ago \u00b7 AI Engineer (India). Allen Solly, Sector 6, HSR Layout, 560102 Bengaluru, Karnataka, India Employees work in a hybrid mode ... 3+ years of experience as an ML ...",
+   "ats": "smartrecruiters"
+  },
+  {
+   "qid": "Q04",
+   "title": "Member Technical Staff - Applied AI Engineer (US Timing) @ Composio",
+   "url": "https://jobs.ashbyhq.com/composio/a4046674-59ee-41fd-9045-2a7058a467e1",
+   "desc": "# Member Technical Staff - Applied AI Engineer (US Timing)\n## Department\n**WORK HOURS: US Timings**",
+   "ats": "ashby"
+  },
+  {
+   "qid": "Q04",
+   "title": "Sandisk Artificial Intelligence & Machine Learning Engineer",
+   "url": "https://jobs.smartrecruiters.com/Sandisk/744000148406639-artificial-intelligence-machine-learning-engineer",
+   "desc": "5 days ago \u00b7 Artificial Intelligence & Machine Learning Engineer. Bar Lev, Israel ... You will work closely with platform engineers in the US and India and with ...",
+   "ats": "smartrecruiters"
+  },
+  {
+   "qid": "Q04",
+   "title": "LinkedIn AI Engineer | SmartRecruiters",
+   "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000149075708-ai-engineer",
+   "desc": "3 days ago \u00b7 AI Engineer. Mountain ... Other jobs at LinkedIn. Sr Product Manager, Hiring Pro. Sunnyvale, CA. Senior Product Manager - LinkedIn Learning. Bengaluru, India.",
+   "ats": "smartrecruiters"
+  },
+  {
+   "qid": "Q04",
+   "title": "Staff AI Engineer , Edinburgh @ Multiverse - Jobs",
+   "url": "https://jobs.ashbyhq.com/multiverse/6432c2ca-10c9-482b-a293-1f3ad60fff3d",
+   "desc": "# What your day-to-day will look like\n## **What We Are Looking For**\n- **Work-from-anywhere scheme**- you'll have the opportunity to work from anywhere, up to 10 days per year",
+   "ats": "ashby"
+  },
+  {
+   "qid": "Q05",
+   "title": "Junior Data Engineer @ AHL - Saaf AI - Jobs",
+   "url": "https://jobs.ashbyhq.com/AHL-SaafAI/ed53ed8f-00aa-4fe6-b177-e1679143e32c",
+   "desc": "# Junior Data Engineer\n## Location Type\nRemote",
+   "ats": "ashby"
+  },
+  {
+   "qid": "Q05",
+   "title": "Remote Inside Sales Associate (Insurance Tech Startup) @ Jerry.ai",
+   "url": "https://jobs.ashbyhq.com/Jerry.ai/3727094a-cd77-40f8-916c-0a0aeac23e82",
+   "desc": "3 days ago \u00b7 No insurance experience needed. We'll pay for your license and train you. Remote role at a fast paced, high-growth tech startup that's rethinking how car ...",
+   "ats": "ashby"
+  },
+  {
+   "qid": "Q05",
+   "title": "Demiurge Studios - 2027 Associate Software Engineer - Lever",
+   "url": "https://jobs.lever.co/demiurgestudios/85f401d2-5242-4096-b852-2947492d0035",
+   "desc": "## 2027 Associate Software Engineer\nRemote\n\nRemote",
+   "ats": "lever"
+  },
+  {
+   "qid": "Q05",
+   "title": "Product Support Associate - Central America @ Teton.ai - Jobs",
+   "url": "https://jobs.ashbyhq.com/teton/77c6b3f8-bfb9-4429-9acb-06dfe63fc406",
+   "desc": "6 days ago \u00b7 Teton.ai. Product Support Associate - Central America. Location. Central America. Employment Type. Full time. Location Type. Remote. Department. Customer ...",
+   "ats": "ashby"
+  },
+  {
+   "qid": "Q05",
+   "title": "Insurance Sales & Service Associate (Remote, Tech Startup) @ Jerry.ai",
+   "url": "https://jobs.ashbyhq.com/Jerry.ai/01c0f386-80d5-4198-b0fa-ae955b8a2c18",
+   "desc": "4 days ago \u00b7 No insurance experience needed. We'll pay for your license and train you. Remote role at a fast paced, high-growth tech startup that's rethinking how car ...",
+   "ats": "ashby"
+  },
+  {
+   "qid": "Q05",
+   "title": "Prompt - Jobs",
+   "url": "https://jobs.ashbyhq.com/prompt",
+   "desc": "4 days ago \u00b7 Engineering \u2022 Remote \u2022 Full time \u2022 Remote. $220K \u2013 $240K \u00b7 Senior Full Stack AI Engineer (Natural Language Systems). Engineering \u2022 Remote \u2022 Full time \u2022 Remote.",
+   "ats": "ashby"
+  },
+  {
+   "qid": "Q07",
+   "title": "Software Engineer II - Insider Risk | Careers - Abnormal AI",
+   "url": "https://boards.greenhouse.io/abnormalsecurity/jobs/7992780003",
+   "desc": "2 days ago \u00b7 Stop Generative AI Attacks. Defeat AI-crafted threats \u00b7 Prevent Account Takeover. Protect cloud apps \u00b7 Displace Your SEG. Modern email security \u00b7 Automate SOC ...",
+   "ats": "greenhouse"
+  },
+  {
+   "qid": "Q07",
+   "title": "Job Application for Growth Account Executive at Arize AI - Greenhouse",
+   "url": "https://boards.greenhouse.io/arizeai/jobs/6188488004",
+   "desc": "4 days ago \u00b7 AI is rapidly transforming the world. As generative AI reshapes industries, teams need powerful ways to monitor, troubleshoot, and optimize their AI systems.",
+   "ats": "greenhouse"
+  },
+  {
+   "qid": "Q07",
+   "title": "Professional Services Consultant (Spanish-Speaking) | Careers",
+   "url": "https://boards.greenhouse.io/abnormalsecurity/jobs/7989493003",
+   "desc": "4 days ago \u00b7 Stop Generative AI Attacks. Defeat AI-crafted threats \u00b7 Prevent Account Takeover. Protect cloud apps \u00b7 Displace Your SEG. Modern email security \u00b7 Automate SOC ...",
+   "ats": "greenhouse"
+  },
+  {
+   "qid": "Q07",
+   "title": "Enterprise Account Executive - Chicago | Careers - Abnormal AI",
+   "url": "https://boards.greenhouse.io/abnormalsecurity/jobs/7990482003",
+   "desc": "4 days ago \u00b7 Stop Generative AI Attacks. Defeat AI-crafted threats \u00b7 Prevent Account Takeover. Protect cloud apps \u00b7 Displace Your SEG. Modern email security \u00b7 Automate SOC ...",
+   "ats": "greenhouse"
+  },
+  {
+   "qid": "Q07",
+   "title": "Systems Engineer - Space \u2013 Helsing",
+   "url": "https://boards.greenhouse.io/helsing/jobs/4972262101",
+   "desc": "4 days ago \u00b7 Our work frequently takes us right up to the state of the art in technical innovation, be it reinforcement learning, distributed systems, generative AI, or ...",
+   "ats": "greenhouse"
+  },
+  {
+   "qid": "Q07",
+   "title": "Senior Professional Service Consultant | Careers | Abnormal AI",
+   "url": "https://boards.greenhouse.io/abnormalsecurity/jobs/7989497003",
+   "desc": "5 days ago \u00b7 Stop Generative AI Attacks. Defeat AI-crafted threats \u00b7 Prevent Account Takeover. Protect cloud apps \u00b7 Displace Your SEG. Modern email security \u00b7 Automate SOC ...",
+   "ats": "greenhouse"
+  },
+  {
+   "qid": "Q07",
+   "title": "Senior Software Engineer, Backend (Institutional - , Remote - Coinbase",
+   "url": "https://boards.greenhouse.io/coinbase/jobs/8193862",
+   "desc": "3 days ago \u00b7 Utilizes generative AI responsibly, maintaining human oversight to deliver business-ready outputs and drive measurable improvements in workflow efficiency ...",
+   "ats": "greenhouse"
+  },
+  {
+   "qid": "Q07",
+   "title": "Job Application for Senior Data Scientist at ExtraHop - Greenhouse",
+   "url": "https://boards.greenhouse.io/extrahopnetworks/jobs/6162230004",
+   "desc": "3 days ago \u00b7 Experience with generative AI, large language models, agentic systems, or other emerging AI techniques. Familiarity with cloud platforms such as AWS or GCP ...",
+   "ats": "greenhouse"
+  },
+  {
+   "qid": "Q07",
+   "title": "Job Application for Enterprise Account Executive at Datacor - Greenhouse",
+   "url": "https://boards.greenhouse.io/datacor/jobs/5226246007",
+   "desc": "3 days ago \u00b7 To ensure a fair and consistent evaluation process, we ask that candidates do not use generative AI tools or outside assistance during live interviews unless ...",
+   "ats": "greenhouse"
+  },
+  {
+   "qid": "Q07",
+   "title": "B2B - Director, Growth Marketing | CookUnity Careers - Greenhouse",
+   "url": "https://boards.greenhouse.io/cookunity/jobs/7872585003",
+   "desc": "4 days ago \u00b7 Ability to leverage generative AI to increase the quality and speed of work. Who You Are. Builder Mentality: You bring ideas, create structure from ambiguity ...",
+   "ats": "greenhouse"
+  },
+  {
+   "qid": "Q08",
+   "title": "Distribution Center Associate, Linden, New Jersey - Peloton Careers",
+   "url": "https://boards.greenhouse.io/peloton/jobs/8186571",
+   "desc": "2 days ago \u00b7 Distribution Center Associate ... To ensure a fair and equitable process, we do not permit the use of AI tools during any stage of the application and interview ...",
+   "ats": "greenhouse"
+  },
+  {
+   "qid": "Q08",
+   "title": "Test Developer- Winter 2027 Co-op Job in | Careers at D2L",
+   "url": "https://boards.greenhouse.io/d2l/jobs/8174477",
+   "desc": "4 days ago \u00b7 While we use AI tools internally to streamline tasks like meeting notes ... Currently enrolled in a post-secondary program, and will not graduate prior ...",
+   "ats": "greenhouse"
+  },
+  {
+   "qid": "Q08",
+   "title": "Staff Full-Stack Software Engineer, (Forward Deployed), GPS",
+   "url": "https://boards.greenhouse.io/scaleai/jobs/4732430005",
+   "desc": "4 days ago \u00b7 As a Full Stack Software Engineer (Forward Deployed), you'll collaborate directly with public sector counterparts to quickly build full-stack, AI applications, ...",
+   "ats": "greenhouse"
+  },
+  {
+   "qid": "Q08",
+   "title": "Business Insights & Analytics Coordinator - Winter 2027 Co-op",
+   "url": "https://boards.greenhouse.io/d2l/jobs/8188363",
+   "desc": "4 days ago \u00b7 While we use AI tools internally to streamline tasks like meeting notes ... Currently enrolled in a post-secondary program, and will not graduate prior ...",
+   "ats": "greenhouse"
+  },
+  {
+   "qid": "Q08",
+   "title": "Knowledge Specialist - Winter 2027 Co-op Job in | Careers at D2L",
+   "url": "https://boards.greenhouse.io/d2l/jobs/8174536",
+   "desc": "4 days ago \u00b7 While we use AI tools internally to streamline tasks like meeting notes ... Currently enrolled in a post-secondary program, and will not graduate prior ...",
+   "ats": "greenhouse"
+  },
+  {
+   "qid": "Q08",
+   "title": "User Experience Researcher - Winter 2027 Co-op Job in multiple locations",
+   "url": "https://boards.greenhouse.io/d2l/jobs/8180678",
+   "desc": "4 days ago \u00b7 While we use AI tools internally to streamline tasks like meeting notes ... Currently enrolled in a post-secondary program, and will not graduate prior ...",
+   "ats": "greenhouse"
+  },
+  {
+   "qid": "Q08",
+   "title": "Job Application for Team Lead at Anduril Industries - Greenhouse",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5216087007",
+   "desc": "5 days ago \u00b7 Anduril's family of systems is powered by Lattice OS, an AI ... PREFERRED QUALIFICATIONS. Associate's or Bachelor's degree in supply chain, manufacturing or ...",
+   "ats": "greenhouse"
+  },
+  {
+   "qid": "Q08",
+   "title": "Web Experience Coordinator - Winter 2027 Co-op Job in | Careers at D2L",
+   "url": "https://boards.greenhouse.io/d2learlytalent/jobs/8189541",
+   "desc": "3 days ago \u00b7 While we use AI tools internally to streamline tasks like meeting notes ... Currently enrolled in a post-secondary program, and will not graduate prior ...",
+   "ats": "greenhouse"
+  },
+  {
+   "qid": "Q08",
+   "title": "Manager, Data Mining - Payment Integrity | Careers | Oscar Health",
+   "url": "https://boards.greenhouse.io/oscar/jobs/8188906",
+   "desc": "4 days ago \u00b7 You will report into the Associate Director, Payment Integrity. Work ... Artificial Intelligence (AI): Our AI Guidelines outline the acceptable use ...",
+   "ats": "greenhouse"
+  },
+  {
+   "qid": "Q08",
+   "title": "HubSpot Careers | All Openings - Greenhouse",
+   "url": "https://boards.greenhouse.io/hubspotjobs/jobs/8195046",
+   "desc": "3 days ago \u00b7 You're someone junior engineers seek out, and you measure your impact in part ... AI Content Writer AI Content Writer \u00b7 AI Website Generator AI Website ...",
+   "ats": "greenhouse"
+  },
+  {
+   "qid": "Q10",
+   "title": "Applied AI Engineer, AI for Mistral - Jobs",
+   "url": "https://jobs.ashbyhq.com/mistral.ai/b85acb55-fe6d-4f63-80bb-6309dd26ec58",
+   "desc": "3 days ago \u00b7 As an Applied AI Engineer, your mission is to make Mistral AI-native from the inside. You lead the design and delivery of production-grade AI systems in rapid ...",
+   "ats": "ashby"
+  },
+  {
+   "qid": "Q10",
+   "title": "Applied AI Engineer, Codex @ OpenAI - Jobs",
+   "url": "https://jobs.ashbyhq.com/openai/32425ea6-a64b-408d-ae54-38342b83c875",
+   "desc": "4 days ago \u00b7 As an Applied AI Engineer focused on Codex, you will partner directly with leading engineering organizations to design, build, and deploy AI systems that ...",
+   "ats": "ashby"
+  },
+  {
+   "qid": "Q10",
+   "title": "Member of Technical Staff (Applied AI Engineer, Agent Capabilities) - Jobs",
+   "url": "https://jobs.ashbyhq.com/perplexity/5c561bd0-c180-4ee1-b079-647f3c20bdc0",
+   "desc": "4 days ago \u00b7 ... LLM techniques to design scalable agent capabilities such as skills, plugins ... Member of Technical Staff (Applied AI Engineer, Agent Capabilities) ...",
+   "ats": "ashby"
+  },
+  {
+   "qid": "Q10",
+   "title": "Applied AI Engineer - Manager @ Percepta - Jobs",
+   "url": "https://jobs.ashbyhq.com/percepta/30e1aeb2-3a1f-4867-b494-97281207eb76",
+   "desc": "1 hour ago \u00b7 Applied AI Engineer - Manager. Location. New York City. Employment Type. Full time. Location Type. On-site. Department. Engineering. Compensation. $250K \u2013 $425K ...",
+   "ats": "ashby"
+  },
+  {
+   "qid": "Q10",
+   "title": "Staff AI Engineer @ Vendelux - Jobs",
+   "url": "https://jobs.ashbyhq.com/vendelux/fab5d2a5-5f27-4231-8729-4e4ffc3661c7",
+   "desc": "5 days ago \u00b7 ... AI Engineer at Vendelux, you will research, build, and ship AI-powered product ... generative AI in production, including prompt engineering, RAG, and LLM ...",
+   "ats": "ashby"
+  },
+  {
+   "qid": "Q10",
+   "title": "AI Engineer @ Kandou AI - Internship - Jobs",
+   "url": "https://jobs.ashbyhq.com/kandou-ai/19c7570c-8941-4777-9e61-dbacd81b94e8",
+   "desc": "1 day ago \u00b7 Internship - AI Engineer. Location. Saint-Sulpice. Employment Type. Intern. Location ... Experience with LLM systems including tool-calling, agents, skills ...",
+   "ats": "ashby"
+  },
+  {
+   "qid": "Q11",
+   "title": "Applied AI Intern @ Almetra - Jobs",
+   "url": "https://jobs.ashbyhq.com/almetra/c5e43658-2fa6-4f56-b5b3-b5ee4a2b0132",
+   "desc": "- [![Almetra](https://app.ashbyhq.com/api/images/org-theme-wordmark/a89fb2c2-2ea1-4d8e-9d13-bb6678bdb3ac/c611252e-1e90-4589-ab34-8df709afc5e3/5c92ba96-ab1c-4340-875f-983553501964.png)](https://www.almetra.ai/)\n\n# Applied AI Intern\n## Location\nBerlin\n\n## Location Type\nOn-site",
+   "ats": "ashby"
+  },
+  {
+   "qid": "Q11",
+   "title": "AI Engineering Intern @ Light - Jobs",
+   "url": "https://jobs.ashbyhq.com/light-inc/9079d1ba-a35a-4e4b-9b07-820e85d921b9",
+   "desc": "23 hours ago \u00b7 As an AI Engineering Intern, you'll help make that happen: building systems ... Currently studying at University of Oxford, or University of Cambridge.",
+   "ats": "ashby"
+  },
+  {
+   "qid": "Q11",
+   "title": "2027 BT RISE Internship - Information Technology AI Intern - Jobs",
+   "url": "https://jobs.ashbyhq.com/barnes/af9258a6-b6e6-4714-92dc-a9952c0590a7",
+   "desc": "# 2027 BT RISE Internship - Information Technology AI Intern\n## Location\nIndianapolis\n\n## Department\n- Entering their sophomore, junior, or senior year in the Fall of 2027.\n\n- Currently enrolled in an accredited college or university and pursuing an undergraduate degree in computer science, information technology, data analytics, business, communications, or another field related to the internship",
+   "ats": "ashby"
+  },
+  {
+   "qid": "Q11",
+   "title": "AI Labs Intern @ Interplay - Jobs",
+   "url": "https://jobs.ashbyhq.com/interplay/bdf67758-1f20-4a01-8bb3-ccebfa79e9ac",
+   "desc": "# AI Labs Intern\n## Department\nInterplayStudio\n\n**AI LABS INTERN**\n\n**LOCATION**\n\nWe're looking for an AI Intern to join our Platform team and work alongside our engineers on Ivy and other internal products.",
+   "ats": "ashby"
+  },
+  {
+   "qid": "Q11",
+   "title": "Computer Vision/Machine Learning Intern, 2027 @ Allen Control Systems",
+   "url": "https://jobs.ashbyhq.com/allen-control-systems/a7831fef-7125-4c03-b828-5f0472989037",
+   "desc": "# Computer Vision/Machine Learning Intern, 2027\n## Location\nAustin, TX\n\n## Department\nEngineeringComputer Vision/Machine Learning\n\n_#LI-AS1_",
+   "ats": "ashby"
+  },
+  {
+   "qid": "Q11",
+   "title": "Machine Learning Engineer, Intern (Term-Time) @ Powertown - Jobs",
+   "url": "https://jobs.ashbyhq.com/powertown/754a7189-5505-459d-a7d3-dda2e0eaf38b",
+   "desc": "7 days ago \u00b7 Machine Learning Engineer, Intern (Term-Time). Location. Boston. Employment ... You are AI-first but not AI-reliant. You use agents, LLMs, automation, and ...",
+   "ats": "ashby"
+  },
+  {
+   "qid": "Q11",
+   "title": "Forward Deployed Engineer, Intern @ Retell AI - Jobs",
+   "url": "https://jobs.ashbyhq.com/retell-ai/9515b331-91af-401b-a6dd-569ef40c5b48",
+   "desc": "- [![Retell AI](https://app.ashbyhq.com/api/images/org-theme-wordmark/1cea7a19-42d7-433c-a7d1-6851366461cc/b933d97d-4542-473d-b420-052c6a14e7d6/6138a2a7-c323-4401-96dd-9d3b1d3479df.png)](https://www.retellai.com/)\n\n# Forward Deployed Engineer, Intern\n## **ABOUT RETELL AI**\nInstead of basic automation that needs constant human tuning, we're creating intelligent AI \u201cworkers\u201d that act as frontline ag",
+   "ats": "ashby"
+  },
+  {
+   "qid": "Q12",
+   "title": "MLOps Engineer @ AHL - Saaf AI - Jobs",
+   "url": "https://jobs.ashbyhq.com/ahl-saafai/d2b7a8fa-a108-4a46-a22b-364759bf75a4",
+   "desc": "# **MLOps Engineer \u2014 AI Platform & Infrastructure**\n## **The Role**\nWe\u2019re hiring an **MLOps Engineer** to own the infrastructure our AI runs on.\n\n- You\u2019ve taken AI or ML systems from a single deployment to infrastructure that scales \u2014 and you\u2019ve been on call for the result\n\n## **What You\u2019ll Build**\n### **Scalable AI Serving Infrastructure**\nOur AI workloads are moving from early-stage deployment t",
+   "ats": "ashby"
+  },
+  {
+   "qid": "Q12",
+   "title": "Software Engineer, AI Infrastructure - LVM Inference & Evaluation - Jobs",
+   "url": "https://jobs.ashbyhq.com/ambient.ai/e56b113b-69a1-4d38-8b9c-eb3460b9447e",
+   "desc": "3 days ago \u00b7 Design, build, and maintain cutting-edge AI infrastructure for real-time computer vision, LLM, LVM, and multimodal inference workloads. Build scalable systems ...",
+   "ats": "ashby"
+  },
+  {
+   "qid": "Q12",
+   "title": "Technical Program Manager, AI Infrastructure Capacity Planning",
+   "url": "https://jobs.ashbyhq.com/openai/a525ada4-b02d-425e-b529-f74bd0b398a5",
+   "desc": "3 days ago \u00b7 We are seeking a Technical Program Manager to build and lead capacity planning across OpenAI's large-scale AI infrastructure. You will translate uncertain ...",
+   "ats": "ashby"
+  },
+  {
+   "qid": "Q12",
+   "title": "Software Engineer - MLOps @ R37 Lab, R1 RCM - Jobs",
+   "url": "https://jobs.ashbyhq.com/r37/90802880-4c90-4917-b064-fc9eb86f1434",
+   "desc": "4 days ago \u00b7 Software Engineer - MLOps. Location. New York, NY | Remote. Employment Type. Full time. Department. R37. Compensation. $140K \u2013 $300K \u2022 Offers Equity. Overview ...",
+   "ats": "ashby"
+  },
+  {
+   "qid": "Q12",
+   "title": "Training / AI Infrastructure @ Genesis - Jobs",
+   "url": "https://jobs.ashbyhq.com/genesis/2196f682-bd01-4f83-992d-367bbb3c8e8b",
+   "desc": "7 days ago \u00b7 Training / AI Infrastructure. Location. London. Employment Type. Full time. Location Type. Hybrid. Department. Engineering & Research. OverviewApplication. What ...",
+   "ats": "ashby"
+  },
+  {
+   "qid": "Q12",
+   "title": "Senior Product Manager, AI Infrastructure @ Qualified Health PBC",
+   "url": "https://jobs.ashbyhq.com/qualified-health-pbc/2f006001-130c-4d96-8e4f-a9bb1068136d",
+   "desc": "4 days ago \u00b7 Senior Product Manager, AI Infrastructure. Location. Palo Alto - Hybrid ; United States - Remote. Employment Type. Full time. Department. Product. Overview ...",
+   "ats": "ashby"
+  },
+  {
+   "qid": "Q12",
+   "title": "Founding AI Product Engineer, AI Infrastructure (On-site - Jobs",
+   "url": "https://jobs.ashbyhq.com/lavendo/f456e10e-fd14-4eb8-adbb-2e333a21cd28",
+   "desc": "5 days ago \u00b7 Founding AI Product Engineer, AI Infrastructure (On-site - San Francisco). Location. San Francisco. Employment Type. Full time. Location Type. On-site ...",
+   "ats": "ashby"
+  },
+  {
+   "qid": "Q12",
+   "title": "VP - AI Infrastructure Engineering @ Designworks Talent - Jobs",
+   "url": "https://jobs.ashbyhq.com/designworkstalent/2cf5f3f1-d7b5-4ad3-883e-2f34ac71f27b",
+   "desc": "7 hours ago \u00b7 A rapidly growing, well-funded technology company is seeking an AI Infrastructure Engineering Leader to lead the engineering organization responsible for ...",
+   "ats": "ashby"
+  },
+  {
+   "qid": "Q12",
+   "title": "MLOps Engineering Manager @ Trainline - Jobs",
+   "url": "https://jobs.ashbyhq.com/trainline/1829dd8c-cad1-4d5d-95ea-4885f6c7c5b0",
+   "desc": "5 days ago \u00b7 MLOps Engineering Manager.",
+   "ats": "ashby"
+  },
+  {
+   "qid": "Q12",
+   "title": "Software Engineer, Machine Learning Platform, New Grad - Quora (Remote)",
+   "url": "https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db",
+   "desc": "5 days ago \u00b7 Quora is a privately held, \"remote-first\" company https://www.quora.com/q/quora/Remote-First-at-Quora. This position can be performed remotely from anywhere ...",
+   "ats": "ashby"
+  },
+  {
+   "qid": "Q13",
+   "title": "Machine Learning Engineer (Robotics and AI Institute LLC) - Lever",
+   "url": "https://jobs.lever.co/rai/5d77fa8f-af39-4450-8278-5119ff4efcfa",
+   "desc": "## Machine Learning Engineer (Robotics and AI Institute LLC):\nCambridge, MA\n\nEngineering /\n\nFull Time /\n\nOn-site\n\n[apply for this job](https://jobs.lever.co/rai/5d77fa8f-af39-4450-8278-5119ff4efcfa/apply)\n\nDesign, develop, and improve software technology used in robotic applications. Reimagine robot prototypes to solve the most important and fundamental challenges in AI and robotics. Architect sca",
+   "ats": "lever"
+  },
+  {
+   "qid": "Q13",
+   "title": "Machine Learning Engineer / ML Engineer - Roleplay Sessions - Lever",
+   "url": "https://jobs.lever.co/jobgether/ad8bbc07-9f85-4464-a4f4-5ee9b17ece50",
+   "desc": "3 days ago \u00b7 Our partner is looking for a Machine Learning Engineer / ML Engineer - Roleplay Sessions based in Switzerland. This role focuses on building the AI engine ...",
+   "ats": "lever"
+  },
+  {
+   "qid": "Q13",
+   "title": "Expert Artificial Intelligence/Machine Learning Engineer - Lever",
+   "url": "https://jobs.lever.co/jobgether/cbc05077-a151-47df-87ef-eb1b124d2097",
+   "desc": "## Expert Artificial Intelligence/Machine Learning Engineer\nBrazil\n\nSecurity & IT \u2013 IT /\n\nFull-time /\n\nRemote\n\n[apply for this job](https://jobs.lever.co/jobgether/cbc05077-a151-47df-87ef-eb1b124d2097/apply)\n\n**This position is listed on behalf of a partner company, who manages all applications and next steps.**\n\nAs an Expert Artificial Intelligence/Machine Learning Engineer, you will build and de",
+   "ats": "lever"
+  },
+  {
+   "qid": "Q13",
+   "title": "Spotify - Staff Machine Learning Engineer, Home Surfaces - Lever",
+   "url": "https://jobs.lever.co/spotify/281e7db9-86ba-4a1c-8773-c23b96ed32dc",
+   "desc": "3 days ago \u00b7 As a Staff Machine Learning Engineer, you will help shape the future of personalized discovery and engagement at Spotify. You'll work at the intersection of ...",
+   "ats": "lever"
+  },
+  {
+   "qid": "Q13",
+   "title": "dLocal - Staff AI Engineer - AI Labs - Lever",
+   "url": "https://jobs.lever.co/dlocal/e6c41d1a-c41b-4845-a40f-c75340874372",
+   "desc": "2 days ago \u00b7 As a Staff AI Engineer in the AI Lab, you own technology scouting, prototyping, and evaluation for dLocal. You will run instrumented spikes and benchmarking on ...",
+   "ats": "lever"
+  },
+  {
+   "qid": "Q13",
+   "title": "Machine Learning Engineer - Yuno - Lever",
+   "url": "https://jobs.lever.co/yuno/3577e844-65c6-41c6-ab7c-ebfad78de34f",
+   "desc": "## Machine Learning Engineer\nEurope\n\nTech \u2013 Data /\n\nRemote /\n\nRemote\n\n[apply for this job](https://jobs.lever.co/yuno/3577e844-65c6-41c6-ab7c-ebfad78de34f/apply)\n\n**Who We Are**\n\nWe use AI and modern technology for intelligent transaction routing and fraud prevention across more than 80 countries.\n\n**About The Role**\n\nWe are looking for a Machine Learning Engineer (mid level, 5 to 8 years of exper",
+   "ats": "lever"
+  },
+  {
+   "qid": "Q13",
+   "title": "Machine Learning Engineer (Robotics and AI Institute LLC) - Lever",
+   "url": "https://jobs.lever.co/rai/5d77fa8f-af39-4450-8278-5119ff4efcfa/apply",
+   "desc": "4 days ago \u00b7 Machine Learning Engineer (Robotics and AI Institute LLC):. Cambridge, MA. Engineering /. Full Time /. On-site. Submit your application. Resume/CV \u2731. ATTACH ...",
+   "ats": "lever"
+  },
+  {
+   "qid": "Q14",
+   "title": "BrainStorm, Inc. - Associate Learning Experience Designer (part-time)",
+   "url": "https://jobs.lever.co/brainstorminc/5bba1aa1-1abb-4747-af0c-2d14731e17ab",
+   "desc": "2 days ago \u00b7 Associate Learning Experience Designer (part-time). American Fork, UT ... Work AI-first, directing AI agents and modern digital tools to research ...",
+   "ats": "lever"
+  },
+  {
+   "qid": "Q14",
+   "title": "Redox - Associate Production Support Engineer, Tier I - Lever",
+   "url": "https://jobs.lever.co/redoxengine/ec53e1b8-e9fa-4274-a106-c72c857f01a9",
+   "desc": "## Associate Production Support Engineer, Tier I\nRemote\n\nRemote",
+   "ats": "lever"
+  },
+  {
+   "qid": "Q14",
+   "title": "Junior Software Engineer - Allata - Lever",
+   "url": "https://jobs.lever.co/Allata/a0eb9210-f90b-4a71-9107-765fb4848001/apply",
+   "desc": "3 days ago \u00b7 Junior Software Engineer. Vadodara - Gujarat. AI & Technology \u2013 Software Development /. Full Time /. On-site. Submit your application. Resume/CV \u2731. ATTACH ...",
+   "ats": "lever"
+  },
+  {
+   "qid": "Q14",
+   "title": "Portage Point Partners - Lever",
+   "url": "https://jobs.lever.co/portagepointpartners",
+   "desc": "4 days ago \u00b7 AI Solutions (India). Apply \u00b7 Senior Associate, AI Solutions. Hybrid \u2014 Delivery EnablementGurgaon \u00b7 Apply \u00b7 Vice President, AI Solutions. Hybrid \u2014 Delivery ...",
+   "ats": "lever"
+  },
+  {
+   "qid": "Q15",
+   "title": "Machine Learning Engineer - Myworkdayjobs.com",
+   "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Machine-Learning-Engineer-III_JR-0109848",
+   "desc": "2 days ago \u00b7 Machine Learning Engineer \u00b7 Own exploration, design and implementation of features for our sophisticated ML platforms, pipelines and services. \u00b7 Bachelor's ( ...",
+   "ats": "workday"
+  },
+  {
+   "qid": "Q15",
+   "title": "AI Engineer - Myworkdayjobs.com",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/AI-Engineer_JR10439549",
+   "desc": "[Skip to main content](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/AI-Engineer_JR10439549)\n\nAI Engineer page is loaded\n\n## AI Engineer\n[Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/AI-Engineer_JR10439549/apply)\n\n![Logo](https://ag.wd3.myworkdayjobs.com/wday/cxs/ag/Airbus/sidebarimage/36b29cc7f6f71000ecd3796df5460000)\n\ntime typeFull time\n\nposted onPosted Yesterda",
+   "ats": "workday"
+  },
+  {
+   "qid": "Q15",
+   "title": "Data Scientist",
+   "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Lehi/Data-Scientist_R171177-1",
+   "desc": "5 days ago \u00b7 We are seeking a Data Scientist to support ADI's digital economy work first and foremost. You will query and develop large datasets into trusted, repeatable ...",
+   "ats": "workday"
+  },
+  {
+   "qid": "Q15",
+   "title": "AI Engineer - Myworkdayjobs.com",
+   "url": "https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/AI-Engineer_REQ575365",
+   "desc": "[Skip to main content](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/AI-Engineer_REQ575365)",
+   "ats": "workday"
+  },
+  {
+   "qid": "Q15",
+   "title": "Full Stack AI Engineer - Myworkdayjobs.com",
+   "url": "https://ryan.wd1.myworkdayjobs.com/en-US/experienced-professionals/job/London/Full-Stack-AI-Engineer_R0020202",
+   "desc": "5 days ago \u00b7 The Full Stack AI Engineer is an early-career software engineering role focused on building and delivering full-stack applications with generative AI and ...",
+   "ats": "workday"
+  },
+  {
+   "qid": "Q15",
+   "title": "Senior Data Scientist - Myworkdayjobs.com",
+   "url": "https://elanco.wd5.myworkdayjobs.com/en-US/External_Career/job/Indianapolis-IN/Senior-Data-Scientist_R0027016-1",
+   "desc": "6 days ago \u00b7 Your Role: As a Senior Data Scientist at Elanco, you will be a key driver of innovation and efficiency, using advanced analytics to solve complex challenges ...",
+   "ats": "workday"
+  },
+  {
+   "qid": "Q15",
+   "title": "Data Scientist III - Myworkdayjobs.com",
+   "url": "https://relx.wd3.myworkdayjobs.com/relx/job/MEXICO-MEXICOCITY/Data-Scientist-III_R117403-2",
+   "desc": "2 days ago \u00b7 Data Scientist III \u00b7 Experience in data science, machine learning, artificial intelligence, NLP, statistics, applied mathematics, computer science, or a related ...",
+   "ats": "workday"
+  },
+  {
+   "qid": "Q15",
+   "title": "Data Scientist - Myworkdayjobs.com",
+   "url": "https://micron.wd1.myworkdayjobs.com/en-US/external/job/Fab-10A-Singapore/Data-Scientist_JR111151",
+   "desc": "4 days ago \u00b7 ... Data Scientist in advanced, highly automated industrial manufacturing ... machine learning engineer, etc; or equivalent. Technical Skills: Proficiency ...",
+   "ats": "workday"
+  },
+  {
+   "qid": "Q15",
+   "title": "Machine Learning Engineer",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Machine-Learning-Engineer_JR2025036",
+   "desc": "2 days ago \u00b7 NVIDIA is looking for a talented Machine Learning Engineer to drive the development, evaluation, deployment and end-to-end lifecycle management of our ...",
+   "ats": "workday"
+  },
+  {
+   "qid": "Q15",
+   "title": "Principal Machine Learning Engineer - Myworkdayjobs.com",
+   "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Ireland-Dublin/Principal-Machine-Learning-Engineer_JR-0109752",
+   "desc": "4 days ago \u00b7 As Principal Machine Learning Engineer for anonymization, you will lead Danu's newest area: building the capability that provides anonymized datasets for ...",
+   "ats": "workday"
+  },
+  {
+   "qid": "Q16",
+   "title": "Early Career Consult Program - Associate AI Engineer",
+   "url": "https://kyndryl.wd5.myworkdayjobs.com/en-US/kyndrylearlycareers/job/USDALFRI---Dallas-Frisco-AI-HUB-FRI/Early-Career-Consult-Program---Associate-AI-Engineer_R-66739",
+   "desc": "[Skip to main content](https://kyndryl.wd5.myworkdayjobs.com/en-US/kyndrylearlycareers/job/USDALFRI---Dallas-Frisco-AI-HUB-FRI/Early-Career-Consult-Program---Associate-AI-Engineer_R-66739)\n\n![](https://kyndryl.wd5.myworkdayjobs.com/kyndrylearlycareers/assets/banner)\n\nEarly Career Consult Program - Associate AI Engineer page is loaded\n\n## Early Career Consult Program - Associate AI Engineer\n[Apply]",
+   "ats": "workday"
+  },
+  {
+   "qid": "Q16",
+   "title": "Associate, Global AI Policy - Myworkdayjobs.com",
+   "url": "https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/Associate--Global-AI-Policy_R107663",
+   "desc": "3 days ago \u00b7 Tencent is seeking a highly motivated Associate, Global AI Policy to join its Global Public Affairs team in Palo Alto. This early-career position offers a ...",
+   "ats": "workday"
+  },
+  {
+   "qid": "Q16",
+   "title": "University Graduate \u2013 Machine Learning Engineer 100% (f/m/d)",
+   "url": "https://juliusbaer.wd3.myworkdayjobs.com/en-US/External/job/Zurich/University-Graduate---Machine-Learning-Engineer-100---f-m-d-_r-19676-1",
+   "desc": "4 days ago \u00b7 University Graduate \u2013 Machine Learning Engineer 100% (f/m/d). Apply ... machine learning and AI topics. By that you will have the opportunity to ...",
+   "ats": "workday"
+  },
+  {
+   "qid": "Q16",
+   "title": "Sr Associate Support Engineer, AI/ML & Platform Operations (8am-5pm ...",
+   "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Sr-Associate-Support-Engineer--AI-ML---Platform-Operations--8am-5pm--or--12md-9pm-_JR-0110081",
+   "desc": "3 days ago \u00b7 Sr Associate Support Engineer, AI/ML & Platform Operations (8am-5pm) or (12md-9pm) \u00b7 Technical & Diagnostic Skills: Minimum 1 year of experience writing and ...",
+   "ats": "workday"
+  },
+  {
+   "qid": "Q16",
+   "title": "Global Clinical Operations AI Program Associate Director",
+   "url": "https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/basel-city/global-clinical-operations-ai-program-associate-director_req-10084128-1",
+   "desc": "5 days ago \u00b7 As the Global Clinical Operations AI Program Associate Director, you will ... Machine Learning (ML) {+ 6 more}. Similar Jobs (5). Global Clinical ...",
+   "ats": "workday"
+  },
+  {
+   "qid": "Q16",
+   "title": "ML Systems Engineer, Data Labeling Engineering - Early Career",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/ML-Systems-Engineer--Data-Labeling-Engineering---Early-Career_JR-202619939",
+   "desc": "4 days ago \u00b7 ... early-career Software Engineer on the Data Labeling Engineering team, you will ... Experience with computer vision, machine learning, or data-centric AI ...",
+   "ats": "workday"
+  },
+  {
+   "qid": "Q16",
+   "title": "Azure AI Engineer - Senior Associate - Myworkdayjobs.com",
+   "url": "https://pwc.wd3.myworkdayjobs.com/global_experienced_careers/job/Mexico---Reforma-445/Azure-AI-Engineer---Senior-Associate_760497WD-2",
+   "desc": "4 days ago \u00b7 As an Azure AI Engineer - Senior Associate, you will engage in developing innovative software solutions to drive digital transformation and enhance business ...",
+   "ats": "workday"
+  },
+  {
+   "qid": "Q16",
+   "title": "Associate Software Engineer - Myworkdayjobs.com",
+   "url": "https://ascensushr.wd1.myworkdayjobs.com/en-US/ascensuscareers/job/Associate-Software-Engineer_R0021231",
+   "desc": "2 days ago \u00b7 ... associate level engineers for our Software Engineering teams. These ... AI capabilities and innovative tools to solve business needs using a rapid ...",
+   "ats": "workday"
+  },
+  {
+   "qid": "Q16",
+   "title": "Sr Associate Customer Support Analyst, AI/ML Application Support ...",
+   "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/Costa-Rica/Sr-Associate-Customer-Support-Analyst--AI-ML-Application-Support--8am-5pm--or--12md-9pm-_JR-0110083",
+   "desc": "2 days ago \u00b7 Sr Associate Customer Support Analyst, AI/ML Application Support (8am-5pm) or (12md-9pm) \u00b7 Work Experience: Minimum 1 year of experience in technical support, ...",
+   "ats": "workday"
+  },
+  {
+   "qid": "Q17",
+   "title": "AI & Support Automation - Engineer @ CertifyOS - Jobs",
+   "url": "https://jobs.ashbyhq.com/certifyos/4f4e27fb-b4c0-4b86-8783-3bcf14928a1a",
+   "desc": "14 hours ago \u00b7 ... Generative AI/LLM application development, with demonstrated production ... India, employees are supported with health insurance, statutory leave ...",
+   "ats": "ashby"
+  },
+  {
+   "qid": "Q17",
+   "title": "Director of Customer Success, APAC @ UpGuard Inc. - Jobs",
+   "url": "https://jobs.ashbyhq.com/upguard/adb116f9-ecf8-469b-bed7-7f1a6daadf56",
+   "desc": "# What's in it for you?\nIf the role you are applying for is listed as based in the US, we are currently only able to support hiring in the following locations: CA, CO, FL, IL, LA, MA, MD, MO, OR, PA, TX, WA, and DC.",
+   "ats": "ashby"
+  },
+  {
+   "qid": "Q17",
+   "title": "Head of Agent Architecture - EMEA - Remote @ Pencil - Jobs",
+   "url": "https://jobs.ashbyhq.com/pencil/cff4bc25-cedb-439c-ad1e-3d9dad07866a",
+   "desc": "# Head of Agent Architecture - EMEA - Remote\n## Department\n- Remote - work from anywhere in your home country",
+   "ats": "ashby"
+  },
+  {
+   "qid": "Q17",
+   "title": "Remote Jobs in India (September 2026) - Arc.dev",
+   "url": "https://arc.dev/en-in/remote-jobs",
+   "desc": "## Find remote jobs in India \ud83c\uddee\ud83c\uddf3\nRemote anywhere\n\nRemote anywhere\n\nRemote anywhere",
+   "ats": "other"
+  },
+  {
+   "qid": "Q17",
+   "title": "Jobgether - Forward Deployment Engineer - Lever",
+   "url": "https://jobs.lever.co/jobgether/4ab32959-9b05-4db1-9901-cd5d19b0985c",
+   "desc": "6 days ago \u00b7 Our partner is looking for a Forward Deployment Engineer based in India. ... Opportunity to work on cutting-edge AI, generative AI, and agentic technology ...",
+   "ats": "lever"
+  },
+  {
+   "qid": "Q17",
+   "title": "Staff Software Engineer @ Hinge Health - Jobs",
+   "url": "https://jobs.ashbyhq.com/hinge-health/861316e2-8b23-43bc-85c4-5b0b93ca6bd0",
+   "desc": "6 days ago \u00b7 ... India Standard Time (e.g., 8am in San Francisco is 8:30pm in Bengaluru) ... generative AI services into production workflows with appropriate evals ...",
+   "ats": "ashby"
+  },
+  {
+   "qid": "Q17",
+   "title": "Viseven - Full Stack (AI) Developer (Talent Pool) - Lever",
+   "url": "https://jobs.lever.co/viseven/50b6c06b-2cee-4ce6-944d-dbd574422c6d",
+   "desc": "2 days ago \u00b7 With a global footprint in more than 30 countries across the US, LATAM, Europe, and APAC, and physical offices in Ukraine, Poland, Estonia, India ... Generative ...",
+   "ats": "lever"
+  },
+  {
+   "qid": "Q17",
+   "title": "Pattern - Senior Software Engineer, AI - Lever",
+   "url": "https://jobs.lever.co/pattern/20498a77-c08b-4fdb-95a8-61a1437ad40a",
+   "desc": "3 days ago \u00b7 Integrate generative AI capabilities (LLMs, embeddings, multimodal models, agents) to address real business challenges and open new market opportunities.",
+   "ats": "lever"
+  },
+  {
+   "qid": "Q17",
+   "title": "Integrated Campaign Manager, Higher Education - Panopto - Lever",
+   "url": "https://jobs.lever.co/panopto/4aa73be0-a644-463f-a37d-2782e0cb75c0",
+   "desc": "## Integrated Campaign Manager, Higher Education\nRemote - US\n\n### Values in Action\n**Remote, US:** Candidates looking for flexible or remote-friendly positions are encouraged to apply.",
+   "ats": "lever"
+  },
+  {
+   "qid": "Q17",
+   "title": "Platform Engineer - Agentic @ Lyric - Jobs",
+   "url": "https://jobs.ashbyhq.com/lyric/3c5c1f22-7cb0-4a9b-b14e-3ca07deeaf3b",
+   "desc": "2 days ago \u00b7 ... GenAI engineering team on problems where the right implementation is often ... Platform Engineer - Agentic. Location. India. Employment Type. Full time ...",
+   "ats": "ashby"
+  },
+  {
+   "qid": "Q18",
+   "title": "Brillio - Senior Data Scientist - R01570348 - Lever",
+   "url": "https://jobs.lever.co/brillio-2/5685d0b6-0b57-4c73-9ea7-fee9944f8581",
+   "desc": "7 days ago \u00b7 Senior Data Scientist - R01570348. Hyderabad, Andhra Pradesh, India. AI & Data ... Data Scientist Associate or IBM Data Science Professional Certificate ...",
+   "ats": "lever"
+  },
+  {
+   "qid": "Q18",
+   "title": "Whoop - Jobs",
+   "url": "https://jobs.ashbyhq.com/whoop",
+   "desc": "2 days ago \u00b7 Manager, Marketplaces - India. Business Development \u2022 Mumbai, India ... Machine Learning & AI Research. Associate Director, Machine Learning (Core Algorithms).",
+   "ats": "ashby"
+  },
+  {
+   "qid": "Q18",
+   "title": "e.l.f. Beauty - Associate, Community Manager - Lever",
+   "url": "https://jobs.lever.co/elfbeauty/42d82eab-0bc2-44b8-8a49-d8229a0d37c2/apply",
+   "desc": "5 days ago \u00b7 Associate, Community Manager. Ahmedabad, Gujarat / India - Remote. e.l.f. Brands \u2013 Integrated Marketing Communications /. Full Time /. Hybrid. Submit your ...",
+   "ats": "lever"
+  },
+  {
+   "qid": "Q18",
+   "title": "Hevo Data - Associate Director - Technical Account Management",
+   "url": "https://jobs.lever.co/hevodata/a49edaa6-dd55-4e15-930e-ed0228169da2",
+   "desc": "3 days ago \u00b7 Associate Director - Technical Account Management \u00b7 A growing team of TAMs, based primarily in Bangalore and Pune \u00b7 A product with 1000+ customers but an evolving ...",
+   "ats": "lever"
+  },
+  {
+   "qid": "Q18",
+   "title": "Associate Software Engineer, Test @ ScienceLogic - Jobs",
+   "url": "https://jobs.ashbyhq.com/sciencelogic/bda1b48c-64f7-4c92-a9eb-9863fc59f56c",
+   "desc": "6 days ago \u00b7 ... AI, and analytics \u2014 giving IT and business leaders the tools to deliver ... Work Location: Hyderabad, India. Use testing tools and frameworks to assist ...",
+   "ats": "ashby"
+  },
+  {
+   "qid": "Q19",
+   "title": "Senior Solutions Engineer (APAC) @ Qdrant - Jobs",
+   "url": "https://jobs.ashbyhq.com/qdrant.tech/512b651a-3a52-4662-92c0-bcf84c0786af",
+   "desc": "5 days ago \u00b7 Remote - Australia; Remote - India; Remote - Japan; Remote - Singapore ... A remote-first, international team working on cutting-edge AI infrastructure. A ...",
+   "ats": "ashby"
+  },
+  {
+   "qid": "Q19",
+   "title": "HPC Storage Engineer - West Coast @ Runpod - Jobs",
+   "url": "https://jobs.ashbyhq.com/runpod/f6e84752-4d77-4a93-ae5d-dcd4911df710",
+   "desc": "5 days ago \u00b7 We're at an inflection point for AI infrastructure, and we're building the platform the next generation of developers will depend on. We're a small, remote- ...",
+   "ats": "ashby"
+  },
+  {
+   "qid": "Q19",
+   "title": "Software Engineer @ Firstwork - Jobs",
+   "url": "https://jobs.ashbyhq.com/firstwork/75ed42df-9999-4cf1-a610-45133fe4df0e",
+   "desc": "# Software Engineer\n## Location\nIndia; United Kingdom; United States",
+   "ats": "ashby"
+  },
+  {
+   "qid": "Q19",
+   "title": "Compute Solution Architect @ Mistral - Jobs",
+   "url": "https://jobs.ashbyhq.com/mistral.ai/6addff7a-13f6-4e21-bac3-ac823566ede6",
+   "desc": "5 days ago \u00b7 As a Compute Solution Architect, you will support our strategic AI Infrastructure customers. In this role, you will be a trusted technical advisor, helping ...",
+   "ats": "ashby"
+  },
+  {
+   "qid": "Q19",
+   "title": "AI Research Scientist @ True Talent Solutions Partners - Jobs",
+   "url": "https://jobs.ashbyhq.com/true-talent-solutions-partners/850d6f07-da44-41a8-9602-a4b3d07ef3af",
+   "desc": "3 days ago \u00b7 ... remote, open to candidates based in the United States ... This is a deeply technical research role at an early-stage AI infrastructure company focused on making ...",
+   "ats": "ashby"
+  },
+  {
+   "qid": "Q20",
+   "title": "Mahidhar A's Post - LinkedIn",
+   "url": "https://www.linkedin.com/posts/mahidhar07_ravi-a-samy-hiring-junior-ai-engineer-activity-7504926366530682880-DJba",
+   "desc": "17 hours ago \u00b7 Ravi A Samy hiring \u2014 Junior AI Engineer (2 openings) at AI Horizon Global / IAII Looking for curious builders ready to grow fast in applied AI ... DM me on ...",
+   "ats": "linkedin-posts"
+  },
+  {
+   "qid": "Q20",
+   "title": "We're Hiring \u2013 AI Engineer | Khushali GUPTA | 44 comments - LinkedIn",
+   "url": "https://www.linkedin.com/posts/khushali-gupta-4823463a7_%F0%9D%97%AA%F0%9D%97%B2%F0%9D%97%BF%F0%9D%97%B2-%F0%9D%97%9B%F0%9D%97%B6%F0%9D%97%BF%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B4-%F0%9D%97%94%F0%9D%97%9C-%F0%9D%97%98%F0%9D%97%BB%F0%9D%97%B4%F0%9D%97%B6-activity-7504807334905393152-8Tk6",
+   "desc": "1 day ago \u00b7 We're Hiring \u2013 AI Engineer | Fresher Aptino, Inc. is looking for ... M B Venkata Dinesh Kumar Reddy. AI/ML Engineer ...",
+   "ats": "linkedin-posts"
+  },
+  {
+   "qid": "Q20",
+   "title": "Ravi A Samy's Post - LinkedIn",
+   "url": "https://www.linkedin.com/posts/rantonysamy_hiring-junioraiengineer-aijobs-activity-7504566242834329600-yCzI",
+   "desc": "2 days ago \u00b7 We're hiring \u2014 Junior AI Engineer (2 openings) at AI Horizon Global / IAII Looking for curious builders ready to grow fast in applied AI. What we're looking for ...",
+   "ats": "linkedin-posts"
+  },
+  {
+   "qid": "Q20",
+   "title": "Dhanraj G's Post - LinkedIn",
+   "url": "https://www.linkedin.com/posts/dhanraj-shinemaven_were-hiring-an-ai-engineer-100-work-from-activity-7502930890180939776-fBTs",
+   "desc": "6 days ago \u00b7 We're hiring an AI Engineer \u2014 100% Work From HomeLooking for an opportunity ... Email : tech.rohitchourey@gmail.com Portfolio:- https://rohit-chourey ...",
+   "ats": "linkedin-posts"
+  },
+  {
+   "qid": "Q20",
+   "title": "Dhanraj G posted this - LinkedIn",
+   "url": "https://www.linkedin.com/posts/dhanraj-shinemaven_were-hiring-an-ai-engineer-100-work-from-activity-7502645837743800320-orbS",
+   "desc": "7 days ago \u00b7 We're hiring an AI Engineer \u2014 100% Work From Home Looking for an opportunity ... Close menu. Hi Dhanraj G I'm a fresher, but I have hands-on experience ...",
+   "ats": "linkedin-posts"
+  },
+  {
+   "qid": "Q20",
+   "title": "Dhanraj G posted this - LinkedIn",
+   "url": "https://www.linkedin.com/posts/dhanraj-shinemaven_hiring-hiring-aiml-activity-7503800753333956608-FCCi",
+   "desc": "4 days ago \u00b7 Close menu. #Hiring | AI/ML Engineer Looking for experienced AI/ML Engineers ready to work on advanced AI systems. ... DM me your profile if you are facing ...",
+   "ats": "linkedin-posts"
+  },
+  {
+   "qid": "Q20",
+   "title": "Mahidhar A's Post - LinkedIn",
+   "url": "https://www.linkedin.com/posts/mahidhar07_were-hiring-interns-at-cyrino-are-activity-7503377496868982784-Ipfx",
+   "desc": "5 days ago \u00b7 We're Hiring Interns at Cyrino Are you a fresher or early-career ... 0\u20131 Years Work Mode: Work from Office Work Days: Monday to Friday F2F ...",
+   "ats": "linkedin-posts"
+  },
+  {
+   "qid": "Q20",
+   "title": "Raunak Yadush's Post - LinkedIn",
+   "url": "https://www.linkedin.com/posts/raunakyadush_amazon-is-hiring-for-entry-level-software-activity-7504899984698388480-WAQF",
+   "desc": "19 hours ago \u00b7 Amazon is hiring for Entry-Level software engineer Experience: 0-1 years ... DM me\u2014always happy to help. Join our Telegram group for new hiring ...",
+   "ats": "linkedin-posts"
+  },
+  {
+   "qid": "Q20",
+   "title": "Yash Patel's Post - LinkedIn",
+   "url": "https://www.linkedin.com/posts/yash-patel-17b654301_hiring-ai-machinelearning-activity-7504247658472165376-OXOT",
+   "desc": "3 days ago \u00b7 We Are Hiring | AI / ML Professionals | Freshers & Experienced We are looking for ... Role: AI/ML Engineer / Machine Learning Engineer / AI Engineer / Data ...",
+   "ats": "linkedin-posts"
+  },
+  {
+   "qid": "Q20",
+   "title": "Raunak Yadush's Post - LinkedIn",
+   "url": "https://www.linkedin.com/posts/raunakyadush_salesforce-is-hiring-for-software-engineer-activity-7504545357939474432-uS3Z",
+   "desc": "2 days ago \u00b7 Salesforce is hiring for Software Engineer Intern Experience: 0-1 years ... DM me\u2014always happy to help. Join our Telegram group for new hiring ...",
+   "ats": "linkedin-posts"
+  },
+  {
+   "qid": "Q21",
+   "title": "I'm hiring an AI Engineer. This is a ridiculously fun role - LinkedIn",
+   "url": "https://www.linkedin.com/posts/mobattah_im-hiring-an-ai-engineer-this-is-a-ridiculously-activity-7503518871262248960-g-S9",
+   "desc": "5 days ago \u00b7 I'm hiring an AI Engineer. This is a ridiculously fun role: you get to help ... apply through the LinkedIn job posting. You can DM me your resume too ...",
+   "ats": "linkedin-posts"
+  },
+  {
+   "qid": "Q21",
+   "title": "Code Ninety's Post - LinkedIn",
+   "url": "https://www.linkedin.com/posts/code-ninety_hiring-llmengineer-artificialintelligence-activity-7504433625246076929-ZY0U",
+   "desc": "2 days ago \u00b7 ... reach out via DM if your profile is a good fit. #Hiring #LLMEngineer #ArtificialIntelligence #GenerativeAI #LLM #RAG #MachineLearning #AIJobs #RemoteJobs ...",
+   "ats": "linkedin-posts"
+  },
+  {
+   "qid": "Q21",
+   "title": "Avinash Y.'s Post - LinkedIn",
+   "url": "https://www.linkedin.com/posts/realnash_etharaai-hiringupdate-llm-activity-7503130829443907584-vCQH",
+   "desc": "6 days ago \u00b7 Hiring Update \u2014 LLM Post Training Expert L1 Thank you to everyone who ... You can apply again if it is reopened for a new round of hiring.\u201d My email is ...",
+   "ats": "linkedin-posts"
+  },
+  {
+   "qid": "Q21",
+   "title": "Elizabeth Olivares' Post - LinkedIn",
+   "url": "https://www.linkedin.com/posts/elizabeth-olivares-205118238_hiring-aiengineer-fullstackengineer-activity-7504223575818559488-bmtQ",
+   "desc": "3 days ago \u00b7 WE'RE HIRING: Full-Stack AI Engineer Looking for a Full-Stack AI Engineer ... Samara Santos. Senior AI Engineer | Python | Machine Learning | Generative AI ...",
+   "ats": "linkedin-posts"
+  },
+  {
+   "qid": "Q21",
+   "title": "Taimoor Hashim's Post - LinkedIn",
+   "url": "https://www.linkedin.com/posts/taimoor-hashim-23757a1b8_hiring-senioraiengineer-aiengineer-activity-7503684607125454849-Go64",
+   "desc": "4 days ago \u00b7 ... LLM & Generative AI solutions? DevBazar is hiring on behalf of its client ... AI Engineer who should apply! Share this opportunity with your network ...",
+   "ats": "linkedin-posts"
+  },
+  {
+   "qid": "Q21",
+   "title": "AI Engineer's Post - LinkedIn",
+   "url": "https://www.linkedin.com/posts/aidotengineer_were-hiring-join-our-small-team-with-a-activity-7503489906069929984-Ua3j",
+   "desc": "5 days ago \u00b7 We're hiring. Join our small team with a big mission: to empower and unite ... apply via the Jobs tab on the AI Engineer LinkedIn page: https://lnkd.in ...",
+   "ats": "linkedin-posts"
+  },
+  {
+   "qid": "Q21",
+   "title": "Bri Cougle's Post - LinkedIn",
+   "url": "https://www.linkedin.com/posts/bri-cougle-652a46a6_hiring-agenticai-appliedai-activity-7503503007142162433-hS0X",
+   "desc": "5 days ago \u00b7 ... LLM-orchestrated recommendation ecosystems that can understand how a ... Apply directly or reach out to Steph with questions, and please share with ...",
+   "ats": "linkedin-posts"
+  },
+  {
+   "qid": "Q21",
+   "title": "Harsh Agarwal's Post - LinkedIn",
+   "url": "https://www.linkedin.com/posts/-harshagarwal_were-hiring-an-%F0%9D%90%80%F0%9D%90%A0%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD%F0%9D%90%A2%F0%9D%90%9C-%F0%9D%90%80%F0%9D%90%88-%F0%9D%90%84%F0%9D%90%A7%F0%9D%90%A0%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%9E%F0%9D%90%AB-activity-7503353589650620416-tk8U",
+   "desc": "5 days ago \u00b7 ... reach out at hiring@trenchers.ai Let's build the future ... AI Engineer | Generative AI | LLMs | Python Developer. 2d. Report this comment",
+   "ats": "linkedin-posts"
+  },
+  {
+   "qid": "Q21",
+   "title": "Rizviz International Impex's Post - LinkedIn",
+   "url": "https://www.linkedin.com/posts/rizviz-international-impex_we-are-hiring-aiml-engineer-apply-now-activity-7504173904802914304-uWbd",
+   "desc": "3 days ago \u00b7 We Are Hiring! AI/ML Engineer Apply Now WhatsApp: 0308-6144313 Email: careers@rizviz.com.pk | 26 comments on LinkedIn.",
+   "ats": "linkedin-posts"
+  },
+  {
+   "qid": "Q22",
+   "title": "Ojas Varshney's Post - LinkedIn",
+   "url": "https://www.linkedin.com/posts/varshneyojas_optum-optumindia-aiml-activity-7503375384495910913-Qjxx",
+   "desc": "5 days ago \u00b7 Optum India is hiring for an AI/ML Engineer in Bengaluru! If you're looking to build your career in Artificial Intelligence & Machine Learning, this ...",
+   "ats": "linkedin-posts"
+  },
+  {
+   "qid": "Q22",
+   "title": "Shruti Mishra's Post - LinkedIn",
+   "url": "https://www.linkedin.com/posts/shruti-mishra-0826871b1_hiring-ai-machinelearning-activity-7503828310519427072-GB2N",
+   "desc": "4 days ago \u00b7 Close menu. We're Hiring: Backend + AI Engineer We're looking for a Backend + AI Engineer to join our team in Bangalore (Hybrid). ... India | 17+ Years of ...",
+   "ats": "linkedin-posts"
+  },
+  {
+   "qid": "Q22",
+   "title": "Prem shankar - AI/ML Engineer at UnitedHealth Group - LinkedIn",
+   "url": "https://www.linkedin.com/posts/shankar-prem40_aiml-engineer-at-unitedhealth-group-activity-7505104461741330432-QQX7",
+   "desc": "5 hours ago \u00b7 Close menu. Optum India Hiring for AI/ML Engineer Location: Bangalore, Karnataka, India Job Requirements: 1. ... Email, ABM & 360 marketing | #9 for ...",
+   "ats": "linkedin-posts"
+  },
+  {
+   "qid": "Q22",
+   "title": "Mahidhar A's Post - ML Engineer - LinkedIn",
+   "url": "https://www.linkedin.com/posts/mahidhar07_ml-engineer-wyra-ai-labs-bangalore-full-time-activity-7504196337312215040-4GLD",
+   "desc": "3 days ago \u00b7 ML Engineer | Wyra AI Labs Bangalore \u00b7 Full-time Email hello@wyralabs.ai with something that shows how you think. ... looking for 2+ years shipping classical ...",
+   "ats": "linkedin-posts"
+  },
+  {
+   "qid": "Q22",
+   "title": "Vartika Sah's Post - LinkedIn",
+   "url": "https://www.linkedin.com/posts/vartika-sah_hiring-hiring-aiengineer-activity-7502693065925615616-vic5",
+   "desc": "7 days ago \u00b7 Hiring: AI Engineer | Bangalore | On-site | Up to \u20b92 Cr What if you could ... looking for: 8+ years of experience in AI/ML LLMs & Agentic AI ...",
+   "ats": "linkedin-posts"
+  },
+  {
+   "qid": "Q22",
+   "title": "NxtHiring.in's Post - LinkedIn",
+   "url": "https://www.linkedin.com/posts/nxthiring_ge-healthcare-is-currently-hiring-company-activity-7504448746659831810-u3AX",
+   "desc": "2 days ago \u00b7 GE HealthCare is currently hiring! Company: GE HealthCare Position: AI Engineer ... Email List: https://lnkd.in/gm_AGcEH Follow NxtHiring.in for more such ...",
+   "ats": "linkedin-posts"
+  },
+  {
+   "qid": "Q22",
+   "title": "Adhiran infotech's Post - LinkedIn",
+   "url": "https://www.linkedin.com/posts/adhiraninfotech_hiring-ahdiraninfotech-opentowork-activity-7502969704173588480-i6wn",
+   "desc": "6 days ago \u00b7 Hiring Role: Data Scientist (Machine Learning | Audience Modelling) ... ML Engineer with production experience Python: pandas, NumPy, scikit-learn ...",
+   "ats": "linkedin-posts"
+  },
+  {
+   "qid": "Q22",
+   "title": "Priya Bade's Post - LinkedIn",
+   "url": "https://www.linkedin.com/posts/priya-bade-57330352_hiring-machinelearning-operationsresearch-activity-7502989202469531649-eLcr",
+   "desc": "6 days ago \u00b7 We're hiring: Staff Machine Learning Engineer | Intuit - Bangalore I ... Please DM me or share your resume on priya_bade@intuit.com #Hiring ...",
+   "ats": "linkedin-posts"
+  },
+  {
+   "qid": "Q22",
+   "title": "Nikhitha kalashetty's Post - LinkedIn",
+   "url": "https://www.linkedin.com/posts/nikhitha-kalashetty-627528380_hiring-aiengineer-artificialintelligence-activity-7503409489186811904-fEKH",
+   "desc": "5 days ago \u00b7 We're Hiring \u2013 AI Engineer Locations: Bangalore | Pune | Hyderabad ... Interested? DM me your resume or share it at nikhitha.kalashetty@accionlabs.com # ...",
+   "ats": "linkedin-posts"
+  },
+  {
+   "qid": "Q24",
+   "title": "AI Engineer (Remote) - WorkNomads - Workable Jobs",
+   "url": "https://apply.workable.com/worknomads/j/4DEF173907",
+   "desc": "5 days ago \u00b7 AI Engineer (remote). On-siteFull time. Sofia, Sofia City Province, Bulgaria ... Remote engineering services, global impact \u2014 expert engineering, design ...",
+   "ats": "workable"
+  },
+  {
+   "qid": "Q24",
+   "title": "Principal AI Engineer - Velsera - Workable Jobs",
+   "url": "https://apply.workable.com/velsera/j/77D2A14B47/",
+   "desc": "6 days ago \u00b7 Principal AI Engineer \u2014 Velsera AI Platform & Enablement \u00b7 Reports to the ... Principal AI Engineer. RemoteTechnologyFull time. United States. Overview ...",
+   "ats": "workable"
+  },
+  {
+   "qid": "Q24",
+   "title": "Applied AI Engineer (JavaScript, Intermediate to Senior, Remote in ...",
+   "url": "https://apply.workable.com/radicalio/j/599E79DC83",
+   "desc": "5 days ago \u00b7 Applied AI Engineer (JavaScript, Intermediate to Senior, Remote in Canada). RemoteSimpliCityFull time. Vancouver, British Columbia, Canada. OverviewApplication.",
+   "ats": "workable"
+  },
+  {
+   "qid": "Q24",
+   "title": "Data Science ML/Gen AI Engineer (Mid-Level)- Orbit - Irth Solutions",
+   "url": "https://apply.workable.com/irth-solutions/j/25D49F706B/",
+   "desc": "## Description\nML/GenAI Engineer \u2013 Insights (AI/ML)\n\n**Location:** Remote \u2013 India\n\nWe are looking for a hands-on **ML/GenAI Engineer** who can contribute across the data and ML lifecycle\u2014from establishing reliable, governed data foundations to rapidly prototyping and productionizing machine learning and GenAI solutions.",
+   "ats": "workable"
+  },
+  {
+   "qid": "Q24",
+   "title": "Credit Data Scientist (Credit Analytics) - Bengaluru - GoTymeX",
+   "url": "https://apply.workable.com/gotymex/j/BC4914AA27/",
+   "desc": "4 days ago \u00b7 Credit Data Scientist (Credit Analytics) - Bengaluru. HybridDataFull time. Bengaluru, Karnataka, India ... machine learning approaches, with a focus on ...",
+   "ats": "workable"
+  },
+  {
+   "qid": "Q24",
+   "title": "Senior Data Scientist | Remote Working Available - _nology",
+   "url": "https://apply.workable.com/nology/j/0D1AF68AF3",
+   "desc": "4 days ago \u00b7 Senior Data Scientist | Drive Innovation Through Data | Remote Working Available. Level: Mid-Level Experience: Minimum 2 years' experience in a Data ...",
+   "ats": "workable"
+  },
+  {
+   "qid": "Q24",
+   "title": "AI Engineer - Weekday AI - Workable Jobs",
+   "url": "https://apply.workable.com/weekday-1/j/D627346969/",
+   "desc": "## Description\nLocation: Bengaluru, Karnataka, India\n\nWe are looking for a highly capable and curious\u00a0**AI / Machine Learning Engineer**\u00a0to work on advanced AI systems designed to improve the capabilities, reliability, and performance of next-generation models.",
+   "ats": "workable"
+  },
+  {
+   "qid": "Q24",
+   "title": "Agentic AI Engineer - Weekday AI - Workable Jobs",
+   "url": "https://apply.workable.com/weekday-1/j/F492172802",
+   "desc": "3 days ago \u00b7 Location: Remote (India) JobType: full-time. We're looking for a Senior Agentic AI/Generative AI Engineer to help architect our next-generation AI-driven ...",
+   "ats": "workable"
+  },
+  {
+   "qid": "Q24",
+   "title": "Senior AI Engineer - AI Systems - Mindera - Workable Jobs",
+   "url": "https://apply.workable.com/minderacraft/j/AD641D3B47",
+   "desc": "5 days ago \u00b7 Remote culture: We have an office in Casablanca, but Minders work ... Bengaluru, India | Cluj-Napoca, Romania | Blumenau, Brazil. Apply for this ...",
+   "ats": "workable"
+  },
+  {
+   "qid": "Q24",
+   "title": "AI Engineer - On-site Copenhagen - Heyra - Workable Jobs",
+   "url": "https://apply.workable.com/heyra-io/j/88F493A13D/",
+   "desc": "3 days ago \u00b7 AI Engineer - On-site Copenhagen. On-siteFull time. Copenhagen, Capital Region ... Remote work allowed; Pet friendly. Apply for this job. This website uses ...",
+   "ats": "workable"
+  },
+  {
+   "qid": "Q25",
+   "title": "Senior Platform Architect - Wizdaa",
+   "url": "https://pridelogic.recruitee.com/o/senior-platform-architect",
+   "desc": "3 days ago \u00b7 Build and operate LLM and agentic systems in production, integrating model providers, APIs, gateways, tools, and external services while managing rate limits, ...",
+   "ats": "recruitee"
+  }
+ ]
+}

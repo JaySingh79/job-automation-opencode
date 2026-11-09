@@ -1,0 +1,54 @@
+{
+  "worker": 1,
+  "batch": 1,
+  "sprint": 6,
+  "sweep": "additional_200_sprint6",
+  "target_applied": 3,
+  "applied_count": 2,
+  "parked_count": 4,
+  "already_applied_count": 0,
+  "all_results": [
+    {
+      "id": 1675524,
+      "title": "Software Development Engineer - Golang Technologies",
+      "company": "SRP Advisors",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "id": 1675324,
+      "title": "MishiPay - Senior Python Developer",
+      "company": "MishiPay",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "id": 1675148,
+      "title": "Associate .Net Developer - C#/ASP/WebAPI",
+      "company": "ElementSkill",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "id": 1674392,
+      "title": "cplace Technical Developer - Java",
+      "company": "VERSENT SYSTEMS PRIVATE LIMITED",
+      "status": "parked_assessment",
+      "message": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "id": 1674452,
+      "title": "Software Developer - C#/BizTalk",
+      "company": "NS Global Corporation",
+      "status": "applied",
+      "applicationId": 79305439
+    },
+    {
+      "id": 1673801,
+      "title": "Syniverse - Software Development Engineer II - Backend Technologies",
+      "company": "Syniverse Technologies",
+      "status": "applied",
+      "applicationId": 79305443
+    }
+  ]
+}

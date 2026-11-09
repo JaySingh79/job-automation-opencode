@@ -1,0 +1,217 @@
+{
+  "batch": "phenom_radancy",
+  "batch_file": "src/job_search_results/naukri/direct_company_platforms/batch_phenom_radancy.json",
+  "processed_at": "2026-10-29T13:58:00+05:30",
+  "total_jobs": 22,
+  "summary": {
+    "ready_for_human_submission": 2,
+    "skipped_senior_or_lead": 6,
+    "skipped_expired_or_404": 6,
+    "skipped_server_down_ssl": 3,
+    "skipped_domain_mismatch_finance": 1,
+    "skipped_pure_java_non_python": 2,
+    "blocked_by_auth_workday_login": 2
+  },
+  "results": [
+    {
+      "index": 1,
+      "job_id": "160926501939",
+      "company": "Crisil",
+      "title": "Associate Engineer-Gen AI",
+      "url": "https://career.crisil.com/crisil/jobview/associate-engineer-gen-ai-pune-maharashtra-india-2026083113512451",
+      "status": "SKIPPED",
+      "reason": "Crisil career portal server down / SSL certificate error (net::ERR_HTTP2_PROTOCOL_ERROR, timeout on port 443)"
+    },
+    {
+      "index": 2,
+      "job_id": "260526503767",
+      "company": "Barclays",
+      "title": "Software Engineer",
+      "url": "https://search.jobs.barclays/job/pune/software-engineer/13015/95536470528",
+      "status": "SKIPPED",
+      "reason": "Assistant Vice President (AVP) expectations, requires Core Java/J2EE large-scale architecture, >2 YoE, no Python"
+    },
+    {
+      "index": 3,
+      "job_id": "050826503403",
+      "company": "Barclays",
+      "title": "Data Engineer ETL",
+      "url": "https://search.jobs.barclays/job/chennai/data-engineer-etl/13015/98706401312",
+      "status": "SKIPPED",
+      "reason": "Assistant Vice President (AVP) role, exceeds fresher 0-2 YoE threshold"
+    },
+    {
+      "index": 4,
+      "job_id": "060826500169",
+      "company": "Barclays",
+      "title": "Software Engineer",
+      "url": "https://search.jobs.barclays/job/pune/software-engineer/13015/98800934752",
+      "status": "SKIPPED",
+      "reason": "Assistant Vice President (AVP) role, pure Java/Change Management, exceeds 0-2 YoE"
+    },
+    {
+      "index": 5,
+      "job_id": "160326502886",
+      "company": "Barclays",
+      "title": "Software Engineer",
+      "url": "https://search.jobs.barclays/job/pune/software-engineer/13015/92717889344",
+      "status": "SKIPPED",
+      "reason": "HTTP 404 - Job requisition closed and removed"
+    },
+    {
+      "index": 6,
+      "job_id": "211026501701",
+      "company": "Barclays",
+      "title": "Customer Journey Labs Software Engineer - BA4",
+      "url": "https://search.jobs.barclays/job/bengaluru/customer-journey-labs-software-engineer-ba4/13015/102153033616",
+      "status": "SKIPPED",
+      "reason": "Requires pure Java/Distribution architecture without Python"
+    },
+    {
+      "index": 7,
+      "job_id": "271026501232",
+      "company": "Barclays",
+      "title": "Software Engineer",
+      "url": "https://search.jobs.barclays/job/pune/software-engineer/13015/102470599392",
+      "status": "SKIPPED",
+      "reason": "Assistant Vice President (AVP) role, exceeds fresher 0-2 YoE"
+    },
+    {
+      "index": 8,
+      "job_id": "271026501227",
+      "company": "Barclays",
+      "title": "DevOps Engineer",
+      "url": "https://search.jobs.barclays/job/pune/devops-engineer/13015/102457953168",
+      "status": "SKIPPED",
+      "reason": "HTTP 404 - Job requisition closed and removed"
+    },
+    {
+      "index": 9,
+      "job_id": "271026501222",
+      "company": "Barclays",
+      "title": "Devops Engineer",
+      "url": "https://search.jobs.barclays/job/pune/devops-engineer/13015/102470599664",
+      "status": "BLOCKED_BY_AUTH",
+      "reason": "Analyst role matching tech stack; gated behind Barclays Workday candidate login credentials"
+    },
+    {
+      "index": 10,
+      "job_id": "050626504089",
+      "company": "Synopsys",
+      "title": "Intern",
+      "url": "https://careers.synopsys.com/job/bengaluru/intern/44408/95298114432",
+      "status": "SKIPPED",
+      "reason": "Requisition expired - automatically redirected to Synopsys careers homepage"
+    },
+    {
+      "index": 11,
+      "job_id": "100626500144",
+      "company": "Synopsys",
+      "title": "Intern",
+      "url": "https://careers.synopsys.com/job/bengaluru/intern/44408/95298114432",
+      "status": "SKIPPED",
+      "reason": "Duplicate posting, requisition expired - redirected to homepage"
+    },
+    {
+      "index": 12,
+      "job_id": "180826501471",
+      "company": "Crisil",
+      "title": "Investor Reporting Analyst",
+      "url": "https://career.crisil.com/crisil/jobview/investor-reporting-analyst-mumbai-maharashtra-india-2026081710354953",
+      "status": "SKIPPED",
+      "reason": "Crisil server down / SSL error; also non-tech finance accounting role"
+    },
+    {
+      "index": 13,
+      "job_id": "100626500143",
+      "company": "Synopsys",
+      "title": "Intern",
+      "url": "https://careers.synopsys.com/job/bengaluru/intern/44408/95298114432",
+      "status": "SKIPPED",
+      "reason": "Duplicate posting, requisition expired - redirected to homepage"
+    },
+    {
+      "index": 14,
+      "job_id": "110926501820",
+      "company": "Goldman Sachs",
+      "title": "AWM Management-F&S-Analyst",
+      "url": "https://higher.gs.com/roles/184192",
+      "status": "SKIPPED",
+      "reason": "Domain mismatch: Divisional CFO Asset & Wealth Management Accounting analyst, not SDE/AI/ML"
+    },
+    {
+      "index": 15,
+      "job_id": "040926503730",
+      "company": "Harman International",
+      "title": "Software Engineer - Can UDS",
+      "url": "https://jobsearch.harman.com/en_US/careers/JobDetail/Software-Engineer-CAN-UDS/32726",
+      "status": "READY_FOR_HUMAN_SUBMISSION",
+      "reason": "Associate Engineer - Ethernet (T2). Resume uploaded, candidate profile parsed, staged on Avature application",
+      "snapshot": "src/accessability_snapshot/Harman/harman_review_staged.png"
+    },
+    {
+      "index": 16,
+      "job_id": "150426501582",
+      "company": "Ralph Lauren",
+      "title": "Data Engineer",
+      "url": "https://careers.ralphlauren.com/CareersCorporate/JobDetail/Business-Analytics-Analyst/51004",
+      "status": "SKIPPED",
+      "reason": "Job posting is expired ('This job is no longer available')"
+    },
+    {
+      "index": 17,
+      "job_id": "210126501240",
+      "company": "Crisil",
+      "title": "Generative AI Intern",
+      "url": "https://career.crisil.com/crisil/jobview/generative-ai-intern-pune-maharashtra-india-2026012011451279",
+      "status": "SKIPPED",
+      "reason": "Crisil career portal server down / SSL certificate error (net::ERR_HTTP2_PROTOCOL_ERROR, timeout on port 443)"
+    },
+    {
+      "index": 18,
+      "job_id": "061026501908",
+      "company": "Infor",
+      "title": "Software Engineer, Associate",
+      "url": "https://careers.infor.com/en/postings/0029cdab-7f9d-4a7c-b33a-c32a2fe77160",
+      "status": "READY_FOR_HUMAN_SUBMISSION",
+      "reason": "Form 100% filled, verified, and staged. Resume attached, 5 screening questions answered, consent confirmed. reCAPTCHA active on page.",
+      "snapshot": "src/accessability_snapshot/Infor/infor_staged_form.png"
+    },
+    {
+      "index": 19,
+      "job_id": "040926501623",
+      "company": "Barclays",
+      "title": "DevOps Engineer",
+      "url": "https://search.jobs.barclays/job/pune/devops-engineer/13015/100080978368",
+      "status": "BLOCKED_BY_AUTH",
+      "reason": "Analyst role matching tech stack; gated behind Barclays Workday candidate login credentials"
+    },
+    {
+      "index": 20,
+      "job_id": "170325501614",
+      "company": "Insight Direct India",
+      "title": "Software Licensing Consultant Sr",
+      "url": "https://careers.insight.com/careers?location=India&pid=171825771141&domain=insight.com&sort_by=relevance",
+      "status": "SKIPPED",
+      "reason": "Title contains 'Sr' - excluded per senior/lead filter rule"
+    },
+    {
+      "index": 21,
+      "job_id": "210726503741",
+      "company": "Advanced Micro Devices (AMD)",
+      "title": "Lead AI/ML Validation Engineer",
+      "url": "https://careers.amd.com/jobs/87968?lang=en-us",
+      "status": "SKIPPED",
+      "reason": "Title contains 'Lead' - excluded per senior/lead filter rule"
+    },
+    {
+      "index": 22,
+      "job_id": "300926502543",
+      "company": "Moody's Analytics",
+      "title": "Senior Financial Data Analyst",
+      "url": "https://careers.moodys.com/en/job/bengaluru/senior-financial-data-analyst/49841/101297872192",
+      "status": "SKIPPED",
+      "reason": "Title contains 'Senior' - excluded per senior/lead filter rule"
+    }
+  ]
+}

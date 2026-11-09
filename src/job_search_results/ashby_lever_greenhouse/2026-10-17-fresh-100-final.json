@@ -1,0 +1,1389 @@
+{
+ "date": "2026-10-17",
+ "count": 100,
+ "jobs": [
+  {
+   "platform": "greenhouse",
+   "org": "cloudsek",
+   "title": "SDE Intern - Backend   ",
+   "location": "Bengaluru, Karnataka, India",
+   "commitment": null,
+   "url": "https://job-boards.greenhouse.io/cloudsek/jobs/6222340004",
+   "id": 6222340004,
+   "updated": "2026-10-13T03:35:45-04:00",
+   "geo_tag": "india",
+   "key": "greenhouse:cloudsek:6222340004",
+   "flags": []
+  },
+  {
+   "platform": "greenhouse",
+   "org": "coherehealth",
+   "title": "Associate SDET Engineer",
+   "location": "Hyderabad, Telangana, India",
+   "commitment": null,
+   "url": "https://job-boards.greenhouse.io/coherehealth/jobs/7693298003",
+   "id": 7693298003,
+   "updated": "2026-10-14T12:47:09-04:00",
+   "geo_tag": "india",
+   "key": "greenhouse:coherehealth:7693298003",
+   "flags": []
+  },
+  {
+   "platform": "ashby",
+   "org": "interview-kickstart",
+   "title": "Intern - Software Development Engineer ( Backend )",
+   "location": "Remote - India",
+   "commitment": null,
+   "url": "https://jobs.ashbyhq.com/interview-kickstart/bf2a4802-4180-440b-b5bf-5f8058e69846",
+   "id": "bf2a4802-4180-440b-b5bf-5f8058e69846",
+   "geo_tag": "india",
+   "key": "ashby:interview-kickstart:bf2a4802-4180-440b-b5bf-5f8058e69846",
+   "flags": []
+  },
+  {
+   "platform": "ashby",
+   "org": "meraki-labs",
+   "title": "Research Associate - SparX",
+   "location": "Bangalore, India",
+   "commitment": null,
+   "url": "https://jobs.ashbyhq.com/meraki-labs/38e05386-b0ac-4c63-9780-5ec391a116be",
+   "id": "38e05386-b0ac-4c63-9780-5ec391a116be",
+   "geo_tag": "india",
+   "key": "ashby:meraki-labs:38e05386-b0ac-4c63-9780-5ec391a116be",
+   "flags": []
+  },
+  {
+   "platform": "lever",
+   "org": "drivetrain",
+   "title": "Engineering Intern – Gen AI for FP&A Platform",
+   "location": "India",
+   "commitment": "Internship",
+   "url": "https://jobs.lever.co/drivetrain/bc1c17bc-86ac-4f00-a1e3-0eb85aae4fdc",
+   "geo_tag": "india",
+   "key": "lever:drivetrain:bc1c17bc-86ac-4f00-a1e3-0eb85aae4fdc",
+   "flags": []
+  },
+  {
+   "platform": "lever",
+   "org": "hevodata",
+   "title": "Associate Software Development Engineer (SDE)",
+   "location": "Bangalore, India",
+   "commitment": "Full time",
+   "url": "https://jobs.lever.co/hevodata/993a3ed3-3014-432f-b0f4-28d300d58d9a",
+   "geo_tag": "india",
+   "key": "lever:hevodata:993a3ed3-3014-432f-b0f4-28d300d58d9a",
+   "flags": []
+  },
+  {
+   "platform": "lever",
+   "org": "jobgether",
+   "title": "Associate Systems Engineer",
+   "location": "India",
+   "commitment": "Full-time",
+   "url": "https://jobs.lever.co/jobgether/ce9486f9-533a-475f-8240-5aef4c45b814",
+   "geo_tag": "india",
+   "key": "lever:jobgether:ce9486f9-533a-475f-8240-5aef4c45b814",
+   "flags": []
+  },
+  {
+   "platform": "lever",
+   "org": "weloglobal",
+   "title": "Associate Technical Publication Engineer",
+   "location": "Gurgaon, India",
+   "commitment": "Full Time",
+   "url": "https://jobs.lever.co/weloglobal/7903f79a-fe0f-46e3-ac8b-83b607574453",
+   "geo_tag": "india",
+   "key": "lever:weloglobal:7903f79a-fe0f-46e3-ac8b-83b607574453",
+   "flags": []
+  },
+  {
+   "platform": "greenhouse",
+   "org": "anaplan",
+   "title": "Engineer I",
+   "location": "Gurugram, India",
+   "commitment": null,
+   "url": "https://job-boards.greenhouse.io/anaplan/jobs/8571200002",
+   "id": 8571200002,
+   "updated": "2026-10-14T07:20:46-04:00",
+   "geo_tag": "india",
+   "key": "greenhouse:anaplan:8571200002",
+   "flags": []
+  },
+  {
+   "platform": "ashby",
+   "org": "handshake",
+   "title": "Forward Deployed Engineer I",
+   "location": "India",
+   "commitment": null,
+   "url": "https://jobs.ashbyhq.com/handshake/f632f0c3-0b9c-49a7-984b-de92e18e6d0b",
+   "id": "f632f0c3-0b9c-49a7-984b-de92e18e6d0b",
+   "geo_tag": "india",
+   "key": "ashby:handshake:f632f0c3-0b9c-49a7-984b-de92e18e6d0b",
+   "flags": []
+  },
+  {
+   "platform": "ashby",
+   "org": "handshake",
+   "title": "Forward Deployed Engineer I",
+   "location": "India",
+   "commitment": null,
+   "url": "https://jobs.ashbyhq.com/handshake/607e1d72-e7e8-4476-938f-b74dbe7ac9ef",
+   "id": "607e1d72-e7e8-4476-938f-b74dbe7ac9ef",
+   "geo_tag": "india",
+   "key": "ashby:handshake:607e1d72-e7e8-4476-938f-b74dbe7ac9ef",
+   "flags": []
+  },
+  {
+   "platform": "ashby",
+   "org": "interview-kickstart",
+   "title": "Software Engineer 1 (Backend)",
+   "location": "India",
+   "commitment": null,
+   "url": "https://jobs.ashbyhq.com/interview-kickstart/178e3e0d-1a58-4715-87f5-8ddb14a87f88",
+   "id": "178e3e0d-1a58-4715-87f5-8ddb14a87f88",
+   "geo_tag": "india",
+   "key": "ashby:interview-kickstart:178e3e0d-1a58-4715-87f5-8ddb14a87f88",
+   "flags": []
+  },
+  {
+   "platform": "lever",
+   "org": "hevodata",
+   "title": "SDE I",
+   "location": "Bangalore, India",
+   "commitment": "Full time",
+   "url": "https://jobs.lever.co/hevodata/6cbbe304-e065-4711-bf3e-756795d2bc2a",
+   "geo_tag": "india",
+   "key": "lever:hevodata:6cbbe304-e065-4711-bf3e-756795d2bc2a",
+   "flags": []
+  },
+  {
+   "platform": "lever",
+   "org": "jobgether",
+   "title": "Software Development Engineer 1",
+   "location": "India",
+   "commitment": "Full-time",
+   "url": "https://jobs.lever.co/jobgether/248e4baf-c4c8-4094-a0ac-8c358689a645",
+   "geo_tag": "india",
+   "key": "lever:jobgether:248e4baf-c4c8-4094-a0ac-8c358689a645",
+   "flags": []
+  },
+  {
+   "platform": "lever",
+   "org": "jobgether",
+   "title": "Software Development Engineer I",
+   "location": "India",
+   "commitment": "Full-time",
+   "url": "https://jobs.lever.co/jobgether/9a29fed2-9055-43c1-9e76-746de3d31de1",
+   "geo_tag": "india",
+   "key": "lever:jobgether:9a29fed2-9055-43c1-9e76-746de3d31de1",
+   "flags": []
+  },
+  {
+   "platform": "lever",
+   "org": "netomi",
+   "title": "Data Engineer I",
+   "location": "Remote - India",
+   "commitment": "Full Time - Remote",
+   "url": "https://jobs.lever.co/netomi/02b45afd-5a49-41b2-a244-b0ca76306692",
+   "geo_tag": "india",
+   "key": "lever:netomi:02b45afd-5a49-41b2-a244-b0ca76306692",
+   "flags": []
+  },
+  {
+   "platform": "greenhouse",
+   "org": "bswiftindia",
+   "title": "Software Engineer  ",
+   "location": "Bangalore, India",
+   "commitment": null,
+   "url": "https://job-boards.greenhouse.io/bswiftindia/jobs/4699956006",
+   "id": 4699956006,
+   "updated": "2026-10-12T06:53:42-04:00",
+   "geo_tag": "india",
+   "key": "greenhouse:bswiftindia:4699956006",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "greenhouse",
+   "org": "coinbase",
+   "title": "Software Engineer, Security Platform",
+   "location": "Remote - India",
+   "commitment": null,
+   "url": "https://www.coinbase.com/careers/positions/8165441?gh_jid=8165441",
+   "id": 8165441,
+   "updated": "2026-10-13T19:45:08-04:00",
+   "geo_tag": "india",
+   "key": "greenhouse:coinbase:8165441",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "greenhouse",
+   "org": "databricks",
+   "title": "Forward Deployed Engineer",
+   "location": "Remote - India",
+   "commitment": null,
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8771566002",
+   "id": 8771566002,
+   "updated": "2026-10-16T01:53:14-04:00",
+   "geo_tag": "india",
+   "key": "greenhouse:databricks:8771566002",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "greenhouse",
+   "org": "databricks",
+   "title": "Software Engineer, Infrastructure",
+   "location": "Bengaluru, India",
+   "commitment": null,
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8829029002",
+   "id": 8829029002,
+   "updated": "2026-10-14T06:08:23-04:00",
+   "geo_tag": "india",
+   "key": "greenhouse:databricks:8829029002",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "greenhouse",
+   "org": "doordashindia",
+   "title": "Software Engineer, Data Engineering",
+   "location": "Hyderabad, India",
+   "commitment": null,
+   "url": "https://job-boards.greenhouse.io/doordashindia/jobs/8200625",
+   "id": 8200625,
+   "updated": "2026-10-13T19:23:45-04:00",
+   "geo_tag": "india",
+   "key": "greenhouse:doordashindia:8200625",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "greenhouse",
+   "org": "gitlab",
+   "title": "Intermediate Backend Engineer - Code Security",
+   "location": "Bangalore, India",
+   "commitment": null,
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8894531002",
+   "id": 8894531002,
+   "updated": "2026-10-16T10:54:01-04:00",
+   "geo_tag": "india",
+   "key": "greenhouse:gitlab:8894531002",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "greenhouse",
+   "org": "gitlab",
+   "title": "Intermediate Backend Engineer, India",
+   "location": "Bangalore, India",
+   "commitment": null,
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8775507002",
+   "id": 8775507002,
+   "updated": "2026-10-15T15:24:46-04:00",
+   "geo_tag": "india",
+   "key": "greenhouse:gitlab:8775507002",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "greenhouse",
+   "org": "gitlab",
+   "title": "Site Reliability Engineer, Cells Infrastructure",
+   "location": "Bangalore, India",
+   "commitment": null,
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8867756002",
+   "id": 8867756002,
+   "updated": "2026-10-15T15:24:46-04:00",
+   "geo_tag": "india",
+   "key": "greenhouse:gitlab:8867756002",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "greenhouse",
+   "org": "godaddy",
+   "title": "Network Security Automation Engineer",
+   "location": "India",
+   "commitment": null,
+   "url": "https://careers.godaddy/jobs?gh_jid=7728661003",
+   "id": 7728661003,
+   "updated": "2026-10-14T12:58:28-04:00",
+   "geo_tag": "india",
+   "key": "greenhouse:godaddy:7728661003",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "greenhouse",
+   "org": "gravitonresearchcapital",
+   "title": "Application Reliability Engineer",
+   "location": "Gurugram, Haryana, India",
+   "commitment": null,
+   "url": "https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8781321002",
+   "id": 8781321002,
+   "updated": "2026-10-15T01:01:00-04:00",
+   "geo_tag": "india",
+   "key": "greenhouse:gravitonresearchcapital:8781321002",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "greenhouse",
+   "org": "gravitonresearchcapital",
+   "title": "Software Engineer- Python",
+   "location": "Gurugram, Haryana, India",
+   "commitment": null,
+   "url": "https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8147013002",
+   "id": 8147013002,
+   "updated": "2026-10-15T01:00:58-04:00",
+   "geo_tag": "india",
+   "key": "greenhouse:gravitonresearchcapital:8147013002",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "greenhouse",
+   "org": "hackerrank",
+   "title": "Forward Deployed Engineer",
+   "location": "Hybrid in Bengaluru, India",
+   "commitment": null,
+   "url": "https://job-boards.greenhouse.io/hackerrank/jobs/7461142",
+   "id": 7461142,
+   "updated": "2026-10-14T10:44:41-04:00",
+   "geo_tag": "india",
+   "key": "greenhouse:hackerrank:7461142",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "greenhouse",
+   "org": "rubrik",
+   "title": "Security Engineer - Identity and Access ",
+   "location": "Bangalore, India",
+   "commitment": null,
+   "url": "https://www.rubrik.com/company/careers/departments/job.8220011?gh_jid=8220011",
+   "id": 8220011,
+   "updated": "2026-10-14T23:23:53-04:00",
+   "geo_tag": "india",
+   "key": "greenhouse:rubrik:8220011",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "greenhouse",
+   "org": "stripe",
+   "title": "Software Engineer, Internal Systems",
+   "location": "Bengaluru, India",
+   "commitment": null,
+   "url": "https://stripe.com/jobs/search?gh_jid=7543868",
+   "id": 7543868,
+   "updated": "2026-10-07T19:02:27-04:00",
+   "geo_tag": "india",
+   "key": "greenhouse:stripe:7543868",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "greenhouse",
+   "org": "anaplan",
+   "title": "Infrastructure Engineer",
+   "location": "Gurugram, India",
+   "commitment": null,
+   "url": "https://job-boards.greenhouse.io/anaplan/jobs/8571210002",
+   "id": 8571210002,
+   "updated": "2026-10-05T16:35:54-04:00",
+   "geo_tag": "india",
+   "key": "greenhouse:anaplan:8571210002",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "greenhouse",
+   "org": "anaplan",
+   "title": "Platform DR & Capacity Engineer ",
+   "location": "Gurugram, India",
+   "commitment": null,
+   "url": "https://job-boards.greenhouse.io/anaplan/jobs/8650329002",
+   "id": 8650329002,
+   "updated": "2026-10-05T16:35:54-04:00",
+   "geo_tag": "india",
+   "key": "greenhouse:anaplan:8650329002",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "greenhouse",
+   "org": "bitgo",
+   "title": "Backend Engineer E3 - Ecosystem",
+   "location": "India",
+   "commitment": null,
+   "url": "https://job-boards.greenhouse.io/bitgo/jobs/7344201002",
+   "id": 7344201002,
+   "updated": "2026-10-15T05:24:54-04:00",
+   "geo_tag": "india",
+   "key": "greenhouse:bitgo:7344201002",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "greenhouse",
+   "org": "bitgo",
+   "title": "Backend Engineer E3 - India",
+   "location": "India",
+   "commitment": null,
+   "url": "https://job-boards.greenhouse.io/bitgo/jobs/8869949002",
+   "id": 8869949002,
+   "updated": "2026-10-09T04:41:13-04:00",
+   "geo_tag": "india",
+   "key": "greenhouse:bitgo:8869949002",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "greenhouse",
+   "org": "bitgo",
+   "title": "Mobile Engineer E2 - (React Native)   ",
+   "location": "India",
+   "commitment": null,
+   "url": "https://job-boards.greenhouse.io/bitgo/jobs/8879340002",
+   "id": 8879340002,
+   "updated": "2026-10-09T04:28:40-04:00",
+   "geo_tag": "india",
+   "key": "greenhouse:bitgo:8879340002",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "greenhouse",
+   "org": "coherehealth",
+   "title": "Data Scientist",
+   "location": "Hyderabad, Telangana, India",
+   "commitment": null,
+   "url": "https://job-boards.greenhouse.io/coherehealth/jobs/7741414003",
+   "id": 7741414003,
+   "updated": "2026-10-14T12:47:10-04:00",
+   "geo_tag": "india",
+   "key": "greenhouse:coherehealth:7741414003",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "greenhouse",
+   "org": "coherehealth",
+   "title": "Software Engineer",
+   "location": "Hyderabad, Telangana, India",
+   "commitment": null,
+   "url": "https://job-boards.greenhouse.io/coherehealth/jobs/7980642003",
+   "id": 7980642003,
+   "updated": "2026-10-14T12:47:09-04:00",
+   "geo_tag": "india",
+   "key": "greenhouse:coherehealth:7980642003",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "greenhouse",
+   "org": "okta",
+   "title": "Site Reliability Engineer",
+   "location": "Bengaluru, India",
+   "commitment": null,
+   "url": "https://www.okta.com/company/careers/opportunity/8243101?gh_jid=8243101",
+   "id": 8243101,
+   "updated": "2026-10-06T03:04:07-04:00",
+   "geo_tag": "india",
+   "key": "greenhouse:okta:8243101",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "greenhouse",
+   "org": "redwoodsoftware",
+   "title": "Software Engineer",
+   "location": "Hyderabad, Telangana, India",
+   "commitment": null,
+   "url": "https://job-boards.greenhouse.io/redwoodsoftware/jobs/4361976009",
+   "id": 4361976009,
+   "updated": "2026-10-07T17:33:11-04:00",
+   "geo_tag": "india",
+   "key": "greenhouse:redwoodsoftware:4361976009",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "greenhouse",
+   "org": "redwoodsoftware",
+   "title": "Software Engineer – AI CoE",
+   "location": "Hyderabad, Telangana, India",
+   "commitment": null,
+   "url": "https://job-boards.greenhouse.io/redwoodsoftware/jobs/4451141009",
+   "id": 4451141009,
+   "updated": "2026-10-15T04:45:27-04:00",
+   "geo_tag": "india",
+   "key": "greenhouse:redwoodsoftware:4451141009",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "lever",
+   "org": "smart-working-solutions",
+   "title": "Mobile Developer - .NET MAUI & C# (Remote, Full-Time) [AS338]",
+   "location": "India",
+   "commitment": "Full-Time | Remote",
+   "url": "https://jobs.lever.co/smart-working-solutions/5ef858da-c3ca-4158-8d93-309bb4e964dc",
+   "updated": "2026-10-06",
+   "geo_tag": "india",
+   "key": "lever:smart-working-solutions:5ef858da-c3ca-4158-8d93-309bb4e964dc",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "ashby",
+   "org": "ande",
+   "title": "Full Stack Engineer, Payments",
+   "location": "India",
+   "commitment": null,
+   "url": "https://jobs.ashbyhq.com/ande/9b4b95ad-7ed1-481f-acc8-02480ec765a2",
+   "id": "9b4b95ad-7ed1-481f-acc8-02480ec765a2",
+   "geo_tag": "india",
+   "key": "ashby:ande:9b4b95ad-7ed1-481f-acc8-02480ec765a2",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "ashby",
+   "org": "bjakcareer",
+   "title": "Android Developer",
+   "location": "India",
+   "commitment": null,
+   "url": "https://jobs.ashbyhq.com/bjakcareer/6f616052-0ca8-4f2e-a5cf-8c73731f2d9b",
+   "id": "6f616052-0ca8-4f2e-a5cf-8c73731f2d9b",
+   "geo_tag": "india",
+   "key": "ashby:bjakcareer:6f616052-0ca8-4f2e-a5cf-8c73731f2d9b",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "ashby",
+   "org": "bjakcareer",
+   "title": "Android Developer - AI Finance Agent",
+   "location": "India",
+   "commitment": null,
+   "url": "https://jobs.ashbyhq.com/bjakcareer/4dce95e8-aceb-4bd8-bf02-1d7f4f212ce6",
+   "id": "4dce95e8-aceb-4bd8-bf02-1d7f4f212ce6",
+   "geo_tag": "india",
+   "key": "ashby:bjakcareer:4dce95e8-aceb-4bd8-bf02-1d7f4f212ce6",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "ashby",
+   "org": "bjakcareer",
+   "title": "Android Software Engineer",
+   "location": "India",
+   "commitment": null,
+   "url": "https://jobs.ashbyhq.com/bjakcareer/763c619d-c688-41e0-bf11-155220e86c03",
+   "id": "763c619d-c688-41e0-bf11-155220e86c03",
+   "geo_tag": "india",
+   "key": "ashby:bjakcareer:763c619d-c688-41e0-bf11-155220e86c03",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "ashby",
+   "org": "bjakcareer",
+   "title": "Android Software Engineer - AI Finance Agent ",
+   "location": "India",
+   "commitment": null,
+   "url": "https://jobs.ashbyhq.com/bjakcareer/8ae8267f-b14a-4762-af95-0a933eea9fcf",
+   "id": "8ae8267f-b14a-4762-af95-0a933eea9fcf",
+   "geo_tag": "india",
+   "key": "ashby:bjakcareer:8ae8267f-b14a-4762-af95-0a933eea9fcf",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "ashby",
+   "org": "bjakcareer",
+   "title": "Android Software Engineer - AI Neobank App",
+   "location": "India",
+   "commitment": null,
+   "url": "https://jobs.ashbyhq.com/bjakcareer/82349fdc-fc80-4da1-a39e-1f70dee09ba5",
+   "id": "82349fdc-fc80-4da1-a39e-1f70dee09ba5",
+   "geo_tag": "india",
+   "key": "ashby:bjakcareer:82349fdc-fc80-4da1-a39e-1f70dee09ba5",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "ashby",
+   "org": "bjakcareer",
+   "title": "Applied AI Engineer - AI Finance Agent",
+   "location": "India",
+   "commitment": null,
+   "url": "https://jobs.ashbyhq.com/bjakcareer/e8406b78-3cb3-436c-8a22-6e1d44cf8816",
+   "id": "e8406b78-3cb3-436c-8a22-6e1d44cf8816",
+   "geo_tag": "india",
+   "key": "ashby:bjakcareer:e8406b78-3cb3-436c-8a22-6e1d44cf8816",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "ashby",
+   "org": "bjakcareer",
+   "title": "Backend Developer",
+   "location": "India",
+   "commitment": null,
+   "url": "https://jobs.ashbyhq.com/bjakcareer/91d1eff2-5941-4842-be80-568701debc16",
+   "id": "91d1eff2-5941-4842-be80-568701debc16",
+   "geo_tag": "india",
+   "key": "ashby:bjakcareer:91d1eff2-5941-4842-be80-568701debc16",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "ashby",
+   "org": "bjakcareer",
+   "title": "Backend Software Engineer - AI Finance Agent",
+   "location": "India",
+   "commitment": null,
+   "url": "https://jobs.ashbyhq.com/bjakcareer/7f6692fb-eed1-4134-9baa-76cb68850037",
+   "id": "7f6692fb-eed1-4134-9baa-76cb68850037",
+   "geo_tag": "india",
+   "key": "ashby:bjakcareer:7f6692fb-eed1-4134-9baa-76cb68850037",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "ashby",
+   "org": "certa",
+   "title": "AI Engineer",
+   "location": "India",
+   "commitment": null,
+   "url": "https://jobs.ashbyhq.com/certa/da4d5879-d94d-4f8c-ada4-24bd955520e3",
+   "id": "da4d5879-d94d-4f8c-ada4-24bd955520e3",
+   "geo_tag": "india",
+   "key": "ashby:certa:da4d5879-d94d-4f8c-ada4-24bd955520e3",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "ashby",
+   "org": "certa",
+   "title": "Forward Deployed Engineer",
+   "location": "India",
+   "commitment": null,
+   "url": "https://jobs.ashbyhq.com/certa/0b101c4d-6e2e-4711-9a70-6302d0c094e1",
+   "id": "0b101c4d-6e2e-4711-9a70-6302d0c094e1",
+   "geo_tag": "india",
+   "key": "ashby:certa:0b101c4d-6e2e-4711-9a70-6302d0c094e1",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "ashby",
+   "org": "certa",
+   "title": "Solution Engineer - Post Implementation",
+   "location": "India",
+   "commitment": null,
+   "url": "https://jobs.ashbyhq.com/certa/f526ed60-d978-46a6-b44a-a0bdb17ce7ea",
+   "id": "f526ed60-d978-46a6-b44a-a0bdb17ce7ea",
+   "geo_tag": "india",
+   "key": "ashby:certa:f526ed60-d978-46a6-b44a-a0bdb17ce7ea",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "ashby",
+   "org": "certifyos",
+   "title": "Software Engineer",
+   "location": "Bengaluru, India",
+   "commitment": null,
+   "url": "https://jobs.ashbyhq.com/certifyos/4be4bd2f-0ebf-41a4-937b-21290aae4878",
+   "id": "4be4bd2f-0ebf-41a4-937b-21290aae4878",
+   "geo_tag": "india",
+   "key": "ashby:certifyos:4be4bd2f-0ebf-41a4-937b-21290aae4878",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "ashby",
+   "org": "ema",
+   "title": "Platform Engineer",
+   "location": "India - Bengaluru",
+   "commitment": null,
+   "url": "https://jobs.ashbyhq.com/ema/748c829c-cb1d-48cf-90da-780593e89bea",
+   "id": "748c829c-cb1d-48cf-90da-780593e89bea",
+   "geo_tag": "india",
+   "key": "ashby:ema:748c829c-cb1d-48cf-90da-780593e89bea",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "ashby",
+   "org": "ema",
+   "title": "Site Reliability Engineer",
+   "location": "India - Bengaluru",
+   "commitment": null,
+   "url": "https://jobs.ashbyhq.com/ema/6d5f59a2-68c0-49ea-b575-478f0ae3b75c",
+   "id": "6d5f59a2-68c0-49ea-b575-478f0ae3b75c",
+   "geo_tag": "india",
+   "key": "ashby:ema:6d5f59a2-68c0-49ea-b575-478f0ae3b75c",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "ashby",
+   "org": "gradera",
+   "title": "Data Engineer",
+   "location": "Hyderabad, India Office ",
+   "commitment": null,
+   "url": "https://jobs.ashbyhq.com/gradera/0635c034-c61f-459c-a3dc-4ef3ae8a7cb3",
+   "id": "0635c034-c61f-459c-a3dc-4ef3ae8a7cb3",
+   "geo_tag": "india",
+   "key": "ashby:gradera:0635c034-c61f-459c-a3dc-4ef3ae8a7cb3",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "ashby",
+   "org": "hirehangar",
+   "title": "Windows Endpoint Security Developer",
+   "location": "India - Mumbai",
+   "commitment": null,
+   "url": "https://jobs.ashbyhq.com/hirehangar/d512bb18-424b-4312-9c6c-e303d4b6c477",
+   "id": "d512bb18-424b-4312-9c6c-e303d4b6c477",
+   "geo_tag": "india",
+   "key": "ashby:hirehangar:d512bb18-424b-4312-9c6c-e303d4b6c477",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "ashby",
+   "org": "kantiv",
+   "title": "Data Scientist",
+   "location": "Remote - India",
+   "commitment": null,
+   "url": "https://jobs.ashbyhq.com/kantiv/02fa27cf-29e5-4995-89d2-24247cccfd86",
+   "id": "02fa27cf-29e5-4995-89d2-24247cccfd86",
+   "geo_tag": "india",
+   "key": "ashby:kantiv:02fa27cf-29e5-4995-89d2-24247cccfd86",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "ashby",
+   "org": "level-ai",
+   "title": "Forward Deployed Engineer - Agents(Remote)",
+   "location": "India, Remote",
+   "commitment": null,
+   "url": "https://jobs.ashbyhq.com/level-ai/a71f73a6-5964-4420-a789-107dd6b3d66a",
+   "id": "a71f73a6-5964-4420-a789-107dd6b3d66a",
+   "geo_tag": "india",
+   "key": "ashby:level-ai:a71f73a6-5964-4420-a789-107dd6b3d66a",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "ashby",
+   "org": "meraki-labs",
+   "title": "AI Evaluation Engineer - Proofline",
+   "location": "Bangalore, India",
+   "commitment": null,
+   "url": "https://jobs.ashbyhq.com/meraki-labs/02a8eecd-af9d-4231-8988-6f91f53dca35",
+   "id": "02a8eecd-af9d-4231-8988-6f91f53dca35",
+   "geo_tag": "india",
+   "key": "ashby:meraki-labs:02a8eecd-af9d-4231-8988-6f91f53dca35",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "ashby",
+   "org": "meraki-labs",
+   "title": "Founding AI Engineer - Proofline",
+   "location": "Bangalore, India",
+   "commitment": null,
+   "url": "https://jobs.ashbyhq.com/meraki-labs/57817c37-f0d4-4332-84d0-14b1d2cf2792",
+   "id": "57817c37-f0d4-4332-84d0-14b1d2cf2792",
+   "geo_tag": "india",
+   "key": "ashby:meraki-labs:57817c37-f0d4-4332-84d0-14b1d2cf2792",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "ashby",
+   "org": "outmarket",
+   "title": "DevOps Engineer",
+   "location": "Remote India",
+   "commitment": null,
+   "url": "https://jobs.ashbyhq.com/outmarket/d9eab5ed-5911-4c3a-abcf-1a224fdb703d",
+   "id": "d9eab5ed-5911-4c3a-abcf-1a224fdb703d",
+   "geo_tag": "india",
+   "key": "ashby:outmarket:d9eab5ed-5911-4c3a-abcf-1a224fdb703d",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "ashby",
+   "org": "plane",
+   "title": "Software Engineer, Backend (Node.js)",
+   "location": "India",
+   "commitment": null,
+   "url": "https://jobs.ashbyhq.com/plane/188f905e-3f6f-4569-9a32-d8ec48dfe656",
+   "id": "188f905e-3f6f-4569-9a32-d8ec48dfe656",
+   "geo_tag": "india",
+   "key": "ashby:plane:188f905e-3f6f-4569-9a32-d8ec48dfe656",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "ashby",
+   "org": "plane",
+   "title": "Software Engineer, Backend (Python)",
+   "location": "India",
+   "commitment": null,
+   "url": "https://jobs.ashbyhq.com/plane/00beeb42-56c0-48ce-9082-9fba93836b54",
+   "id": "00beeb42-56c0-48ce-9082-9fba93836b54",
+   "geo_tag": "india",
+   "key": "ashby:plane:00beeb42-56c0-48ce-9082-9fba93836b54",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "ashby",
+   "org": "sciencelogic",
+   "title": "Data Scientist",
+   "location": "India",
+   "commitment": null,
+   "url": "https://jobs.ashbyhq.com/sciencelogic/2c829057-fab9-4707-9c1f-467023404ef1",
+   "id": "2c829057-fab9-4707-9c1f-467023404ef1",
+   "geo_tag": "india",
+   "key": "ashby:sciencelogic:2c829057-fab9-4707-9c1f-467023404ef1",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "greenhouse",
+   "org": "dscout",
+   "title": "Software Engineer - India",
+   "location": "Remote - India",
+   "commitment": null,
+   "url": "https://job-boards.greenhouse.io/dscout/jobs/4370266009",
+   "id": 4370266009,
+   "updated": "2026-08-21T15:49:32-04:00",
+   "geo_tag": "india",
+   "key": "greenhouse:dscout:4370266009",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "greenhouse",
+   "org": "gravitonresearchcapital",
+   "title": "Software Engineer",
+   "location": "Gurugram, Haryana, India",
+   "commitment": null,
+   "url": "https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/5099344002",
+   "id": 5099344002,
+   "updated": "2026-09-23T11:09:31-04:00",
+   "geo_tag": "india",
+   "key": "greenhouse:gravitonresearchcapital:5099344002",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "greenhouse",
+   "org": "lynxanalytics",
+   "title": "Fullstack Developer (India)",
+   "location": "Pune, Maharashtra, India",
+   "commitment": null,
+   "url": "https://job-boards.greenhouse.io/lynxanalytics/jobs/8520230002",
+   "id": 8520230002,
+   "updated": "2026-06-08T22:44:07-04:00",
+   "geo_tag": "india",
+   "key": "greenhouse:lynxanalytics:8520230002",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "greenhouse",
+   "org": "skildai-careers",
+   "title": "Camera Systems Software Engineer - India ",
+   "location": "Bengaluru, India",
+   "commitment": null,
+   "url": "https://job-boards.greenhouse.io/skildai-careers/jobs/5263541008",
+   "id": 5263541008,
+   "updated": "2026-06-15T17:44:59-04:00",
+   "geo_tag": "india",
+   "key": "greenhouse:skildai-careers:5263541008",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "greenhouse",
+   "org": "skildai-careers",
+   "title": "Computer Vision AI & ML Engineer",
+   "location": "Bengaluru, India",
+   "commitment": null,
+   "url": "https://job-boards.greenhouse.io/skildai-careers/jobs/5031480008",
+   "id": 5031480008,
+   "updated": "2026-06-30T16:35:35-04:00",
+   "geo_tag": "india",
+   "key": "greenhouse:skildai-careers:5031480008",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "lever",
+   "org": "drivetrain",
+   "title": "Backend Engineer",
+   "location": "India",
+   "commitment": "Full Time",
+   "url": "https://jobs.lever.co/drivetrain/e2aafad8-a785-4515-9e3f-2b4981b727b8",
+   "geo_tag": "india",
+   "key": "lever:drivetrain:e2aafad8-a785-4515-9e3f-2b4981b727b8",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "lever",
+   "org": "drivetrain",
+   "title": "Site Reliability Engineer - SRE",
+   "location": "India",
+   "commitment": "Full Time",
+   "url": "https://jobs.lever.co/drivetrain/d1bc29ad-d0aa-47c8-8785-1094f279ccff",
+   "geo_tag": "india",
+   "key": "lever:drivetrain:d1bc29ad-d0aa-47c8-8785-1094f279ccff",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "lever",
+   "org": "endpointclinical",
+   "title": "Software Developer, Product",
+   "location": "Bengaluru, India",
+   "commitment": "F - Full Time",
+   "url": "https://jobs.lever.co/endpointclinical/98889651-3d5e-48cc-9dc7-0b4248fd547f",
+   "geo_tag": "india",
+   "key": "lever:endpointclinical:98889651-3d5e-48cc-9dc7-0b4248fd547f",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "lever",
+   "org": "hevodata",
+   "title": "AI Solution Engineer",
+   "location": "Bangalore, India",
+   "commitment": "Full time",
+   "url": "https://jobs.lever.co/hevodata/a7f26742-f965-4a59-840d-f7afa0a28176",
+   "geo_tag": "india",
+   "key": "lever:hevodata:a7f26742-f965-4a59-840d-f7afa0a28176",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "lever",
+   "org": "jobgether",
+   "title": ".NET Developer",
+   "location": "India",
+   "commitment": "Contract",
+   "url": "https://jobs.lever.co/jobgether/0526ea67-c4ef-4362-9043-5783e11ca58a",
+   "geo_tag": "india",
+   "key": "lever:jobgether:0526ea67-c4ef-4362-9043-5783e11ca58a",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "lever",
+   "org": "jobgether",
+   "title": "AI Evaluation Engineer",
+   "location": "India",
+   "commitment": "Full-time",
+   "url": "https://jobs.lever.co/jobgether/9a308f4a-109a-4a10-9cf6-fca94afa8a99",
+   "geo_tag": "india",
+   "key": "lever:jobgether:9a308f4a-109a-4a10-9cf6-fca94afa8a99",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "lever",
+   "org": "jobgether",
+   "title": "Cloud Engineer",
+   "location": "India",
+   "commitment": "Full-time",
+   "url": "https://jobs.lever.co/jobgether/4c7b8f27-180b-4db8-b6e9-7643486626fe",
+   "geo_tag": "india",
+   "key": "lever:jobgether:4c7b8f27-180b-4db8-b6e9-7643486626fe",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "lever",
+   "org": "jobgether",
+   "title": "Compiler Performance Engineer",
+   "location": "India",
+   "commitment": "Full-time",
+   "url": "https://jobs.lever.co/jobgether/ef8f74b7-e5b0-4680-959f-e0ffb6bf4547",
+   "geo_tag": "india",
+   "key": "lever:jobgether:ef8f74b7-e5b0-4680-959f-e0ffb6bf4547",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "lever",
+   "org": "jobgether",
+   "title": "Data Analyst",
+   "location": "India",
+   "commitment": "Full-time",
+   "url": "https://jobs.lever.co/jobgether/fe692a0b-1876-446b-9e39-d66e03b1edc3",
+   "geo_tag": "india",
+   "key": "lever:jobgether:fe692a0b-1876-446b-9e39-d66e03b1edc3",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "lever",
+   "org": "jobgether",
+   "title": "Data Developer",
+   "location": "India",
+   "commitment": "Full-time",
+   "url": "https://jobs.lever.co/jobgether/3f1a3d3a-f5fe-48f9-9654-a4cb27e48e49",
+   "geo_tag": "india",
+   "key": "lever:jobgether:3f1a3d3a-f5fe-48f9-9654-a4cb27e48e49",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "lever",
+   "org": "jobgether",
+   "title": "Engineer, Computer Software Assurance",
+   "location": "India",
+   "commitment": "Full-time",
+   "url": "https://jobs.lever.co/jobgether/b0aedca3-3f00-4ba8-8897-c25bd10a28c3",
+   "geo_tag": "india",
+   "key": "lever:jobgether:b0aedca3-3f00-4ba8-8897-c25bd10a28c3",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "lever",
+   "org": "levelai",
+   "title": "Forward Deployed Engineer - Agents(Remote)",
+   "location": "India",
+   "commitment": "Full Time",
+   "url": "https://jobs.lever.co/levelai/498dfb1d-2f80-4a74-8d08-ecadccd8a221",
+   "geo_tag": "india",
+   "key": "lever:levelai:498dfb1d-2f80-4a74-8d08-ecadccd8a221",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "lever",
+   "org": "veeva",
+   "title": "Software Engineer - Automation Platform",
+   "location": "India - Hyderabad",
+   "commitment": "Full-Time",
+   "url": "https://jobs.lever.co/veeva/872bb725-148e-4c57-875c-52b157ec7183",
+   "geo_tag": "india",
+   "key": "lever:veeva:872bb725-148e-4c57-875c-52b157ec7183",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "lever",
+   "org": "veeva",
+   "title": "Software Engineer - Infra",
+   "location": "India - Hyderabad",
+   "commitment": "Full-Time",
+   "url": "https://jobs.lever.co/veeva/79256ab7-1862-4195-9f8b-87735247d017",
+   "geo_tag": "india",
+   "key": "lever:veeva:79256ab7-1862-4195-9f8b-87735247d017",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "lever",
+   "org": "veeva",
+   "title": "Software Engineer - Test Automation",
+   "location": "India - Hyderabad",
+   "commitment": "Full-Time",
+   "url": "https://jobs.lever.co/veeva/361ccc4a-7175-43d8-8e1c-bd442f77b9fe",
+   "geo_tag": "india",
+   "key": "lever:veeva:361ccc4a-7175-43d8-8e1c-bd442f77b9fe",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "lever",
+   "org": "zimperium",
+   "title": "Python Developer - Bangalore, India",
+   "location": "Bangalore, India",
+   "commitment": "Full time",
+   "url": "https://jobs.lever.co/zimperium/62345dc6-5179-4e47-8736-0fb3530f4211",
+   "geo_tag": "india",
+   "key": "lever:zimperium:62345dc6-5179-4e47-8736-0fb3530f4211",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "lever",
+   "org": "zimperium",
+   "title": "Site Reliability Engineer - India",
+   "location": "India (Remote)",
+   "commitment": "Full time",
+   "url": "https://jobs.lever.co/zimperium/29aff3bb-b00f-457c-9ebb-70f3804c3fa6",
+   "geo_tag": "india",
+   "key": "lever:zimperium:29aff3bb-b00f-457c-9ebb-70f3804c3fa6",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "ashby",
+   "org": "notion",
+   "title": "Forward Deployed Engineer, India",
+   "location": "Hyderabad, India",
+   "commitment": null,
+   "url": "https://jobs.ashbyhq.com/notion/79c18580-c927-456c-9d5f-72efbc6c43cb",
+   "id": "79c18580-c927-456c-9d5f-72efbc6c43cb",
+   "updated": "",
+   "geo_tag": "india",
+   "key": "ashby:notion:79c18580-c927-456c-9d5f-72efbc6c43cb",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "ashby",
+   "org": "notion",
+   "title": "Software Engineer, Developer Experience",
+   "location": "Hyderabad, India",
+   "commitment": null,
+   "url": "https://jobs.ashbyhq.com/notion/49bdf081-6e20-4323-8c73-6d6b19544ff5",
+   "id": "49bdf081-6e20-4323-8c73-6d6b19544ff5",
+   "updated": "",
+   "geo_tag": "india",
+   "key": "ashby:notion:49bdf081-6e20-4323-8c73-6d6b19544ff5",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "greenhouse",
+   "org": "okta",
+   "title": "Software Engineer, Professional Services R&D",
+   "location": "Bengaluru, India",
+   "commitment": null,
+   "url": "https://www.okta.com/company/careers/opportunity/8056119?gh_jid=8056119",
+   "id": 8056119,
+   "updated": "2026-09-21T12:43:00-04:00",
+   "geo_tag": "india",
+   "key": "greenhouse:okta:8056119",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "greenhouse",
+   "org": "okta",
+   "title": "Solution Engineer",
+   "location": "Bengaluru, India",
+   "commitment": null,
+   "url": "https://www.okta.com/company/careers/opportunity/6839581?gh_jid=6839581",
+   "id": 6839581,
+   "updated": "2026-09-21T12:43:00-04:00",
+   "geo_tag": "india",
+   "key": "greenhouse:okta:6839581",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "greenhouse",
+   "org": "singlestore",
+   "title": "Cloud Platform Engineer",
+   "location": "India",
+   "commitment": null,
+   "url": "https://job-boards.greenhouse.io/singlestore/jobs/8212152",
+   "id": 8212152,
+   "updated": "2026-09-17T16:49:05-04:00",
+   "geo_tag": "india",
+   "key": "greenhouse:singlestore:8212152",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "greenhouse",
+   "org": "singlestore",
+   "title": "Software Engineer",
+   "location": "India",
+   "commitment": null,
+   "url": "https://job-boards.greenhouse.io/singlestore/jobs/8212128",
+   "id": 8212128,
+   "updated": "2026-09-17T16:42:16-04:00",
+   "geo_tag": "india",
+   "key": "greenhouse:singlestore:8212128",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "greenhouse",
+   "org": "singlestore",
+   "title": "Software Engineer | Database Engine",
+   "location": "India ",
+   "commitment": null,
+   "url": "https://job-boards.greenhouse.io/singlestore/jobs/8000966",
+   "id": 8000966,
+   "updated": "2026-08-21T16:09:33-04:00",
+   "geo_tag": "india",
+   "key": "greenhouse:singlestore:8000966",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "greenhouse",
+   "org": "tegnaindia",
+   "title": "Cloud Engineer",
+   "location": "Bengaluru, Karnataka, India",
+   "commitment": null,
+   "url": "https://job-boards.greenhouse.io/tegnaindia/jobs/5049585007",
+   "id": 5049585007,
+   "updated": "2026-09-04T09:11:21-04:00",
+   "geo_tag": "india",
+   "key": "greenhouse:tegnaindia:5049585007",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "lever",
+   "org": "thinkahead",
+   "title": "AI Platform Engineer",
+   "location": "India",
+   "commitment": null,
+   "url": "https://jobs.lever.co/thinkahead/9bb45260-8225-4175-972e-a15c3213bf30",
+   "updated": "2026-01-30",
+   "geo_tag": "india",
+   "key": "lever:thinkahead:9bb45260-8225-4175-972e-a15c3213bf30",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "lever",
+   "org": "thinkahead",
+   "title": "Operational Technology Engineer",
+   "location": "India",
+   "commitment": null,
+   "url": "https://jobs.lever.co/thinkahead/6d62e87c-292e-4be1-b329-3e3c7cf47369",
+   "updated": "2026-08-07",
+   "geo_tag": "india",
+   "key": "lever:thinkahead:6d62e87c-292e-4be1-b329-3e3c7cf47369",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "ashby",
+   "org": "fal-ai",
+   "title": "Software Engineer, Distributed Systems ",
+   "location": "Remote - Global",
+   "commitment": null,
+   "url": "https://jobs.ashbyhq.com/fal-ai/0acf2909-a4c4-4ad5-a0fb-61fba66eb89e",
+   "id": "0acf2909-a4c4-4ad5-a0fb-61fba66eb89e",
+   "geo_tag": "remote",
+   "key": "ashby:fal-ai:0acf2909-a4c4-4ad5-a0fb-61fba66eb89e",
+   "flags": [
+    "needs_jd_check"
+   ]
+  },
+  {
+   "platform": "ashby",
+   "org": "runpod",
+   "title": "Forward Deployed Engineer APAC",
+   "location": "Remote - APAC",
+   "commitment": null,
+   "url": "https://jobs.ashbyhq.com/runpod/25e7d414-e338-42dc-a206-ca4727f3f98f",
+   "id": "25e7d414-e338-42dc-a206-ca4727f3f98f",
+   "geo_tag": "remote",
+   "key": "ashby:runpod:25e7d414-e338-42dc-a206-ca4727f3f98f",
+   "flags": [
+    "needs_jd_check"
+   ]
+  }
+ ]
+}

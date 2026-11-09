@@ -1,0 +1,144 @@
+{
+  "batch_id": 3,
+  "sprint": 2,
+  "total_jobs": 6,
+  "jobs": [
+    {
+      "id": 1680735,
+      "title": "Trendlyne - Backend Engineer - Python (3-6 yrs)",
+      "company": "Giskard Datatech",
+      "min": 3,
+      "max": 6,
+      "exp": "3-6 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "Python",
+        "Django",
+        "Flask",
+        "FastAPI",
+        "PostgreSQL",
+        "MySQL",
+        "Redis"
+      ],
+      "url": "https://www.hirist.tech/j/giskard-datatech-trendlyne-backend-engineer-python-3-6-yrs-1680735?ref=cl_br",
+      "applied": 0,
+      "createdTime": 1793125800000,
+      "sourceFeed": "2-3"
+    },
+    {
+      "id": 1680736,
+      "title": "Trendlyne - Backend Engineer - Python (3-6 yrs)",
+      "company": "Giskard Datatech",
+      "min": 3,
+      "max": 6,
+      "exp": "3-6 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "Python",
+        "Django",
+        "Flask",
+        "FastAPI",
+        "PostgreSQL",
+        "RESTful API",
+        "Backend Architecture"
+      ],
+      "url": "https://www.hirist.tech/j/giskard-datatech-trendlyne-backend-engineer-python-3-6-yrs-1680736?ref=cl_br",
+      "applied": 0,
+      "createdTime": 1793125800000,
+      "sourceFeed": "2-3"
+    },
+    {
+      "id": 1680647,
+      "title": "Embark Group - Senior Site Reliability Engineer - Azure Infrastructure (3-7 yrs)",
+      "company": "Embark Group",
+      "min": 3,
+      "max": 7,
+      "exp": "3-7 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "Site Reliability",
+        "Azure",
+        "Kubernetes",
+        "Cloud Infrastructure",
+        "Monitoring Tools",
+        "CI/CD Pipeline",
+        "Cloud Operations",
+        "Cloud Services",
+        "Azure Infrastructure",
+        "IT Automation"
+      ],
+      "url": "https://www.hirist.tech/j/embark-group-embark-group-senior-site-reliability-engineer-azure-infrastructure-3-7-yrs-1680647?ref=cl_br",
+      "applied": 0,
+      "createdTime": 1793125800000,
+      "sourceFeed": "2-3"
+    },
+    {
+      "id": 1680681,
+      "title": "Python Test Automation Engineer (3-7 yrs)",
+      "company": "Terralogic Software Solutions Private Limited.",
+      "min": 3,
+      "max": 7,
+      "exp": "3-7 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "Automation Testing",
+        "Software Quality Assurance",
+        "Python",
+        "Linux",
+        "Testing",
+        "API Testing",
+        "Functional Testing",
+        "Regression Testing",
+        "System Testing"
+      ],
+      "url": "https://www.hirist.tech/j/terralogic-software-solutions-private-limited-python-test-automation-engineer-3-7-yrs-1680681?ref=cl_br",
+      "applied": 0,
+      "createdTime": 1793125800000,
+      "sourceFeed": "2-3"
+    },
+    {
+      "id": 1680714,
+      "title": "Full Stack Engineer - Node.js/React.js - Fintech Domain (3-10 yrs)",
+      "company": "margo",
+      "min": 3,
+      "max": 10,
+      "exp": "3-10 yrs",
+      "location": "Delhi",
+      "tags": [
+        "Full Stack",
+        "Node.js",
+        "PostgreSQL",
+        "Python",
+        "React.js",
+        "GraphQL",
+        "Microservices Architecture"
+      ],
+      "url": "https://www.hirist.tech/j/margo-full-stack-engineer-node-js-react-js-fintech-domain-3-10-yrs-1680714?ref=cl_br",
+      "applied": 0,
+      "createdTime": 1793125800000,
+      "sourceFeed": "2-3"
+    },
+    {
+      "id": 1680802,
+      "title": "Product Manager - AI/ML Marketplace (3-5 yrs)",
+      "company": "BrandMyHR",
+      "min": 3,
+      "max": 5,
+      "exp": "3-5 yrs",
+      "location": "Mumbai",
+      "tags": [
+        "Product Management",
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Generative AI",
+        "CRM",
+        "Product Roadmap",
+        "Product Strategy"
+      ],
+      "url": "https://www.hirist.tech/j/brandmyhr-product-manager-ai-ml-marketplace-3-5-yrs-1680802?ref=cl_br",
+      "applied": 0,
+      "createdTime": 1793125800000,
+      "sourceFeed": "2-3"
+    }
+  ]
+}

@@ -1,0 +1,445 @@
+{
+  "worker": 3,
+  "batch": 3,
+  "sweep": "additional_200",
+  "target_applied": 40,
+  "applied_count": 40,
+  "parked_count": 20,
+  "already_applied_count": 0,
+  "failed_count": 1,
+  "all_results": [
+    {
+      "jobId": 1682017,
+      "title": "Wobot AI - Backend Developer - Golang",
+      "company": "Wobot Intelligence Pvt. Ltd.",
+      "status": "parked_assessment",
+      "reason": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "jobId": 1681457,
+      "title": "Mobifly - Senior .Net Developer",
+      "company": "Moonshine Food Ventures",
+      "status": "applied",
+      "applicationId": 79305078
+    },
+    {
+      "jobId": 1681458,
+      "title": "Mobifly - PHP Developer - Server Side Component",
+      "company": "Moonshine Food Ventures",
+      "status": "applied",
+      "applicationId": 79305079
+    },
+    {
+      "jobId": 1681543,
+      "title": "Software Engineer - Backend Developement",
+      "company": "HyrMe",
+      "status": "applied",
+      "applicationId": 79305081
+    },
+    {
+      "jobId": 1679262,
+      "title": "Volody - PHP Developer - MySQL/jQuery",
+      "company": "Volody",
+      "status": "applied",
+      "applicationId": 79305083
+    },
+    {
+      "jobId": 1678421,
+      "title": "VoloHealth - Senior Software Developer - Java",
+      "company": "Volo Health Insurance TPA",
+      "status": "parked_assessment",
+      "reason": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "jobId": 1678257,
+      "title": "Software Engineer - Backend Architecture'",
+      "company": "QuickHyre",
+      "status": "applied",
+      "applicationId": 79305092
+    },
+    {
+      "jobId": 1677836,
+      "title": "Software Engineer - Backend Development",
+      "company": "QuickHyre",
+      "status": "applied",
+      "applicationId": 79305093
+    },
+    {
+      "jobId": 1676086,
+      "title": "Vedantu Innovations - Product Engineer - Java",
+      "company": "Vedantu Innovations",
+      "status": "parked_assessment",
+      "reason": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "jobId": 1675621,
+      "title": "Senior Software Development Engineer - C#/.Net Core",
+      "company": "Leadsquared",
+      "status": "applied",
+      "applicationId": 79305095
+    },
+    {
+      "jobId": 1671164,
+      "title": "Siemens - Golang Developer - Backend Services",
+      "company": "Siemens",
+      "status": "applied",
+      "applicationId": 79305096
+    },
+    {
+      "jobId": 1668615,
+      "title": "PTC Software - Senior Software Specialist - Java",
+      "company": "PTC",
+      "status": "applied",
+      "applicationId": 79305110
+    },
+    {
+      "jobId": 1672907,
+      "title": "Practo - Software Engineer II - Backend Development",
+      "company": "Practo",
+      "status": "parked_assessment",
+      "reason": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "jobId": 1671936,
+      "title": "Focalworks - Python Developer - Django",
+      "company": "Focalworks Solutions",
+      "status": "applied",
+      "applicationId": 79305114
+    },
+    {
+      "jobId": 1671407,
+      "title": "FocalWorks - Software Engineer - Python & AI Applications",
+      "company": "Focalworks Solutions",
+      "status": "applied",
+      "applicationId": 79305116
+    },
+    {
+      "jobId": 1666419,
+      "title": "Amtech Software - Java Developer",
+      "company": "Amtech Software India Pvt Ltd",
+      "status": "applied",
+      "applicationId": 79305117
+    },
+    {
+      "jobId": 1665678,
+      "title": "Antino Labs - Backend Developer - Node.js",
+      "company": "Antino",
+      "status": "parked_assessment",
+      "reason": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "jobId": 1665225,
+      "title": "Infosec Ventures - Laravel Developer - PHP",
+      "company": "INFOSEC VENTURES",
+      "status": "parked_assessment",
+      "reason": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "jobId": 1661944,
+      "title": "Fibr.ai - Backend Product Engineer - Python",
+      "company": "Fibr.Ai",
+      "status": "parked_assessment",
+      "reason": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "jobId": 1661878,
+      "title": "JForce Solutions - Java Developer - Spring Framework",
+      "company": "Jforce Solutions",
+      "status": "parked_assessment",
+      "reason": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "jobId": 1676152,
+      "title": "Ekfrazo Technologies - Software Development Engineer III - Golang",
+      "company": "EKFRAZO TECHNOLOGIES PRIVATE LIMITED",
+      "status": "applied",
+      "applicationId": 79305156
+    },
+    {
+      "jobId": 1675261,
+      "title": "WhatsApp Automation Engineer - Node.js/Python",
+      "company": "Sumanel Technology Ventures",
+      "status": "applied",
+      "applicationId": 79305176
+    },
+    {
+      "jobId": 1674424,
+      "title": "Python Developer",
+      "company": "Value Lane Consulting",
+      "status": "parked_assessment",
+      "reason": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "jobId": 1674020,
+      "title": "Java Developer",
+      "company": "Nextloop Technologies",
+      "status": "parked_assessment",
+      "reason": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "jobId": 1673709,
+      "title": "Software Developer - Backend Architecture",
+      "company": "Skyleaf Consultants",
+      "status": "applied",
+      "applicationId": 79305183
+    },
+    {
+      "jobId": 1673618,
+      "title": "BlackLight Studio Works - Unity Developer - Game Development",
+      "company": "BlackLight Studio Works",
+      "status": "applied",
+      "applicationId": 79305187
+    },
+    {
+      "jobId": 1673040,
+      "title": "Software Engineer - Backend Technologies",
+      "company": "Northeast Recruitment Solution ",
+      "status": "applied",
+      "applicationId": 79305195
+    },
+    {
+      "jobId": 1672987,
+      "title": "Backend Software Engineer - Python",
+      "company": "DevFyndr",
+      "status": "applied",
+      "applicationId": 79305196
+    },
+    {
+      "jobId": 1672985,
+      "title": "Software Engineer - Backend Development",
+      "company": "DevFyndr",
+      "status": "applied",
+      "applicationId": 79305197
+    },
+    {
+      "jobId": 1672923,
+      "title": "Junior Azure Integration Support Engineer",
+      "company": "Promaynov Advisory Services",
+      "status": "applied",
+      "applicationId": 79305199
+    },
+    {
+      "jobId": 1671085,
+      "title": "Python Developer - Django/Flask",
+      "company": "HFT Talent",
+      "status": "applied",
+      "applicationId": 79305201
+    },
+    {
+      "jobId": 1670611,
+      "title": "Merchant Integration & Solutions Engineer - Payment Domain",
+      "company": "Employee Forums",
+      "status": "applied",
+      "applicationId": 79305214
+    },
+    {
+      "jobId": 1670672,
+      "title": "Josys - Senior Software Engineer - Backend Technologies",
+      "company": "Josys",
+      "status": "applied",
+      "applicationId": 79305217
+    },
+    {
+      "jobId": 1670645,
+      "title": "Software Development Engineer I - Backend Architecture",
+      "company": "Supersourcing",
+      "status": "applied",
+      "applicationId": 79305219
+    },
+    {
+      "jobId": 1669056,
+      "title": "Backend & Microservices Developer",
+      "company": "Forward Eye Technologies",
+      "status": "applied",
+      "applicationId": 79305225
+    },
+    {
+      "jobId": 1669268,
+      "title": "IFTAS - Python Developer - Backend Development",
+      "company": "Indian Financial Technology And Alliedservices",
+      "status": "applied",
+      "applicationId": 79305227
+    },
+    {
+      "jobId": 1668957,
+      "title": "Backend Microservices Developer",
+      "company": "Forward Eye Technologies",
+      "status": "applied",
+      "applicationId": 79305235
+    },
+    {
+      "jobId": 1668397,
+      "title": "Backend Software Engineer - Core Java",
+      "company": "HumanWiz",
+      "status": "applied",
+      "applicationId": 79305237
+    },
+    {
+      "jobId": 1668466,
+      "title": "Backend Engineer - Java Technologies",
+      "company": "HR Works Consultancy",
+      "status": "applied",
+      "applicationId": 79305238
+    },
+    {
+      "jobId": 1668367,
+      "title": "Software Developer - Backend Architecture - Python/Django",
+      "company": "QuickSync",
+      "status": "parked_assessment",
+      "reason": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "jobId": 1668051,
+      "title": "Software Engineer - Java",
+      "company": "TalentSyker",
+      "status": "applied",
+      "applicationId": 79305242
+    },
+    {
+      "jobId": 1666985,
+      "title": "Vehant Technologies - C++ Developer - CUDA Programming",
+      "company": "Vehant Technologies",
+      "status": "applied",
+      "applicationId": 79305259
+    },
+    {
+      "jobId": 1666907,
+      "title": "Liquiloans - Software Developer - PHP/Laravel",
+      "company": "LiquiLoans",
+      "status": "parked_assessment",
+      "reason": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "jobId": 1666647,
+      "title": "The Card Company - Software Development Engineer I/II - Backend Technologies",
+      "company": "The Card Company",
+      "status": "parked_assessment",
+      "reason": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "jobId": 1666377,
+      "title": "Senior Backend Developer - Python/Django",
+      "company": "Talent Quest Technologies",
+      "status": "applied",
+      "applicationId": 79305262
+    },
+    {
+      "jobId": 1665722,
+      "title": "Senior Backend Engineer",
+      "company": "Scaling Theory Technologies",
+      "status": "parked_assessment",
+      "reason": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "jobId": 1663063,
+      "title": "Software Developer - C++",
+      "company": "Youth4 Talent Solutions",
+      "status": "failed",
+      "details": {
+        "error": {
+          "statusCode": 404,
+          "name": "JOB_NOT_FOUND",
+          "message": "Could not find job with given jobcode"
+        }
+      }
+    },
+    {
+      "jobId": 1662959,
+      "title": "Chat360 - Forward Deployed Engineer - Python",
+      "company": "Sumanel Technology Ventures",
+      "status": "parked_assessment",
+      "reason": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "jobId": 1662725,
+      "title": "Senior Software Engineer - Backend Technologies",
+      "company": "Uniq You",
+      "status": "applied",
+      "applicationId": 79305267
+    },
+    {
+      "jobId": 1662660,
+      "title": "Software Engineer - Backend Technologies",
+      "company": "Tarlan",
+      "status": "parked_assessment",
+      "reason": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "jobId": 1659102,
+      "title": "Python Developer - Django/Flask",
+      "company": "Supertal Tech",
+      "status": "applied",
+      "applicationId": 79305268
+    },
+    {
+      "jobId": 1656184,
+      "title": "Cumulations Technologies - .Net Developer - C#/ASP/Entity Framework",
+      "company": "Cumulations Technologies",
+      "status": "parked_assessment",
+      "reason": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "jobId": 1656145,
+      "title": "Volopay - Senior Ruby on Rails Developer",
+      "company": "Volopay",
+      "status": "applied",
+      "applicationId": 79305276
+    },
+    {
+      "jobId": 1655901,
+      "title": "OneStream Developer - VB/.Net",
+      "company": "Anlage Infotech",
+      "status": "parked_assessment",
+      "reason": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "jobId": 1654594,
+      "title": "Groundtruth - Software Engineer - Java & Scala",
+      "company": "GroundTruth",
+      "status": "parked_assessment",
+      "reason": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "jobId": 1649286,
+      "title": "AIonOS  - Software Engineer - AI Agent Platform",
+      "company": "IndiGo",
+      "status": "parked_assessment",
+      "reason": "Assessment/ screening is required to apply for this Job"
+    },
+    {
+      "jobId": 1653719,
+      "title": "Altinvest Online Platform - Laravel Developer - PHP/MySQL",
+      "company": "Altinvest",
+      "status": "applied",
+      "applicationId": 79305281
+    },
+    {
+      "jobId": 1647437,
+      "title": "Senior Software Engineer - C#/.Net",
+      "company": "UST",
+      "status": "applied",
+      "applicationId": 79305291
+    },
+    {
+      "jobId": 1652908,
+      "title": "Itilite Technologies - Senior Software Engineer - Python",
+      "company": "ITILITE",
+      "status": "applied",
+      "applicationId": 79305293
+    },
+    {
+      "jobId": 1652978,
+      "title": "Java Developer - Microservices Architecture",
+      "company": "Appzlogic Mobility Solutions",
+      "status": "applied",
+      "applicationId": 79305295
+    },
+    {
+      "jobId": 1651862,
+      "title": "Ripik AI - Backend Engineer - Java/Spring Boot",
+      "company": "Ripik Technology",
+      "status": "applied",
+      "applicationId": 79305296
+    }
+  ]
+}

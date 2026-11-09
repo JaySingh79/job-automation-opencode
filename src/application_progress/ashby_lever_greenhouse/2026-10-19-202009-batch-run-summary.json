@@ -1,0 +1,13 @@
+[
+  {
+    "status": "awaiting_human_otp",
+    "reason": "Greenhouse email OTP challenge presented",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\www-otp-challenge.png",
+    "url": "https://job-boards.greenhouse.io/embed/job_app?for=harnessinc&validityToken=P2dav98jAqVItGrSwJbUpRojxSN0t6QUtYydlQ-m0-uwpWH6MWwWPjC6_CiJ5TnR_ZiY9928LusWW7RT9eUjqVEc2wDtWM0zwymu2Kgbu7BHX5A86x58U_ui5Sz9N3RkuNxLk_xO_mV7baOZJix6kxo87n5pcf1SfnSu96wRmycp0PJF2mkxA8iwAJrC3pMdfSkHyTqpr7f2wCS9nNtWvGt_rszywtuiXB5rTEShW4xYvxBrO3lI3RxBenPFtm7emcOWjWaHjsl77-fzM7bLxhI1rWJ1CLvegQ78EAlW08-Vpl_Yi1nh28a034D7YzHMgoXsoRdnUYTd8ja3Q14NnQ%3D%3D&token=5239607007",
+    "job_url": "https://www.harness.io/company/jobs/apply?gh_jid=5239607007&gh_jid=5239607007",
+    "company": "www",
+    "role": "Direct Target Role",
+    "platform": "greenhouse",
+    "duration_seconds": 57.7
+  }
+]

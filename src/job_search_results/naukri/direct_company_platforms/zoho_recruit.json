@@ -1,0 +1,182 @@
+{
+  "platform": "zoho_recruit",
+  "total_jobs": 8,
+  "jobs": [
+    {
+      "job_id": "060426501738",
+      "title": "Graduate Trainee Engineer",
+      "company": "Synaptica Tech",
+      "platform": "zoho_recruit",
+      "company_site_url": "https://synapticatech.zohorecruit.in/jobs/careers/183438000003076224",
+      "ats_domain": "synapticatech.zohorecruit.in",
+      "naukri_url": "https://www.naukri.com/job-listings-graduate-trainee-engineer-synapticatech-visakhapatnam-0-to-1-years-060426501738",
+      "experience": "0-1 Yrs",
+      "location": "Visakhapatnam",
+      "posted_date": "3+ weeks ago",
+      "skills": [
+        "Computer science",
+        "Training",
+        "Basic",
+        "Analytical",
+        "Debugging",
+        "Agile",
+        "Engineering projects",
+        "Internship"
+      ]
+    },
+    {
+      "job_id": "060426501724",
+      "title": "Software Developer-Fresher",
+      "company": "Synaptica Tech",
+      "platform": "zoho_recruit",
+      "company_site_url": "https://synapticatech.zohorecruit.in/jobs/careers/183438000001813685",
+      "ats_domain": "synapticatech.zohorecruit.in",
+      "naukri_url": "https://www.naukri.com/job-listings-software-developer-fresher-synapticatech-hyderabad-0-to-1-years-060426501724",
+      "experience": "0-1 Yrs",
+      "location": "Hyderabad",
+      "posted_date": "3+ weeks ago",
+      "skills": [
+        "C++",
+        "Coding",
+        "Debugging",
+        "Javascript",
+        "Agile",
+        "Data structures",
+        "Scrum",
+        "SDLC"
+      ]
+    },
+    {
+      "job_id": "200226505610",
+      "title": "AI Product Developer - Intern",
+      "company": "Futureacad",
+      "platform": "zoho_recruit",
+      "company_site_url": "https://futureacad.zohorecruit.in/jobs/Careers/179505000001734372",
+      "ats_domain": "futureacad.zohorecruit.in",
+      "naukri_url": "https://www.naukri.com/job-listings-ai-product-developer-intern-futureacad-bengaluru-0-to-1-years-200226505610",
+      "experience": "0-1 Yrs",
+      "location": "Bengaluru",
+      "posted_date": "3+ weeks ago",
+      "skills": [
+        "deep learning",
+        "Prototype",
+        "Intern",
+        "Artificial Intelligence",
+        "Machine learning",
+        "product life cycle",
+        "Manager Technology",
+        "Deployment"
+      ]
+    },
+    {
+      "job_id": "261026504826",
+      "title": "Agentic AI Engineer",
+      "company": "Training Basket",
+      "platform": "zoho_recruit",
+      "company_site_url": "https://trainingbasket.zohorecruit.com/jobs/Careers/460790000042774097",
+      "ats_domain": "trainingbasket.zohorecruit.com",
+      "naukri_url": "https://www.naukri.com/job-listings-agentic-ai-engineer-training-basket-noida-0-to-1-years-261026504826",
+      "experience": "0-1 Yrs",
+      "location": "Noida",
+      "posted_date": "1 day ago",
+      "skills": [
+        "Application",
+        "System architecture",
+        "Artificial Intelligence",
+        "Analytical",
+        "Automation",
+        "Enterprise applications",
+        "Python",
+        "Debugging"
+      ]
+    },
+    {
+      "job_id": "231122500033",
+      "title": "Data Scientist",
+      "company": "Akaike Technologies",
+      "platform": "zoho_recruit",
+      "company_site_url": "https://akaiketech.zohorecruit.in/jobs/Careers",
+      "ats_domain": "akaiketech.zohorecruit.in",
+      "naukri_url": "https://www.naukri.com/job-listings-data-scientist-akaike-technologies-bengaluru-0-to-6-years-231122500033",
+      "experience": "0-6 Yrs",
+      "location": "Bengaluru",
+      "posted_date": "3+ weeks ago",
+      "skills": [
+        "deep learning",
+        "Data analysis",
+        "GIT",
+        "Analytical",
+        "MySQL",
+        "Machine learning",
+        "data visualization",
+        "Data mining"
+      ]
+    },
+    {
+      "job_id": "200226505622",
+      "title": "Web Development with Gen AI - Intern",
+      "company": "Futureacad",
+      "platform": "zoho_recruit",
+      "company_site_url": "https://futureacad.zohorecruit.in/jobs/Careers/179505000001734205",
+      "ats_domain": "futureacad.zohorecruit.in",
+      "naukri_url": "https://www.naukri.com/job-listings-web-development-with-gen-ai-intern-futureacad-bengaluru-0-to-1-years-200226505622",
+      "experience": "0-1 Yrs",
+      "location": "Bengaluru",
+      "posted_date": "3+ weeks ago",
+      "skills": [
+        "CSS",
+        "Intern",
+        "GCP",
+        "Web development",
+        "Cloud",
+        "Javascript",
+        "Manager Technology",
+        "Deployment"
+      ]
+    },
+    {
+      "job_id": "120526502352",
+      "title": "AI Researcher",
+      "company": "Galaxeye Space",
+      "platform": "zoho_recruit",
+      "company_site_url": "https://galaxeye-pranitgalaxeyespace.zohorecruit.in/jobs/Careers/214465000000581913",
+      "ats_domain": "galaxeye-pranitgalaxeyespace.zohorecruit.in",
+      "naukri_url": "https://www.naukri.com/job-listings-ai-researcher-galaxeye-space-bengaluru-0-to-4-years-120526502352",
+      "experience": "0-4 Yrs",
+      "location": "Bengaluru",
+      "posted_date": "3+ weeks ago",
+      "skills": [
+        "GIS",
+        "Computer vision",
+        "Prototype",
+        "Image processing",
+        "Machine learning",
+        "Data processing",
+        "Research",
+        "Open source"
+      ]
+    },
+    {
+      "job_id": "010926504122",
+      "title": "IT Engineer",
+      "company": "HealthMinds",
+      "platform": "zoho_recruit",
+      "company_site_url": "https://healthminds.zohorecruit.in/jobs/Careers/181671000003457957",
+      "ats_domain": "healthminds.zohorecruit.in",
+      "naukri_url": "https://www.naukri.com/job-listings-it-engineer-healthminds-consulting-bengaluru-0-to-3-years-010926504122",
+      "experience": "0-3 Yrs",
+      "location": "Bengaluru",
+      "posted_date": "3+ weeks ago",
+      "skills": [
+        "Networking",
+        "Coding",
+        "Information security",
+        "MySQL",
+        "Javascript",
+        "Healthcare",
+        "PHP",
+        "Life sciences"
+      ]
+    }
+  ]
+}

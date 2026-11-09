@@ -1,0 +1,32 @@
+[
+  {
+    "job_id": "200226500477",
+    "title": "full stack developer",
+    "company": "Logic Planet",
+    "url": "https://app.intellohire.com/public/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZXNvdXJjZSI6eyJvcmdhbml6YXRpb24iOjM5Nn19.FVmOkFldcowxdAQsyZn6uTT8Uw3axXiIbMRH360VtZc/12461/job-description",
+    "applied_at": "2026-10-28T15:13:22.822395+00:00",
+    "status": "READY FOR HUMAN SUBMISSION",
+    "verification": "100% required fields filled (Name: Jay Singh, Phone: 8651274328, CTC: 18->22 LPA, Notice: 0 days, Resume: JayResumeGenAIDS5thAug.pdf). Save button unclicked, staged for human review.",
+    "screenshot": "src/accessability_snapshot/intellohire_200226500477_staged.png"
+  },
+  {
+    "job_id": "210226502509",
+    "title": "Full Stack Python Developer",
+    "company": "Logic Planet",
+    "url": "https://app.intellohire.com/public/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZXNvdXJjZSI6eyJvcmdhbml6YXRpb24iOjM5Nn19.FVmOkFldcowxdAQsyZn6uTT8Uw3axXiIbMRH360VtZc/20769/job-description",
+    "applied_at": "2026-10-28T15:14:16.340287+00:00",
+    "status": "READY FOR HUMAN SUBMISSION",
+    "verification": "100% required fields filled (Name: Jay Singh, Phone: 8651274328, CTC: 18->22 LPA, Notice: 0 days, Resume: JayResumeGenAIDS5thAug.pdf). Save button unclicked, staged for human review.",
+    "screenshot": "src/accessability_snapshot/intellohire_210226502509_staged.png"
+  },
+  {
+    "job_id": "240226505128",
+    "title": "ETL Developer with Pyspark",
+    "company": "Logic Planet",
+    "url": "https://app.intellohire.com/public/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZXNvdXJjZSI6eyJvcmdhbml6YXRpb24iOjM5Nn19.FVmOkFldcowxdAQsyZn6uTT8Uw3axXiIbMRH360VtZc/21356/job-description",
+    "applied_at": "2026-10-28T15:15:09.004493+00:00",
+    "status": "READY FOR HUMAN SUBMISSION",
+    "verification": "100% required fields filled (Name: Jay Singh, Phone: 8651274328, CTC: 18->22 LPA, Notice: 0 days, Resume: JayResumeGenAIDS5thAug.pdf). Save button unclicked, staged for human review.",
+    "screenshot": "src/accessability_snapshot/intellohire_240226505128_staged.png"
+  }
+]

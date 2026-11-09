@@ -1,0 +1,43 @@
+{
+  "session_date": "2026-10-19",
+  "engine": "src/scripts/batch_fill_runner.py",
+  "methodology": "Pure Deterministic Playwright (Zero LLM Tokens) with Anti-Bot Challenge Staging",
+  "waves_executed": 10,
+  "jobs_processed_this_session": 57,
+  "successful_staged_submissions": 55,
+  "success_rate_percentage": 96.5,
+  "tokens_consumed_during_filling": 0,
+  "ground_truth_confirmed_applied_total": 25,
+  "ats_breakdown": {
+    "ashby": {
+      "filled_and_staged": 26,
+      "challenge_type": "reCAPTCHA v2 / Enterprise interactive puzzle",
+      "status": "awaiting_human_captcha_submit",
+      "resolution": "Full profile + screening + master pitch + resume attachment, submit clicked, modal staged at src/accessability_snapshot/<company>-captcha-challenge.png"
+    },
+    "greenhouse": {
+      "filled_and_staged": 17,
+      "challenge_type": "Email OTP verification challenge",
+      "status": "awaiting_human_otp",
+      "resolution": "React-Select combobox resolution, embedded iframe navigation, candidate-location Places API typing, 3-checkbox bounding, demographic consent, submit clicked, modal staged at src/accessability_snapshot/<company>-otp-challenge.png"
+    },
+    "lever": {
+      "filled_and_staged": 12,
+      "challenge_type": "hCaptcha interactive challenge",
+      "status": "awaiting_human_captcha_submit",
+      "resolution": "100% field filling + screening tests (closest .application-question inspection) + resume attachment, submit clicked, modal staged at src/accessability_snapshot/<company>-captcha-challenge.png"
+    }
+  },
+  "blocked_or_skipped_details": [
+    {
+      "company": "kaseya",
+      "role": "Technical Support Engineer",
+      "reason": "Host company Netlify Astro serverless endpoint (_actions/submitCareerForm) returns HTTP 500 Internal Server Error; support role outside SDE/AI/ML core target."
+    },
+    {
+      "company": "elastic",
+      "role": "UX Engineer",
+      "reason": "Job listing expired/closed on jobs.elastic.co with zero form controls present."
+    }
+  ]
+}

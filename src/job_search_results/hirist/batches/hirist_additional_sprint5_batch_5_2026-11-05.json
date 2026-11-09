@@ -1,0 +1,352 @@
+{
+  "worker": 5,
+  "sprint": 5,
+  "target_applied": 12,
+  "total_jobs": 17,
+  "jobs": [
+    {
+      "id": 1666551,
+      "title": "Haptik - Software Development Engineer II - Backend Architecture",
+      "company": "Haptik",
+      "min": 3,
+      "max": 6,
+      "exp": "3-6 yrs",
+      "location": "Mumbai | Navi Mumbai",
+      "tags": [
+        "Backend Architecture",
+        "Python",
+        "OOPS",
+        "Data Structure",
+        "Algorithm",
+        "REST API",
+        "Distributed Systems",
+        "Microservices Architecture",
+        "MySQL",
+        "PostgreSQL"
+      ],
+      "createdTime": 1787769000000
+    },
+    {
+      "id": 1665631,
+      "title": "Software Development Engineer II - Python",
+      "company": "Ensemble Health Partners",
+      "min": 3,
+      "max": 5,
+      "exp": "3-5 yrs",
+      "location": "Hyderabad",
+      "tags": [
+        "RPA",
+        "RPA Apps",
+        "RPA Tools",
+        "Python",
+        "Workflows",
+        "LLM",
+        "Citrix",
+        "REST API",
+        "OOPS",
+        "SQL Server"
+      ],
+      "createdTime": 1787509800000
+    },
+    {
+      "id": 1670331,
+      "title": "SatSure - Software Development Engineer II - Java/Python",
+      "company": "SatSure",
+      "min": 3,
+      "max": 7,
+      "exp": "3-7 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "Python",
+        "Java",
+        "Backend Architecture",
+        "RESTful API",
+        "NoSQL",
+        "AWS",
+        "Distributed Systems"
+      ],
+      "createdTime": 1788978600000
+    },
+    {
+      "id": 1669079,
+      "title": "C++ Developer - Multiprocessing & Multithreading",
+      "company": "VASINFOTEC ",
+      "min": 3,
+      "max": 5,
+      "exp": "3-5 yrs",
+      "location": "Mumbai",
+      "tags": [
+        "C++",
+        "Linux",
+        "Multithreading",
+        "Socket Programming",
+        "Solution Design",
+        "MySQL",
+        "OOPS",
+        "Application Integration",
+        "Design Patterns",
+        "Application Designing"
+      ],
+      "createdTime": 1788719400000
+    },
+    {
+      "id": 1666184,
+      "title": "OZI - Backend Engineer - Java/Node.js",
+      "company": "OZI Technologies",
+      "min": 3,
+      "max": 5,
+      "exp": "3-5 yrs",
+      "location": "Gurgaon/Gurugram",
+      "tags": [
+        "Java",
+        "Node.js",
+        "Microservices Architecture",
+        "Distributed Systems",
+        "RESTful Webservices"
+      ],
+      "createdTime": 1787682600000
+    },
+    {
+      "id": 1662835,
+      "title": "Trendlyne - Senior Python Developer - Django/Flask",
+      "company": "Giskard Datatech",
+      "min": 3,
+      "max": 5,
+      "exp": "3-5 yrs",
+      "location": "Bangalore",
+      "tags": [
+        "Python",
+        "Django",
+        "Flask",
+        "PostgreSQL",
+        "FastAPI",
+        "SQL",
+        "Redis",
+        "REST API",
+        "Backend Architecture"
+      ],
+      "createdTime": 1786559400000
+    },
+    {
+      "id": 1662143,
+      "title": "Garmin - Software Development Engineer - Python/Node.js",
+      "company": "Garmin Technologies",
+      "min": 3,
+      "max": 8,
+      "exp": "3-8 yrs",
+      "location": "Hyderabad",
+      "tags": [
+        "Python",
+        "Node.js",
+        "REST API",
+        "SQL Server",
+        "HBase",
+        "API",
+        "NoSQL",
+        "Microservices Architecture",
+        "Cloud Services"
+      ],
+      "createdTime": 1786386600000
+    },
+    {
+      "id": 1661997,
+      "title": "Antino Labs - Backend Developer - Node.js",
+      "company": "Antino",
+      "min": 3,
+      "max": 6,
+      "exp": "3-6 yrs",
+      "location": "Bangalore | Gurgaon/Gurugram",
+      "tags": [
+        "Node.js",
+        "NestJS",
+        "Microservices Architecture",
+        "Kafka",
+        "Redis",
+        "NoSQL",
+        "MongoDB",
+        "DynamoDB"
+      ],
+      "createdTime": 1786386600000
+    },
+    {
+      "id": 1677186,
+      "title": "Verona Matchmaking - Senior Backend Engineer - Node.js/Rust",
+      "company": "VERONA JUPITER PRIVATE LIMITED",
+      "min": 3,
+      "max": 5,
+      "exp": "3-5 yrs",
+      "location": "Gurgaon/Gurugram",
+      "tags": [
+        "Node.js",
+        "MongoDB",
+        "Rust",
+        "Python",
+        "Microservices Architecture",
+        "Golang",
+        "Backend Architecture"
+      ],
+      "createdTime": 1791311400000
+    },
+    {
+      "id": 1676905,
+      "title": "Software Development Engineer - Backend Architecture - Node.js/TypeScript",
+      "company": "ConsultBae",
+      "min": 3,
+      "max": 6,
+      "exp": "3-6 yrs",
+      "location": "Mumbai",
+      "tags": [
+        "Node.js",
+        "TypeScript",
+        "RESTful API",
+        "NestJS",
+        "Backend Architecture",
+        "Microservices Architecture"
+      ],
+      "createdTime": 1791225000000
+    },
+    {
+      "id": 1676768,
+      "title": "Senior Software Engineer - Java",
+      "company": "TalentGen Advisory LLP",
+      "min": 3,
+      "max": 7,
+      "exp": "3-7 yrs",
+      "location": "Gurgaon/Gurugram",
+      "tags": [
+        "Backend Architecture",
+        "Java",
+        "RESTful API",
+        "OOPS",
+        "Spring Frameworks",
+        "SQL",
+        "RDBMS",
+        "Microservices Architecture",
+        "MySQL",
+        "Kafka"
+      ],
+      "createdTime": 1791225000000
+    },
+    {
+      "id": 1676682,
+      "title": "Circular Angle - Software Developer - .Net Technologies",
+      "company": "Circular Angle",
+      "min": 3,
+      "max": 5,
+      "exp": "3-5 yrs",
+      "location": "Mumbai | Navi Mumbai | Thane",
+      "tags": [
+        ".Net",
+        "C#",
+        "ASP",
+        "AngularJS",
+        "Node.js",
+        "Javascript",
+        "Full Stack",
+        "SQL Server",
+        "MVC",
+        "WebAPI"
+      ],
+      "createdTime": 1791138600000
+    },
+    {
+      "id": 1676493,
+      "title": "Software Developer - .Net/C#",
+      "company": "Jobs & Ladder",
+      "min": 3,
+      "max": 7,
+      "exp": "3-7 yrs",
+      "location": "Anywhere in India/Multiple Locations | Remote",
+      "tags": [
+        "C#",
+        ".Net Core",
+        "SQL Server",
+        "RESTful API",
+        "Node.js",
+        "AWS",
+        "ASP",
+        "Distributed Systems",
+        "System Architecture",
+        "MVC"
+      ],
+      "createdTime": 1790965800000
+    },
+    {
+      "id": 1675973,
+      "title": "Auroville Investment Management - Software Development Engineer - Full Stack",
+      "company": "Auro Digital INC",
+      "min": 3,
+      "max": 6,
+      "exp": "3-6 yrs",
+      "location": "Bangalore | Delhi NCR",
+      "tags": [
+        "C++",
+        "Golang",
+        "Rust",
+        "Full Stack",
+        "Microservices Architecture",
+        "Distributed Systems",
+        "Data Structure",
+        "Algorithm",
+        "REST API",
+        "React.js",
+        "Javascript"
+      ],
+      "createdTime": 1790706600000
+    },
+    {
+      "id": 1675962,
+      "title": "Java/Niagara Consultant",
+      "company": "Xohani Solutions Pvt. Ltd.",
+      "min": 3,
+      "max": 4,
+      "exp": "3-4 yrs",
+      "location": "Pune",
+      "tags": [
+        "Java",
+        "Niagara Framework",
+        "TypeScript",
+        "BACnet",
+        "Modbus"
+      ],
+      "createdTime": 1790706600000
+    },
+    {
+      "id": 1675921,
+      "title": "Creditsafe - Backend Engineer - Python/AWS",
+      "company": "CREDITSAFE TECHNOLOGY",
+      "min": 3,
+      "max": 8,
+      "exp": "3-8 yrs",
+      "location": "Hyderabad",
+      "tags": [
+        "Backend Architecture",
+        "Python",
+        "AWS",
+        "FastAPI",
+        "Flask",
+        "PostgreSQL"
+      ],
+      "createdTime": 1790706600000
+    },
+    {
+      "id": 1675662,
+      "title": "Josys - Senior Software Engineer - Node.js/Ruby on Rails",
+      "company": "Josys",
+      "min": 3,
+      "max": 7,
+      "exp": "3-7 yrs",
+      "location": "Bangalore | Karnataka",
+      "tags": [
+        "Node.js",
+        "Javascript",
+        "TypeScript",
+        "Ruby on Rails",
+        "Ruby Programming",
+        "Sidekiq",
+        "REST API"
+      ],
+      "createdTime": 1790620200000
+    }
+  ]
+}

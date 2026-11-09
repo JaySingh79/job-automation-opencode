@@ -1,0 +1,92 @@
+[
+  {
+    "company": "Darwinbox",
+    "name": "Suman Lakkimsetty",
+    "title": "Talent Acquisition Leader",
+    "category": "Talent Acquisition",
+    "email": "suman.l@darwinbox.in",
+    "status": "VERIFIED",
+    "method": "SMTP"
+  },
+  {
+    "company": "Darwinbox",
+    "name": "Shravan Kumar Dullur",
+    "title": "Head of Human Resources",
+    "category": "Talent Acquisition & HR",
+    "email": "shravan.d@darwinbox.in",
+    "status": "VERIFIED",
+    "method": "SMTP"
+  },
+  {
+    "company": "Darwinbox",
+    "name": "Sanika Bhawalkar",
+    "title": "Manager - Human Resources",
+    "category": "Talent Acquisition & HR",
+    "email": "sanika.b@darwinbox.in",
+    "status": "VERIFIED",
+    "method": "SMTP"
+  },
+  {
+    "company": "Darwinbox",
+    "name": "Sheikh Taahir Sadiq",
+    "title": "Assistant Manager - People Experience",
+    "category": "Talent Acquisition & People",
+    "email": "sheikh.taahir@darwinbox.in",
+    "status": "VERIFIED",
+    "method": "SMTP"
+  },
+  {
+    "company": "Darwinbox",
+    "name": "Dishant Patel",
+    "title": "Engineering Manager (ex-Principal)",
+    "category": "Engineering Leadership",
+    "email": "dishant.p@darwinbox.io",
+    "status": "VERIFIED",
+    "method": "SMTP"
+  },
+  {
+    "company": "Darwinbox",
+    "name": "Amit Rathod",
+    "title": "Solution Engineering Manager (AI & Enterprise)",
+    "category": "Engineering Leadership",
+    "email": "amit.r@darwinbox.in",
+    "status": "VERIFIED",
+    "method": "SMTP"
+  },
+  {
+    "company": "Darwinbox",
+    "name": "Kishore Sudhamalla",
+    "title": "Associate Director UX",
+    "category": "Engineering & Product Leadership",
+    "email": "kishore.s@darwinbox.io",
+    "status": "VERIFIED",
+    "method": "SMTP"
+  },
+  {
+    "company": "Darwinbox",
+    "name": "Chaitanya Khanorkar",
+    "title": "Product Manager 2",
+    "category": "Engineering & Product Leadership",
+    "email": "chaitanya.k@darwinbox.in",
+    "status": "VERIFIED",
+    "method": "SMTP"
+  },
+  {
+    "company": "Darwinbox",
+    "name": "Namita Dhawan",
+    "title": "Senior Manager - Product Marketing",
+    "category": "Engineering & Product Leadership",
+    "email": "namita.d@darwinbox.io",
+    "status": "VERIFIED",
+    "method": "SMTP"
+  },
+  {
+    "company": "Darwinbox",
+    "name": "Aditya Ajeyendra Narayan",
+    "title": "Customer Success Manager",
+    "category": "Engineering & Product Leadership",
+    "email": "aditya.sinha@darwinbox.in",
+    "status": "VERIFIED",
+    "method": "SMTP"
+  }
+]

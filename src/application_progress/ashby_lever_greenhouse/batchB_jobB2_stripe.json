@@ -1,0 +1,10 @@
+{
+  "key": "greenhouse:stripe:7543868",
+  "org": "stripe",
+  "title": "Software Engineer, Internal Systems",
+  "url": "https://stripe.com/jobs/search?gh_jid=7543868",
+  "status": "skipped_senior_or_mismatch",
+  "reason": "JD-gate fail: minimum requirements demand 8+ years of experience designing, implementing, and operating large-scale high-performance APIs and services (Ruby/Mongo/MySQL/Redshift stack). Far above the 4+yr skip threshold and the 0-3yr batch cap; candidate has 18 months total experience.",
+  "detail": "Recon-only: opened stripe.com/careers/listing/software-engineer-internal-systems/7543868, read full JD (Bengaluru, Full time, Infrastructure & Corporate Tech team). Minimum requirement #1 = '8+ years of experience'. No apply-form navigation, no fill, no submit. Tab closed.",
+  "datetime": "2026-10-17T15:38:13+05:30"
+}

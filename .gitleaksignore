@@ -1,0 +1,2 @@
+# Gitleaks ignore list for historical commits
+6164300e0a06cfce1d45d6dcc722c12d92b907fa:.opencode/opencode.json:generic-api-key:30

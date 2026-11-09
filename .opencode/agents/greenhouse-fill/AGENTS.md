@@ -10,7 +10,7 @@ Greenhouse board (`job-boards.greenhouse.io/<org>/jobs/<id>`). Shared fill loop:
   wizard): personal info → resume/CV upload → EEO/voluntary → custom screening questions
   → Submit. The terminal control is a final Submit — never yours.
 - No account needed in past runs (CommerceIQ, Dscout, Lynx Analytics — all applied,
-  see `ats_progress.json`). If a board ever gates on login, pause for the human.
+  see `src/application_progress/ashby_lever_greenhouse/ats_progress.json`). If a board ever gates on login, pause for the human.
 
 ## 2. Resume
 
@@ -50,7 +50,7 @@ Greenhouse board (`job-boards.greenhouse.io/<org>/jobs/<id>`). Shared fill loop:
 
 `RECON → PLAN → FILL → VERIFY` per page, no call narration. Final: filled count,
 uploads, `QUEUED` items with reasons, confirmation evidence, human next action.
-Checkpoint `ats_progress.json` every 2–3 applies + `job_links.json`.
+Checkpoint `src/application_progress/ashby_lever_greenhouse/src/application_progress/ashby_lever_greenhouse/ats_progress.json` every 2–3 applies + `job_links.json`. Strictly never read/write progress files in the root of `src/application_progress/`.
 
 ## 6. unnecessary file
 - Strictly do not load any other *.md* file other that menioned in @initiate_fill.md or AGENTS.md
@@ -58,4 +58,31 @@ Checkpoint `ats_progress.json` every 2–3 applies + `job_links.json`.
 ## 7. Strict rules — 2026-10-14 (user order, no exceptions)
 - SINGLE-JOB TAB RULE (per-agent sequential, multi-agent parallel): All agents may work in parallel, but each agent must finish the current job (fill → verify → submit → close) before opening a different tab with a different application. One job at a time per agent — never parallel-fill across tabs within the same agent.
 - FRESHNESS PRE-FILTER: Strictly filter out job openings that have expired or are more than 1 month old BEFORE opening (and wasting time). Check posted/indexed date; if expired/closed/404 or >30 days old, mark SKIP-EXPIRED/STALE with reason, no navigate, no snapshot, no recon.
+- ANTI-BOT DETECTION HUMAN EMULATION (MANDATORY):
+  1. DEFINITELY SCROLL 4 TIMES: On every Greenhouse page, perform at least 4 smooth scrolls (25%, 50%, 75%, 100% of viewport) to trigger viewport observers, lazy components, and human behavior telemetry.
+  2. SEQUENTIAL TOP-TO-BOTTOM ORDER: Fill fields strictly in order: Personal info -> Resume -> Custom screener questions -> Consent checkboxes -> Demographics.
+  3. RANDOM DELAYS: Add 800ms - 2200ms randomized delays between fields and 60ms - 180ms delay between keystrokes. Never perform instantaneous bulk DOM sets.
+  4. 5 AGENTS MAX: Process at most 5 jobs/agents at a time.
 
+## 8. Hard-Won Field Knowledge & Anti-Pattern Mitigations (2026-10-18 Audit)
+
+### A. React Synthetic Event Trap
+- Setting input values directly via JS `el.value = ...` causes silent failure where fields look filled but React internal state remains blank. Always use Playwright native `page.locator().fill(...)`, `browser_fill_form`, or the prototype descriptor setter (`Object.getOwnPropertyDescriptor(HTMLInputElement.prototype, 'value').set.call(el, val)`) followed by `input`, `change`, and `blur` events.
+
+### B. Custom `react-select` Comboboxes
+- Education fields (`#school--1`, `#degree--1`, `#discipline--1`) and phone country selectors (`#country`) are frequently `react-select` widgets rather than native `<select>` tags.
+- Protocol: Focus the combobox, type the search prefix (e.g. `Indian Institute of Technology (IITKGP )`, `Bachelor's Degree`, `Materials Science & Engineering`), wait 300ms for flyout options to populate, and click the matching item.
+
+### C. Email OTP Security Modals
+- High-security tenants (Glean, Hyreo) trigger an email verification modal post-submit requesting a 6-digit security code sent to candidate email (`jays.iitkgp@gmail.com`).
+- Protocol: Never treat this as failure. Detect keywords (`security code`, `verification code`), pause, notify caller/user for the OTP code, and enter it.
+
+### D. Custom Screener Essays & AI Recruiter Consents
+- Tenants like Celonis mandate 60-80 word situational essays (e.g. resolving stakeholder disputes) and mandatory AI recruiter consent checkboxes (`ahron` AI consent, truth attestation, demographic GDPR consent).
+- Protocol: Never leave textareas empty. Draw 60-80 word factual prose directly from `work_ex_details.md` / `submission_pitch.md` (e.g. DFR-Tracer reconciliation on LangGraph) and ensure all required consent checkboxes are checked (`input.checked = true` or `click`).
+
+### E. Earned Server Confirmation Truth
+- Celonis: URL `/confirmation` + heading `Thank you for applying.` + text `Your application has been received.`
+- Pratham International: URL `/confirmation` + heading `Thank you for applying` + body `Your application has been received.`
+- Glean: URL `/confirmation` + heading `Thank you for applying.` + body `Your application has been received.`
+- Close the tab immediately upon server verification.

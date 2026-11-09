@@ -51,7 +51,49 @@ Workday guarantee.
 - Does the local `agent-browser` driver reach the same pages with a logged-in Chrome profile, and
   what breaks that the sandbox handled?
 
-### 2026-10-06 — Accenture, `accenture.wd103/AccentureCareers` — DEFERRED (user: workday-last)
+### 2026-10-29 — Deep Reconnaissance Benchmark (Mastercard, Cisco, Valeo, CorroHealth, Pitney Bowes)
+
+- **Driver**: Local Playwright headless runner with anti-bot arguments (`--disable-blink-features=AutomationControlled`).
+- **Telemetry & Ground Truth Captured**:
+  1. **Legal Notice / Cookie Overlay Gate**:
+     - Workday tenants (Valeo `valeo.wd3`, Pitney Bowes `pitneybowes.wd1`) inject a blocking banner overlay:
+       - Wrapper: `[data-automation-id="legalNotice"]`
+       - Action: Click `[data-automation-id="legalNoticeAcceptButton"]` (or `button:has-text("Accept Cookies")`) immediately upon arrival before attempting any interactions.
+  2. **Dead / Stale Requisition Detection**:
+     - When a Workday job is closed or expired, the server does **NOT** return HTTP 404; it returns HTTP 200 with title `Careers`.
+     - Fast bailout selector: `[data-automation-id="errorMessage"]` or `[data-automation-id="errorContainer"]` displaying `"The page you are looking for doesn't exist."`. Immediately close within <= 1s.
+  3. **Apply Flow & Flyout Traps**:
+     - Main CTA: `[data-automation-id="adventureButton"]` (Text: "Apply").
+     - On click, reveals sub-options:
+       - `[data-automation-id="applyManually"]` ("Apply Manually") -> PREFERRED for deterministic field control.
+       - `[data-automation-id="autofillWithResume"]` ("Autofill with Resume")
+     - **CRITICAL**: Never navigate directly to `/apply/applyManually` via URL bar without session click; Workday React Router will reset to main job posting. Must click `adventureButton` then `applyManually`.
+  4. **The 7-Step Enterprise Stepper**:
+     - Step 1 of 7: `Create Account/Sign In`
+     - Step 2 of 7: `My Information`
+     - Step 3 of 7: `My Experience`
+     - Step 4 of 7: `Application Questions 1 of 2`
+     - Step 5 of 7: `Application Questions 2 of 2`
+     - Step 6 of 7: `Voluntary Disclosures`
+     - Step 7 of 7: `Review`
+  5. **Step 1 Auth Controls & The "beecatcher" Honeypot**:
+     - Step 1 lazily hydrates 5 input elements after a 1.5s–3.0s delay:
+       - `input[data-automation-id="email"]` (Type: text)
+       - `input[data-automation-id="password"]` (Type: password)
+       - `input[data-automation-id="verifyPassword"]` (Type: password)
+       - `input[data-automation-id="createAccountCheckbox"]` (Type: checkbox)
+       - `input[data-automation-id="beecatcher"]` -> **MANDATORY HONEYPOT FILTER**. Never touch or fill `beecatcher`. Any interaction triggers silent blacklisting.
+     - Mode switcher: `[data-automation-id="signInLink"]` toggles between Sign In and Create Account.
+  6. **React 18 Prototype Setter Dispatch**:
+     - Workday inputs are controlled by React fibers. Direct `element.value = "..."` bypasses synthetic events and fails validation.
+     - Always use Playwright native `page.locator().fill(...)` or dispatch via prototype setter:
+       ```javascript
+       const setter = Object.getOwnPropertyDescriptor(window.HTMLInputElement.prototype, 'value')?.set;
+       setter.call(el, val);
+       el.dispatchEvent(new Event('input', { bubbles: true }));
+       el.dispatchEvent(new Event('change', { bubbles: true }));
+       el.dispatchEvent(new FocusEvent('blur', { bubbles: true }));
+       ```
 
 - Original req AIOC-S01655438-1 = CLOSED: live page renders `The page you are looking for doesn't exist` + `The page you requested was not found` (evaluate-verified). Per dead-req rule searched tenant instead of retrying.
 - Tenant search `?q=Computational+Science+Associate` returns 4 live India siblings, all Associate/Analyst fresher-scope: Hyderabad Associate AIOC-S01664060-1 (21d, picked), Bengaluru BDC9A Analyst AIOC-S01665345-1 / Associate AIOC-S01665344-1 / Analyst AIOC-S01665346-1 (all 25d). JD (Hyderabad): fresh graduates, 6mo-1yr, BE/BTech, Python/OOP/DSA/SQL/REST/Git/SDLC — exact 18mo profile fit.

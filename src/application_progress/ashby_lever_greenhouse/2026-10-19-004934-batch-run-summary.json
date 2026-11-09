@@ -1,0 +1,69 @@
+[
+  {
+    "status": "awaiting_human_captcha_submit",
+    "reason": "reCAPTCHA visual challenge presented on Ashby",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\harvey-captcha-challenge.png",
+    "url": "https://jobs.ashbyhq.com/harvey/7ef2c12e-dd17-4d8c-a445-bd4ebf559484/application",
+    "job_url": "https://jobs.ashbyhq.com/harvey/7ef2c12e-dd17-4d8c-a445-bd4ebf559484",
+    "company": "harvey",
+    "role": "Privacy and AI Counsel, EMEA",
+    "platform": "ashby",
+    "duration_seconds": 21.9
+  },
+  {
+    "status": "awaiting_human_otp",
+    "reason": "Greenhouse email OTP challenge presented",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\zetaglobal-otp-challenge.png",
+    "url": "https://job-boards.greenhouse.io/zetaglobal/jobs/6018572004",
+    "job_url": "https://job-boards.greenhouse.io/zetaglobal/jobs/6018572004",
+    "company": "zetaglobal",
+    "role": "Software engineer",
+    "platform": "greenhouse",
+    "duration_seconds": 39.2
+  },
+  {
+    "status": "awaiting_human_captcha_submit",
+    "reason": "hCaptcha challenge presented on Lever",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\wmg-captcha-challenge.png",
+    "url": "https://jobs.lever.co/wmg/23de721a-6770-4f63-8287-6b45c1719415/apply",
+    "job_url": "https://jobs.lever.co/wmg/23de721a-6770-4f63-8287-6b45c1719415",
+    "company": "wmg",
+    "role": "Software Engineer",
+    "platform": "lever",
+    "duration_seconds": 20.6
+  },
+  {
+    "status": "awaiting_human_captcha_submit",
+    "reason": "reCAPTCHA visual challenge presented on Ashby",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\cognition-captcha-challenge.png",
+    "url": "https://jobs.ashbyhq.com/cognition/8e4c141b-ca44-459d-a842-474f6e090da1/application",
+    "job_url": "https://jobs.ashbyhq.com/cognition/8e4c141b-ca44-459d-a842-474f6e090da1",
+    "company": "cognition",
+    "role": "Applied AI Engineer - ANZ",
+    "platform": "ashby",
+    "duration_seconds": 19.2
+  },
+  {
+    "status": "VALIDATION_FAILED",
+    "url": "https://www.kaseya.com/careers/jobs/id/6092235004/?gh_jid=6092235004",
+    "evidence": "your peers cut costs by 33% without adding headcount. here's how. nov.4. reserve your spot\nplatform\nsolutions\nresources\ncustomers\ncompany\nsupport\nlogin\nget a demo\n\nbangalore, india\n\ntechnical support engineer\napply now\n\nabout kaseya\n\nkaseya is the leading provider of ai-powered it management and cyb",
+    "invalid_controls": [],
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\kaseya-validation-failed.png",
+    "job_url": "https://www.kaseya.com/careers/jobs/id/6092235004/?gh_jid=6092235004",
+    "company": "kaseya",
+    "role": "Technical Support Engineer",
+    "platform": "greenhouse",
+    "duration_seconds": 17.6
+  },
+  {
+    "status": "awaiting_human_captcha_submit",
+    "reason": "hCaptcha challenge presented on Lever",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\clovirtualfashion-captcha-challenge.png",
+    "url": "https://jobs.lever.co/clovirtualfashion/3ea38dd9-ced9-4631-962c-bb9b5dd2cb99/apply",
+    "job_url": "https://jobs.lever.co/clovirtualfashion/3ea38dd9-ced9-4631-962c-bb9b5dd2cb99",
+    "company": "clovirtualfashion",
+    "role": "Back-end Developer",
+    "platform": "lever",
+    "duration_seconds": 18.9
+  }
+]

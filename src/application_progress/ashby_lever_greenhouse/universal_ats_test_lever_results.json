@@ -1,0 +1,315 @@
+{
+  "timestamp": "2026-10-20 03:16:53.166945",
+  "mode": "test",
+  "summary": {
+    "lever": {
+      "total_evaluated": 30,
+      "active_total": 30,
+      "passed": 30,
+      "dead_skipped": 0,
+      "failed": 0
+    }
+  },
+  "results": [
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 17,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\lever_jobs_lever_co_Allata_a0eb9210-f90b-4a71-9107-765fb4848001.png",
+      "ats": "lever",
+      "url": "https://jobs.lever.co/Allata/a0eb9210-f90b-4a71-9107-765fb4848001",
+      "elapsed_sec": 40.52
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 17,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\lever_jobs_lever_co_brillio-2_04883aa8-c6d4-4fd0-8862-5c371f8991b1.png",
+      "ats": "lever",
+      "url": "https://jobs.lever.co/brillio-2/04883aa8-c6d4-4fd0-8862-5c371f8991b1",
+      "elapsed_sec": 42.39
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 17,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\lever_jobs_lever_co_brillio-2_242c6a24-1116-4524-ae0d-bbaef31d5577.png",
+      "ats": "lever",
+      "url": "https://jobs.lever.co/brillio-2/242c6a24-1116-4524-ae0d-bbaef31d5577",
+      "elapsed_sec": 42.47
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 17,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\lever_jobs_lever_co_brillio-2_1d2ab0dd-9cf0-41d0-b2c3-dad339829747.png",
+      "ats": "lever",
+      "url": "https://jobs.lever.co/brillio-2/1d2ab0dd-9cf0-41d0-b2c3-dad339829747",
+      "elapsed_sec": 43.7
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 22,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\lever_jobs_lever_co_brillio-2_588d190c-d0b0-4718-8ea1-c380d5b17e4a.png",
+      "ats": "lever",
+      "url": "https://jobs.lever.co/brillio-2/588d190c-d0b0-4718-8ea1-c380d5b17e4a",
+      "elapsed_sec": 48.18
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 11,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\lever_jobs_lever_co_zimperium_5b35759a-d445-4fcb-b255-d719330af055.png",
+      "ats": "lever",
+      "url": "http://jobs.lever.co/zimperium/5b35759a-d445-4fcb-b255-d719330af055",
+      "elapsed_sec": 32.62
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 17,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\lever_jobs_lever_co_brillio-2_8463adae-9020-420e-80ef-1cf8ea03580d.png",
+      "ats": "lever",
+      "url": "https://jobs.lever.co/brillio-2/8463adae-9020-420e-80ef-1cf8ea03580d",
+      "elapsed_sec": 36.48
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 17,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\lever_jobs_lever_co_brillio-2_45c66f65-4e65-4393-a31e-19632415dcc1.png",
+      "ats": "lever",
+      "url": "https://jobs.lever.co/brillio-2/45c66f65-4e65-4393-a31e-19632415dcc1",
+      "elapsed_sec": 36.71
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 17,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\lever_jobs_lever_co_brillio-2_7fb2ac4a-a088-4c5d-b67d-77834786b729.png",
+      "ats": "lever",
+      "url": "https://jobs.lever.co/brillio-2/7fb2ac4a-a088-4c5d-b67d-77834786b729",
+      "elapsed_sec": 39.27
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 19,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\lever_jobs_lever_co_GoToGroup_dff2a165-d111-4542-bfec-ec3856892275.png",
+      "ats": "lever",
+      "url": "https://jobs.lever.co/GoToGroup/dff2a165-d111-4542-bfec-ec3856892275",
+      "elapsed_sec": 46.22
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 17,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\lever_jobs_lever_co_brillio-2_5685d0b6-0b57-4c73-9ea7-fee9944f8581.png",
+      "ats": "lever",
+      "url": "https://jobs.lever.co/brillio-2/5685d0b6-0b57-4c73-9ea7-fee9944f8581",
+      "elapsed_sec": 36.01
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 11,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\lever_jobs_lever_co_brainstorminc_5bba1aa1-1abb-4747-af0c-2d14731e17ab.png",
+      "ats": "lever",
+      "url": "https://jobs.lever.co/brainstorminc/5bba1aa1-1abb-4747-af0c-2d14731e17ab",
+      "elapsed_sec": 30.97
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 17,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\lever_jobs_lever_co_brillio-2_8cc1d9ff-c189-41f0-a24d-ec98be70b9ee.png",
+      "ats": "lever",
+      "url": "https://jobs.lever.co/brillio-2/8cc1d9ff-c189-41f0-a24d-ec98be70b9ee",
+      "elapsed_sec": 37.69
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 17,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\lever_jobs_lever_co_brillio-2_265bed8f-1d77-462c-b7ab-b82c4b129bd0.png",
+      "ats": "lever",
+      "url": "https://jobs.lever.co/brillio-2/265bed8f-1d77-462c-b7ab-b82c4b129bd0",
+      "elapsed_sec": 38.79
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 17,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\lever_jobs_lever_co_brillio-2_b80221e6-4c41-4025-8a5d-10a1304582d7.png",
+      "ats": "lever",
+      "url": "https://jobs.lever.co/brillio-2/b80221e6-4c41-4025-8a5d-10a1304582d7",
+      "elapsed_sec": 37.06
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 17,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\lever_jobs_lever_co_brillio-2_b186da86-5523-4bcd-b3fb-e6ce16325883.png",
+      "ats": "lever",
+      "url": "https://jobs.lever.co/brillio-2/b186da86-5523-4bcd-b3fb-e6ce16325883",
+      "elapsed_sec": 36.69
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 17,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\lever_jobs_lever_co_brillio-2_4eab5886-5daf-42f2-bdfb-e0fb8dcc8b8c.png",
+      "ats": "lever",
+      "url": "https://jobs.lever.co/brillio-2/4eab5886-5daf-42f2-bdfb-e0fb8dcc8b8c",
+      "elapsed_sec": 37.82
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 17,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\lever_jobs_lever_co_brillio-2_df0baced-8074-4381-b73e-ee029c321739.png",
+      "ats": "lever",
+      "url": "https://jobs.lever.co/brillio-2/df0baced-8074-4381-b73e-ee029c321739",
+      "elapsed_sec": 37.24
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 17,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\lever_jobs_lever_co_brillio-2_8bad52f4-2063-4b6c-8fb4-1f9b9a15a6fd.png",
+      "ats": "lever",
+      "url": "https://jobs.lever.co/brillio-2/8bad52f4-2063-4b6c-8fb4-1f9b9a15a6fd",
+      "elapsed_sec": 40.44
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 17,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\lever_jobs_lever_co_brillio-2_e83c8652-20c8-4640-93d8-cea560717ec2.png",
+      "ats": "lever",
+      "url": "https://jobs.lever.co/brillio-2/e83c8652-20c8-4640-93d8-cea560717ec2",
+      "elapsed_sec": 37.12
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 17,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\lever_jobs_lever_co_brillio-2_efc3b8ea-6a7b-42a7-8bde-d10957bde4ce.png",
+      "ats": "lever",
+      "url": "https://jobs.lever.co/brillio-2/efc3b8ea-6a7b-42a7-8bde-d10957bde4ce",
+      "elapsed_sec": 34.73
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 17,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\lever_jobs_lever_co_brillio-2_e899238d-c1f9-4196-8595-16d64cb1aff7.png",
+      "ats": "lever",
+      "url": "https://jobs.lever.co/brillio-2/e899238d-c1f9-4196-8595-16d64cb1aff7",
+      "elapsed_sec": 37.35
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 17,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\lever_jobs_lever_co_clovirtualfashion_3ea38dd9-ced9-4631-962c-bb9b5dd2cb99.png",
+      "ats": "lever",
+      "url": "https://jobs.lever.co/clovirtualfashion/3ea38dd9-ced9-4631-962c-bb9b5dd2cb99",
+      "elapsed_sec": 33.92
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 23,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\lever_jobs_lever_co_demiurgestudios_85f401d2-5242-4096-b852-2947492d0035.png",
+      "ats": "lever",
+      "url": "https://jobs.lever.co/demiurgestudios/85f401d2-5242-4096-b852-2947492d0035",
+      "elapsed_sec": 44.63
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 19,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\lever_jobs_lever_co_dlocal_e6c41d1a-c41b-4845-a40f-c75340874372.png",
+      "ats": "lever",
+      "url": "https://jobs.lever.co/dlocal/e6c41d1a-c41b-4845-a40f-c75340874372",
+      "elapsed_sec": 36.02
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 17,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\lever_jobs_lever_co_brillio-2_a11bcd0d-c116-4e59-bf61-44b36093fcec.png",
+      "ats": "lever",
+      "url": "https://jobs.lever.co/brillio-2/a11bcd0d-c116-4e59-bf61-44b36093fcec",
+      "elapsed_sec": 35.67
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 17,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\lever_jobs_lever_co_brillio-2_ae3f6073-5741-42af-8b8c-1b2779bb4a8c.png",
+      "ats": "lever",
+      "url": "https://jobs.lever.co/brillio-2/ae3f6073-5741-42af-8b8c-1b2779bb4a8c",
+      "elapsed_sec": 35.21
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 8,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\lever_jobs_lever_co_drivetrain_bc1c17bc-86ac-4f00-a1e3-0eb85aae4fdc.png",
+      "ats": "lever",
+      "url": "https://jobs.lever.co/drivetrain/bc1c17bc-86ac-4f00-a1e3-0eb85aae4fdc",
+      "elapsed_sec": 26.34
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 17,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\lever_jobs_lever_co_brillio-2_aea4d164-85a0-4ead-9778-8bbeecaa2f2e.png",
+      "ats": "lever",
+      "url": "https://jobs.lever.co/brillio-2/aea4d164-85a0-4ead-9778-8bbeecaa2f2e",
+      "elapsed_sec": 34.19
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 18,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\lever_jobs_lever_co_brillio-2_c5f8817d-bf3d-413c-8650-7779412cd495.png",
+      "ats": "lever",
+      "url": "https://jobs.lever.co/brillio-2/c5f8817d-bf3d-413c-8650-7779412cd495",
+      "elapsed_sec": 36.42
+    }
+  ]
+}

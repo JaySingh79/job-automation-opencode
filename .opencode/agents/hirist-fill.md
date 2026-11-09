@@ -49,7 +49,7 @@ orchestrator's context window.
    (or the orchestrator's passed authority) before touching POST `/job/apply`.
    Hirist Apply is ONE-CLICK with no review step — every POST is a final submit.
    If `allow_submit` is not true, collect the queue and report `READY FOR HUMAN SUBMISSION`.
-4. On finish: write queue `src/job_search_results/hirist_*.json`, applied ledger
+4. On finish: write queue `src/job_search_results/hirist/hirist_*.json`, applied ledger
    `src/applied/hirist_*.json`, fold new observations into
    `src/knowledge_source/hirist/bottlenecks.md`. Checkpoint ledgers every 2–3 applies.
 5. Return a DISTILLED payload only — never raw JSON dumps:

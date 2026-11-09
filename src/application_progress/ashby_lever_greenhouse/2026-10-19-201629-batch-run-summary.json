@@ -1,0 +1,11 @@
+[
+  {
+    "status": "FAILED",
+    "reason": "No submit button found on Greenhouse",
+    "job_url": "https://www.harness.io/company/jobs/apply?gh_jid=5239607007&gh_jid=5239607007",
+    "company": "www",
+    "role": "Direct Target Role",
+    "platform": "greenhouse",
+    "duration_seconds": 17.4
+  }
+]

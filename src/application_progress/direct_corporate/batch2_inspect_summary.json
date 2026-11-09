@@ -1,0 +1,200 @@
+[
+  {
+    "index": 1,
+    "job_id": "160926501939",
+    "company": "Crisil",
+    "title": "Associate Engineer-Gen AI",
+    "url": "https://career.crisil.com/crisil/jobview/associate-engineer-gen-ai-pune-maharashtra-india-2026083113512451",
+    "status": "error",
+    "reason": "Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://career.crisil.com/crisil/jobview/associate-engineer-gen-ai-pune-maharashtra-india-2026083113512451\nCall log:\n  - navigating to \"https://career.crisil.com/crisil/jobview/associate-engineer-gen-ai-pune-maharashtra-india-2026083113512451\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "index": 2,
+    "job_id": "260526503767",
+    "company": "Barclays",
+    "title": "Software Engineer",
+    "url": "https://search.jobs.barclays/job/pune/software-engineer/13015/95536470528",
+    "status": "error",
+    "reason": "Page.goto: Navigation to \"https://search.jobs.barclays/job/pune/software-engineer/13015/95536470528\" is interrupted by another navigation to \"chrome-error://chromewebdata/\"\nCall log:\n  - navigating to \"https://search.jobs.barclays/job/pune/software-engineer/13015/95536470528\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "index": 3,
+    "job_id": "050826503403",
+    "company": "Barclays",
+    "title": "Data Engineer ETL",
+    "url": "https://search.jobs.barclays/job/chennai/data-engineer-etl/13015/98706401312",
+    "status": "error",
+    "reason": "Page.goto: Navigation to \"https://search.jobs.barclays/job/chennai/data-engineer-etl/13015/98706401312\" is interrupted by another navigation to \"https://search.jobs.barclays/job/pune/software-engineer/13015/95536470528\"\nCall log:\n  - navigating to \"https://search.jobs.barclays/job/chennai/data-engineer-etl/13015/98706401312\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "index": 4,
+    "job_id": "060826500169",
+    "company": "Barclays",
+    "title": "Software Engineer",
+    "url": "https://search.jobs.barclays/job/pune/software-engineer/13015/98800934752",
+    "status": "error",
+    "reason": "Page.goto: Navigation to \"https://search.jobs.barclays/job/pune/software-engineer/13015/98800934752\" is interrupted by another navigation to \"https://search.jobs.barclays/job/chennai/data-engineer-etl/13015/98706401312\"\nCall log:\n  - navigating to \"https://search.jobs.barclays/job/pune/software-engineer/13015/98800934752\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "index": 5,
+    "job_id": "160326502886",
+    "company": "Barclays",
+    "title": "Software Engineer",
+    "url": "https://search.jobs.barclays/job/pune/software-engineer/13015/92717889344",
+    "status": "error",
+    "reason": "Page.goto: Navigation to \"https://search.jobs.barclays/job/pune/software-engineer/13015/92717889344\" is interrupted by another navigation to \"https://search.jobs.barclays/job/pune/software-engineer/13015/98800934752\"\nCall log:\n  - navigating to \"https://search.jobs.barclays/job/pune/software-engineer/13015/92717889344\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "index": 6,
+    "job_id": "211026501701",
+    "company": "Barclays",
+    "title": "Customer Journey Labs Software Engineer - BA4",
+    "url": "https://search.jobs.barclays/job/bengaluru/customer-journey-labs-software-engineer-ba4/13015/102153033616",
+    "status": "error",
+    "reason": "Page.goto: Navigation to \"https://search.jobs.barclays/job/bengaluru/customer-journey-labs-software-engineer-ba4/13015/102153033616\" is interrupted by another navigation to \"https://search.jobs.barclays/job/pune/software-engineer/13015/92717889344\"\nCall log:\n  - navigating to \"https://search.jobs.barclays/job/bengaluru/customer-journey-labs-software-engineer-ba4/13015/102153033616\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "index": 7,
+    "job_id": "271026501232",
+    "company": "Barclays",
+    "title": "Software Engineer",
+    "url": "https://search.jobs.barclays/job/pune/software-engineer/13015/102470599392",
+    "status": "error",
+    "reason": "Page.goto: Navigation to \"https://search.jobs.barclays/job/pune/software-engineer/13015/102470599392\" is interrupted by another navigation to \"https://search.jobs.barclays/job/bengaluru/customer-journey-labs-software-engineer-ba4/13015/102153033616\"\nCall log:\n  - navigating to \"https://search.jobs.barclays/job/pune/software-engineer/13015/102470599392\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "index": 8,
+    "job_id": "271026501227",
+    "company": "Barclays",
+    "title": "DevOps Engineer",
+    "url": "https://search.jobs.barclays/job/pune/devops-engineer/13015/102457953168",
+    "status": "error",
+    "reason": "Page.goto: Navigation to \"https://search.jobs.barclays/job/pune/devops-engineer/13015/102457953168\" is interrupted by another navigation to \"https://search.jobs.barclays/job/pune/software-engineer/13015/102470599392\"\nCall log:\n  - navigating to \"https://search.jobs.barclays/job/pune/devops-engineer/13015/102457953168\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "index": 9,
+    "job_id": "271026501222",
+    "company": "Barclays",
+    "title": "Devops Engineer",
+    "url": "https://search.jobs.barclays/job/pune/devops-engineer/13015/102470599664",
+    "status": "error",
+    "reason": "Page.goto: Navigation to \"https://search.jobs.barclays/job/pune/devops-engineer/13015/102470599664\" is interrupted by another navigation to \"https://search.jobs.barclays/job/pune/devops-engineer/13015/102457953168\"\nCall log:\n  - navigating to \"https://search.jobs.barclays/job/pune/devops-engineer/13015/102470599664\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "index": 10,
+    "job_id": "050626504089",
+    "company": "Synopsys",
+    "title": "Intern",
+    "url": "https://careers.synopsys.com/job/bengaluru/intern/44408/95298114432",
+    "status": "error",
+    "reason": "Page.goto: Navigation to \"https://careers.synopsys.com/job/bengaluru/intern/44408/95298114432\" is interrupted by another navigation to \"https://search.jobs.barclays/job/pune/devops-engineer/13015/102470599664\"\nCall log:\n  - navigating to \"https://careers.synopsys.com/job/bengaluru/intern/44408/95298114432\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "index": 11,
+    "job_id": "100626500144",
+    "company": "Synopsys",
+    "title": "Intern",
+    "url": "https://careers.synopsys.com/job/bengaluru/intern/44408/95298114432",
+    "status": "error",
+    "reason": "Page.goto: Navigation to \"https://careers.synopsys.com/job/bengaluru/intern/44408/95298114432\" is interrupted by another navigation to \"https://careers.synopsys.com/\"\nCall log:\n  - navigating to \"https://careers.synopsys.com/job/bengaluru/intern/44408/95298114432\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "index": 12,
+    "job_id": "180826501471",
+    "company": "Crisil",
+    "title": "Investor Reporting Analyst",
+    "url": "https://career.crisil.com/crisil/jobview/investor-reporting-analyst-mumbai-maharashtra-india-2026081710354953",
+    "status": "error",
+    "reason": "Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://career.crisil.com/crisil/jobview/investor-reporting-analyst-mumbai-maharashtra-india-2026081710354953\nCall log:\n  - navigating to \"https://career.crisil.com/crisil/jobview/investor-reporting-analyst-mumbai-maharashtra-india-2026081710354953\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "index": 13,
+    "job_id": "100626500143",
+    "company": "Synopsys",
+    "title": "Intern",
+    "url": "https://careers.synopsys.com/job/bengaluru/intern/44408/95298114432",
+    "status": "error",
+    "reason": "Page.goto: Navigation to \"https://careers.synopsys.com/job/bengaluru/intern/44408/95298114432\" is interrupted by another navigation to \"chrome-error://chromewebdata/\"\nCall log:\n  - navigating to \"https://careers.synopsys.com/job/bengaluru/intern/44408/95298114432\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "index": 14,
+    "job_id": "110926501820",
+    "company": "Goldman Sachs",
+    "title": "AWM Management-F&S-Analyst",
+    "url": "https://higher.gs.com/roles/184192",
+    "status": "error",
+    "reason": "Page.goto: Navigation to \"https://higher.gs.com/roles/184192\" is interrupted by another navigation to \"https://careers.synopsys.com/\"\nCall log:\n  - navigating to \"https://higher.gs.com/roles/184192\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "index": 15,
+    "job_id": "040926503730",
+    "company": "Harman International",
+    "title": "Software Engineer - Can UDS",
+    "url": "https://jobsearch.harman.com/en_US/careers/JobDetail/Software-Engineer-CAN-UDS/32726",
+    "status": "error",
+    "reason": "Page.goto: Navigation to \"https://jobsearch.harman.com/en_US/careers/JobDetail/Software-Engineer-CAN-UDS/32726\" is interrupted by another navigation to \"https://higher.gs.com/roles/184192\"\nCall log:\n  - navigating to \"https://jobsearch.harman.com/en_US/careers/JobDetail/Software-Engineer-CAN-UDS/32726\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "index": 16,
+    "job_id": "150426501582",
+    "company": "Ralph Lauren",
+    "title": "Data Engineer",
+    "url": "https://careers.ralphlauren.com/CareersCorporate/JobDetail/Business-Analytics-Analyst/51004",
+    "status": "error",
+    "reason": "Page.goto: Navigation to \"https://careers.ralphlauren.com/CareersCorporate/JobDetail/Business-Analytics-Analyst/51004\" is interrupted by another navigation to \"https://jobsearch.harman.com/en_US/careers/JobDetail/Software-Engineer-CAN-UDS/32726\"\nCall log:\n  - navigating to \"https://careers.ralphlauren.com/CareersCorporate/JobDetail/Business-Analytics-Analyst/51004\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "index": 17,
+    "job_id": "210126501240",
+    "company": "Crisil",
+    "title": "Generative AI Intern",
+    "url": "https://career.crisil.com/crisil/jobview/generative-ai-intern-pune-maharashtra-india-2026012011451279",
+    "status": "error",
+    "reason": "Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://career.crisil.com/crisil/jobview/generative-ai-intern-pune-maharashtra-india-2026012011451279\nCall log:\n  - navigating to \"https://career.crisil.com/crisil/jobview/generative-ai-intern-pune-maharashtra-india-2026012011451279\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "index": 18,
+    "job_id": "061026501908",
+    "company": "Infor",
+    "title": "Software Engineer, Associate",
+    "url": "https://careers.infor.com/en/postings/0029cdab-7f9d-4a7c-b33a-c32a2fe77160",
+    "status": "error",
+    "reason": "Page.goto: Navigation to \"https://careers.infor.com/en/postings/0029cdab-7f9d-4a7c-b33a-c32a2fe77160\" is interrupted by another navigation to \"chrome-error://chromewebdata/\"\nCall log:\n  - navigating to \"https://careers.infor.com/en/postings/0029cdab-7f9d-4a7c-b33a-c32a2fe77160\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "index": 19,
+    "job_id": "040926501623",
+    "company": "Barclays",
+    "title": "DevOps Engineer",
+    "url": "https://search.jobs.barclays/job/pune/devops-engineer/13015/100080978368",
+    "status": "error",
+    "reason": "Page.goto: Navigation to \"https://search.jobs.barclays/job/pune/devops-engineer/13015/100080978368\" is interrupted by another navigation to \"https://careers.infor.com/en/postings/0029cdab-7f9d-4a7c-b33a-c32a2fe77160\"\nCall log:\n  - navigating to \"https://search.jobs.barclays/job/pune/devops-engineer/13015/100080978368\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "index": 20,
+    "job_id": "170325501614",
+    "company": "Insight Direct India",
+    "title": "Software Licensing Consultant Sr",
+    "url": "https://careers.insight.com/careers?location=India&pid=171825771141&domain=insight.com&sort_by=relevance",
+    "status": "error",
+    "reason": "Page.goto: Navigation to \"https://careers.insight.com/careers?location=India&pid=171825771141&domain=insight.com&sort_by=relevance\" is interrupted by another navigation to \"https://search.jobs.barclays/job/pune/devops-engineer/13015/100080978368\"\nCall log:\n  - navigating to \"https://careers.insight.com/careers?location=India&pid=171825771141&domain=insight.com&sort_by=relevance\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "index": 21,
+    "job_id": "210726503741",
+    "company": "Advanced Micro Devices (AMD)",
+    "title": "Lead AI/ML Validation Engineer",
+    "url": "https://careers.amd.com/jobs/87968?lang=en-us",
+    "status": "skipped",
+    "reason": "Title contains senior/lead/principal: 'Lead AI/ML Validation Engineer'"
+  },
+  {
+    "index": 22,
+    "job_id": "300926502543",
+    "company": "Moody's Analytics",
+    "title": "Senior Financial Data Analyst",
+    "url": "https://careers.moodys.com/en/job/bengaluru/senior-financial-data-analyst/49841/101297872192",
+    "status": "skipped",
+    "reason": "Title contains senior/lead/principal: 'Senior Financial Data Analyst'"
+  }
+]

@@ -1,0 +1,707 @@
+{
+  "timestamp": "2026-10-20 03:12:27.717003",
+  "mode": "test",
+  "summary": {
+    "greenhouse": {
+      "total_evaluated": 79,
+      "active_total": 30,
+      "passed": 30,
+      "dead_skipped": 49,
+      "failed": 0
+    }
+  },
+  "results": [
+    {
+      "status": "SKIPPED_DEAD",
+      "reason": "No Greenhouse form present",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_boards_greenhouse_io_arizeai_jobs_6188488004.png",
+      "ats": "greenhouse",
+      "url": "https://boards.greenhouse.io/arizeai/jobs/6188488004",
+      "elapsed_sec": 16.96
+    },
+    {
+      "status": "SKIPPED_DEAD",
+      "reason": "No Greenhouse form present",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_boards_greenhouse_io_datacor_jobs_5226246007.png",
+      "ats": "greenhouse",
+      "url": "https://boards.greenhouse.io/datacor/jobs/5226246007",
+      "elapsed_sec": 14.46
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 7,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_enterpret_jobs_7580532003.png",
+      "ats": "greenhouse",
+      "url": "http://job-boards.greenhouse.io/enterpret/jobs/7580532003",
+      "elapsed_sec": 32.66
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 9,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_lynxanalytics_jobs_8647303002.png",
+      "ats": "greenhouse",
+      "url": "http://job-boards.greenhouse.io/lynxanalytics/jobs/8647303002",
+      "elapsed_sec": 32.67
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 12,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_boards_greenhouse_io_abacusinsights_jobs_8783925002.png",
+      "ats": "greenhouse",
+      "url": "https://boards.greenhouse.io/abacusinsights/jobs/8783925002",
+      "elapsed_sec": 43.2
+    },
+    {
+      "status": "SKIPPED_DEAD",
+      "reason": "No Greenhouse form present",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_boards_greenhouse_io_extrahopnetworks_jobs_6162230004.png",
+      "ats": "greenhouse",
+      "url": "https://boards.greenhouse.io/extrahopnetworks/jobs/6162230004",
+      "elapsed_sec": 15.19
+    },
+    {
+      "status": "SKIPPED_DEAD",
+      "reason": "No Greenhouse form present",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_boards_greenhouse_io_scaleai_jobs_4732430005.png",
+      "ats": "greenhouse",
+      "url": "https://boards.greenhouse.io/scaleai/jobs/4732430005",
+      "elapsed_sec": 14.55
+    },
+    {
+      "status": "SKIPPED_DEAD",
+      "reason": "No Greenhouse form present",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_affirm_jobs_8017340003.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8017340003",
+      "elapsed_sec": 14.94
+    },
+    {
+      "status": "SKIPPED_DEAD",
+      "reason": "No Greenhouse form present",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_anaplan_jobs_8571210002.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/anaplan/jobs/8571210002",
+      "elapsed_sec": 15.16
+    },
+    {
+      "status": "SKIPPED_DEAD",
+      "reason": "No Greenhouse form present",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_anaplan_jobs_8686852002.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/anaplan/jobs/8686852002",
+      "elapsed_sec": 16.06
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 20,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_doordashindia_jobs_5856393.png",
+      "ats": "greenhouse",
+      "url": "http://job-boards.greenhouse.io/doordashindia/jobs/5856393",
+      "elapsed_sec": 67.15
+    },
+    {
+      "status": "SKIPPED_DEAD",
+      "reason": "No Greenhouse form present",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_anaplan_jobs_8571200002.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/anaplan/jobs/8571200002",
+      "elapsed_sec": 14.53
+    },
+    {
+      "status": "SKIPPED_DEAD",
+      "reason": "No Greenhouse form present",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_anaplan_jobs_8772322002.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/anaplan/jobs/8772322002",
+      "elapsed_sec": 15.47
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 16,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_boards_greenhouse_io_oscar_jobs_8188906.png",
+      "ats": "greenhouse",
+      "url": "https://boards.greenhouse.io/oscar/jobs/8188906",
+      "elapsed_sec": 49.54
+    },
+    {
+      "status": "SKIPPED_DEAD",
+      "reason": "No Greenhouse form present",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_anaplan_jobs_8650329002.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/anaplan/jobs/8650329002",
+      "elapsed_sec": 14.69
+    },
+    {
+      "status": "SKIPPED_DEAD",
+      "reason": "No Greenhouse form present",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_appian_jobs_8053020.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/appian/jobs/8053020",
+      "elapsed_sec": 13.5
+    },
+    {
+      "status": "SKIPPED_DEAD",
+      "reason": "No Greenhouse form present",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_appian_jobs_8047813.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/appian/jobs/8047813",
+      "elapsed_sec": 14.16
+    },
+    {
+      "status": "SKIPPED_DEAD",
+      "reason": "No Greenhouse form present",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_arizeai_jobs_6203648004.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/arizeai/jobs/6203648004",
+      "elapsed_sec": 13.66
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 29,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_boards_greenhouse_io_spacex_jobs_8465286002.png",
+      "ats": "greenhouse",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8465286002",
+      "elapsed_sec": 73.4
+    },
+    {
+      "status": "SKIPPED_DEAD",
+      "reason": "No Greenhouse form present",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_bswiftindia_jobs_4684070006.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/bswiftindia/jobs/4684070006",
+      "elapsed_sec": 14.66
+    },
+    {
+      "status": "SKIPPED_DEAD",
+      "reason": "No Greenhouse form present",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_bswiftindia_jobs_4714421006.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/bswiftindia/jobs/4714421006",
+      "elapsed_sec": 14.32
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 16,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_bitgo_jobs_7344201002.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/bitgo/jobs/7344201002",
+      "elapsed_sec": 51.93
+    },
+    {
+      "status": "SKIPPED_DEAD",
+      "reason": "No Greenhouse form present",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_bswiftindia_jobs_4699956006.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/bswiftindia/jobs/4699956006",
+      "elapsed_sec": 14.98
+    },
+    {
+      "status": "SKIPPED_DEAD",
+      "reason": "No Greenhouse form present",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_celonis_jobs_7635190003.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7635190003",
+      "elapsed_sec": 16.19
+    },
+    {
+      "status": "SKIPPED_DEAD",
+      "reason": "No Greenhouse form present",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_celonis_jobs_7784391003.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7784391003",
+      "elapsed_sec": 16.65
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 29,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_boards_greenhouse_io_spacex_jobs_8716925002.png",
+      "ats": "greenhouse",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8716925002",
+      "elapsed_sec": 96.74
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 19,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_celonis_jobs_7886062003.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7886062003",
+      "elapsed_sec": 45.48
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 16,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_bitgo_jobs_7429337002.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/bitgo/jobs/7429337002",
+      "elapsed_sec": 52.81
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 16,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_bitgo_jobs_8879340002.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/bitgo/jobs/8879340002",
+      "elapsed_sec": 50.89
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 17,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_bitgo_jobs_8869949002.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/bitgo/jobs/8869949002",
+      "elapsed_sec": 49.67
+    },
+    {
+      "status": "SKIPPED_DEAD",
+      "reason": "No Greenhouse form present",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_enterpret_jobs_7580532003.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/enterpret/jobs/7580532003",
+      "elapsed_sec": 15.25
+    },
+    {
+      "status": "SKIPPED_DEAD",
+      "reason": "No Greenhouse form present",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_doordashindia_jobs_5856393.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/doordashindia/jobs/5856393",
+      "elapsed_sec": 16.71
+    },
+    {
+      "status": "SKIPPED_DEAD",
+      "reason": "No Greenhouse form present",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_extrahopnetworks_jobs_6216038004.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/extrahopnetworks/jobs/6216038004",
+      "elapsed_sec": 14.94
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 8,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_dscout_jobs_4379515009.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/dscout/jobs/4379515009",
+      "elapsed_sec": 32.04
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 8,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_enterpret_jobs_7847134003.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/enterpret/jobs/7847134003",
+      "elapsed_sec": 33.49
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 15,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_gitlab_jobs_8843512002.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8843512002",
+      "elapsed_sec": 43.91
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 26,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_extrahopnetworks_jobs_6130301004.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/extrahopnetworks/jobs/6130301004",
+      "elapsed_sec": 75.97
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 21,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_gitlab_jobs_8684061002.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8684061002",
+      "elapsed_sec": 62.64
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 19,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_gitlab_jobs_8775507002.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8775507002",
+      "elapsed_sec": 53.72
+    },
+    {
+      "status": "SKIPPED_DEAD",
+      "reason": "No Greenhouse form present",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_gleanwork_jobs_4739203005.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4739203005",
+      "elapsed_sec": 14.17
+    },
+    {
+      "status": "SKIPPED_DEAD",
+      "reason": "No Greenhouse form present",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_gleanwork_jobs_4012745005.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4012745005",
+      "elapsed_sec": 14.18
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 18,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_gitlab_jobs_8867756002.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8867756002",
+      "elapsed_sec": 59.36
+    },
+    {
+      "status": "SKIPPED_DEAD",
+      "reason": "No Greenhouse form present",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_gleanwork_jobs_4739466005.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4739466005",
+      "elapsed_sec": 15.43
+    },
+    {
+      "status": "SKIPPED_DEAD",
+      "reason": "No Greenhouse form present",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_gravitonresearchcapital_jobs_5099344002.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/5099344002",
+      "elapsed_sec": 14.06
+    },
+    {
+      "status": "SKIPPED_DEAD",
+      "reason": "No Greenhouse form present",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_gravitonresearchcapital_jobs_4004920002.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/4004920002",
+      "elapsed_sec": 14.24
+    },
+    {
+      "status": "SKIPPED_DEAD",
+      "reason": "No Greenhouse form present",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_gravitonresearchcapital_jobs_8147013002.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8147013002",
+      "elapsed_sec": 13.88
+    },
+    {
+      "status": "SKIPPED_DEAD",
+      "reason": "No Greenhouse form present",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_gravitonresearchcapital_jobs_8456543002.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8456543002",
+      "elapsed_sec": 13.15
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 29,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_gitlab_jobs_8861748002.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8861748002",
+      "elapsed_sec": 60.86
+    },
+    {
+      "status": "SKIPPED_DEAD",
+      "reason": "No Greenhouse form present",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_gravitonresearchcapital_jobs_8620641002.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8620641002",
+      "elapsed_sec": 14.03
+    },
+    {
+      "status": "SKIPPED_DEAD",
+      "reason": "No Greenhouse form present",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_gravitonresearchcapital_jobs_8781321002.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8781321002",
+      "elapsed_sec": 14.06
+    },
+    {
+      "status": "SKIPPED_DEAD",
+      "reason": "No Greenhouse form present",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_gravitonresearchcapital_jobs_8764240002.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8764240002",
+      "elapsed_sec": 15.66
+    },
+    {
+      "status": "SKIPPED_DEAD",
+      "reason": "No Greenhouse form present",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_gravitonresearchcapital_jobs_8788938002.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8788938002",
+      "elapsed_sec": 15.65
+    },
+    {
+      "status": "SKIPPED_DEAD",
+      "reason": "No Greenhouse form present",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_gravitonresearchcapital_jobs_8768396002.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8768396002",
+      "elapsed_sec": 15.72
+    },
+    {
+      "status": "SKIPPED_DEAD",
+      "reason": "No Greenhouse form present",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_hyreo_jobs_4892841004.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/hyreo/jobs/4892841004",
+      "elapsed_sec": 13.55
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 7,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_hackerrank_jobs_8229735.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/hackerrank/jobs/8229735",
+      "elapsed_sec": 27.73
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 7,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_hyreo_jobs_5162363004.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/hyreo/jobs/5162363004",
+      "elapsed_sec": 27.34
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 12,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_hackerrank_jobs_7461142.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/hackerrank/jobs/7461142",
+      "elapsed_sec": 31.12
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 17,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_hackerrank_jobs_8273522.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/hackerrank/jobs/8273522",
+      "elapsed_sec": 43.03
+    },
+    {
+      "status": "SKIPPED_DEAD",
+      "reason": "No Greenhouse form present",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_jumio_jobs_4664041005.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/jumio/jobs/4664041005",
+      "elapsed_sec": 15.62
+    },
+    {
+      "status": "SKIPPED_DEAD",
+      "reason": "No Greenhouse form present",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_gravitonresearchcapital_jobs_8794534002.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8794534002",
+      "elapsed_sec": 15.75
+    },
+    {
+      "status": "SKIPPED_DEAD",
+      "reason": "No Greenhouse form present",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_lynxanalytics_jobs_8647303002.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/lynxanalytics/jobs/8647303002",
+      "elapsed_sec": 12.33
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 7,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_hyreo_jobs_5335298004.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/hyreo/jobs/5335298004",
+      "elapsed_sec": 28.09
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 16,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_jumio_jobs_4708116005.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/jumio/jobs/4708116005",
+      "elapsed_sec": 43.68
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 20,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_jumio_jobs_4713139005.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/jumio/jobs/4713139005",
+      "elapsed_sec": 52.0
+    },
+    {
+      "status": "SKIPPED_DEAD",
+      "reason": "No Greenhouse form present",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_platformscience_jobs_8034495003.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/platformscience/jobs/8034495003",
+      "elapsed_sec": 12.92
+    },
+    {
+      "status": "SKIPPED_DEAD",
+      "reason": "No Greenhouse form present",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_lynxanalytics_jobs_8520230002.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/lynxanalytics/jobs/8520230002",
+      "elapsed_sec": 12.94
+    },
+    {
+      "status": "SKIPPED_DEAD",
+      "reason": "No Greenhouse form present",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_jumio_jobs_4713536005.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/jumio/jobs/4713536005",
+      "elapsed_sec": 13.64
+    },
+    {
+      "status": "SKIPPED_DEAD",
+      "reason": "No Greenhouse form present",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_redwoodsoftware_jobs_4361976009.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/redwoodsoftware/jobs/4361976009",
+      "elapsed_sec": 13.34
+    },
+    {
+      "status": "SKIPPED_DEAD",
+      "reason": "No Greenhouse form present",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_karat_jobs_8672663002.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/karat/jobs/8672663002",
+      "elapsed_sec": 13.59
+    },
+    {
+      "status": "SKIPPED_DEAD",
+      "reason": "No Greenhouse form present",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_prathaminternational_jobs_4453028009.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/prathaminternational/jobs/4453028009",
+      "elapsed_sec": 14.24
+    },
+    {
+      "status": "SKIPPED_DEAD",
+      "reason": "No Greenhouse form present",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_rzr_jobs_4241380009.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/rzr/jobs/4241380009",
+      "elapsed_sec": 13.98
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 15,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_redwoodsoftware_jobs_4451141009.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/redwoodsoftware/jobs/4451141009",
+      "elapsed_sec": 39.53
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 25,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_redwoodsoftware_jobs_4403355009.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/redwoodsoftware/jobs/4403355009",
+      "elapsed_sec": 58.82
+    },
+    {
+      "status": "SKIPPED_DEAD",
+      "reason": "No Greenhouse form present",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_rzr_jobs_4254732009.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/rzr/jobs/4254732009",
+      "elapsed_sec": 11.6
+    },
+    {
+      "status": "SKIPPED_DEAD",
+      "reason": "No Greenhouse form present",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_schonfeld_jobs_7843962.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/schonfeld/jobs/7843962",
+      "elapsed_sec": 13.29
+    },
+    {
+      "status": "SKIPPED_DEAD",
+      "reason": "No Greenhouse form present",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_singlestore_jobs_8000966.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/singlestore/jobs/8000966",
+      "elapsed_sec": 11.67
+    },
+    {
+      "status": "SKIPPED_DEAD",
+      "reason": "No Greenhouse form present",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_singlestore_jobs_8212152.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/singlestore/jobs/8212152",
+      "elapsed_sec": 11.34
+    },
+    {
+      "status": "SKIPPED_DEAD",
+      "reason": "No Greenhouse form present",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_singlestore_jobs_8212128.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/singlestore/jobs/8212128",
+      "elapsed_sec": 10.64
+    },
+    {
+      "invalid_count": 0,
+      "invalids": [],
+      "filled_controls_count": 14,
+      "status": "PASS_FILLED_100_PCT",
+      "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\universal_eval\\greenhouse_job-boards_greenhouse_io_skildai-careers_jobs_4136373008.png",
+      "ats": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/skildai-careers/jobs/4136373008",
+      "elapsed_sec": 27.43
+    }
+  ]
+}

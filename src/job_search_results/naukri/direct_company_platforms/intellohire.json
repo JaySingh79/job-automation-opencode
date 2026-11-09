@@ -1,0 +1,313 @@
+{
+  "platform": "intellohire",
+  "total_jobs": 14,
+  "jobs": [
+    {
+      "job_id": "240226505110",
+      "title": "Java Full Stack Developer",
+      "company": "Logic Planet",
+      "platform": "intellohire",
+      "company_site_url": "https://app.intellohire.com/public/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZXNvdXJjZSI6eyJvcmdhbml6YXRpb24iOjM5Nn19.FVmOkFldcowxdAQsyZn6uTT8Uw3axXiIbMRH360VtZc/15291/job-description",
+      "ats_domain": "app.intellohire.com",
+      "naukri_url": "https://www.naukri.com/job-listings-java-full-stack-developer-logicplanet-it-services-hubli-mangaluru-mysuru-bengaluru-belgaum-0-to-5-years-240226505110",
+      "experience": "0-5 Yrs",
+      "location": "Hubballi, Mangaluru, Mysuru, Bengaluru, Belagavi",
+      "posted_date": "3+ weeks ago",
+      "skills": [
+        "css",
+        "web services",
+        "java development",
+        "hibernate",
+        "scalability",
+        "jquery",
+        "microservices",
+        "spring"
+      ]
+    },
+    {
+      "job_id": "200226500477",
+      "title": "full stack developer",
+      "company": "Logic Planet",
+      "platform": "intellohire",
+      "company_site_url": "https://app.intellohire.com/public/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZXNvdXJjZSI6eyJvcmdhbml6YXRpb24iOjM5Nn19.FVmOkFldcowxdAQsyZn6uTT8Uw3axXiIbMRH360VtZc/12461/job-description",
+      "ats_domain": "app.intellohire.com",
+      "naukri_url": "https://www.naukri.com/job-listings-full-stack-developer-logicplanet-it-services-hyderabad-0-to-5-years-200226500477",
+      "experience": "0-5 Yrs",
+      "location": "Hyderabad",
+      "posted_date": "3+ weeks ago",
+      "skills": [
+        "spring boot",
+        "Core Java",
+        "MIN",
+        "Spring framework",
+        "Billing",
+        "Javascript",
+        "Vendor",
+        "Spring"
+      ]
+    },
+    {
+      "job_id": "240226505135",
+      "title": "MuleSoft developer",
+      "company": "Logic Planet",
+      "platform": "intellohire",
+      "company_site_url": "https://app.intellohire.com/public/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZXNvdXJjZSI6eyJvcmdhbml6YXRpb24iOjM5Nn19.FVmOkFldcowxdAQsyZn6uTT8Uw3axXiIbMRH360VtZc/21392/job-description",
+      "ats_domain": "app.intellohire.com",
+      "naukri_url": "https://www.naukri.com/job-listings-mulesoft-developer-logicplanet-it-services-hubli-mangaluru-mysuru-bengaluru-belgaum-0-to-5-years-240226505135",
+      "experience": "0-5 Yrs",
+      "location": "Hubballi, Mangaluru, Mysuru, Bengaluru, Belagavi",
+      "posted_date": "3+ weeks ago",
+      "skills": [
+        "rest",
+        "activemq",
+        "github",
+        "oracle",
+        "anypoint platform",
+        "web services",
+        "maven",
+        "sql"
+      ]
+    },
+    {
+      "job_id": "240226505116",
+      "title": "MuleSoft developer",
+      "company": "Logic Planet",
+      "platform": "intellohire",
+      "company_site_url": "https://app.intellohire.com/public/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZXNvdXJjZSI6eyJvcmdhbml6YXRpb24iOjM5Nn19.FVmOkFldcowxdAQsyZn6uTT8Uw3axXiIbMRH360VtZc/16763/job-description",
+      "ats_domain": "app.intellohire.com",
+      "naukri_url": "https://www.naukri.com/job-listings-mulesoft-developer-logicplanet-it-services-hubli-mangaluru-mysuru-bengaluru-belgaum-0-to-5-years-240226505116",
+      "experience": "0-5 Yrs",
+      "location": "Hubballi, Mangaluru, Mysuru, Bengaluru, Belagavi",
+      "posted_date": "3+ weeks ago",
+      "skills": [
+        "web services",
+        "munit",
+        "sql",
+        "coding",
+        "java",
+        "xml",
+        "jenkins",
+        "json"
+      ]
+    },
+    {
+      "job_id": "240226505156",
+      "title": "CRM 365 Developer",
+      "company": "Logic Planet",
+      "platform": "intellohire",
+      "company_site_url": "https://app.intellohire.com/public/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZXNvdXJjZSI6eyJvcmdhbml6YXRpb24iOjM5Nn19.FVmOkFldcowxdAQsyZn6uTT8Uw3axXiIbMRH360VtZc/17039/job-description",
+      "ats_domain": "app.intellohire.com",
+      "naukri_url": "https://www.naukri.com/job-listings-crm-365-developer-logicplanet-it-services-hubli-mangaluru-mysuru-bengaluru-belgaum-0-to-5-years-240226505156",
+      "experience": "0-5 Yrs",
+      "location": "Hubballi, Mangaluru, Mysuru, Bengaluru, Belagavi",
+      "posted_date": "3+ weeks ago",
+      "skills": [
+        "c#",
+        "python",
+        "project management",
+        "oracle",
+        "ms dynamics crm",
+        "microsoft dynamics",
+        "business analysis",
+        "solution development"
+      ]
+    },
+    {
+      "job_id": "240226505065",
+      "title": "BMC ITSM Remedy developers",
+      "company": "Logic Planet",
+      "platform": "intellohire",
+      "company_site_url": "https://app.intellohire.com/public/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZXNvdXJjZSI6eyJvcmdhbml6YXRpb24iOjM5Nn19.FVmOkFldcowxdAQsyZn6uTT8Uw3axXiIbMRH360VtZc/16808/job-description",
+      "ats_domain": "app.intellohire.com",
+      "naukri_url": "https://www.naukri.com/job-listings-bmc-itsm-remedy-developers-logicplanet-it-services-hubli-mangaluru-mysuru-bengaluru-belgaum-0-to-5-years-240226505065",
+      "experience": "0-5 Yrs",
+      "location": "Hubballi, Mangaluru, Mysuru, Bengaluru, Belagavi",
+      "posted_date": "3+ weeks ago",
+      "skills": [
+        "cmdb",
+        "remedy developer",
+        "ar system",
+        "remedy",
+        "problem management",
+        "change management",
+        "service request management",
+        "bmc remedy"
+      ]
+    },
+    {
+      "job_id": "240226505147",
+      "title": "Java Developer 8",
+      "company": "Logic Planet",
+      "platform": "intellohire",
+      "company_site_url": "https://app.intellohire.com/public/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZXNvdXJjZSI6eyJvcmdhbml6YXRpb24iOjM5Nn19.FVmOkFldcowxdAQsyZn6uTT8Uw3axXiIbMRH360VtZc/20498/job-description",
+      "ats_domain": "app.intellohire.com",
+      "naukri_url": "https://www.naukri.com/job-listings-java-developer-8-logicplanet-it-services-mumbai-nagpur-thane-nashik-pune-aurangabad-0-to-5-years-240226505147",
+      "experience": "0-5 Yrs",
+      "location": "Mumbai, Nagpur, Thane, Nashik, Pune, Chhatrapati Sambhajinagar",
+      "posted_date": "3+ weeks ago",
+      "skills": [
+        "rest",
+        "junit",
+        "software development",
+        "web services",
+        "jsp",
+        "maven",
+        "java development",
+        "jdbc"
+      ]
+    },
+    {
+      "job_id": "240226505163",
+      "title": "Java Developer 8",
+      "company": "Logic Planet",
+      "platform": "intellohire",
+      "company_site_url": "https://app.intellohire.com/public/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZXNvdXJjZSI6eyJvcmdhbml6YXRpb24iOjM5Nn19.FVmOkFldcowxdAQsyZn6uTT8Uw3axXiIbMRH360VtZc/20979/job-description",
+      "ats_domain": "app.intellohire.com",
+      "naukri_url": "https://www.naukri.com/job-listings-java-developer-8-logicplanet-it-services-mumbai-nagpur-thane-nashik-pune-aurangabad-0-to-5-years-240226505163",
+      "experience": "0-5 Yrs",
+      "location": "Mumbai, Nagpur, Thane, Nashik, Pune, Chhatrapati Sambhajinagar",
+      "posted_date": "3+ weeks ago",
+      "skills": [
+        "web services",
+        "jsp",
+        "java development",
+        "jdbc",
+        "hibernate",
+        "apache tomcat",
+        "microservices",
+        "sql"
+      ]
+    },
+    {
+      "job_id": "240226504891",
+      "title": "SNOW Developer",
+      "company": "Logic Planet",
+      "platform": "intellohire",
+      "company_site_url": "https://app.intellohire.com/public/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZXNvdXJjZSI6eyJvcmdhbml6YXRpb24iOjM5Nn19.FVmOkFldcowxdAQsyZn6uTT8Uw3axXiIbMRH360VtZc/21394/job-description",
+      "ats_domain": "app.intellohire.com",
+      "naukri_url": "https://www.naukri.com/job-listings-snow-developer-logicplanet-it-services-mumbai-nagpur-thane-nashik-pune-aurangabad-0-to-5-years-240226504891",
+      "experience": "0-5 Yrs",
+      "location": "Mumbai, Nagpur, Thane, Nashik, Pune, Chhatrapati Sambhajinagar",
+      "posted_date": "3+ weeks ago",
+      "skills": [
+        "Karnataka",
+        "Tamil Nadu",
+        "SNOW DeveloperMaharashtra",
+        "Uttar Pradesh",
+        "Tamil",
+        "Development",
+        "Snow Development",
+        "Snow"
+      ]
+    },
+    {
+      "job_id": "240226504890",
+      "title": "Angular Developer",
+      "company": "Logic Planet",
+      "platform": "intellohire",
+      "company_site_url": "https://app.intellohire.com/public/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZXNvdXJjZSI6eyJvcmdhbml6YXRpb24iOjM5Nn19.FVmOkFldcowxdAQsyZn6uTT8Uw3axXiIbMRH360VtZc/21364/job-description",
+      "ats_domain": "app.intellohire.com",
+      "naukri_url": "https://www.naukri.com/job-listings-angular-developer-logicplanet-it-services-mumbai-nagpur-thane-nashik-pune-aurangabad-0-to-5-years-240226504890",
+      "experience": "0-5 Yrs",
+      "location": "Mumbai, Nagpur, Thane, Nashik, Pune, Chhatrapati Sambhajinagar",
+      "posted_date": "3+ weeks ago",
+      "skills": [
+        "Angular DeveloperMaharashtra",
+        "Karnataka",
+        "Tamil Nadu",
+        "Uttar Pradesh",
+        "Angular Development",
+        "Development",
+        "Angular",
+        "Tamil"
+      ]
+    },
+    {
+      "job_id": "210226502509",
+      "title": "Full Stack Python Developer",
+      "company": "Logic Planet",
+      "platform": "intellohire",
+      "company_site_url": "https://app.intellohire.com/public/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZXNvdXJjZSI6eyJvcmdhbml6YXRpb24iOjM5Nn19.FVmOkFldcowxdAQsyZn6uTT8Uw3axXiIbMRH360VtZc/20769/job-description",
+      "ats_domain": "app.intellohire.com",
+      "naukri_url": "https://www.naukri.com/job-listings-full-stack-python-developer-logicplanet-it-services-new-delhi-0-to-1-years-210226502509",
+      "experience": "0-1 Yrs",
+      "location": "New Delhi",
+      "posted_date": "3+ weeks ago",
+      "skills": [
+        "stack",
+        "python",
+        "management",
+        "developer",
+        "full",
+        "Development",
+        "Full Stack"
+      ]
+    },
+    {
+      "job_id": "240226505143",
+      "title": "Power Automate Developer",
+      "company": "Logic Planet",
+      "platform": "intellohire",
+      "company_site_url": "https://app.intellohire.com/public/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZXNvdXJjZSI6eyJvcmdhbml6YXRpb24iOjM5Nn19.FVmOkFldcowxdAQsyZn6uTT8Uw3axXiIbMRH360VtZc/16609/job-description",
+      "ats_domain": "app.intellohire.com",
+      "naukri_url": "https://www.naukri.com/job-listings-power-automate-developer-logicplanet-it-services-madurai-tiruppur-salem-chennai-tiruchirapalli-coimbatore-0-to-5-years-240226505143",
+      "experience": "0-5 Yrs",
+      "location": "Madurai, Tiruppur, Salem, Chennai, Tiruchirappalli, Coimbatore",
+      "posted_date": "3+ weeks ago",
+      "skills": [
+        "python",
+        "rpa",
+        "hmi",
+        "automation testing",
+        "plc",
+        "automation anywhere",
+        "robotics",
+        "electrical engineering"
+      ]
+    },
+    {
+      "job_id": "240226505137",
+      "title": "RPA Developer",
+      "company": "Logic Planet",
+      "platform": "intellohire",
+      "company_site_url": "https://app.intellohire.com/public/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZXNvdXJjZSI6eyJvcmdhbml6YXRpb24iOjM5Nn19.FVmOkFldcowxdAQsyZn6uTT8Uw3axXiIbMRH360VtZc/21326/job-description",
+      "ats_domain": "app.intellohire.com",
+      "naukri_url": "https://www.naukri.com/job-listings-rpa-developer-logicplanet-it-services-hubli-mangaluru-mysuru-bengaluru-belgaum-0-to-5-years-240226505137",
+      "experience": "0-5 Yrs",
+      "location": "Hubballi, Mangaluru, Mysuru, Bengaluru, Belagavi",
+      "posted_date": "3+ weeks ago",
+      "skills": [
+        "rpas",
+        "automation anywhere",
+        "robotics",
+        "rpa tool",
+        "blue prism",
+        "rpa development",
+        "sql",
+        "automation"
+      ]
+    },
+    {
+      "job_id": "240226505128",
+      "title": "ETL Developer with Pyspark",
+      "company": "Logic Planet",
+      "platform": "intellohire",
+      "company_site_url": "https://app.intellohire.com/public/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZXNvdXJjZSI6eyJvcmdhbml6YXRpb24iOjM5Nn19.FVmOkFldcowxdAQsyZn6uTT8Uw3axXiIbMRH360VtZc/21356/job-description",
+      "ats_domain": "app.intellohire.com",
+      "naukri_url": "https://www.naukri.com/job-listings-etl-developer-with-pyspark-logicplanet-it-services-hubli-mangaluru-mysuru-bengaluru-belgaum-0-to-5-years-240226505128",
+      "experience": "0-5 Yrs",
+      "location": "Hubballi, Mangaluru, Mysuru, Bengaluru, Belagavi",
+      "posted_date": "3+ weeks ago",
+      "skills": [
+        "hive",
+        "python",
+        "oracle",
+        "data validation",
+        "data processing",
+        "pyspark",
+        "data warehousing",
+        "data pipeline"
+      ]
+    }
+  ]
+}

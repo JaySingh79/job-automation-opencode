@@ -1,0 +1,22 @@
+{
+  "company": "Paisabazaar",
+  "role": "Data Scientist",
+  "platform": "Google Forms",
+  "url": "https://docs.google.com/forms/d/e/1FAIpQLSfznDBuHa_6XLb0Wh-XhMTCt1kWd0Nmezpst4vOOiq03oujhw/viewform",
+  "status": "ready_for_human_submission",
+  "staged_at": "2026-10-29T16:08:50+05:30",
+  "filled_fields": {
+    "name": "Jay Singh",
+    "contact_number": "+91-8651274328",
+    "email": "jays.iitkgp@gmail.com",
+    "overall_industrial_experience": "1.5 years",
+    "current_organization": "Pibit AI",
+    "current_ctc_lpa": "18",
+    "expected_ctc_lpa": "22",
+    "alternate_offer_lpa": "0",
+    "notice_period": "Immediate",
+    "work_from_office_gurgaon": "Yes",
+    "current_location": "Gaya, Bihar",
+    "resume_file": "Jay Resume GenAI+DS 5th Aug.pdf (Uploaded)"
+  }
+}

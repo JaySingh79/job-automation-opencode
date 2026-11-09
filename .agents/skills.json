@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "path": ".agents/skills"
+    },
+    {
+      "path": ".claude/skills"
+    },
+    {
+      "path": "C:/Users/binit/.config/opencode/skills"
+    }
+  ]
+}

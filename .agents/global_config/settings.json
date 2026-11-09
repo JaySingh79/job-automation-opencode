@@ -1,0 +1,6 @@
+{
+  "permissionPreset": "turbo",
+  "enableTerminalSandbox": false,
+  "nonWorkspaceFileAccess": "deny",
+  "internetAccess": "allow"
+}

@@ -1,0 +1,68 @@
+[
+  {
+    "status": "awaiting_human_captcha_submit",
+    "reason": "reCAPTCHA visual challenge presented on Ashby",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\airwallex-captcha-challenge.png",
+    "url": "https://jobs.ashbyhq.com/airwallex/5031c6ab-8fd3-4b2f-8c1d-4271e85075b0/application",
+    "job_url": "https://jobs.ashbyhq.com/airwallex/5031c6ab-8fd3-4b2f-8c1d-4271e85075b0",
+    "company": "airwallex",
+    "role": "Software Engineer, Infrastructure AI",
+    "platform": "ashby",
+    "duration_seconds": 22.2
+  },
+  {
+    "status": "awaiting_human_otp",
+    "reason": "Greenhouse email OTP challenge presented",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\valtech-otp-challenge.png",
+    "url": "https://job-boards.eu.greenhouse.io/valtech/jobs/4963715101",
+    "job_url": "https://job-boards.eu.greenhouse.io/valtech/jobs/4963715101",
+    "company": "valtech",
+    "role": "Fluent OMS Developer ",
+    "platform": "greenhouse",
+    "duration_seconds": 34.4
+  },
+  {
+    "status": "awaiting_human_captcha_submit",
+    "reason": "reCAPTCHA visual challenge presented on Ashby",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\pencil-captcha-challenge.png",
+    "url": "https://jobs.ashbyhq.com/pencil/5b7acbb1-39d8-4eb8-8162-579bbc09ba75/application",
+    "job_url": "https://jobs.ashbyhq.com/pencil/5b7acbb1-39d8-4eb8-8162-579bbc09ba75",
+    "company": "pencil",
+    "role": "GenAI Creator",
+    "platform": "ashby",
+    "duration_seconds": 17.5
+  },
+  {
+    "status": "awaiting_human_otp",
+    "reason": "Greenhouse email OTP challenge presented",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\valtech-otp-challenge.png",
+    "url": "https://job-boards.eu.greenhouse.io/valtech/jobs/4979430101",
+    "job_url": "https://job-boards.eu.greenhouse.io/valtech/jobs/4979430101",
+    "company": "valtech",
+    "role": "NodeJS, Typescripts, OMS | Developer",
+    "platform": "greenhouse",
+    "duration_seconds": 33.5
+  },
+  {
+    "status": "awaiting_human_captcha_submit",
+    "reason": "reCAPTCHA visual challenge presented on Ashby",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\pencil-captcha-challenge.png",
+    "url": "https://jobs.ashbyhq.com/pencil/e57994f3-9fda-4026-83c1-d424d2869d17/application",
+    "job_url": "https://jobs.ashbyhq.com/pencil/e57994f3-9fda-4026-83c1-d424d2869d17",
+    "company": "pencil",
+    "role": "GenAI Creator",
+    "platform": "ashby",
+    "duration_seconds": 16.2
+  },
+  {
+    "status": "awaiting_human_otp",
+    "reason": "Greenhouse email OTP challenge presented",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\appian-otp-challenge.png",
+    "url": "https://job-boards.greenhouse.io/appian/jobs/8047813",
+    "job_url": "https://job-boards.greenhouse.io/appian/jobs/8047813",
+    "company": "appian",
+    "role": "Demo Engineer / Presales Solutions Consulting",
+    "platform": "greenhouse",
+    "duration_seconds": 29.4
+  }
+]

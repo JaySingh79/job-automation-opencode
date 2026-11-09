@@ -1,0 +1,57 @@
+[
+  {
+    "status": "awaiting_human_captcha_submit",
+    "reason": "reCAPTCHA visual challenge presented on Ashby",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\bjakcareer-captcha-challenge.png",
+    "url": "https://jobs.ashbyhq.com/bjakcareer/705d2156-d34f-4f2b-9266-f78de0e09c60/application",
+    "job_url": "https://jobs.ashbyhq.com/bjakcareer/705d2156-d34f-4f2b-9266-f78de0e09c60",
+    "company": "bjakcareer",
+    "role": "Product Owner, AI Internal Systems",
+    "platform": "ashby",
+    "duration_seconds": 87.6
+  },
+  {
+    "status": "VALIDATION_FAILED",
+    "url": "https://www.harness.io/company/jobs/apply?gh_jid=5239607007&gh_jid=5239607007",
+    "evidence": "back to jobs\nsecurity engineer \u2013 cloud & infrastructure security\nindia (remote)\napply\n\nharness is the ai software delivery platform company, led by technologist and entrepreneur jyoti bansal (founder of appdynamics, acquired by cisco for $3.7b). harness has raised approximately $570m in funding and ",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\harnessinc-validation-failed.png",
+    "job_url": "https://www.harness.io/company/jobs/apply?gh_jid=5239607007&gh_jid=5239607007",
+    "company": "harnessinc",
+    "role": "Security Engineer \u2013 Cloud & Infrastructure Security",
+    "platform": "greenhouse",
+    "duration_seconds": 35.2
+  },
+  {
+    "status": "awaiting_human_captcha_submit",
+    "reason": "hCaptcha challenge presented on Lever",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\lingarogroup-captcha-challenge.png",
+    "url": "https://jobs.lever.co/lingarogroup/18f8d2c5-b52a-4d9f-b4ff-3f71e0fee53d/apply",
+    "job_url": "https://jobs.lever.co/lingarogroup/18f8d2c5-b52a-4d9f-b4ff-3f71e0fee53d",
+    "company": "lingarogroup",
+    "role": "ML/AI Engineer - Adecco",
+    "platform": "lever",
+    "duration_seconds": 86.2
+  },
+  {
+    "status": "awaiting_human_captcha_submit",
+    "reason": "reCAPTCHA visual challenge presented on Ashby",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\bjakcareer-captcha-challenge.png",
+    "url": "https://jobs.ashbyhq.com/bjakcareer/4693af98-b7d4-47dd-a4c0-5d9ebdff081a/application",
+    "job_url": "https://jobs.ashbyhq.com/bjakcareer/4693af98-b7d4-47dd-a4c0-5d9ebdff081a",
+    "company": "bjakcareer",
+    "role": "Backend Engineer, AI Internal Systems",
+    "platform": "ashby",
+    "duration_seconds": 85.5
+  },
+  {
+    "status": "awaiting_human_otp",
+    "reason": "Greenhouse email OTP challenge presented",
+    "screenshot": "D:\\Projects\\PRACTICE\\firecrawl_test\\src\\accessability_snapshot\\gleanwork-otp-challenge.png",
+    "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4739466005",
+    "job_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4739466005",
+    "company": "gleanwork",
+    "role": "Content Systems Engineer, Technical Documentation",
+    "platform": "greenhouse",
+    "duration_seconds": 162.2
+  }
+]
